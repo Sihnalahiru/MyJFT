@@ -13,7 +13,16 @@
       "romaji": "hashi",
       "english": "Chopsticks",
       "sinhala": "චොප්ස්ටික්ස් (කැබලි කෑම කන කෝටු)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_301_hashi.mp3",
+        "track_id": "L30-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_301_hashi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_302",
@@ -24,7 +33,16 @@
       "romaji": "supuun",
       "english": "Spoon",
       "sinhala": "හැන්ද",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_302_supuun.mp3",
+        "track_id": "L30-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_302_supuun.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_303",
@@ -35,7 +53,16 @@
       "romaji": "fooku",
       "english": "Fork",
       "sinhala": "ෆෝක් එක / ගෑරුප්පුව",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_303_fooku.mp3",
+        "track_id": "L30-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_303_fooku.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_304",
@@ -46,7 +73,16 @@
       "romaji": "naifu",
       "english": "Knife",
       "sinhala": "පිහිය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_304_naifu.mp3",
+        "track_id": "L30-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_304_naifu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_305",
@@ -57,7 +93,16 @@
       "romaji": "koppu",
       "english": "Cup / Glass",
       "sinhala": "කෝප්පය / ග්ලාසිය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_305_koppu.mp3",
+        "track_id": "L30-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_305_koppu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_306",
@@ -68,7 +113,16 @@
       "romaji": "sara",
       "english": "Plate / Dish",
       "sinhala": "පිඟාන",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_306_sara.mp3",
+        "track_id": "L30-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_306_sara.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_307",
@@ -79,7 +133,16 @@
       "romaji": "oyu",
       "english": "Hot water",
       "sinhala": "උණු වතුර",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_307_oyu.mp3",
+        "track_id": "L30-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_307_oyu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_308",
@@ -90,7 +153,16 @@
       "romaji": "okashi",
       "english": "Sweets / Snacks / Confectionery",
       "sinhala": "מ sweets / කැවිලි / රසකැවිලි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_308_okashi.mp3",
+        "track_id": "L30-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_308_okashi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_309",
@@ -101,7 +173,16 @@
       "romaji": "ryouri",
       "english": "Cooking / Cuisine",
       "sinhala": "පිසීම / ආහාර පිසීම",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_309_ryouri.mp3",
+        "track_id": "L30-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_309_ryouri.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_310",
@@ -112,7 +193,16 @@
       "romaji": "aji",
       "english": "Taste / Flavor",
       "sinhala": "රසය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_310_aji.mp3",
+        "track_id": "L31-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_310_aji.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_311",
@@ -123,7 +213,16 @@
       "romaji": "machi",
       "english": "Town / City",
       "sinhala": "නගරය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_311_machi.mp3",
+        "track_id": "L31-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_311_machi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_312",
@@ -134,7 +233,16 @@
       "romaji": "mise",
       "english": "Shop / Store",
       "sinhala": "කඩය / වෙළඳසැල",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_312_mise.mp3",
+        "track_id": "L31-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_312_mise.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_313",
@@ -145,7 +253,16 @@
       "romaji": "depato",
       "english": "Department store",
       "sinhala": "මහල් වෙළඳසැල (ඩිපාර්ට්මන්ට් ස්ටෝර්)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_313_depato.mp3",
+        "track_id": "L31-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_313_depato.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_314",
@@ -156,7 +273,16 @@
       "romaji": "suupaa",
       "english": "Supermarket",
       "sinhala": "සුපිරි වෙළඳසැල",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_314_suupaa.mp3",
+        "track_id": "L31-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_314_suupaa.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_315",
@@ -167,7 +293,16 @@
       "romaji": "yuubinkyoku",
       "english": "Post office",
       "sinhala": "තැපැල් කාර්යාලය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_315_yuubinkyoku.mp3",
+        "track_id": "L31-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_315_yuubinkyoku.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_316",
@@ -178,7 +313,16 @@
       "romaji": "ginkou",
       "english": "Bank",
       "sinhala": "බැංකුව",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_316_ginkou.mp3",
+        "track_id": "L31-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_316_ginkou.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_317",
@@ -189,7 +333,16 @@
       "romaji": "kouen",
       "english": "Park",
       "sinhala": "උද්‍යානය / පාක් එක",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_317_kouen.mp3",
+        "track_id": "L31-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_317_kouen.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_318",
@@ -200,7 +353,16 @@
       "romaji": "toshokan",
       "english": "Library",
       "sinhala": "पुस्तकालय / පුස්තකාලය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_318_toshokan.mp3",
+        "track_id": "L31-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_318_toshokan.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_319",
@@ -211,7 +373,16 @@
       "romaji": "hoteru",
       "english": "Hotel",
       "sinhala": "හෝටලය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_319_hoteru.mp3",
+        "track_id": "L31-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_319_hoteru.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_320",
@@ -222,7 +393,16 @@
       "romaji": "resutoran",
       "english": "Restaurant",
       "sinhala": "ආපන ශාලාව / රෙස්ටුරන්ට් එක",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_320_resutoran.mp3",
+        "track_id": "L32-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_320_resutoran.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_321",
@@ -233,7 +413,16 @@
       "romaji": "gakkou",
       "english": "School",
       "sinhala": "පාසල",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_321_gakkou.mp3",
+        "track_id": "L32-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_321_gakkou.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_322",
@@ -244,7 +433,16 @@
       "romaji": "kyoushitsu",
       "english": "Classroom",
       "sinhala": "පන්ති කාමරය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_322_kyoushitsu.mp3",
+        "track_id": "L32-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_322_kyoushitsu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_323",
@@ -255,7 +453,16 @@
       "romaji": "kokuban",
       "english": "Blackboard",
       "sinhala": "කළු ලෑල්ල",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_323_kokuban.mp3",
+        "track_id": "L32-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_323_kokuban.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_324",
@@ -266,7 +473,16 @@
       "romaji": "keshigomu",
       "english": "Eraser / Rubber",
       "sinhala": "මකනය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_324_keshigomu.mp3",
+        "track_id": "L32-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_324_keshigomu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_325",
@@ -277,7 +493,16 @@
       "romaji": "tesuto",
       "english": "Test / Quiz",
       "sinhala": "පරීක්ෂණය / ටෙස්ට් එක",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_325_tesuto.mp3",
+        "track_id": "L32-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_325_tesuto.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_326",
@@ -288,7 +513,16 @@
       "romaji": "bunpou",
       "english": "Grammar",
       "sinhala": "व्याकरण / ව්‍යාකරණ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_326_bunpou.mp3",
+        "track_id": "L32-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_326_bunpou.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_327",
@@ -299,7 +533,16 @@
       "romaji": "tango",
       "english": "Vocabulary / Word",
       "sinhala": "වචන මාලාව",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_327_tango.mp3",
+        "track_id": "L32-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_327_tango.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_328",
@@ -310,7 +553,16 @@
       "romaji": "imi",
       "english": "Meaning",
       "sinhala": "අර්ථය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_328_imi.mp3",
+        "track_id": "L32-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_328_imi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_329",
@@ -321,7 +573,16 @@
       "romaji": "e",
       "english": "Picture / Drawing",
       "sinhala": "చిత්‍රය / පින්තූරය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_329_e.mp3",
+        "track_id": "L32-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_329_e.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_330",
@@ -332,7 +593,16 @@
       "romaji": "oto",
       "english": "Sound / Audio",
       "sinhala": "ශබ්දය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_330_oto.mp3",
+        "track_id": "L33-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_330_oto.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_331",
@@ -343,7 +613,16 @@
       "romaji": "kippu",
       "english": "Ticket",
       "sinhala": "ප්‍රවේශපත්‍රය / ටිකට් පත",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_331_kippu.mp3",
+        "track_id": "L33-V31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_331_kippu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_332",
@@ -354,7 +633,16 @@
       "romaji": "ryokou",
       "english": "Trip / Travel",
       "sinhala": "චාරිකාව / සංචාරය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_332_ryokou.mp3",
+        "track_id": "L33-V32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_332_ryokou.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_333",
@@ -365,7 +653,16 @@
       "romaji": "chizu",
       "english": "Map",
       "sinhala": "සිතියම",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_333_chizu.mp3",
+        "track_id": "L33-V33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_333_chizu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_334",
@@ -376,7 +673,16 @@
       "romaji": "michi",
       "english": "Road / Way / Street",
       "sinhala": "පාර / මාර්ගය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_334_michi.mp3",
+        "track_id": "L33-V34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_334_michi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_335",
@@ -387,7 +693,16 @@
       "romaji": "kado",
       "english": "Corner",
       "sinhala": "මංසන්ධිය / හැරීම",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_335_kado.mp3",
+        "track_id": "L33-V35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_335_kado.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_336",
@@ -398,7 +713,16 @@
       "romaji": "hashi",
       "english": "Bridge",
       "sinhala": "පාලම",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_336_hashi.mp3",
+        "track_id": "L33-V36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_336_hashi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_337",
@@ -409,7 +733,16 @@
       "romaji": "singou",
       "english": "Traffic light",
       "sinhala": "වාහන ආලෝක සංඥාව / ට්‍රැෆික් ලයිට්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_337_singou.mp3",
+        "track_id": "L33-V37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_337_singou.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_338",
@@ -420,7 +753,16 @@
       "romaji": "takushii",
       "english": "Taxi",
       "sinhala": "ටැක්සි රථය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_338_takushii.mp3",
+        "track_id": "L33-V38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_338_takushii.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_339",
@@ -431,7 +773,16 @@
       "romaji": "basutei",
       "english": "Bus stop",
       "sinhala": "බස් නැවතුම්පළ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_339_basutei.mp3",
+        "track_id": "L33-V39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_339_basutei.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_340",
@@ -442,7 +793,16 @@
       "romaji": "kuukou",
       "english": "Airport",
       "sinhala": "ගුවන් තොටුපළ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_340_kuukou.mp3",
+        "track_id": "L34-V40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_340_kuukou.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_341",
@@ -453,7 +813,16 @@
       "romaji": "kisetsu",
       "english": "Season",
       "sinhala": "කාලගුණික සමය / සෘතුව",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_341_kisetsu.mp3",
+        "track_id": "L34-V41",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_341_kisetsu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_342",
@@ -464,7 +833,16 @@
       "romaji": "haru",
       "english": "Spring",
       "sinhala": "වසන්ත කාලය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_342_haru.mp3",
+        "track_id": "L34-V42",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_342_haru.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_343",
@@ -475,7 +853,16 @@
       "romaji": "natsu",
       "english": "Summer",
       "sinhala": "ගිම්හාන කාලය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_343_natsu.mp3",
+        "track_id": "L34-V43",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_343_natsu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_344",
@@ -486,7 +873,16 @@
       "romaji": "aki",
       "english": "Autumn / Fall",
       "sinhala": "සරත් කාලය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_344_aki.mp3",
+        "track_id": "L34-V44",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_344_aki.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_345",
@@ -497,7 +893,16 @@
       "romaji": "fuyu",
       "english": "Winter",
       "sinhala": "ශීත සෘතුව",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_345_fuyu.mp3",
+        "track_id": "L34-V45",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_345_fuyu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_346",
@@ -508,7 +913,16 @@
       "romaji": "toshi",
       "english": "Year / Age",
       "sinhala": "වසර / වයස",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_346_toshi.mp3",
+        "track_id": "L34-V46",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_346_toshi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_347",
@@ -519,7 +933,16 @@
       "romaji": "tsuki",
       "english": "Month / Moon",
       "sinhala": "මාසය / සඳ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_347_tsuki.mp3",
+        "track_id": "L34-V47",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_347_tsuki.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_348",
@@ -530,7 +953,16 @@
       "romaji": "shuu",
       "english": "Week",
       "sinhala": "සතිය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_348_shuu.mp3",
+        "track_id": "L34-V48",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_348_shuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_349",
@@ -541,7 +973,16 @@
       "romaji": "hi",
       "english": "Day / Sun",
       "sinhala": "දිනය / ඉරු",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_349_hi.mp3",
+        "track_id": "L34-V49",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_349_hi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_350",
@@ -552,7 +993,16 @@
       "romaji": "tanjoubi",
       "english": "Birthday",
       "sinhala": "උපන් දිනය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_350_tanjoubi.mp3",
+        "track_id": "L35-V50",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_350_tanjoubi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_351",
@@ -563,7 +1013,16 @@
       "romaji": "doubutsu",
       "english": "Animal",
       "sinhala": "සතා / සත්වයා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_351_doubutsu.mp3",
+        "track_id": "L35-V51",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_351_doubutsu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_352",
@@ -574,7 +1033,16 @@
       "romaji": "inu",
       "english": "Dog",
       "sinhala": "බල්ලා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_352_inu.mp3",
+        "track_id": "L35-V52",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_352_inu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_353",
@@ -585,7 +1053,16 @@
       "romaji": "neko",
       "english": "Cat",
       "sinhala": "පූසා / බළලා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_353_neko.mp3",
+        "track_id": "L35-V53",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_353_neko.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_354",
@@ -596,7 +1073,16 @@
       "romaji": "tori",
       "english": "Bird",
       "sinhala": "කුරුල්ලා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_354_tori.mp3",
+        "track_id": "L35-V54",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_354_tori.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_355",
@@ -607,7 +1093,16 @@
       "romaji": "kusa",
       "english": "Grass",
       "sinhala": "තණකොළ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_355_kusa.mp3",
+        "track_id": "L35-V55",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_355_kusa.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_356",
@@ -618,7 +1113,16 @@
       "romaji": "mori",
       "english": "Forest",
       "sinhala": "වනාන්තරය / කැලෑව",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_356_mori.mp3",
+        "track_id": "L35-V56",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_356_mori.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_357",
@@ -629,7 +1133,16 @@
       "romaji": "ike",
       "english": "Pond",
       "sinhala": "කුඩා වැව් / පොකුණ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_357_ike.mp3",
+        "track_id": "L35-V57",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_357_ike.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_358",
@@ -640,7 +1153,16 @@
       "romaji": "mushi",
       "english": "Insect / Bug",
       "sinhala": "키ටයා / කෘමියා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_358_mushi.mp3",
+        "track_id": "L35-V58",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_358_mushi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_359",
@@ -651,7 +1173,16 @@
       "romaji": "yasai",
       "english": "Vegetable plant",
       "sinhala": "එළවළු පැළ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_359_yasai.mp3",
+        "track_id": "L35-V59",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_359_yasai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_360",
@@ -662,7 +1193,16 @@
       "romaji": "kudamono",
       "english": "Fruit tree",
       "sinhala": "පළතුරු ගස",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_360_kudamono.mp3",
+        "track_id": "L36-V60",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_360_kudamono.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_361",
@@ -673,7 +1213,16 @@
       "romaji": "kimochi",
       "english": "Feeling / Sensation",
       "sinhala": "හැඟීම / සිතුවිල්ල",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_361_kimochi.mp3",
+        "track_id": "L36-V61",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_361_kimochi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_362",
@@ -684,7 +1233,16 @@
       "romaji": "ureshii",
       "english": "Glad / Happy",
       "sinhala": "සතුටුයි / ප්‍රීතිමත්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_362_ureshii.mp3",
+        "track_id": "L36-V62",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_362_ureshii.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_363",
@@ -695,7 +1253,16 @@
       "romaji": "kanashii",
       "english": "Sad",
       "sinhala": "දුකයි / කණගාටුයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_363_kanashii.mp3",
+        "track_id": "L36-V63",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_363_kanashii.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_364",
@@ -706,7 +1273,16 @@
       "romaji": "sabishii",
       "english": "Lonely",
       "sinhala": "පාළුවක් දැනෙනවා / තනිකමයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_364_sabishii.mp3",
+        "track_id": "L36-V64",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_364_sabishii.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_365",
@@ -717,7 +1293,16 @@
       "romaji": "kowai",
       "english": "Scary / Frightening",
       "sinhala": "भයජනකයි / බයයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_365_kowai.mp3",
+        "track_id": "L36-V65",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_365_kowai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_366",
@@ -728,7 +1313,16 @@
       "romaji": "itai",
       "english": "Painful / Sore",
       "sinhala": "රිදෙනවා / වේදනාවයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_366_itai.mp3",
+        "track_id": "L36-V66",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_366_itai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_367",
@@ -739,7 +1333,16 @@
       "romaji": "tsukaremashita",
       "english": "Got tired",
       "sinhala": "මහන්සියි / අසතුටුයි / වෙහෙසයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_367_tsukaremashita.mp3",
+        "track_id": "L36-V67",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_367_tsukaremashita.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_368",
@@ -750,7 +1353,16 @@
       "romaji": "nemui",
       "english": "Sleepy",
       "sinhala": "නිදිමතයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_368_nemui.mp3",
+        "track_id": "L36-V68",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_368_nemui.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_369",
@@ -761,7 +1373,16 @@
       "romaji": "anshin",
       "english": "Relief / Peace of mind",
       "sinhala": "நிம்மතියි / සැනසීමයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_369_anshin.mp3",
+        "track_id": "L36-V69",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_369_anshin.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_370",
@@ -772,7 +1393,16 @@
       "romaji": "shinpai",
       "english": "Worry / Anxiety",
       "sinhala": "කලබලකාරී / බිය / කනස්සල්ල",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_370_shinpai.mp3",
+        "track_id": "L37-V70",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_370_shinpai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_371",
@@ -783,7 +1413,16 @@
       "romaji": "akemasu",
       "english": "To open",
       "sinhala": "විවෘත කරනවා / අරිනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_371_akemasu.mp3",
+        "track_id": "L37-V71",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_371_akemasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_372",
@@ -794,7 +1433,16 @@
       "romaji": "shimemasu",
       "english": "To close / shut",
       "sinhala": "වහනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_372_shimemasu.mp3",
+        "track_id": "L37-V72",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_372_shimemasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_373",
@@ -805,7 +1453,16 @@
       "romaji": "tsukemasu",
       "english": "To turn on",
       "sinhala": "පෙළගස්වනවා / දල්වනවා / ඔන් කරනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_373_tsukemasu.mp3",
+        "track_id": "L37-V73",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_373_tsukemasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_374",
@@ -816,7 +1473,16 @@
       "romaji": "keshimasu",
       "english": "To turn off / erase",
       "sinhala": "නිවනවා / ඕෆ් කරනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_374_keshimasu.mp3",
+        "track_id": "L37-V74",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_374_keshimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_375",
@@ -827,7 +1493,16 @@
       "romaji": "motte ikimasu",
       "english": "To take (something)",
       "sinhala": "රැගෙන යනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_375_motteikimasu.mp3",
+        "track_id": "L37-V75",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_375_motteikimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_376",
@@ -838,7 +1513,16 @@
       "romaji": "motte kimasu",
       "english": "To bring (something)",
       "sinhala": "රැගෙන එනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_376_mottekimasu.mp3",
+        "track_id": "L37-V76",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_376_mottekimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_377",
@@ -849,7 +1533,16 @@
       "romaji": "asobimasu",
       "english": "To play / hang out",
       "sinhala": "සෙල්ලම් කරනවා / විනෝද වෙනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_377_asobimasu.mp3",
+        "track_id": "L37-V77",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_377_asobimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_378",
@@ -860,7 +1553,16 @@
       "romaji": "oyogimasu",
       "english": "To swim",
       "sinhala": "පිහිනනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_378_oyogimasu.mp3",
+        "track_id": "L37-V78",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_378_oyogimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_379",
@@ -871,7 +1573,16 @@
       "romaji": "utaimasu",
       "english": "To sing",
       "sinhala": "ගීත ගායනා කරනවා / ගයනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_379_utaimasu.mp3",
+        "track_id": "L37-V79",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_379_utaimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_380",
@@ -882,7 +1593,16 @@
       "romaji": "hatarakimasu",
       "english": "To work",
       "sinhala": "වැඩ කරනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_380_hatarakimasu.mp3",
+        "track_id": "L38-V80",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_380_hatarakimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_381",
@@ -893,7 +1613,16 @@
       "romaji": "osoi",
       "english": "Late / Slow",
       "sinhala": "පරක්කුයි / හෙමී",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_381_osoi.mp3",
+        "track_id": "L38-V81",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_381_osoi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_382",
@@ -904,7 +1633,16 @@
       "romaji": "hayai",
       "english": "Early / Fast",
       "sinhala": "lanka / ඉක්මන් / වේගවත්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_382_hayai.mp3",
+        "track_id": "L38-V82",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_382_hayai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_383",
@@ -915,7 +1653,16 @@
       "romaji": "mijikai",
       "english": "Short",
       "sinhala": "කෙටි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_383_mijikai.mp3",
+        "track_id": "L38-V83",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_383_mijikai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_384",
@@ -926,7 +1673,16 @@
       "romaji": "nagai",
       "english": "Long",
       "sinhala": "දිග",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_384_nagai.mp3",
+        "track_id": "L38-V84",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_384_nagai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_385",
@@ -937,7 +1693,16 @@
       "romaji": "omoi",
       "english": "Heavy",
       "sinhala": "බරයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_385_omoi.mp3",
+        "track_id": "L38-V85",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_385_omoi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_386",
@@ -948,7 +1713,16 @@
       "romaji": "karui",
       "english": "Light (weight)",
       "sinhala": "සැහැල්ලුයි / බර අඩුයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_386_karui.mp3",
+        "track_id": "L38-V86",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_386_karui.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_387",
@@ -959,7 +1733,16 @@
       "romaji": "hiroi",
       "english": "Wide / Spacious",
       "sinhala": "විශාල / ඉඩකඩ සහිතයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_387_hiroi.mp3",
+        "track_id": "L38-V87",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_387_hiroi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_388",
@@ -970,7 +1753,16 @@
       "romaji": "semai",
       "english": "Narrow / Cramped",
       "sinhala": "ఇඩකඩ අඩු / පටුයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_388_semai.mp3",
+        "track_id": "L38-V88",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_388_semai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_389",
@@ -981,7 +1773,16 @@
       "romaji": "kitanai",
       "english": "Dirty / Messy",
       "sinhala": "කිළිටි / අපිරිසිදුයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_389_kitanai.mp3",
+        "track_id": "L38-V89",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_389_kitanai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_390",
@@ -992,7 +1793,16 @@
       "romaji": "akarui",
       "english": "Bright / Cheerful",
       "sinhala": "එළියයි / දීප්තිමත්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_390_akarui.mp3",
+        "track_id": "L39-V90",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_390_akarui.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_391",
@@ -1003,7 +1813,16 @@
       "romaji": "onegaishimasu",
       "english": "Please / Do me a favor",
       "sinhala": "කරුණාකරලා උදව්වක් කරන්න / කරුණාකර",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_391_onegaishimasu.mp3",
+        "track_id": "L39-V91",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_391_onegaishimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_392",
@@ -1014,7 +1833,16 @@
       "romaji": "dou itashimashite",
       "english": "You're welcome",
       "sinhala": "කමක් නැහැ / ස්තූති අවශ්‍ය නැහැ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_392_douitashimashite.mp3",
+        "track_id": "L39-V92",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_392_douitashimashite.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_393",
@@ -1025,7 +1853,16 @@
       "romaji": "shitsurei shimasu",
       "english": "Excuse me / Pardon me (leaving/entering)",
       "sinhala": "සමාවෙන්න මම යනවා / අවසරයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_393_shitsureishimasu.mp3",
+        "track_id": "L39-V93",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_393_shitsureishimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_394",
@@ -1036,7 +1873,16 @@
       "romaji": "otsukaresama deshita",
       "english": "Thank you for your hard work",
       "sinhala": "ඔබගේ වෙහෙසට ස්තූතියි / මහන්සි වුණා නේද",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_394_otsukaresamadeshita.mp3",
+        "track_id": "L39-V94",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_394_otsukaresamadeshita.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_395",
@@ -1047,7 +1893,16 @@
       "romaji": "itadakimasu",
       "english": "I humbly receive (said before eating)",
       "sinhala": "ආහාර ගැනීමට පෙර පවසන ස්තූති ප්‍රකාශය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_395_itadakimasu.mp3",
+        "track_id": "L39-V95",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_395_itadakimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_396",
@@ -1058,7 +1913,16 @@
       "romaji": "gochisousama deshita",
       "english": "Thank you for the meal (after eating)",
       "sinhala": "ආහාර ගැනීමෙන් පසු පවසන ස්තූතිය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_396_gochisousamadeshita.mp3",
+        "track_id": "L39-V96",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_396_gochisousamadeshita.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_397",
@@ -1069,7 +1933,16 @@
       "romaji": "itte kimasu",
       "english": "I'm going and will come back",
       "sinhala": "මම ගිහින් එන්නම්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_397_ittekimasu.mp3",
+        "track_id": "L39-V97",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_397_ittekimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_398",
@@ -1080,7 +1953,16 @@
       "romaji": "itterasshai",
       "english": "Go and come back safely",
       "sinhala": "ගිහින් එන්න",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_398_itterasshai.mp3",
+        "track_id": "L39-V98",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_398_itterasshai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_399",
@@ -1091,7 +1973,16 @@
       "romaji": "tadaima",
       "english": "I'm back / I'm home",
       "sinhala": "මම ආවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_399_tadaima.mp3",
+        "track_id": "L39-V99",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_399_tadaima.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_400",
@@ -1102,7 +1993,16 @@
       "romaji": "okaerinasai",
       "english": "Welcome back home",
       "sinhala": "ආයුබෝවන් / සාදරයෙන් පිළිගනිමු (ගෙදර පැමිණි විට)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_400_okaerinasai.mp3",
+        "track_id": "L40-V00",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_400_okaerinasai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     }
   ]
 }

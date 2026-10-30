@@ -13,7 +13,16 @@
       "romaji": "ohayou gozaimasu",
       "english": "Good morning",
       "sinhala": "සුභ උදෑසනක්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_001_ohayougozaimasu.mp3",
+        "track_id": "L00-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_001_ohayougozaimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_002",
@@ -24,7 +33,16 @@
       "romaji": "konnichiwa",
       "english": "Hello / Good afternoon",
       "sinhala": "ආයුබෝවන් / සුභ දවාලක්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_002_konnichiwa.mp3",
+        "track_id": "L00-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_002_konnichiwa.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_003",
@@ -35,7 +53,16 @@
       "romaji": "konbanwa",
       "english": "Good evening",
       "sinhala": "සුභ සන්ධ්‍යාවක්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_003_konbanwa.mp3",
+        "track_id": "L00-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_003_konbanwa.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_004",
@@ -46,7 +73,16 @@
       "romaji": "oyasuminasai",
       "english": "Good night",
       "sinhala": "සුභ රාත්‍රියක්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_004_oyasuminasai.mp3",
+        "track_id": "L00-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_004_oyasuminasai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_005",
@@ -57,7 +93,16 @@
       "romaji": "sayounara",
       "english": "Good-bye",
       "sinhala": "ගොස් එන්නම් / සමුගන්නවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_005_sayounara.mp3",
+        "track_id": "L00-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_005_sayounara.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_006",
@@ -68,7 +113,16 @@
       "romaji": "jaa, mata",
       "english": "See you later",
       "sinhala": "පසුව හමුවෙමු",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_006_jaa,mata.mp3",
+        "track_id": "L00-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_006_jaa,mata.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_007",
@@ -79,7 +133,16 @@
       "romaji": "arigatou gozaimasu",
       "english": "Thank you very much",
       "sinhala": "බොහොම ස්තූතියි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_007_arigatougozaimasu.mp3",
+        "track_id": "L00-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_007_arigatougozaimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_008",
@@ -90,7 +153,16 @@
       "romaji": "dou itashimashite",
       "english": "You're welcome",
       "sinhala": "සුබ පැතුම් / කාරුණික පිළිගැනීම",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_008_douitashimashite.mp3",
+        "track_id": "L00-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_008_douitashimashite.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_009",
@@ -101,7 +173,16 @@
       "romaji": "sumimasen",
       "english": "Excuse me / I'm sorry",
       "sinhala": "සමාවෙන්න / කණගාටුයි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_009_sumimasen.mp3",
+        "track_id": "L00-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_009_sumimasen.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_010",
@@ -112,7 +193,16 @@
       "romaji": "gomennasai",
       "english": "I'm sorry",
       "sinhala": "මට සමාවෙන්න",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_010_gomennasai.mp3",
+        "track_id": "L01-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_010_gomennasai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_011",
@@ -123,7 +213,16 @@
       "romaji": "watashi",
       "english": "I",
       "sinhala": "මම",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_011_watashi.mp3",
+        "track_id": "L01-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_011_watashi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_012",
@@ -134,7 +233,16 @@
       "romaji": "anata",
       "english": "You",
       "sinhala": "ඔබ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_012_anata.mp3",
+        "track_id": "L01-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_012_anata.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_013",
@@ -145,7 +253,16 @@
       "romaji": "nihon",
       "english": "Japan",
       "sinhala": "ජපානය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_013_nihon.mp3",
+        "track_id": "L01-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_013_nihon.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_014",
@@ -156,7 +273,16 @@
       "romaji": "suriranka",
       "english": "Sri Lanka",
       "sinhala": "ශ්‍රී ලංකාව",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_014_suriranka.mp3",
+        "track_id": "L01-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_014_suriranka.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_015",
@@ -167,7 +293,16 @@
       "romaji": "kaishain",
       "english": "Company employee",
       "sinhala": "සමාගම් සේවකයෙක්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_015_kaishain.mp3",
+        "track_id": "L01-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_015_kaishain.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_016",
@@ -178,7 +313,16 @@
       "romaji": "gakusei",
       "english": "Student",
       "sinhala": "ශිෂ්‍යයා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_016_gakusei.mp3",
+        "track_id": "L01-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_016_gakusei.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_017",
@@ -189,7 +333,16 @@
       "romaji": "sensei",
       "english": "Teacher",
       "sinhala": "ගුරුවරයා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_017_sensei.mp3",
+        "track_id": "L01-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_017_sensei.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_018",
@@ -200,7 +353,16 @@
       "romaji": "zero",
       "english": "Zero",
       "sinhala": "බිංදුව (0)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_018_zero.mp3",
+        "track_id": "L01-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_018_zero.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_019",
@@ -211,7 +373,16 @@
       "romaji": "ichi",
       "english": "One",
       "sinhala": "එක (1)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_019_ichi.mp3",
+        "track_id": "L01-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_019_ichi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_020",
@@ -222,7 +393,16 @@
       "romaji": "ni",
       "english": "Two",
       "sinhala": "දෙක (2)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_020_ni.mp3",
+        "track_id": "L02-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_020_ni.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_021",
@@ -233,7 +413,16 @@
       "romaji": "san",
       "english": "Three",
       "sinhala": "තුන (3)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_021_san.mp3",
+        "track_id": "L02-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_021_san.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_022",
@@ -244,7 +433,16 @@
       "romaji": "yon",
       "english": "Four",
       "sinhala": "හතර (4)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_022_yon.mp3",
+        "track_id": "L02-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_022_yon.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_023",
@@ -255,7 +453,16 @@
       "romaji": "go",
       "english": "Five",
       "sinhala": "පස් (5)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_023_go.mp3",
+        "track_id": "L02-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_023_go.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_024",
@@ -266,7 +473,16 @@
       "romaji": "roku",
       "english": "Six",
       "sinhala": "හය (6)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_024_roku.mp3",
+        "track_id": "L02-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_024_roku.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_025",
@@ -277,7 +493,16 @@
       "romaji": "nana",
       "english": "Seven",
       "sinhala": "හත (7)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_025_nana.mp3",
+        "track_id": "L02-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_025_nana.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_026",
@@ -288,7 +513,16 @@
       "romaji": "hachi",
       "english": "Eight",
       "sinhala": "අට (8)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_026_hachi.mp3",
+        "track_id": "L02-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_026_hachi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_027",
@@ -299,7 +533,16 @@
       "romaji": "kyuu",
       "english": "Nine",
       "sinhala": "නවය (9)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_027_kyuu.mp3",
+        "track_id": "L02-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_027_kyuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_028",
@@ -310,7 +553,16 @@
       "romaji": "juu",
       "english": "Ten",
       "sinhala": "දහය (10)",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_028_juu.mp3",
+        "track_id": "L02-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_028_juu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_029",
@@ -321,7 +573,16 @@
       "romaji": "getsuyoubi",
       "english": "Monday",
       "sinhala": "සඳුදා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_029_getsuyoubi.mp3",
+        "track_id": "L02-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_029_getsuyoubi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_030",
@@ -332,7 +593,16 @@
       "romaji": "kayoubi",
       "english": "Tuesday",
       "sinhala": "අඟහරුවාදා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_030_kayoubi.mp3",
+        "track_id": "L03-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_030_kayoubi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_031",
@@ -343,7 +613,16 @@
       "romaji": "suiyoubi",
       "english": "Wednesday",
       "sinhala": "බදාදා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_031_suiyoubi.mp3",
+        "track_id": "L03-V31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_031_suiyoubi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_032",
@@ -354,7 +633,16 @@
       "romaji": "mokuyoubi",
       "english": "Thursday",
       "sinhala": "බ්‍රහස්පතින්දා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_032_mokuyoubi.mp3",
+        "track_id": "L03-V32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_032_mokuyoubi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_033",
@@ -365,7 +653,16 @@
       "romaji": "kinyoubi",
       "english": "Friday",
       "sinhala": "සිකුරාදා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_033_kinyoubi.mp3",
+        "track_id": "L03-V33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_033_kinyoubi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_034",
@@ -376,7 +673,16 @@
       "romaji": "doyoubi",
       "english": "Saturday",
       "sinhala": "සෙනසුරාදා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_034_doyoubi.mp3",
+        "track_id": "L03-V34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_034_doyoubi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_035",
@@ -387,7 +693,16 @@
       "romaji": "nichiyoubi",
       "english": "Sunday",
       "sinhala": "ඉරිදා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_035_nichiyoubi.mp3",
+        "track_id": "L03-V35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_035_nichiyoubi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_036",
@@ -398,7 +713,16 @@
       "romaji": "mizu",
       "english": "Water",
       "sinhala": "වතුර",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_036_mizu.mp3",
+        "track_id": "L03-V36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_036_mizu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_037",
@@ -409,7 +733,16 @@
       "romaji": "ocha",
       "english": "Green tea",
       "sinhala": "තේ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_037_ocha.mp3",
+        "track_id": "L03-V37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_037_ocha.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_038",
@@ -420,7 +753,16 @@
       "romaji": "gohan",
       "english": "Rice / Meal",
       "sinhala": "බත් / ආහාර",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_038_gohan.mp3",
+        "track_id": "L03-V38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_038_gohan.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_039",
@@ -431,7 +773,16 @@
       "romaji": "ikura",
       "english": "How much",
       "sinhala": "කීයද",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_039_ikura.mp3",
+        "track_id": "L03-V39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_039_ikura.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_040",
@@ -442,7 +793,16 @@
       "romaji": "kore",
       "english": "This",
       "sinhala": "මෙන්න මේක",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_040_kore.mp3",
+        "track_id": "L04-V40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_040_kore.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_041",
@@ -453,7 +813,16 @@
       "romaji": "sore",
       "english": "That",
       "sinhala": "ඔන්න ඔය එක",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_041_sore.mp3",
+        "track_id": "L04-V41",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_041_sore.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_042",
@@ -464,7 +833,16 @@
       "romaji": "are",
       "english": "That over there",
       "sinhala": "අර තියෙන එක",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_042_are.mp3",
+        "track_id": "L04-V42",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_042_are.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_043",
@@ -475,7 +853,16 @@
       "romaji": "ie",
       "english": "House",
       "sinhala": "නිවස",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_043_ie.mp3",
+        "track_id": "L04-V43",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_043_ie.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_044",
@@ -486,7 +873,16 @@
       "romaji": "kaisha",
       "english": "Company",
       "sinhala": "සමාගම",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_044_kaisha.mp3",
+        "track_id": "L04-V44",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_044_kaisha.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_045",
@@ -497,7 +893,16 @@
       "romaji": "eki",
       "english": "Station",
       "sinhala": "දුම්රිය ස්ථානය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_045_eki.mp3",
+        "track_id": "L04-V45",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_045_eki.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_046",
@@ -508,7 +913,16 @@
       "romaji": "konbini",
       "english": "Convenience store",
       "sinhala": "පහසුකම් කඩය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_046_konbini.mp3",
+        "track_id": "L04-V46",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_046_konbini.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_047",
@@ -519,7 +933,16 @@
       "romaji": "suupaa",
       "english": "Supermarket",
       "sinhala": "සුපිරි වෙළඳසැල",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_047_suupaa.mp3",
+        "track_id": "L04-V47",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_047_suupaa.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_048",
@@ -530,7 +953,16 @@
       "romaji": "ikimasu",
       "english": "To go",
       "sinhala": "යනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_048_ikimasu.mp3",
+        "track_id": "L04-V48",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_048_ikimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_049",
@@ -541,7 +973,16 @@
       "romaji": "kimasu",
       "english": "To come",
       "sinhala": "එනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_049_kimasu.mp3",
+        "track_id": "L04-V49",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_049_kimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_050",
@@ -552,7 +993,16 @@
       "romaji": "kaerimasu",
       "english": "To return",
       "sinhala": "ආපසු යනවා / හැරෙනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_050_kaerimasu.mp3",
+        "track_id": "L05-V50",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_050_kaerimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_051",
@@ -563,7 +1013,16 @@
       "romaji": "tabemasu",
       "english": "To eat",
       "sinhala": "කනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_051_tabemasu.mp3",
+        "track_id": "L05-V51",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_051_tabemasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_052",
@@ -574,7 +1033,16 @@
       "romaji": "nomimasu",
       "english": "To drink",
       "sinhala": "බොනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_052_nomimasu.mp3",
+        "track_id": "L05-V52",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_052_nomimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_053",
@@ -585,7 +1053,16 @@
       "romaji": "mimasu",
       "english": "To see / watch",
       "sinhala": "බඳිනවා / බලනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_053_mimasu.mp3",
+        "track_id": "L05-V53",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_053_mimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_054",
@@ -596,7 +1073,16 @@
       "romaji": "kikimasu",
       "english": "To listen / hear",
       "sinhala": "අහනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_054_kikimasu.mp3",
+        "track_id": "L05-V54",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_054_kikimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_055",
@@ -607,7 +1093,16 @@
       "romaji": "yomimasu",
       "english": "To read",
       "sinhala": "කියවනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_055_yomimasu.mp3",
+        "track_id": "L05-V55",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_055_yomimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_056",
@@ -618,7 +1113,16 @@
       "romaji": "kakimasu",
       "english": "To write",
       "sinhala": "ලියනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_056_kakimasu.mp3",
+        "track_id": "L05-V56",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_056_kakimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_057",
@@ -629,7 +1133,16 @@
       "romaji": "kaimasu",
       "english": "To buy",
       "sinhala": "මිල ගන්නවා / මිලදී ගන්නවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_057_kaimasu.mp3",
+        "track_id": "L05-V57",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_057_kaimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_058",
@@ -640,7 +1153,16 @@
       "romaji": "shimasu",
       "english": "To do",
       "sinhala": "කරනවා / කරනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_058_shimasu.mp3",
+        "track_id": "L05-V58",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_058_shimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_059",
@@ -651,7 +1173,16 @@
       "romaji": "mimasu",
       "english": "To look",
       "sinhala": "බලනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_059_mimasu.mp3",
+        "track_id": "L05-V59",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_059_mimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_060",
@@ -662,7 +1193,16 @@
       "romaji": "aimasu",
       "english": "To meet",
       "sinhala": "හමුවෙනවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_060_aimasu.mp3",
+        "track_id": "L06-V60",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_060_aimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_061",
@@ -673,7 +1213,16 @@
       "romaji": "ookii",
       "english": "Big / Large",
       "sinhala": "විශාල / ලොකු",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_061_ookii.mp3",
+        "track_id": "L06-V61",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_061_ookii.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_062",
@@ -684,7 +1233,16 @@
       "romaji": "chiisai",
       "english": "Small",
       "sinhala": "පොඩි / කුඩා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_062_chiisai.mp3",
+        "track_id": "L06-V62",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_062_chiisai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_063",
@@ -695,7 +1253,16 @@
       "romaji": "atarashii",
       "english": "New",
       "sinhala": "අලුත්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_063_atarashii.mp3",
+        "track_id": "L06-V63",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_063_atarashii.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_064",
@@ -706,7 +1273,16 @@
       "romaji": "furui",
       "english": "Old",
       "sinhala": "පැරණි / පරණ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_064_furui.mp3",
+        "track_id": "L06-V64",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_064_furui.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_065",
@@ -717,7 +1293,16 @@
       "romaji": "ii",
       "english": "Good",
       "sinhala": "හොඳ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_065_ii.mp3",
+        "track_id": "L06-V65",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_065_ii.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_066",
@@ -728,7 +1313,16 @@
       "romaji": "warui",
       "english": "Bad",
       "sinhala": "නරක",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_066_warui.mp3",
+        "track_id": "L06-V66",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_066_warui.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_067",
@@ -739,7 +1333,16 @@
       "romaji": "takai",
       "english": "Expensive / Tall",
       "sinhala": "මිල අධික / උස්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_067_takai.mp3",
+        "track_id": "L06-V67",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_067_takai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_068",
@@ -750,7 +1353,16 @@
       "romaji": "yasui",
       "english": "Cheap",
       "sinhala": "ලාභ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_068_yasui.mp3",
+        "track_id": "L06-V68",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_068_yasui.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_069",
@@ -761,7 +1373,16 @@
       "romaji": "oishii",
       "english": "Delicious",
       "sinhala": "රසවත්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_069_oishii.mp3",
+        "track_id": "L06-V69",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_069_oishii.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_070",
@@ -772,7 +1393,16 @@
       "romaji": "mazui",
       "english": "Unpleasant / Bad taste",
       "sinhala": "අරසවත් / නරක රස",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_070_mazui.mp3",
+        "track_id": "L07-V70",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_070_mazui.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_071",
@@ -783,7 +1413,16 @@
       "romaji": "tomodachi",
       "english": "Friend",
       "sinhala": "මිතුරා / යහළුවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_071_tomodachi.mp3",
+        "track_id": "L07-V71",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_071_tomodachi.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_072",
@@ -794,7 +1433,16 @@
       "romaji": "hito",
       "english": "Person",
       "sinhala": "person / මිනිසා / කෙනෙක්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_072_hito.mp3",
+        "track_id": "L07-V72",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_072_hito.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_073",
@@ -805,7 +1453,16 @@
       "romaji": "otoko",
       "english": "Man / Male",
       "sinhala": "පිරිමි",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_073_otoko.mp3",
+        "track_id": "L07-V73",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_073_otoko.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_074",
@@ -816,7 +1473,16 @@
       "romaji": "onna",
       "english": "Woman / Female",
       "sinhala": "කාන්තාව / ගැහැණු",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_074_onna.mp3",
+        "track_id": "L07-V74",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_074_onna.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_075",
@@ -827,7 +1493,16 @@
       "romaji": "kodomo",
       "english": "Child",
       "sinhala": "දරුවා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_075_kodomo.mp3",
+        "track_id": "L07-V75",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_075_kodomo.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_076",
@@ -838,7 +1513,16 @@
       "romaji": "hon",
       "english": "Book",
       "sinhala": "පොත",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_076_hon.mp3",
+        "track_id": "L07-V76",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_076_hon.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_077",
@@ -849,7 +1533,16 @@
       "romaji": "jisho",
       "english": "Dictionary",
       "sinhala": "ශබ්දකෝෂය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_077_jisho.mp3",
+        "track_id": "L07-V77",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_077_jisho.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_078",
@@ -860,7 +1553,16 @@
       "romaji": "nooto",
       "english": "Notebook",
       "sinhala": "නෝට් / සටහන් පොත",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_078_nooto.mp3",
+        "track_id": "L07-V78",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_078_nooto.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_079",
@@ -871,7 +1573,16 @@
       "romaji": "pen",
       "english": "Pen",
       "sinhala": "පෑන",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_079_pen.mp3",
+        "track_id": "L07-V79",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_079_pen.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_080",
@@ -882,7 +1593,16 @@
       "romaji": "tsukue",
       "english": "Desk",
       "sinhala": "මේසය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_080_tsukue.mp3",
+        "track_id": "L08-V80",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_080_tsukue.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_081",
@@ -893,7 +1613,16 @@
       "romaji": "isu",
       "english": "Chair",
       "sinhala": "පුටුව",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_081_isu.mp3",
+        "track_id": "L08-V81",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_081_isu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_082",
@@ -904,7 +1633,16 @@
       "romaji": "kaban",
       "english": "Bag",
       "sinhala": "මල්ල / බෑගය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_082_kaban.mp3",
+        "track_id": "L08-V82",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_082_kaban.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_083",
@@ -915,7 +1653,16 @@
       "romaji": "heya",
       "english": "Room",
       "sinhala": "කාමරය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_083_heya.mp3",
+        "track_id": "L08-V83",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_083_heya.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_084",
@@ -926,7 +1673,16 @@
       "romaji": "toire",
       "english": "Toilet / Restroom",
       "sinhala": "වැසිකිළිය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_084_toire.mp3",
+        "track_id": "L08-V84",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_084_toire.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_085",
@@ -937,7 +1693,16 @@
       "romaji": "uketsuke",
       "english": "Reception desk",
       "sinhala": "පිළිගැනීමේ කුටිය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_085_uketsuke.mp3",
+        "track_id": "L08-V85",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_085_uketsuke.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_086",
@@ -948,7 +1713,16 @@
       "romaji": "kyoushitsu",
       "english": "Classroom",
       "sinhala": "පන්ති කාමරය",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_086_kyoushitsu.mp3",
+        "track_id": "L08-V86",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_086_kyoushitsu.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_087",
@@ -959,7 +1733,16 @@
       "romaji": "shokudou",
       "english": "Cafeteria / Dining hall",
       "sinhala": "ආපන ශාලාව",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_087_shokudou.mp3",
+        "track_id": "L08-V87",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_087_shokudou.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_088",
@@ -970,7 +1753,16 @@
       "romaji": "aka",
       "english": "Red",
       "sinhala": "රතු පාට",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_088_aka.mp3",
+        "track_id": "L08-V88",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_088_aka.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_089",
@@ -981,7 +1773,16 @@
       "romaji": "ao",
       "english": "Blue",
       "sinhala": "නිල් පාට",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_089_ao.mp3",
+        "track_id": "L08-V89",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_089_ao.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_090",
@@ -992,7 +1793,16 @@
       "romaji": "shiro",
       "english": "White",
       "sinhala": "සුදු පාට",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_090_shiro.mp3",
+        "track_id": "L09-V90",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_090_shiro.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_091",
@@ -1003,7 +1813,16 @@
       "romaji": "kuro",
       "english": "Black",
       "sinhala": "කළු පාට",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_091_kuro.mp3",
+        "track_id": "L09-V91",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_091_kuro.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_092",
@@ -1014,7 +1833,16 @@
       "romaji": "kyou",
       "english": "Today",
       "sinhala": "අද",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_092_kyou.mp3",
+        "track_id": "L09-V92",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_092_kyou.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_093",
@@ -1025,7 +1853,16 @@
       "romaji": "kinou",
       "english": "Yesterday",
       "sinhala": "ඊයේ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_093_kinou.mp3",
+        "track_id": "L09-V93",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_093_kinou.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_094",
@@ -1036,7 +1873,16 @@
       "romaji": "ashita",
       "english": "Tomorrow",
       "sinhala": "හෙට",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_094_ashita.mp3",
+        "track_id": "L09-V94",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_094_ashita.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_095",
@@ -1047,7 +1893,16 @@
       "romaji": "ima",
       "english": "Now",
       "sinhala": "දැන්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_095_ima.mp3",
+        "track_id": "L09-V95",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_095_ima.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_096",
@@ -1058,7 +1913,16 @@
       "romaji": "hai",
       "english": "Yes",
       "sinhala": "ඔව්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_096_hai.mp3",
+        "track_id": "L09-V96",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_096_hai.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_097",
@@ -1069,7 +1933,16 @@
       "romaji": "iie",
       "english": "No",
       "sinhala": "නැත / නැහැ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_097_iie.mp3",
+        "track_id": "L09-V97",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_097_iie.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_098",
@@ -1080,7 +1953,16 @@
       "romaji": "wakarimashita",
       "english": "I understand / Understood",
       "sinhala": "තේරුණා / වැටහුණා",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_098_wakarimashita.mp3",
+        "track_id": "L09-V98",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_098_wakarimashita.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_099",
@@ -1091,7 +1973,16 @@
       "romaji": "wakarimasen",
       "english": "I don't understand",
       "sinhala": "තේරෙන්නේ නැහැ",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_099_wakarimasen.mp3",
+        "track_id": "L09-V99",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_099_wakarimasen.png",
+        "category": "general",
+        "has_illustration": true
+      }
     },
     {
       "id": "st_0100",
@@ -1102,7 +1993,16 @@
       "romaji": "mou ichido",
       "english": "Once again / Repeat please",
       "sinhala": "තවත් වරක්",
-      "audio_verified": true
+      "audio": {
+        "file_name": "st_0100_mouichido.mp3",
+        "track_id": "L01-V00",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "st_0100_mouichido.png",
+        "category": "general",
+        "has_illustration": true
+      }
     }
   ]
 }
