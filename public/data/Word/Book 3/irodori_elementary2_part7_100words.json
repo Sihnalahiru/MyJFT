@@ -1,0 +1,2108 @@
+{
+  "level": "Irodori Elementary 2 (A2)",
+  "part": "Part 7",
+  "total_words": 100,
+  "coverage": "Daily troubles, equipment failures, housing complaints, natural disasters, disaster preparedness (Bousai), evacuation, emergency supplies, and safety phrases with full Audio & Illustration mapping (Words 601-700).",
+  "vocabulary": [
+    {
+      "id": "e2_601",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "水漏れ",
+      "furigana": "みずもれ",
+      "romaji": "mizumore",
+      "english": "Water leak",
+      "sinhala": "ජලය කාන්දුවීම",
+      "audio": {
+        "file_name": "e2_601_mizumore.mp3",
+        "track_id": "L13-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_601_mizumore.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_602",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "故障",
+      "furigana": "こしょう",
+      "romaji": "koshou",
+      "english": "Breakdown / Out of order",
+      "sinhala": "ක්‍රියා විරහිත වීම / කැඩී යාම",
+      "audio": {
+        "file_name": "e2_602_koshou.mp3",
+        "track_id": "L13-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_602_koshou.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_603",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "壊れる",
+      "furigana": "こわれる",
+      "romaji": "kowareru",
+      "english": "To break / be broken",
+      "sinhala": "කැඩෙනවා / බිඳෙනවා",
+      "audio": {
+        "file_name": "e2_603_kowareru.mp3",
+        "track_id": "L13-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_603_kowareru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_604",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "直す",
+      "furigana": "なおす",
+      "romaji": "naosu",
+      "english": "To repair / fix",
+      "sinhala": "අලුත්වැඩියා කරනවා",
+      "audio": {
+        "file_name": "e2_604_naosu.mp3",
+        "track_id": "L13-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_604_naosu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_605",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "直る",
+      "furigana": "なおる",
+      "romaji": "naoru",
+      "english": "To be repaired / fixed",
+      "sinhala": "අලුත්වැඩියා වෙනවා / හරි යනවා",
+      "audio": {
+        "file_name": "e2_605_naoru.mp3",
+        "track_id": "L13-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_605_naoru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_606",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "修理",
+      "furigana": "しゅうり",
+      "romaji": "shuuri",
+      "english": "Repair",
+      "sinhala": "අලුත්වැඩියාව",
+      "audio": {
+        "file_name": "e2_606_shuuri.mp3",
+        "track_id": "L13-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_606_shuuri.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_607",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "お湯が出ない",
+      "furigana": "おゆがでない",
+      "romaji": "oyu ga denai",
+      "english": "Hot water not running",
+      "sinhala": "උණු වතුර එන්නේ නැහැ",
+      "audio": {
+        "file_name": "e2_607_oyugadenai.mp3",
+        "track_id": "L13-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_607_oyugadenai.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_608",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "水が出ない",
+      "furigana": "みずがでない",
+      "romaji": "mizu ga denai",
+      "english": "Water not running / tap cut off",
+      "sinhala": "වතුර එන්නේ නැහැ",
+      "audio": {
+        "file_name": "e2_608_mizugadenai.mp3",
+        "track_id": "L13-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_608_mizugadenai.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_609",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "止まる",
+      "furigana": "とまる",
+      "romaji": "tomaru",
+      "english": "To stop (supply/machine)",
+      "sinhala": "නැවතෙනවා / ඇණහිටිනවා",
+      "audio": {
+        "file_name": "e2_609_tomaru.mp3",
+        "track_id": "L13-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_609_tomaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_610",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "流れない",
+      "furigana": "ながれない",
+      "romaji": "nagarenai",
+      "english": "Not flushing / not draining",
+      "sinhala": "බැස යන්නේ නැහැ (ජලය)",
+      "audio": {
+        "file_name": "e2_610_nagarenai.mp3",
+        "track_id": "L13-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_610_nagarenai.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_611",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "詰まる",
+      "furigana": "つまる",
+      "romaji": "tsumaru",
+      "english": "To be clogged / blocked",
+      "sinhala": "හිරවෙනවා / හිරවී පවතිනවා",
+      "audio": {
+        "file_name": "e2_611_tsumaru.mp3",
+        "track_id": "L13-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_611_tsumaru.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_612",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "電気がつかない",
+      "furigana": "でんきがつかない",
+      "romaji": "denki ga tsukanai",
+      "english": "Light won't turn on",
+      "sinhala": "විදුලි පහන දැල්වෙන්නේ නැහැ",
+      "audio": {
+        "file_name": "e2_612_denkigatsukanai.mp3",
+        "track_id": "L13-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_612_denkigatsukanai.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_613",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "エアコンが効かない",
+      "furigana": "エアコンがきかない",
+      "romaji": "eakon ga kikanai",
+      "english": "AC is not working properly",
+      "sinhala": "වායු සමීකරණය ක්‍රියා කරන්නේ නැහැ",
+      "audio": {
+        "file_name": "e2_613_eakongakikanai.mp3",
+        "track_id": "L13-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_613_eakongakikanai.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_614",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "異音",
+      "furigana": "いおん",
+      "romaji": "ion",
+      "english": "Abnormal noise",
+      "sinhala": "අසාමාන්‍ය ශබ්දය",
+      "audio": {
+        "file_name": "e2_614_ion.mp3",
+        "track_id": "L13-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_614_ion.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_615",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "変な音",
+      "furigana": "へんなおと",
+      "romaji": "hen na oto",
+      "english": "Strange sound",
+      "sinhala": "අමුතු ශබ්දයක්",
+      "audio": {
+        "file_name": "e2_615_hennaoto.mp3",
+        "track_id": "L13-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_615_hennaoto.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_616",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "におい",
+      "furigana": "におい",
+      "romaji": "nioi",
+      "english": "Bad smell / odor",
+      "sinhala": "දුර්ගන්ධය / ගඳ",
+      "audio": {
+        "file_name": "e2_616_nioi.mp3",
+        "track_id": "L13-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_616_nioi.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_617",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "鍵をなくす",
+      "furigana": "かぎをなくす",
+      "romaji": "kagi o nakusu",
+      "english": "To lose one's key",
+      "sinhala": "යතුර නැති කරගන්නවා",
+      "audio": {
+        "file_name": "e2_617_kagionakusu.mp3",
+        "track_id": "L13-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_617_kagionakusu.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_618",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "閉まらない",
+      "furigana": "しまらない",
+      "romaji": "shimaranai",
+      "english": "Won't close",
+      "sinhala": "වැසෙන්නේ නැහැ",
+      "audio": {
+        "file_name": "e2_618_shimaranai.mp3",
+        "track_id": "L13-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_618_shimaranai.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_619",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "開かない",
+      "furigana": "あかない",
+      "romaji": "akanai",
+      "english": "Won't open",
+      "sinhala": "ඇරෙන්නේ නැහැ",
+      "audio": {
+        "file_name": "e2_619_akanai.mp3",
+        "track_id": "L13-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_619_akanai.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_620",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Equipment Troubles",
+      "japanese": "割れる",
+      "furigana": "われる",
+      "romaji": "wareru",
+      "english": "To crack / break (glass)",
+      "sinhala": "බිඳෙනවා (වීදුරු ආදිය)",
+      "audio": {
+        "file_name": "e2_620_wareru.mp3",
+        "track_id": "L13-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_620_wareru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_621",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Reporting Troubles",
+      "japanese": "管理人",
+      "furigana": "かんりにん",
+      "romaji": "kanrinin",
+      "english": "Building manager / Janitor",
+      "sinhala": "ගොඩනැගිලි භාරකරු",
+      "audio": {
+        "file_name": "e2_621_kanrinin.mp3",
+        "track_id": "L13-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_621_kanrinin.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_622",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Reporting Troubles",
+      "japanese": "管理会社",
+      "furigana": "かんりがいしゃ",
+      "romaji": "kanrigaisha",
+      "english": "Property management company",
+      "sinhala": "නිවාස කළමනාකරණ සමාගම",
+      "audio": {
+        "file_name": "e2_622_kanrigaisha.mp3",
+        "track_id": "L13-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_622_kanrigaisha.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_623",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Reporting Troubles",
+      "japanese": "大家",
+      "furigana": "おおや",
+      "romaji": "ooya",
+      "english": "Landlord / House owner",
+      "sinhala": "නිවසේ හිමිකරු (ගේ අයිතිකාරයා)",
+      "audio": {
+        "file_name": "e2_623_ooya.mp3",
+        "track_id": "L13-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_623_ooya.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_624",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Reporting Troubles",
+      "japanese": "連絡する",
+      "furigana": "れんらくする",
+      "romaji": "renraku suru",
+      "english": "To contact / inform",
+      "sinhala": "සම්බන්ධ වෙනවා / දැනුම් දෙනවා",
+      "audio": {
+        "file_name": "e2_624_renrakusuru.mp3",
+        "track_id": "L13-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_624_renrakusuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_625",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Reporting Troubles",
+      "japanese": "相談する",
+      "furigana": "そうだんする",
+      "romaji": "soudan suru",
+      "english": "To consult / discuss",
+      "sinhala": "උපදෙස් පතනවා / කතාබස් කරනවා",
+      "audio": {
+        "file_name": "e2_625_soudansuru.mp3",
+        "track_id": "L13-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_625_soudansuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_626",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Complaints & Friction",
+      "japanese": "苦情",
+      "furigana": "くじょう",
+      "romaji": "kujou",
+      "english": "Complaint / Grievance",
+      "sinhala": "පැමිණිල්ල",
+      "audio": {
+        "file_name": "e2_626_kujou.mp3",
+        "track_id": "L13-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_626_kujou.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_627",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Complaints & Friction",
+      "japanese": "クレーム",
+      "furigana": "クレーム",
+      "romaji": "kureemu",
+      "english": "Complaint / Claim",
+      "sinhala": "පාරිභෝගික පැමිණිල්ල",
+      "audio": {
+        "file_name": "e2_627_kureemu.mp3",
+        "track_id": "L13-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_627_kureemu.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_628",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Complaints & Friction",
+      "japanese": "騒音",
+      "furigana": "そうおん",
+      "romaji": "souon",
+      "english": "Noise problem",
+      "sinhala": "ශබ්ද දූෂණය / කරදරකාරී ඝෝෂාව",
+      "audio": {
+        "file_name": "e2_628_souon.mp3",
+        "track_id": "L13-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_628_souon.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_629",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Complaints & Friction",
+      "japanese": "うるさい",
+      "furigana": "うるさい",
+      "romaji": "urusai",
+      "english": "Noisy / Loud",
+      "sinhala": "ඝෝෂාකාරී",
+      "audio": {
+        "file_name": "e2_629_urusai.mp3",
+        "track_id": "L13-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_629_urusai.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_630",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Complaints & Friction",
+      "japanese": "静かにする",
+      "furigana": "しずかにする",
+      "romaji": "shizuka ni suru",
+      "english": "To quiet down / keep quiet",
+      "sinhala": "නිශ්ශබ්දව සිටිනවා",
+      "audio": {
+        "file_name": "e2_630_shizukanisuru.mp3",
+        "track_id": "L13-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_630_shizukanisuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_631",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Late Hours",
+      "japanese": "夜中",
+      "furigana": "よなか",
+      "romaji": "yonaka",
+      "english": "Dead of night / Midnight",
+      "sinhala": "මැදියම් රැය",
+      "audio": {
+        "file_name": "e2_631_yonaka.mp3",
+        "track_id": "L13-V31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_631_yonaka.png",
+        "category": "time",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_632",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Late Hours",
+      "japanese": "深夜",
+      "furigana": "しんや",
+      "romaji": "shin'ya",
+      "english": "Late night",
+      "sinhala": "මධ්‍යම රාත්‍රිය",
+      "audio": {
+        "file_name": "e2_632_shin'ya.mp3",
+        "track_id": "L13-V32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_632_shin'ya.png",
+        "category": "time",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_633",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Late Hours",
+      "japanese": "足音",
+      "furigana": "あしおと",
+      "romaji": "ashioto",
+      "english": "Sound of footsteps",
+      "sinhala": "පය තබන හඬ",
+      "audio": {
+        "file_name": "e2_633_ashioto.mp3",
+        "track_id": "L13-V33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_633_ashioto.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_634",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Late Hours",
+      "japanese": "音楽の音",
+      "furigana": "おんがくのおと",
+      "romaji": "ongaku no oto",
+      "english": "Sound of music",
+      "sinhala": "සංගීතයේ හඬ",
+      "audio": {
+        "file_name": "e2_634_ongakunooto.mp3",
+        "track_id": "L13-V34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_634_ongakunooto.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_635",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Neighbor Relations",
+      "japanese": "我慢する",
+      "furigana": "がまんする",
+      "romaji": "gaman suru",
+      "english": "To endure / put up with",
+      "sinhala": "ඉවසනවා / විඳදරාගන්නවා",
+      "audio": {
+        "file_name": "e2_635_gamansuru.mp3",
+        "track_id": "L13-V35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_635_gamansuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_636",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Neighbor Relations",
+      "japanese": "迷惑",
+      "furigana": "めいわく",
+      "romaji": "meiwaku",
+      "english": "Nuisance / Inconvenience",
+      "sinhala": "අන් අයට කරදරයක් වීම",
+      "audio": {
+        "file_name": "e2_636_meiwaku.mp3",
+        "track_id": "L13-V36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_636_meiwaku.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_637",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Neighbor Relations",
+      "japanese": "謝る",
+      "furigana": "あやまる",
+      "romaji": "ayamaru",
+      "english": "To apologize",
+      "sinhala": "සමාව අයදිනවා",
+      "audio": {
+        "file_name": "e2_637_ayamaru.mp3",
+        "track_id": "L13-V37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_637_ayamaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_638",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Neighbor Relations",
+      "japanese": "気をつける",
+      "furigana": "きをつける",
+      "romaji": "ki o tsukeru",
+      "english": "To take care / be mindful",
+      "sinhala": "සැලකිලිමත් වෙනවා",
+      "audio": {
+        "file_name": "e2_638_kiotsukeru.mp3",
+        "track_id": "L13-V38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_638_kiotsukeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_639",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Neighbor Relations",
+      "japanese": "困る",
+      "furigana": "こまる",
+      "romaji": "komaru",
+      "english": "To have difficulty / be in trouble",
+      "sinhala": "අපහසුතාවට පත්වෙනවා",
+      "audio": {
+        "file_name": "e2_639_komaru.mp3",
+        "track_id": "L13-V39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_639_komaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_640",
+      "lesson": 13,
+      "main_topic": "21. 暮らしのトラブルと相談 / Daily Troubles & Complaints",
+      "sub_topic": "Neighbor Relations",
+      "japanese": "トラブル",
+      "furigana": "トラブル",
+      "romaji": "toraburu",
+      "english": "Trouble / Dispute",
+      "sinhala": "ආරවුල / ගැටලුව",
+      "audio": {
+        "file_name": "e2_640_toraburu.mp3",
+        "track_id": "L13-V40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_640_toraburu.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_641",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Disasters",
+      "japanese": "自然災害",
+      "furigana": "しぜんさいがい",
+      "romaji": "shizensaigai",
+      "english": "Natural disaster",
+      "sinhala": "ස්වභාවික ආපදාව",
+      "audio": {
+        "file_name": "e2_641_shizensaigai.mp3",
+        "track_id": "L14-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_641_shizensaigai.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_642",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Disasters",
+      "japanese": "地震",
+      "furigana": "じしん",
+      "romaji": "jishin",
+      "english": "Earthquake",
+      "sinhala": "භූමිකම්පාව",
+      "audio": {
+        "file_name": "e2_642_jishin.mp3",
+        "track_id": "L14-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_642_jishin.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_643",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Disasters",
+      "japanese": "揺れ",
+      "furigana": "ゆれ",
+      "romaji": "yure",
+      "english": "Tremor / Shaking",
+      "sinhala": "සෙලවීම",
+      "audio": {
+        "file_name": "e2_643_yure.mp3",
+        "track_id": "L14-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_643_yure.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_644",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Earthquake Scale",
+      "japanese": "震度",
+      "furigana": "しんど",
+      "romaji": "shindo",
+      "english": "Seismic intensity scale",
+      "sinhala": "භූමිකම්පා තීව්‍රතා පරිමාණය (ෂින්දෝ)",
+      "audio": {
+        "file_name": "e2_644_shindo.mp3",
+        "track_id": "L14-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_644_shindo.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_645",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Earthquake Scale",
+      "japanese": "マグニチュード",
+      "furigana": "マグニチュード",
+      "romaji": "magunichuudo",
+      "english": "Magnitude",
+      "sinhala": "මැග්නිටියුඩ් අගය",
+      "audio": {
+        "file_name": "e2_645_magunichuudo.mp3",
+        "track_id": "L14-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_645_magunichuudo.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_646",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Disasters",
+      "japanese": "津波",
+      "furigana": "つなみ",
+      "romaji": "tsunami",
+      "english": "Tsunami / Tidal wave",
+      "sinhala": "සුනාමි රළ",
+      "audio": {
+        "file_name": "e2_646_tsunami.mp3",
+        "track_id": "L14-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_646_tsunami.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_647",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Disasters",
+      "japanese": "台風",
+      "furigana": "たいふう",
+      "romaji": "taifuu",
+      "english": "Typhoon",
+      "sinhala": "ටයිෆූන් කුණාටුව",
+      "audio": {
+        "file_name": "e2_647_taifuu.mp3",
+        "track_id": "L14-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_647_taifuu.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_648",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Disasters",
+      "japanese": "大雨",
+      "furigana": "おおあめ",
+      "romaji": "ooame",
+      "english": "Heavy rain / Torrential downpour",
+      "sinhala": "තද වැස්ස",
+      "audio": {
+        "file_name": "e2_648_ooame.mp3",
+        "track_id": "L14-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_648_ooame.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_649",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Disasters",
+      "japanese": "洪水",
+      "furigana": "こうずい",
+      "romaji": "kouzui",
+      "english": "Flood",
+      "sinhala": "ගංවතුර",
+      "audio": {
+        "file_name": "e2_649_kouzui.mp3",
+        "track_id": "L14-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_649_kouzui.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_650",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Disasters",
+      "japanese": "土砂崩れ",
+      "furigana": "どしゃくずれ",
+      "romaji": "doshakuzure",
+      "english": "Landslide",
+      "sinhala": "නායයෑම",
+      "audio": {
+        "file_name": "e2_650_doshakuzure.mp3",
+        "track_id": "L14-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_650_doshakuzure.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_651",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Disasters",
+      "japanese": "火災",
+      "furigana": "かさい",
+      "romaji": "kasai",
+      "english": "Conflagration / Fire disaster",
+      "sinhala": "ගිනි විපත",
+      "audio": {
+        "file_name": "e2_651_kasai.mp3",
+        "track_id": "L14-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_651_kasai.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_652",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Disasters",
+      "japanese": "火事",
+      "furigana": "かじ",
+      "romaji": "kaji",
+      "english": "Fire",
+      "sinhala": "හදිසි ගින්න",
+      "audio": {
+        "file_name": "e2_652_kaji.mp3",
+        "track_id": "L14-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_652_kaji.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_653",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Lifeline Cutoffs",
+      "japanese": "停電",
+      "furigana": "ていでん",
+      "romaji": "teiden",
+      "english": "Power outage / Blackout",
+      "sinhala": "විදුලිය විසන්ධි වීම",
+      "audio": {
+        "file_name": "e2_653_teiden.mp3",
+        "track_id": "L14-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_653_teiden.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_654",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Lifeline Cutoffs",
+      "japanese": "断水",
+      "furigana": "だんすい",
+      "romaji": "dansui",
+      "english": "Water suspension / Cutoff",
+      "sinhala": "ජල සැපයුම ඇනහිටීම",
+      "audio": {
+        "file_name": "e2_654_dansui.mp3",
+        "track_id": "L14-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_654_dansui.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_655",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Lifeline Cutoffs",
+      "japanese": "ガスが止まる",
+      "furigana": "ガスがとまる",
+      "romaji": "gasu ga tomaru",
+      "english": "Gas supply shut off",
+      "sinhala": "ගෑස් සැපයුම නතර වීම",
+      "audio": {
+        "file_name": "e2_655_gasugatomaru.mp3",
+        "track_id": "L14-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_655_gasugatomaru.png",
+        "category": "disasters",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_656",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Weather Warnings",
+      "japanese": "警報",
+      "furigana": "けいほう",
+      "romaji": "keihou",
+      "english": "Emergency warning",
+      "sinhala": "හදිසි අනතුරු ඇඟවීම",
+      "audio": {
+        "file_name": "e2_656_keihou.mp3",
+        "track_id": "L14-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_656_keihou.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_657",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Weather Warnings",
+      "japanese": "注意報",
+      "furigana": "ちゅういほう",
+      "romaji": "chuuihou",
+      "english": "Weather advisory",
+      "sinhala": "අවවාදාත්මක නිවේදනය",
+      "audio": {
+        "file_name": "e2_657_chuuihou.mp3",
+        "track_id": "L14-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_657_chuuihou.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_658",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Weather Warnings",
+      "japanese": "特別警報",
+      "furigana": "とくべつけいほう",
+      "romaji": "tokubetsukeihou",
+      "english": "Special emergency warning",
+      "sinhala": "විශේෂ හදිසි අනතුරු ඇඟවීම",
+      "audio": {
+        "file_name": "e2_658_tokubetsukeihou.mp3",
+        "track_id": "L14-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_658_tokubetsukeihou.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_659",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Weather Warnings",
+      "japanese": "速報",
+      "furigana": "そくほう",
+      "romaji": "sokuhou",
+      "english": "Breaking news bulletin",
+      "sinhala": "ක්ෂණික පුවත් නිවේදනය",
+      "audio": {
+        "file_name": "e2_659_sokuhou.mp3",
+        "track_id": "L14-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_659_sokuhou.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_660",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Weather Warnings",
+      "japanese": "緊急地震速報",
+      "furigana": "きんきゅうじしんそくほう",
+      "romaji": "kinkyuu jishin sokuhou",
+      "english": "Earthquake Early Warning",
+      "sinhala": "හදිසි භූමිකම්පා පූර්ව අනතුරු ඇඟවීම",
+      "audio": {
+        "file_name": "e2_660_kinkyuujishinsokuhou.mp3",
+        "track_id": "L14-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_660_kinkyuujishinsokuhou.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_661",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Evacuation",
+      "japanese": "避難",
+      "furigana": "ひなん",
+      "romaji": "hinan",
+      "english": "Evacuation",
+      "sinhala": "ආරක්ෂිත ස්ථානයකට ඉවත් වීම (ඉවත් කිරීම)",
+      "audio": {
+        "file_name": "e2_661_hinan.mp3",
+        "track_id": "L14-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_661_hinan.png",
+        "category": "evacuation",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_662",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Evacuation",
+      "japanese": "避難する",
+      "furigana": "ひなんする",
+      "romaji": "hinan suru",
+      "english": "To evacuate",
+      "sinhala": "ආරක්ෂිත ස්ථානයකට ඉවත් වෙනවා",
+      "audio": {
+        "file_name": "e2_662_hinansuru.mp3",
+        "track_id": "L14-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_662_hinansuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_663",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Evacuation",
+      "japanese": "避難所",
+      "furigana": "ひなんじょ",
+      "romaji": "hinanjo",
+      "english": "Evacuation shelter",
+      "sinhala": "ආපදා රැඳවුම් මධ්‍යස්ථානය",
+      "audio": {
+        "file_name": "e2_663_hinanjo.mp3",
+        "track_id": "L14-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_663_hinanjo.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_664",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Evacuation",
+      "japanese": "避難場所",
+      "furigana": "ひなんばしょ",
+      "romaji": "hinanbasho",
+      "english": "Evacuation site / gathering point",
+      "sinhala": "ආරක්ෂිතව එක්රැස්වන ස්ථානය",
+      "audio": {
+        "file_name": "e2_664_hinanbasho.mp3",
+        "track_id": "L14-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_664_hinanbasho.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_665",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Evacuation",
+      "japanese": "ハザードマップ",
+      "furigana": "ハザードマップ",
+      "romaji": "hazaadomappu",
+      "english": "Hazard map",
+      "sinhala": "ආපදා අවදානම් සිතියම",
+      "audio": {
+        "file_name": "e2_665_hazaadomappu.mp3",
+        "track_id": "L14-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_665_hazaadomappu.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_666",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Emergency Response",
+      "japanese": "逃げる",
+      "furigana": "にげる",
+      "romaji": "nigeru",
+      "english": "To flee / escape",
+      "sinhala": "පලා යනවා / බේරී දුවනවා",
+      "audio": {
+        "file_name": "e2_666_nigeru.mp3",
+        "track_id": "L14-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_666_nigeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_667",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Emergency Response",
+      "japanese": "助ける",
+      "furigana": "たすける",
+      "romaji": "tasukeru",
+      "english": "To rescue / help",
+      "sinhala": "බේරාගන්නවා / උදව් කරනවා",
+      "audio": {
+        "file_name": "e2_667_tasukeru.mp3",
+        "track_id": "L14-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_667_tasukeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_668",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Emergency Response",
+      "japanese": "助かる",
+      "furigana": "たすかる",
+      "romaji": "tasukaru",
+      "english": "To be saved / survive",
+      "sinhala": "පණ බේරෙනවා / ගැලවෙනවා",
+      "audio": {
+        "file_name": "e2_668_tasukaru.mp3",
+        "track_id": "L14-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_668_tasukaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_669",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Emergency Response",
+      "japanese": "救助",
+      "furigana": "きゅうじょ",
+      "romaji": "kyuujo",
+      "english": "Rescue / Relief",
+      "sinhala": "මුදාගැනීමේ මෙහෙයුම",
+      "audio": {
+        "file_name": "e2_669_kyuujo.mp3",
+        "track_id": "L14-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_669_kyuujo.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_670",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Safety States",
+      "japanese": "安全",
+      "furigana": "あんぜん",
+      "romaji": "anzen",
+      "english": "Safe / Safety",
+      "sinhala": "ආරක්ෂිතයි / ආරක්ෂාව",
+      "audio": {
+        "file_name": "e2_670_anzen.mp3",
+        "track_id": "L14-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_670_anzen.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_671",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Safety States",
+      "japanese": "危険",
+      "furigana": "きけん",
+      "romaji": "kiken",
+      "english": "Dangerous / Hazard",
+      "sinhala": "අනතුරුදායකයි",
+      "audio": {
+        "file_name": "e2_671_kiken.mp3",
+        "track_id": "L14-V31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_671_kiken.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_672",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Safety States",
+      "japanese": "無事",
+      "furigana": "ぶじ",
+      "romaji": "buji",
+      "english": "Safe / Sound / Unharmed",
+      "sinhala": "අනතුරකින් තොරව / සුවෙන් සිටිනවා",
+      "audio": {
+        "file_name": "e2_672_buji.mp3",
+        "track_id": "L14-V32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_672_buji.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_673",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Safety Confirmation",
+      "japanese": "安否確認",
+      "furigana": "あんぴかくにん",
+      "romaji": "anpikakunin",
+      "english": "Safety confirmation",
+      "sinhala": "ජීවිත ආරක්ෂාව තහවුරු කර ගැනීම",
+      "audio": {
+        "file_name": "e2_673_anpikakunin.mp3",
+        "track_id": "L14-V33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_673_anpikakunin.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_674",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Safety Confirmation",
+      "japanese": "連絡が取れない",
+      "furigana": "れんらくがとれない",
+      "romaji": "renraku ga torenai",
+      "english": "Cannot contact / get through",
+      "sinhala": "සම්බන්ධ කර ගැනීමට නොහැක",
+      "audio": {
+        "file_name": "e2_674_renrakugatorenai.mp3",
+        "track_id": "L14-V34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_674_renrakugatorenai.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_675",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Safety Confirmation",
+      "japanese": "伝言ダイヤル",
+      "furigana": "でんごんだいやる",
+      "romaji": "dengondaiyaru",
+      "english": "Disaster emergency message dial (171)",
+      "sinhala": "ආපදා හදිසි පණිවිඩ සේවය (171)",
+      "audio": {
+        "file_name": "e2_675_dengondaiyaru.mp3",
+        "track_id": "L14-V35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_675_dengondaiyaru.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_676",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Protective Actions",
+      "japanese": "身を守る",
+      "furigana": "みをまもる",
+      "romaji": "mi o mamoru",
+      "english": "To protect oneself",
+      "sinhala": "තමාගේ ආරක්ෂාව සලසා ගන්නවා",
+      "audio": {
+        "file_name": "e2_676_miomamoru.mp3",
+        "track_id": "L14-V36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_676_miomamoru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_677",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Protective Actions",
+      "japanese": "頭を守る",
+      "furigana": "あたまをまもる",
+      "romaji": "atama o mamoru",
+      "english": "To protect one's head",
+      "sinhala": "හිස ආරක්ෂා කරගන්නවා",
+      "audio": {
+        "file_name": "e2_677_atamamomamoru.mp3",
+        "track_id": "L14-V37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_677_atamamomamoru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_678",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Protective Actions",
+      "japanese": "机の下に入る",
+      "furigana": "つくえのしたにはいる",
+      "romaji": "tsukue no shita ni hairu",
+      "english": "To get under a desk",
+      "sinhala": "මේසයක් යටට රිංගනවා",
+      "audio": {
+        "file_name": "e2_678_tsukuenoshitani hairu.mp3",
+        "track_id": "L14-V38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_678_tsukuenoshitani hairu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_679",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Protective Actions",
+      "japanese": "火を消す",
+      "furigana": "ひをけす",
+      "romaji": "hi o kesu",
+      "english": "To extinguish a fire / turn off stove",
+      "sinhala": "ගින්දර නිවනවා / ලිප නිවනවා",
+      "audio": {
+        "file_name": "e2_679_hiokesu.mp3",
+        "track_id": "L14-V39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_679_hiokesu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_680",
+      "lesson": 14,
+      "main_topic": "22. 防災と自然災害 / Disaster Prevention & Natural Disasters",
+      "sub_topic": "Protective Actions",
+      "japanese": "ドアを開ける",
+      "furigana": "ドアをあける",
+      "romaji": "doa o akeru",
+      "english": "To open the door (to secure an exit)",
+      "sinhala": "දොර විවෘත කරනවා (පිටවීමේ මාර්ගයක් තබා ගැනීමට)",
+      "audio": {
+        "file_name": "e2_680_doaoakeru.mp3",
+        "track_id": "L14-V40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_680_doaoakeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_681",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Bousai Goods",
+      "japanese": "防災",
+      "furigana": "ぼうさい",
+      "romaji": "bousai",
+      "english": "Disaster prevention / preparedness",
+      "sinhala": "ආපදා කළමනාකරණය හා පෙරසූදානම (බෝසායි)",
+      "audio": {
+        "file_name": "e2_681_bousai.mp3",
+        "track_id": "L14-V41",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_681_bousai.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_682",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Bousai Goods",
+      "japanese": "防災グッズ",
+      "furigana": "ぼうさいグッズ",
+      "romaji": "bousaiguzzu",
+      "english": "Disaster preparedness goods",
+      "sinhala": "ආපදා පෙරසූදානම් උපකරණ",
+      "audio": {
+        "file_name": "e2_682_bousaiguzzu.mp3",
+        "track_id": "L14-V42",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_682_bousaiguzzu.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_683",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Bousai Goods",
+      "japanese": "非常袋",
+      "furigana": "ひじょうぶくろ",
+      "romaji": "hijoubukuro",
+      "english": "Emergency bag / Grab bag",
+      "sinhala": "හදිසි අවස්ථා මල්ල",
+      "audio": {
+        "file_name": "e2_683_hijoubukuro.mp3",
+        "track_id": "L14-V43",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_683_hijoubukuro.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_684",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Bousai Goods",
+      "japanese": "非常持ち出し袋",
+      "furigana": "ひじょうもちだしぶくろ",
+      "romaji": "hijoumochidashibukuro",
+      "english": "Emergency evacuation bag",
+      "sinhala": "හදිසි ඉවත් කිරීමේදී ගෙනියන බෑගය",
+      "audio": {
+        "file_name": "e2_684_hijoumochidashibukuro.mp3",
+        "track_id": "L14-V44",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_684_hijoumochidashibukuro.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_685",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Bousai Goods",
+      "japanese": "懐中電灯",
+      "furigana": "かいちゅうでんとう",
+      "romaji": "kaichuudentou",
+      "english": "Flashlight / Torch",
+      "sinhala": "විදුලි පන්දම",
+      "audio": {
+        "file_name": "e2_685_kaichuudentou.mp3",
+        "track_id": "L14-V45",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_685_kaichuudentou.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_686",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Bousai Goods",
+      "japanese": "ラジオ",
+      "furigana": "ラジオ",
+      "romaji": "rajio",
+      "english": "Radio",
+      "sinhala": "ගුවන්විදුලි යන්ත්‍රය (රේඩියෝව)",
+      "audio": {
+        "file_name": "e2_686_rajio.mp3",
+        "track_id": "L14-V46",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_686_rajio.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_687",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Bousai Goods",
+      "japanese": "乾電池",
+      "furigana": "かんでんち",
+      "romaji": "kandenchi",
+      "english": "Dry cell batteries",
+      "sinhala": "වියළි බැටරි",
+      "audio": {
+        "file_name": "e2_687_kandenchi.mp3",
+        "track_id": "L14-V47",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_687_kandenchi.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_688",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Emergency Food",
+      "japanese": "保存食",
+      "furigana": "ほぞんしょく",
+      "romaji": "hozonshoku",
+      "english": "Preserved food",
+      "sinhala": "කල්තබා ගන්නා ආහාර",
+      "audio": {
+        "file_name": "e2_688_hozonshoku.mp3",
+        "track_id": "L14-V48",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_688_hozonshoku.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_689",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Emergency Food",
+      "japanese": "非常食",
+      "furigana": "ひじょうしょく",
+      "romaji": "hijoushoku",
+      "english": "Emergency rations",
+      "sinhala": "හදිසි අවස්ථා සලාක ආහාර",
+      "audio": {
+        "file_name": "e2_689_hijoushoku.mp3",
+        "track_id": "L14-V49",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_689_hijoushoku.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_690",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Emergency Food",
+      "japanese": "飲料水",
+      "furigana": "いんりょうすい",
+      "romaji": "inryousui",
+      "english": "Drinking water",
+      "sinhala": "පානීය ජලය",
+      "audio": {
+        "file_name": "e2_690_inryousui.mp3",
+        "track_id": "L14-V50",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_690_inryousui.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_691",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Survival Gear",
+      "japanese": "毛布",
+      "furigana": "もうふ",
+      "romaji": "moufu",
+      "english": "Blanket",
+      "sinhala": "බ්ලැන්කට්ටුව",
+      "audio": {
+        "file_name": "e2_691_moufu.mp3",
+        "track_id": "L14-V51",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_691_moufu.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_692",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Survival Gear",
+      "japanese": "救急箱",
+      "furigana": "きゅうきゅうばこ",
+      "romaji": "kyuukyuubako",
+      "english": "First-aid kit",
+      "sinhala": "ප්‍රථමාධාර පෙට්ටිය",
+      "audio": {
+        "file_name": "e2_692_kyuukyuubako.mp3",
+        "track_id": "L14-V52",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_692_kyuukyuubako.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_693",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Survival Gear",
+      "japanese": "ヘルメット",
+      "furigana": "ヘルメット",
+      "romaji": "herumetto",
+      "english": "Helmet",
+      "sinhala": "ආරක්ෂිත හෙල්මට් එක",
+      "audio": {
+        "file_name": "e2_693_herumetto.mp3",
+        "track_id": "L14-V53",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_693_herumetto.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_694",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Survival Gear",
+      "japanese": "マスク",
+      "furigana": "マスク",
+      "romaji": "masuku",
+      "english": "Face mask",
+      "sinhala": "මුඛ ආවරණය",
+      "audio": {
+        "file_name": "e2_694_masuku.mp3",
+        "track_id": "L14-V54",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_694_masuku.png",
+        "category": "bousai",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_695",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Emergency Commands",
+      "japanese": "すぐに避難してください",
+      "furigana": "すぐにひなんしてください",
+      "romaji": "sugu ni hinan shite kudasai",
+      "english": "Please evacuate immediately!",
+      "sinhala": "කරුණාකර වහාම ආරක්ෂිත ස්ථානයකට ඉවත් වන්න!",
+      "audio": {
+        "file_name": "e2_695_sugunihinanshitekudasai.mp3",
+        "track_id": "L14-EX01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_695_sugunihinanshitekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_696",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Emergency Commands",
+      "japanese": "高い所に逃げてください",
+      "furigana": "たかいところににげてください",
+      "romaji": "takai tokoro ni nigete kudasai",
+      "english": "Please flee to higher ground!",
+      "sinhala": "කරුණාකර උස් ස්ථානයකට පලා යන්න!",
+      "audio": {
+        "file_name": "e2_696_takaitokoroninigetekudasai.mp3",
+        "track_id": "L14-EX02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_696_takaitokoroninigetekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_697",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Emergency Commands",
+      "japanese": "落ち着いて行動してください",
+      "furigana": "おちついてこうどうしてください",
+      "romaji": "ochitsuite koudou shite kudasai",
+      "english": "Please stay calm and act carefully",
+      "sinhala": "කරුණාකර කලබල නොවී සන්සුන්ව කටයුතු කරන්න",
+      "audio": {
+        "file_name": "e2_697_ochitsuitekoudoushitekudasai.mp3",
+        "track_id": "L14-EX03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_697_ochitsuitekoudoushitekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_698",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Safety Inquiries",
+      "japanese": "大丈夫ですか",
+      "furigana": "だいじょうぶですか",
+      "romaji": "daijoubu desu ka",
+      "english": "Are you okay?",
+      "sinhala": "ඔබට කරදරයක් නැද්ද / ප්‍රශ්නයක් නැද්ද?",
+      "audio": {
+        "file_name": "e2_698_daijoubudesuka.mp3",
+        "track_id": "L14-EX04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_698_daijoubudesuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_699",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Safety Inquiries",
+      "japanese": "怪我はありませんか",
+      "furigana": "けがはありませんか",
+      "romaji": "kega wa arimasen ka",
+      "english": "Are you injured / hurt?",
+      "sinhala": "ඔබට තුවාලයක් නැද්ද?",
+      "audio": {
+        "file_name": "e2_699_kegawaarimasenka.mp3",
+        "track_id": "L14-EX05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_699_kegawaarimasenka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_700",
+      "lesson": 14,
+      "main_topic": "23. 防災グッズと緊急表現 / Emergency Supplies & Phrases",
+      "sub_topic": "Safety Inquiries",
+      "japanese": "気をつけてください",
+      "furigana": "きをつけてください",
+      "romaji": "ki o tsukete kudasai",
+      "english": "Please take care / Be safe",
+      "sinhala": "කරුණාකර පරිස්සම් වන්න",
+      "audio": {
+        "file_name": "e2_700_kiotsuketekudasai.mp3",
+        "track_id": "L14-EX06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_700_kiotsuketekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    }
+  ]
+}

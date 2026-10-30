@@ -1,0 +1,2108 @@
+{
+  "level": "Irodori Elementary 2 (A2)",
+  "part": "Part 8",
+  "total_words": 100,
+  "coverage": "Health problems, symptoms, clinic & hospital visits, medical consultations, pharmacy interactions, taking medication, and doctor-patient dialogue with full Audio & Illustration mapping (Words 701-800).",
+  "vocabulary": [
+    {
+      "id": "e2_701",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "General Condition",
+      "japanese": "体調",
+      "furigana": "たいちょう",
+      "romaji": "taichou",
+      "english": "Physical condition / Health state",
+      "sinhala": "ශාරීරික සෞඛ්‍ය තත්ත්වය",
+      "audio": {
+        "file_name": "e2_701_taichou.mp3",
+        "track_id": "L15-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_701_taichou.png",
+        "category": "health",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_702",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "General Condition",
+      "japanese": "具合",
+      "furigana": "ぐあい",
+      "romaji": "guai",
+      "english": "Condition / State of health",
+      "sinhala": "සුවදුක් / සනීප තත්ත්වය",
+      "audio": {
+        "file_name": "e2_702_guai.mp3",
+        "track_id": "L15-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_702_guai.png",
+        "category": "health",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_703",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "General Condition",
+      "japanese": "だるい",
+      "furigana": "だるい",
+      "romaji": "darui",
+      "english": "Sluggish / Heavy / Languid",
+      "sinhala": "ඇඟපත අප්‍රාණිකයි / මහන්සියි",
+      "audio": {
+        "file_name": "e2_703_darui.mp3",
+        "track_id": "L15-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_703_darui.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_704",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "General Condition",
+      "japanese": "めまい",
+      "furigana": "めまい",
+      "romaji": "memai",
+      "english": "Dizziness / Giddiness",
+      "sinhala": "කැරකිල්ල",
+      "audio": {
+        "file_name": "e2_704_memai.mp3",
+        "track_id": "L15-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_704_memai.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_705",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Fever & Chills",
+      "japanese": "熱",
+      "furigana": "ねつ",
+      "romaji": "netsu",
+      "english": "Fever",
+      "sinhala": "උණ",
+      "audio": {
+        "file_name": "e2_705_netsu.mp3",
+        "track_id": "L15-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_705_netsu.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_706",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Fever & Chills",
+      "japanese": "高熱",
+      "furigana": "こうねつ",
+      "romaji": "kounetsu",
+      "english": "High fever",
+      "sinhala": "තද උණ",
+      "audio": {
+        "file_name": "e2_706_kounetsu.mp3",
+        "track_id": "L15-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_706_kounetsu.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_707",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Fever & Chills",
+      "japanese": "微熱",
+      "furigana": "びねつ",
+      "romaji": "binetsu",
+      "english": "Slight fever",
+      "sinhala": "මඳ උණ",
+      "audio": {
+        "file_name": "e2_707_binetsu.mp3",
+        "track_id": "L15-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_707_binetsu.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_708",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Fever & Chills",
+      "japanese": "寒気",
+      "furigana": "さむけ",
+      "romaji": "samuke",
+      "english": "Chills / Shivering",
+      "sinhala": "වෙව්ලුම / සීතල ගතිය",
+      "audio": {
+        "file_name": "e2_708_samuke.mp3",
+        "track_id": "L15-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_708_samuke.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_709",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Respiratory Symptoms",
+      "japanese": "咳",
+      "furigana": "せき",
+      "romaji": "seki",
+      "english": "Cough",
+      "sinhala": "කැස්ස",
+      "audio": {
+        "file_name": "e2_709_seki.mp3",
+        "track_id": "L15-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_709_seki.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_710",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Respiratory Symptoms",
+      "japanese": "鼻水",
+      "furigana": "はなみず",
+      "romaji": "hanamizu",
+      "english": "Runny nose",
+      "sinhala": "සොටු දියර ගැලීම",
+      "audio": {
+        "file_name": "e2_710_hanamizu.mp3",
+        "track_id": "L15-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_710_hanamizu.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_711",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Respiratory Symptoms",
+      "japanese": "鼻づまり",
+      "furigana": "はなづまり",
+      "romaji": "hanadumari",
+      "english": "Stuffy nose / Congested nose",
+      "sinhala": "නාසය හිරවීම",
+      "audio": {
+        "file_name": "e2_711_hanadumari.mp3",
+        "track_id": "L15-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_711_hanadumari.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_712",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Respiratory Symptoms",
+      "japanese": "くしゃみ",
+      "furigana": "くしゃみ",
+      "romaji": "kushami",
+      "english": "Sneeze",
+      "sinhala": "කිවිසුම",
+      "audio": {
+        "file_name": "e2_712_kushami.mp3",
+        "track_id": "L15-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_712_kushami.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_713",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Digestive Symptoms",
+      "japanese": "吐き気",
+      "furigana": "はきけ",
+      "romaji": "hakike",
+      "english": "Nausea",
+      "sinhala": "වමනය යාමේ ගතිය",
+      "audio": {
+        "file_name": "e2_713_hakike.mp3",
+        "track_id": "L15-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_713_hakike.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_714",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Digestive Symptoms",
+      "japanese": "下痢",
+      "furigana": "げり",
+      "romaji": "geri",
+      "english": "Diarrhea",
+      "sinhala": "පාචනය / බඩඑළියේ යාම",
+      "audio": {
+        "file_name": "e2_714_geri.mp3",
+        "track_id": "L15-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_714_geri.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_715",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Digestive Symptoms",
+      "japanese": "便秘",
+      "furigana": "べんぴ",
+      "romaji": "benpi",
+      "english": "Constipation",
+      "sinhala": "මළබද්ධය",
+      "audio": {
+        "file_name": "e2_715_benpi.mp3",
+        "track_id": "L15-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_715_benpi.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_716",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Common Illnesses",
+      "japanese": "風邪",
+      "furigana": "かぜ",
+      "romaji": "kaze",
+      "english": "Common cold",
+      "sinhala": "හෙම්බිරිස්සාව / සෙම්ප්‍රතිශ්‍යාව",
+      "audio": {
+        "file_name": "e2_716_kaze.mp3",
+        "track_id": "L15-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_716_kaze.png",
+        "category": "illness",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_717",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Common Illnesses",
+      "japanese": "インフルエンザ",
+      "furigana": "インフルエンザ",
+      "romaji": "infuruenza",
+      "english": "Influenza / Flu",
+      "sinhala": "ඉන්ෆ්ලුවෙන්සා උණ",
+      "audio": {
+        "file_name": "e2_717_infuruenza.mp3",
+        "track_id": "L15-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_717_infuruenza.png",
+        "category": "illness",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_718",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Common Illnesses",
+      "japanese": "花粉症",
+      "furigana": "かふんしょう",
+      "romaji": "kafunshou",
+      "english": "Hay fever / Pollen allergy",
+      "sinhala": "මල් පරාග ආසාත්මිකතාවය",
+      "audio": {
+        "file_name": "e2_718_kafunshou.mp3",
+        "track_id": "L15-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_718_kafunshou.png",
+        "category": "illness",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_719",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Common Illnesses",
+      "japanese": "食中毒",
+      "furigana": "しょくちゅうどく",
+      "romaji": "shokuchuudoku",
+      "english": "Food poisoning",
+      "sinhala": "ආහාර විෂවීම",
+      "audio": {
+        "file_name": "e2_719_shokuchuudoku.mp3",
+        "track_id": "L15-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_719_shokuchuudoku.png",
+        "category": "illness",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_720",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Common Illnesses",
+      "japanese": "熱中症",
+      "furigana": "ねっちゅうしょう",
+      "romaji": "netchuushou",
+      "english": "Heatstroke",
+      "sinhala": "අධික උෂ්ණත්වය නිසා සිහිමුර්ඡා වීම / හීට්ස්ට්‍රෝක්",
+      "audio": {
+        "file_name": "e2_720_netchuushou.mp3",
+        "track_id": "L15-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_720_netchuushou.png",
+        "category": "illness",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_721",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Body Pains",
+      "japanese": "頭痛",
+      "furigana": "ずつう",
+      "romaji": "zutsuu",
+      "english": "Headache",
+      "sinhala": "හිසරදය",
+      "audio": {
+        "file_name": "e2_721_zutsuu.mp3",
+        "track_id": "L15-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_721_zutsuu.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_722",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Body Pains",
+      "japanese": "腹痛",
+      "furigana": "ふくつう",
+      "romaji": "fukutsuu",
+      "english": "Stomachache / Abdominal pain",
+      "sinhala": "බඩේ කැක්කුම",
+      "audio": {
+        "file_name": "e2_722_fukutsuu.mp3",
+        "track_id": "L15-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_722_fukutsuu.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_723",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Body Pains",
+      "japanese": "腰痛",
+      "furigana": "ようつう",
+      "romaji": "youtsuu",
+      "english": "Lower back pain",
+      "sinhala": "කොන්දේ අමාරුව",
+      "audio": {
+        "file_name": "e2_723_youtsuu.mp3",
+        "track_id": "L15-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_723_youtsuu.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_724",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Body Pains",
+      "japanese": "歯痛",
+      "furigana": "しつう",
+      "romaji": "shitsuu",
+      "english": "Toothache",
+      "sinhala": "දත් කැක්කුම",
+      "audio": {
+        "file_name": "e2_724_shitsuu.mp3",
+        "track_id": "L15-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_724_shitsuu.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_725",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Body Pains",
+      "japanese": "喉が痛い",
+      "furigana": "のどがいたい",
+      "romaji": "nodo ga itai",
+      "english": "Sore throat",
+      "sinhala": "උගුර රිදෙනවා",
+      "audio": {
+        "file_name": "e2_725_nodogaitai.mp3",
+        "track_id": "L15-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_725_nodogaitai.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_726",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Sensations",
+      "japanese": "痛い",
+      "furigana": "いたい",
+      "romaji": "itai",
+      "english": "Painful / Hurts",
+      "sinhala": "රිදෙනවා",
+      "audio": {
+        "file_name": "e2_726_itai.mp3",
+        "track_id": "L15-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_726_itai.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_727",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Sensations",
+      "japanese": "痒い",
+      "furigana": "かゆい",
+      "romaji": "kayui",
+      "english": "Itchy",
+      "sinhala": "කසනවා",
+      "audio": {
+        "file_name": "e2_727_kayui.mp3",
+        "track_id": "L15-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_727_kayui.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_728",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Physical States",
+      "japanese": "腫れる",
+      "furigana": "はれる",
+      "romaji": "hareru",
+      "english": "To swell / become swollen",
+      "sinhala": "ඉදිමෙනවා",
+      "audio": {
+        "file_name": "e2_728_hareru.mp3",
+        "track_id": "L15-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_728_hareru.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_729",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Injuries",
+      "japanese": "怪我",
+      "furigana": "けが",
+      "romaji": "kega",
+      "english": "Injury / Wound",
+      "sinhala": "තුවාලය / තුවාල වීම",
+      "audio": {
+        "file_name": "e2_729_kega.mp3",
+        "track_id": "L15-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_729_kega.png",
+        "category": "injuries",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_730",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Injuries",
+      "japanese": "火傷",
+      "furigana": "やけど",
+      "romaji": "yakedo",
+      "english": "Burn / Scald",
+      "sinhala": "පිලිස්සීම",
+      "audio": {
+        "file_name": "e2_730_yakedo.mp3",
+        "track_id": "L15-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_730_yakedo.png",
+        "category": "injuries",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_731",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Injuries",
+      "japanese": "骨折",
+      "furigana": "こっせつ",
+      "romaji": "kossetsu",
+      "english": "Bone fracture",
+      "sinhala": "ඇට බිඳීමක්",
+      "audio": {
+        "file_name": "e2_731_kossetsu.mp3",
+        "track_id": "L15-V31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_731_kossetsu.png",
+        "category": "injuries",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_732",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Injuries",
+      "japanese": "捻挫",
+      "furigana": "ねんざ",
+      "romaji": "nenza",
+      "english": "Sprain",
+      "sinhala": "උළුක්කුව",
+      "audio": {
+        "file_name": "e2_732_nenza.mp3",
+        "track_id": "L15-V32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_732_nenza.png",
+        "category": "injuries",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_733",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Injuries",
+      "japanese": "切り傷",
+      "furigana": "きりきず",
+      "romaji": "kirikizu",
+      "english": "Cut / Incision",
+      "sinhala": "කැපුම් තුවාලය",
+      "audio": {
+        "file_name": "e2_733_kirikizu.mp3",
+        "track_id": "L15-V33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_733_kirikizu.png",
+        "category": "injuries",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_734",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Injuries",
+      "japanese": "擦り傷",
+      "furigana": "すりきず",
+      "romaji": "surikizu",
+      "english": "Graze / Scratch",
+      "sinhala": "හීරීම් තුවාලය",
+      "audio": {
+        "file_name": "e2_734_surikizu.mp3",
+        "track_id": "L15-V34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_734_surikizu.png",
+        "category": "injuries",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_735",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Bleeding",
+      "japanese": "血",
+      "furigana": "ち",
+      "romaji": "chi",
+      "english": "Blood",
+      "sinhala": "ලේ",
+      "audio": {
+        "file_name": "e2_735_chi.mp3",
+        "track_id": "L15-V35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_735_chi.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_736",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Bleeding",
+      "japanese": "血が出る",
+      "furigana": "ちがでる",
+      "romaji": "chi ga deru",
+      "english": "To bleed",
+      "sinhala": "ලේ ගලනවා",
+      "audio": {
+        "file_name": "e2_736_chigaderu.mp3",
+        "track_id": "L15-V36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_736_chigaderu.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_737",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Skin & Insect",
+      "japanese": "虫刺され",
+      "furigana": "むしさされ",
+      "romaji": "mushisasare",
+      "english": "Insect bite",
+      "sinhala": "කෘමීන් දෂ්ට කිරීම",
+      "audio": {
+        "file_name": "e2_737_mushisasare.mp3",
+        "track_id": "L15-V37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_737_mushisasare.png",
+        "category": "injuries",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_738",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Dental",
+      "japanese": "虫歯",
+      "furigana": "むしば",
+      "romaji": "mushiba",
+      "english": "Cavity / Decayed tooth",
+      "sinhala": "දත් දිරායාම",
+      "audio": {
+        "file_name": "e2_738_mushiba.mp3",
+        "track_id": "L15-V38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_738_mushiba.png",
+        "category": "dental",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_739",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Breathing",
+      "japanese": "息苦しい",
+      "furigana": "いきぐるしい",
+      "romaji": "ikigurushii",
+      "english": "Short of breath / Hard to breathe",
+      "sinhala": "හුස්ම ගැනීමේ අපහසුව",
+      "audio": {
+        "file_name": "e2_739_ikigurushii.mp3",
+        "track_id": "L15-V39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_739_ikigurushii.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_740",
+      "lesson": 15,
+      "main_topic": "24. 体調と病気の症状 / Physical Condition & Symptoms",
+      "sub_topic": "Sensations",
+      "japanese": "ズキズキする",
+      "furigana": "ズキズキする",
+      "romaji": "zukizuki suru",
+      "english": "To throb with pain",
+      "sinhala": "නහර ගැහෙන වේදනාවක් ඇතිවීම",
+      "audio": {
+        "file_name": "e2_740_zukizukisuru.mp3",
+        "track_id": "L15-V40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_740_zukizukisuru.png",
+        "category": "symptoms",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_741",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Facilities",
+      "japanese": "病院",
+      "furigana": "びょういん",
+      "romaji": "byouin",
+      "english": "Hospital",
+      "sinhala": "රෝහල",
+      "audio": {
+        "file_name": "e2_741_byouin.mp3",
+        "track_id": "L16-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_741_byouin.png",
+        "category": "medical_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_742",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Facilities",
+      "japanese": "クリニック",
+      "furigana": "クリニック",
+      "romaji": "kurinikku",
+      "english": "Clinic",
+      "sinhala": "සායනය (ක්ලිනික්)",
+      "audio": {
+        "file_name": "e2_742_kurinikku.mp3",
+        "track_id": "L16-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_742_kurinikku.png",
+        "category": "medical_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_743",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Facilities",
+      "japanese": "医院",
+      "furigana": "いいん",
+      "romaji": "iin",
+      "english": "Doctor's office / Medical clinic",
+      "sinhala": "වෛද්‍ය සායනය",
+      "audio": {
+        "file_name": "e2_743_iin.mp3",
+        "track_id": "L16-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_743_iin.png",
+        "category": "medical_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_744",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Facilities",
+      "japanese": "救急病院",
+      "furigana": "きゅうきゅうびょういん",
+      "romaji": "kyuukyuubyouin",
+      "english": "Emergency hospital",
+      "sinhala": "හදිසි ප්‍රතිකාර රෝහල",
+      "audio": {
+        "file_name": "e2_744_kyuukyuubyouin.mp3",
+        "track_id": "L16-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_744_kyuukyuubyouin.png",
+        "category": "medical_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_745",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Medical Departments",
+      "japanese": "内科",
+      "furigana": "ないか",
+      "romaji": "naika",
+      "english": "Internal medicine",
+      "sinhala": "කායික රෝග අංශය",
+      "audio": {
+        "file_name": "e2_745_naika.mp3",
+        "track_id": "L16-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_745_naika.png",
+        "category": "departments",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_746",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Medical Departments",
+      "japanese": "外科",
+      "furigana": "げか",
+      "romaji": "geka",
+      "english": "Surgery department",
+      "sinhala": "ශල්‍ය වෛද්‍ය අංශය",
+      "audio": {
+        "file_name": "e2_746_geka.mp3",
+        "track_id": "L16-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_746_geka.png",
+        "category": "departments",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_747",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Medical Departments",
+      "japanese": "整形外科",
+      "furigana": "せいけいげか",
+      "romaji": "seikeigeka",
+      "english": "Orthopedic surgery",
+      "sinhala": "අස්ථි හා සන්ධි ශල්‍ය අංශය",
+      "audio": {
+        "file_name": "e2_747_seikeigeka.mp3",
+        "track_id": "L16-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_747_seikeigeka.png",
+        "category": "departments",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_748",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Medical Departments",
+      "japanese": "眼科",
+      "furigana": "がんか",
+      "romaji": "ganka",
+      "english": "Ophthalmology / Eye clinic",
+      "sinhala": "නේත්‍ර (ඇස්) රෝග අංශය",
+      "audio": {
+        "file_name": "e2_748_ganka.mp3",
+        "track_id": "L16-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_748_ganka.png",
+        "category": "departments",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_749",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Medical Departments",
+      "japanese": "耳鼻科",
+      "furigana": "じびか",
+      "romaji": "jibika",
+      "english": "ENT (Ear, Nose, Throat) clinic",
+      "sinhala": "කන්, නාසා, උගුර අංශය",
+      "audio": {
+        "file_name": "e2_749_jibika.mp3",
+        "track_id": "L16-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_749_jibika.png",
+        "category": "departments",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_750",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Medical Departments",
+      "japanese": "皮膚科",
+      "furigana": "ひふか",
+      "romaji": "hifuka",
+      "english": "Dermatology / Skin clinic",
+      "sinhala": "චර්ම (සම) රෝග අංශය",
+      "audio": {
+        "file_name": "e2_750_hifuka.mp3",
+        "track_id": "L16-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_750_hifuka.png",
+        "category": "departments",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_751",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Medical Departments",
+      "japanese": "歯科",
+      "furigana": "しか",
+      "romaji": "shika",
+      "english": "Dentistry / Dental clinic",
+      "sinhala": "දන්ත වෛද්‍ය අංශය",
+      "audio": {
+        "file_name": "e2_751_shika.mp3",
+        "track_id": "L16-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_751_shika.png",
+        "category": "departments",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_752",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Medical Departments",
+      "japanese": "小児科",
+      "furigana": "しょうにか",
+      "romaji": "shounika",
+      "english": "Pediatrics (children's clinic)",
+      "sinhala": "ළමා රෝග අංශය",
+      "audio": {
+        "file_name": "e2_752_shounika.mp3",
+        "track_id": "L16-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_752_shounika.png",
+        "category": "departments",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_753",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Medical Personnel",
+      "japanese": "医師",
+      "furigana": "いし",
+      "romaji": "ishi",
+      "english": "Physician / Medical doctor",
+      "sinhala": "වෛද්‍යවරයා",
+      "audio": {
+        "file_name": "e2_753_ishi.mp3",
+        "track_id": "L16-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_753_ishi.png",
+        "category": "medical_personnel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_754",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Medical Personnel",
+      "japanese": "看護師",
+      "furigana": "かんごし",
+      "romaji": "kangoshi",
+      "english": "Nurse",
+      "sinhala": "හෙදිය",
+      "audio": {
+        "file_name": "e2_754_kangoshi.mp3",
+        "track_id": "L16-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_754_kangoshi.png",
+        "category": "medical_personnel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_755",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Medical Personnel",
+      "japanese": "薬剤師",
+      "furigana": "やくざいし",
+      "romaji": "yakuzaishi",
+      "english": "Pharmacist",
+      "sinhala": "ඖෂධවේදියා",
+      "audio": {
+        "file_name": "e2_755_yakuzaishi.mp3",
+        "track_id": "L16-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_755_yakuzaishi.png",
+        "category": "medical_personnel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_756",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Patients & Reception",
+      "japanese": "患者",
+      "furigana": "かんじゃ",
+      "romaji": "kanja",
+      "english": "Patient",
+      "sinhala": "රෝගියා",
+      "audio": {
+        "file_name": "e2_756_kanja.mp3",
+        "track_id": "L16-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_756_kanja.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_757",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Patients & Reception",
+      "japanese": "受付",
+      "furigana": "うけつけ",
+      "romaji": "uketsuke",
+      "english": "Reception desk",
+      "sinhala": "පිළිගැනීමේ කවුන්ටරය",
+      "audio": {
+        "file_name": "e2_757_uketsuke.mp3",
+        "track_id": "L16-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_757_uketsuke.png",
+        "category": "hospital",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_758",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Patients & Reception",
+      "japanese": "待合室",
+      "furigana": "まちあいしつ",
+      "romaji": "machiaishitsu",
+      "english": "Waiting room",
+      "sinhala": "රැඳී සිටින කාමරය",
+      "audio": {
+        "file_name": "e2_758_machiaishitsu.mp3",
+        "track_id": "L16-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_758_machiaishitsu.png",
+        "category": "hospital",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_759",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Patients & Reception",
+      "japanese": "診察室",
+      "furigana": "しんさつしつ",
+      "romaji": "shinsatsushitsu",
+      "english": "Examination room",
+      "sinhala": "වෛද්‍ය පරීක්ෂණ කාමරය",
+      "audio": {
+        "file_name": "e2_759_shinsatsushitsu.mp3",
+        "track_id": "L16-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_759_shinsatsushitsu.png",
+        "category": "hospital",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_760",
+      "lesson": 16,
+      "main_topic": "25. 病院と診療科目 / Hospitals & Medical Departments",
+      "sub_topic": "Pharmacy",
+      "japanese": "薬局",
+      "furigana": "やっきょく",
+      "romaji": "yakkyoku",
+      "english": "Pharmacy / Chemist",
+      "sinhala": "ෆාමසිය / බෙහෙත් ශාලාව",
+      "audio": {
+        "file_name": "e2_760_yakkyoku.mp3",
+        "track_id": "L16-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_760_yakkyoku.png",
+        "category": "medical_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_761",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Procedures",
+      "japanese": "診察",
+      "furigana": "しんさつ",
+      "romaji": "shinsatsu",
+      "english": "Medical examination / Consultation",
+      "sinhala": "වෛද්‍ය පරීක්ෂාව",
+      "audio": {
+        "file_name": "e2_761_shinsatsu.mp3",
+        "track_id": "L16-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_761_shinsatsu.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_762",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Procedures",
+      "japanese": "検査",
+      "furigana": "けんさ",
+      "romaji": "kensa",
+      "english": "Medical test / Checkup",
+      "sinhala": "පරීක්ෂණය (ලෙඩ රෝග)",
+      "audio": {
+        "file_name": "e2_762_kensa.mp3",
+        "track_id": "L16-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_762_kensa.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_763",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Procedures",
+      "japanese": "レントゲン",
+      "furigana": "レントゲン",
+      "romaji": "rentogen",
+      "english": "X-ray",
+      "sinhala": "එක්ස්-රේ පරීක්ෂණය",
+      "audio": {
+        "file_name": "e2_763_rentogen.mp3",
+        "track_id": "L16-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_763_rentogen.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_764",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Procedures",
+      "japanese": "注射",
+      "furigana": "ちゅうしゃ",
+      "romaji": "chuusha",
+      "english": "Injection / Shot",
+      "sinhala": "එන්නත (ඉන්ජෙක්ෂන් එක)",
+      "audio": {
+        "file_name": "e2_764_chuusha.mp3",
+        "track_id": "L16-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_764_chuusha.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_765",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Procedures",
+      "japanese": "点滴",
+      "furigana": "てんてき",
+      "romaji": "tenteki",
+      "english": "IV drip / Intravenous drip",
+      "sinhala": "සේලයින් දීම (IV drip)",
+      "audio": {
+        "file_name": "e2_765_tenteki.mp3",
+        "track_id": "L16-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_765_tenteki.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_766",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Procedures",
+      "japanese": "手術",
+      "furigana": "しゅじゅつ",
+      "romaji": "shujutsu",
+      "english": "Surgery / Operation",
+      "sinhala": "ශල්‍යකර්මය (ඔපරේෂන් එක)",
+      "audio": {
+        "file_name": "e2_766_shujutsu.mp3",
+        "track_id": "L16-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_766_shujutsu.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_767",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Hospitalization",
+      "japanese": "入院",
+      "furigana": "にゅういん",
+      "romaji": "nyuuin",
+      "english": "Hospitalization",
+      "sinhala": "රෝහල්ගත වීම",
+      "audio": {
+        "file_name": "e2_767_nyuuin.mp3",
+        "track_id": "L16-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_767_nyuuin.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_768",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Hospitalization",
+      "japanese": "退院",
+      "furigana": "たいいん",
+      "romaji": "taiin",
+      "english": "Discharge from hospital",
+      "sinhala": "සුවය ලබා රෝහලෙන් පිටවීම",
+      "audio": {
+        "file_name": "e2_768_taiin.mp3",
+        "track_id": "L16-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_768_taiin.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_769",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Documents",
+      "japanese": "処方箋",
+      "furigana": "しょほうせん",
+      "romaji": "shohousen",
+      "english": "Prescription",
+      "sinhala": "බෙහෙත් වට්ටෝරුව (තුණ්ඩුව)",
+      "audio": {
+        "file_name": "e2_769_shohousen.mp3",
+        "track_id": "L16-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_769_shohousen.png",
+        "category": "documents",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_770",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Documents",
+      "japanese": "保険証",
+      "furigana": "ほけんしょう",
+      "romaji": "hokenshou",
+      "english": "Health insurance card",
+      "sinhala": "සෞඛ්‍ය රක්ෂණ කාඩ්පත",
+      "audio": {
+        "file_name": "e2_770_hokenshou.mp3",
+        "track_id": "L16-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_770_hokenshou.png",
+        "category": "documents",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_771",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Documents",
+      "japanese": "お薬手帳",
+      "furigana": "おくすりてちょう",
+      "romaji": "okusuritechou",
+      "english": "Medication record notebook",
+      "sinhala": "බෙහෙත් විස්තර සටහන් පොත",
+      "audio": {
+        "file_name": "e2_771_okusuritechou.mp3",
+        "track_id": "L16-V31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_771_okusuritechou.png",
+        "category": "documents",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_772",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Documents",
+      "japanese": "問診票",
+      "furigana": "もんしんひょう",
+      "romaji": "monshinhyou",
+      "english": "Medical questionnaire / Interview sheet",
+      "sinhala": "රෝග ලක්ෂණ විමසීමේ ප්‍රශ්නාවලිය",
+      "audio": {
+        "file_name": "e2_772_monshinhyou.mp3",
+        "track_id": "L16-V32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_772_monshinhyou.png",
+        "category": "documents",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_773",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Medicine Types",
+      "japanese": "錠剤",
+      "furigana": "じょうざい",
+      "romaji": "jouzai",
+      "english": "Tablet / Pill",
+      "sinhala": "පෙති",
+      "audio": {
+        "file_name": "e2_773_jouzai.mp3",
+        "track_id": "L16-V33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_773_jouzai.png",
+        "category": "medicine",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_774",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Medicine Types",
+      "japanese": "カプセル",
+      "furigana": "カプセル",
+      "romaji": "kapuseru",
+      "english": "Capsule",
+      "sinhala": "කරල් (කැප්සියුල්)",
+      "audio": {
+        "file_name": "e2_774_kapuseru.mp3",
+        "track_id": "L16-V34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_774_kapuseru.png",
+        "category": "medicine",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_775",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Medicine Types",
+      "japanese": "粉薬",
+      "furigana": "こなぐすり",
+      "romaji": "konagusuri",
+      "english": "Powdered medicine",
+      "sinhala": "කුඩු බෙහෙත්",
+      "audio": {
+        "file_name": "e2_775_konagusuri.mp3",
+        "track_id": "L16-V35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_775_konagusuri.png",
+        "category": "medicine",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_776",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Medicine Types",
+      "japanese": "シロップ",
+      "furigana": "シロップ",
+      "romaji": "shiroppu",
+      "english": "Syrup / Liquid medicine",
+      "sinhala": "දියර ඖෂධ (සිරප්)",
+      "audio": {
+        "file_name": "e2_776_shiroppu.mp3",
+        "track_id": "L16-V36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_776_shiroppu.png",
+        "category": "medicine",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_777",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Medicine Types",
+      "japanese": "湿布",
+      "furigana": "しっぷ",
+      "romaji": "shippu",
+      "english": "Pain relief patch / Compress",
+      "sinhala": "වේදනා නාශක පැලැස්තර",
+      "audio": {
+        "file_name": "e2_777_shippu.mp3",
+        "track_id": "L16-V37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_777_shippu.png",
+        "category": "medicine",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_778",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Medicine Types",
+      "japanese": "塗り薬",
+      "furigana": "ぬりぐすり",
+      "romaji": "nurigusuri",
+      "english": "Ointment / Medicated cream",
+      "sinhala": "ආලේපන (ක්‍රීම්/තෙල්)",
+      "audio": {
+        "file_name": "e2_778_nurigusuri.mp3",
+        "track_id": "L16-V38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_778_nurigusuri.png",
+        "category": "medicine",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_779",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Medicine Types",
+      "japanese": "目薬",
+      "furigana": "めぐすり",
+      "romaji": "megusuri",
+      "english": "Eye drops",
+      "sinhala": "ඇස් බෙහෙත් බිංදු",
+      "audio": {
+        "file_name": "e2_779_megusuri.mp3",
+        "track_id": "L16-V39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_779_megusuri.png",
+        "category": "medicine",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_780",
+      "lesson": 16,
+      "main_topic": "26. 医療処置と薬 / Medical Procedures & Medications",
+      "sub_topic": "Medicine Types",
+      "japanese": "うがい薬",
+      "furigana": "うがいぐすり",
+      "romaji": "ugaigusuri",
+      "english": "Gargle solution / Mouthwash",
+      "sinhala": "උගුර සෝදන ඖෂධීය දියර",
+      "audio": {
+        "file_name": "e2_780_ugaigusuri.mp3",
+        "track_id": "L16-V40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_780_ugaigusuri.png",
+        "category": "medicine",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_781",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Doctor Consultation",
+      "japanese": "どうしましたか",
+      "furigana": "どうしましたか",
+      "romaji": "dou shimashita ka",
+      "english": "What seems to be the problem?",
+      "sinhala": "මොකක්ද තියෙන අමාරුව?",
+      "audio": {
+        "file_name": "e2_781_doushimashitaka.mp3",
+        "track_id": "L16-EX01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_781_doushimashitaka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_782",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Doctor Consultation",
+      "japanese": "いつからですか",
+      "furigana": "いつからですか",
+      "romaji": "itsu kara desu ka",
+      "english": "Since when have you felt this way?",
+      "sinhala": "කවදා සිටද අමාරුව තිබෙන්නේ?",
+      "audio": {
+        "file_name": "e2_782_itsukaradesuka.mp3",
+        "track_id": "L16-EX02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_782_itsukaradesuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_783",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Doctor Consultation",
+      "japanese": "昨日の夜からです",
+      "furigana": "きのうのよるからです",
+      "romaji": "kinou no yoru kara desu",
+      "english": "Since yesterday evening",
+      "sinhala": "ඊයේ රෑ ඉඳලා",
+      "audio": {
+        "file_name": "e2_783_kinounoyorukaradesu.mp3",
+        "track_id": "L16-EX03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_783_kinounoyorukaradesu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_784",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Doctor Examination",
+      "japanese": "熱を測ってください",
+      "furigana": "ねつをはかってください",
+      "romaji": "netsu o hakatte kudasai",
+      "english": "Please take your temperature",
+      "sinhala": "කරුණාකර උණ මැනගන්න",
+      "audio": {
+        "file_name": "e2_784_netsuohakattekudasai.mp3",
+        "track_id": "L16-EX04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_784_netsuohakattekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_785",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Doctor Examination",
+      "japanese": "口を開けてください",
+      "furigana": "くちをあけてください",
+      "romaji": "kuchi o akete kudasai",
+      "english": "Please open your mouth",
+      "sinhala": "කරුණාකර කට අරින්න",
+      "audio": {
+        "file_name": "e2_785_kuchioaketekudasai.mp3",
+        "track_id": "L16-EX05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_785_kuchioaketekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_786",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Doctor Examination",
+      "japanese": "息を吸ってください",
+      "furigana": "いきをすってください",
+      "romaji": "iki o sutte kudasai",
+      "english": "Please breathe in",
+      "sinhala": "කරුණාකර හුස්ම ගන්න",
+      "audio": {
+        "file_name": "e2_786_ikiosuttekudasai.mp3",
+        "track_id": "L16-EX06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_786_ikiosuttekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_787",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Doctor Examination",
+      "japanese": "ここを押すと痛いですか",
+      "furigana": "ここをおすといたいですか",
+      "romaji": "koko o osu to itai desu ka",
+      "english": "Does it hurt when I press here?",
+      "sinhala": "මෙතැන ඔබද්දී රිදෙනවාද?",
+      "audio": {
+        "file_name": "e2_787_kokooosutoitaidesuka.mp3",
+        "track_id": "L16-EX07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_787_kokooosutoitaidesuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_788",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Allergies & History",
+      "japanese": "アレルギーはありますか",
+      "furigana": "アレルギーはありますか",
+      "romaji": "arerugii wa arimasu ka",
+      "english": "Do you have any allergies?",
+      "sinhala": "ඔබට කිසියම් ආසාත්මිකතාවයක් තිබේද?",
+      "audio": {
+        "file_name": "e2_788_arergiiwaarimasuka.mp3",
+        "track_id": "L16-EX08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_788_arergiiwaarimasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_789",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Allergies & History",
+      "japanese": "薬のアレルギーがあります",
+      "furigana": "くすりのアレルギーがあります",
+      "romaji": "kusuri no arerugii ga arimasu",
+      "english": "I have a drug/medication allergy",
+      "sinhala": "මට ඖෂධ ආසාත්මිකතාවයක් තිබෙනවා",
+      "audio": {
+        "file_name": "e2_789_kusurinoarerugiigaarimasu.mp3",
+        "track_id": "L16-EX09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_789_kusurinoarerugiigaarimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_790",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Medication Timing",
+      "japanese": "食前",
+      "furigana": "しょくぜん",
+      "romaji": "shokuzen",
+      "english": "Before meals",
+      "sinhala": "කෑමට පෙර",
+      "audio": {
+        "file_name": "e2_790_shokuzen.mp3",
+        "track_id": "L16-EX10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_790_shokuzen.png",
+        "category": "instructions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_791",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Medication Timing",
+      "japanese": "食後",
+      "furigana": "しょくご",
+      "romaji": "shokugo",
+      "english": "After meals",
+      "sinhala": "කෑමට පසු",
+      "audio": {
+        "file_name": "e2_791_shokugo.mp3",
+        "track_id": "L16-EX11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_791_shokugo.png",
+        "category": "instructions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_792",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Medication Timing",
+      "japanese": "食間",
+      "furigana": "しょっかん",
+      "romaji": "shokkan",
+      "english": "Between meals (about 2h after meal)",
+      "sinhala": "කෑම වේල් දෙකක් අතරමැද",
+      "audio": {
+        "file_name": "e2_792_shokkan.mp3",
+        "track_id": "L16-EX12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_792_shokkan.png",
+        "category": "instructions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_793",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Medication Dosage",
+      "japanese": "1日3回",
+      "furigana": "いちにちさんかい",
+      "romaji": "ichinichi sankai",
+      "english": "Three times a day",
+      "sinhala": "දිනකට තුන් වරක්",
+      "audio": {
+        "file_name": "e2_793_ichinichisankai.mp3",
+        "track_id": "L16-EX13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_793_ichinichisankai.png",
+        "category": "instructions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_794",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Medication Dosage",
+      "japanese": "1回2錠",
+      "furigana": "いっかいにじょう",
+      "romaji": "ikkai nijou",
+      "english": "Two pills per dose",
+      "sinhala": "වරකට පෙති දෙකක්",
+      "audio": {
+        "file_name": "e2_794_ikkainijou.mp3",
+        "track_id": "L16-EX14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_794_ikkainijou.png",
+        "category": "instructions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_795",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Medication Advice",
+      "japanese": "水で飲んでください",
+      "furigana": "みずでのんでください",
+      "romaji": "mizu de nonde kudasai",
+      "english": "Please take with water",
+      "sinhala": "කරුණාකර වතුර සමඟ බොන්න",
+      "audio": {
+        "file_name": "e2_795_mizudenondekudasai.mp3",
+        "track_id": "L16-EX15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_795_mizudenondekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_796",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Doctor's Advice",
+      "japanese": "無理をしないでください",
+      "furigana": "むりをしないでください",
+      "romaji": "muri o shinaide kudasai",
+      "english": "Please don't overdo it / take it easy",
+      "sinhala": "වෙහෙසට පත්වන ලෙස පමණ ඉක්මවා වැඩ කරන්න එපා",
+      "audio": {
+        "file_name": "e2_796_murioshinaidekudasai.mp3",
+        "track_id": "L16-EX16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_796_murioshinaidekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_797",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Doctor's Advice",
+      "japanese": "安静にしてください",
+      "furigana": "あんせいにしてください",
+      "romaji": "ansei ni shite kudasai",
+      "english": "Please rest quietly / stay in bed",
+      "sinhala": "කරුණාකර විවේකීව නිශ්ශබ්දව ඉන්න",
+      "audio": {
+        "file_name": "e2_797_anseinishitekudasai.mp3",
+        "track_id": "L16-EX17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_797_anseinishitekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_798",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Doctor's Advice",
+      "japanese": "お大事に",
+      "furigana": "おだいじに",
+      "romaji": "odaiji ni",
+      "english": "Take good care of yourself / Get well soon",
+      "sinhala": "ඉක්මනින් සනීප වෙන්න / පරිස්සම් වන්න",
+      "audio": {
+        "file_name": "e2_798_odaijini.mp3",
+        "track_id": "L16-EX18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_798_odaijini.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_799",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Patient Gratitude",
+      "japanese": "ありがとうございました",
+      "furigana": "ありがとうございました",
+      "romaji": "arigatou gozaimashita",
+      "english": "Thank you very much (after exam/visit)",
+      "sinhala": "බොහෝම ස්තූතියි",
+      "audio": {
+        "file_name": "e2_799_arigatougozaimashita.mp3",
+        "track_id": "L16-EX19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_799_arigatougozaimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_800",
+      "lesson": 16,
+      "main_topic": "27. 診察と服薬の表現 / Medical Consultation & Medication Phrases",
+      "sub_topic": "Appointment Follow-up",
+      "japanese": "また来週来てください",
+      "furigana": "またらいしゅうきてください",
+      "romaji": "mata raishuu kite kudasai",
+      "english": "Please come again next week",
+      "sinhala": "නැවත ලබන සතියේ එන්න",
+      "audio": {
+        "file_name": "e2_800_mataraishuukitekudasai.mp3",
+        "track_id": "L16-EX20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_800_mataraishuukitekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    }
+  ]
+}

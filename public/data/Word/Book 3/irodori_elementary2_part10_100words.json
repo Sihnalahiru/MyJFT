@@ -1,0 +1,2108 @@
+{
+  "level": "Irodori Elementary 2 (A2)",
+  "part": "Part 10",
+  "total_words": 100,
+  "coverage": "Social relationships, etiquette, workplace speech styles, honorific basics, formal requests, and professional interaction with full Audio & Illustration mapping (Words 901-1000).",
+  "vocabulary": [
+    {
+      "id": "e2_901",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Relationships",
+      "japanese": "人間関係",
+      "furigana": "にんげんかんけい",
+      "romaji": "ningenkankei",
+      "english": "Human relationships / Interpersonal relations",
+      "sinhala": "පුද්ගල සබඳතා / මානව සබඳතා",
+      "audio": {
+        "file_name": "e2_901_ningenkankei.mp3",
+        "track_id": "L17-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_901_ningenkankei.png",
+        "category": "social",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_902",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Relationships",
+      "japanese": "上下関係",
+      "furigana": "じょうげかんけい",
+      "romaji": "jougekankei",
+      "english": "Hierarchical relationship / Senior-junior dynamics",
+      "sinhala": "ජ්‍යෙෂ්ඨ-කනිෂ්ඨ සබඳතාව / ධුරාවලිය",
+      "audio": {
+        "file_name": "e2_902_jougekankei.mp3",
+        "track_id": "L17-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_902_jougekankei.png",
+        "category": "social",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_903",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Relationships",
+      "japanese": "相手",
+      "furigana": "あいて",
+      "romaji": "aite",
+      "english": "Other person / Partner / Counterpart",
+      "sinhala": "අනෙක් පාර්ශ්වය / අනෙක් පුද්ගලයා",
+      "audio": {
+        "file_name": "e2_903_aite.mp3",
+        "track_id": "L17-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_903_aite.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_904",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Relationships",
+      "japanese": "仲間",
+      "furigana": "なかま",
+      "romaji": "nakama",
+      "english": "Colleague / Peer / Circle",
+      "sinhala": "මිතුරු කණ්ඩායම / සගයා",
+      "audio": {
+        "file_name": "e2_904_nakama.mp3",
+        "track_id": "L17-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_904_nakama.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_905",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Relationships",
+      "japanese": "信頼",
+      "furigana": "しんらい",
+      "romaji": "shinrai",
+      "english": "Trust / Confidence",
+      "sinhala": "විශ්වාසය / විශ්වාසනීයත්වය",
+      "audio": {
+        "file_name": "e2_905_shinrai.mp3",
+        "track_id": "L17-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_905_shinrai.png",
+        "category": "social",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_906",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Relationships",
+      "japanese": "協力",
+      "furigana": "きょうりょく",
+      "romaji": "kyouryoku",
+      "english": "Cooperation / Teamwork",
+      "sinhala": "සහයෝගය / එකමුතුකම",
+      "audio": {
+        "file_name": "e2_906_kyouryoku.mp3",
+        "track_id": "L17-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_906_kyouryoku.png",
+        "category": "social",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_907",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Relationships",
+      "japanese": "遠慮",
+      "furigana": "えんりょ",
+      "romaji": "enryo",
+      "english": "Reserve / Restraint / Hesitation",
+      "sinhala": "පැකිලීම / පසුබට වීම",
+      "audio": {
+        "file_name": "e2_907_enryo.mp3",
+        "track_id": "L17-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_907_enryo.png",
+        "category": "social",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_908",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Relationships",
+      "japanese": "気遣い",
+      "furigana": "きづかい",
+      "romaji": "kidukai",
+      "english": "Attentiveness / Consideration",
+      "sinhala": "අනුන් ගැන සැලකිලිමත් වීම",
+      "audio": {
+        "file_name": "e2_908_kidukai.mp3",
+        "track_id": "L17-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_908_kidukai.png",
+        "category": "social",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_909",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Workplace Harmony",
+      "japanese": "コミュニケーション",
+      "furigana": "コミュニケーション",
+      "romaji": "komyunikeeshon",
+      "english": "Communication",
+      "sinhala": "සන්නිවේදනය",
+      "audio": {
+        "file_name": "e2_909_komyunikeeshon.mp3",
+        "track_id": "L17-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_909_komyunikeeshon.png",
+        "category": "social",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_910",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Workplace Harmony",
+      "japanese": "交流",
+      "furigana": "こうりゅう",
+      "romaji": "kouryuu",
+      "english": "Interaction / Networking",
+      "sinhala": "අන්තර් සබඳතා / ඇසුර",
+      "audio": {
+        "file_name": "e2_910_kouryuu.mp3",
+        "track_id": "L17-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_910_kouryuu.png",
+        "category": "social",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_911",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Workplace Harmony",
+      "japanese": "職場環境",
+      "furigana": "しょくばかんきょう",
+      "romaji": "shokubakankyou",
+      "english": "Workplace environment",
+      "sinhala": "සේවා පරිසරය",
+      "audio": {
+        "file_name": "e2_911_shokubakankyou.mp3",
+        "track_id": "L17-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_911_shokubakankyou.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_912",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Workplace Harmony",
+      "japanese": "雰囲気",
+      "furigana": "ふんいき",
+      "romaji": "fun'iki",
+      "english": "Atmosphere / Mood",
+      "sinhala": "වාතාවරණය / පරිසරය",
+      "audio": {
+        "file_name": "e2_912_fun'iki.mp3",
+        "track_id": "L17-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_912_fun'iki.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_913",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Workplace Harmony",
+      "japanese": "相談相手",
+      "furigana": "そうだんあいて",
+      "romaji": "soudan'aite",
+      "english": "Consultant / Person to talk to",
+      "sinhala": "උපදෙස් ලබාගත හැකි කෙනා",
+      "audio": {
+        "file_name": "e2_913_soudan'aite.mp3",
+        "track_id": "L17-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_913_soudan'aite.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_914",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Workplace Harmony",
+      "japanese": "仲が良い",
+      "furigana": "なかがいい",
+      "romaji": "naka ga ii",
+      "english": "On good terms / Close",
+      "sinhala": "හොඳ හිතවතුන් / සමීපයි",
+      "audio": {
+        "file_name": "e2_914_nakagai.mp3",
+        "track_id": "L17-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_914_nakagai.png",
+        "category": "social",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_915",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Workplace Harmony",
+      "japanese": "打ち解ける",
+      "furigana": "うちとける",
+      "romaji": "uchitokeru",
+      "english": "To open up / feel at home with",
+      "sinhala": "හිතවත් වෙනවා / විවෘතව කතාබහ කරනවා",
+      "audio": {
+        "file_name": "e2_915_uchitokeru.mp3",
+        "track_id": "L17-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_915_uchitokeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_916",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Etiquette Basics",
+      "japanese": "礼儀",
+      "furigana": "れいぎ",
+      "romaji": "reigi",
+      "english": "Manners / Courtesy / Politeness",
+      "sinhala": "ආචාරධර්ම / විනීතකම",
+      "audio": {
+        "file_name": "e2_916_reigi.mp3",
+        "track_id": "L17-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_916_reigi.png",
+        "category": "etiquette",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_917",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Etiquette Basics",
+      "japanese": "マナー",
+      "furigana": "マナー",
+      "romaji": "manaa",
+      "english": "Manner / Etiquette",
+      "sinhala": "යහපත් පුරුදු / මැනර්ස්",
+      "audio": {
+        "file_name": "e2_917_manaa.mp3",
+        "track_id": "L17-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_917_manaa.png",
+        "category": "etiquette",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_918",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Etiquette Basics",
+      "japanese": "作法",
+      "furigana": "さほう",
+      "romaji": "sahou",
+      "english": "Manners / Etiquette / Protocol",
+      "sinhala": "චාරිත්‍ර විධි / ආචාර පටිපාටිය",
+      "audio": {
+        "file_name": "e2_918_sahou.mp3",
+        "track_id": "L17-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_918_sahou.png",
+        "category": "etiquette",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_919",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Greetings & Gestures",
+      "japanese": "挨拶",
+      "furigana": "あいさつ",
+      "romaji": "aisatsu",
+      "english": "Greeting",
+      "sinhala": "ආචාර කිරීම",
+      "audio": {
+        "file_name": "e2_919_aisatsu.mp3",
+        "track_id": "L17-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_919_aisatsu.png",
+        "category": "etiquette",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_920",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Greetings & Gestures",
+      "japanese": "お辞儀",
+      "furigana": "おじぎ",
+      "romaji": "ojigi",
+      "english": "Bow / Bowing",
+      "sinhala": "හිස නමා ආචාර කිරීම (බෝ කිරීම)",
+      "audio": {
+        "file_name": "e2_920_ojigi.mp3",
+        "track_id": "L17-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_920_ojigi.png",
+        "category": "etiquette",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_921",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Appearance",
+      "japanese": "身だしなみ",
+      "furigana": "みだしなみ",
+      "romaji": "midashinami",
+      "english": "Personal appearance / Grooming",
+      "sinhala": "පිළිවෙළකට හැඳ පැළඳ සිටීම",
+      "audio": {
+        "file_name": "e2_921_midashinami.mp3",
+        "track_id": "L17-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_921_midashinami.png",
+        "category": "etiquette",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_922",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Appearance",
+      "japanese": "服装",
+      "furigana": "ふくそう",
+      "romaji": "fukusou",
+      "english": "Attire / Dress / Clothing",
+      "sinhala": "ඇඳුම් පැළඳුම් විලාසය",
+      "audio": {
+        "file_name": "e2_922_fukusou.mp3",
+        "track_id": "L17-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_922_fukusou.png",
+        "category": "clothing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_923",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Appearance",
+      "japanese": "清潔",
+      "furigana": "せいけつ",
+      "romaji": "seiketsu",
+      "english": "Cleanliness / Neatness",
+      "sinhala": "පිරිසිදුකම",
+      "audio": {
+        "file_name": "e2_923_seiketsu.mp3",
+        "track_id": "L17-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_923_seiketsu.png",
+        "category": "etiquette",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_924",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Business Etiquette",
+      "japanese": "名刺",
+      "furigana": "めいし",
+      "romaji": "meishi",
+      "english": "Business card",
+      "sinhala": "ව්‍යාපාරික කාඩ්පත (Business card)",
+      "audio": {
+        "file_name": "e2_924_meishi.mp3",
+        "track_id": "L17-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_924_meishi.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_925",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Business Etiquette",
+      "japanese": "名刺交換",
+      "furigana": "めいしこうかん",
+      "romaji": "meishikoukan",
+      "english": "Exchanging business cards",
+      "sinhala": "ව්‍යාපාරික කාඩ්පත් හුවමාරුව",
+      "audio": {
+        "file_name": "e2_925_meishikoukan.mp3",
+        "track_id": "L17-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_925_meishikoukan.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_926",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Visits",
+      "japanese": "訪問",
+      "furigana": "ほうもん",
+      "romaji": "houmon",
+      "english": "Visit / Call on",
+      "sinhala": "බැහැදැකීම / පැමිණීම",
+      "audio": {
+        "file_name": "e2_926_houmon.mp3",
+        "track_id": "L17-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_926_houmon.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_927",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Visits",
+      "japanese": "訪ねる",
+      "furigana": "たずねる",
+      "romaji": "tazuneru",
+      "english": "To visit (someone)",
+      "sinhala": "බලන්න යනවා / බැහැදකිනවා",
+      "audio": {
+        "file_name": "e2_927_tazuneru.mp3",
+        "track_id": "L17-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_927_tazuneru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_928",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Visits",
+      "japanese": "案内",
+      "furigana": "あんない",
+      "romaji": "annai",
+      "english": "Guidance / Showing around",
+      "sinhala": "මඟ පෙන්වීම",
+      "audio": {
+        "file_name": "e2_928_annai.mp3",
+        "track_id": "L17-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_928_annai.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_929",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Visits",
+      "japanese": "見送る",
+      "furigana": "みおくる",
+      "romaji": "miokuru",
+      "english": "To see someone off",
+      "sinhala": "ඇරලවනවා / සමුදෙනවා",
+      "audio": {
+        "file_name": "e2_929_miokuru.mp3",
+        "track_id": "L17-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_929_miokuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_930",
+      "lesson": 17,
+      "main_topic": "32. 人間関係と職場の礼儀 / Social Relationships & Etiquette",
+      "sub_topic": "Punctuality",
+      "japanese": "時間を守る",
+      "furigana": "じかんをまもる",
+      "romaji": "jikan o mamoru",
+      "english": "To be punctual / on time",
+      "sinhala": "වේලාවට වැඩ කිරීම",
+      "audio": {
+        "file_name": "e2_930_jikanomamoru.mp3",
+        "track_id": "L17-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_930_jikanomamoru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_931",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Speech Styles",
+      "japanese": "敬語",
+      "furigana": "けいご",
+      "romaji": "keigo",
+      "english": "Honorific language / Polite speech",
+      "sinhala": "ගෞරවාන්විත භාෂාව (කේගෝ)",
+      "audio": {
+        "file_name": "e2_931_keigo.mp3",
+        "track_id": "L18-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_931_keigo.png",
+        "category": "language",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_932",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Speech Styles",
+      "japanese": "丁寧語",
+      "furigana": "ていねいご",
+      "romaji": "teineigo",
+      "english": "Polite language (Desu/Masu)",
+      "sinhala": "විනීත භාෂාව (තෙයිනේගෝ)",
+      "audio": {
+        "file_name": "e2_932_teineigo.mp3",
+        "track_id": "L18-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_932_teineigo.png",
+        "category": "language",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_933",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Speech Styles",
+      "japanese": "尊敬語",
+      "furigana": "そんけいご",
+      "romaji": "sonkeigo",
+      "english": "Respectful language (elevating others)",
+      "sinhala": "ගෞරවාන්විත භාෂාව (අන් අයට ගරු කිරීමේ)",
+      "audio": {
+        "file_name": "e2_933_sonkeigo.mp3",
+        "track_id": "L18-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_933_sonkeigo.png",
+        "category": "language",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_934",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Speech Styles",
+      "japanese": "謙譲語",
+      "furigana": "けんじょうご",
+      "romaji": "kenjougo",
+      "english": "Humble language (lowering oneself)",
+      "sinhala": "නිහතමානී භාෂාව (තමා පහත් කර කතා කිරීමේ)",
+      "audio": {
+        "file_name": "e2_934_kenjougo.mp3",
+        "track_id": "L18-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_934_kenjougo.png",
+        "category": "language",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_935",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Speech Styles",
+      "japanese": "言葉遣い",
+      "furigana": "ことばづかい",
+      "romaji": "kotobadukai",
+      "english": "Choice of words / Way of speaking",
+      "sinhala": "වචන භාවිතය / කතා කරන විලාසය",
+      "audio": {
+        "file_name": "e2_935_kotobadukai.mp3",
+        "track_id": "L18-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_935_kotobadukai.png",
+        "category": "language",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_936",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Speech Styles",
+      "japanese": "敬称",
+      "furigana": "けいしょう",
+      "romaji": "keishou",
+      "english": "Title of honor (e.g. -sama, -san)",
+      "sinhala": "ගෞරව නාමය (සන්, සාමා ආදී)",
+      "audio": {
+        "file_name": "e2_936_keishou.mp3",
+        "track_id": "L18-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_936_keishou.png",
+        "category": "language",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_937",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Titles",
+      "japanese": "様",
+      "furigana": "さま",
+      "romaji": "sama",
+      "english": "Mr./Ms. (formal honorific suffix)",
+      "sinhala": "මයා / මිය (උසස් ගෞරව සම්ප්‍රයුක්ත)",
+      "audio": {
+        "file_name": "e2_937_sama.mp3",
+        "track_id": "L18-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_937_sama.png",
+        "category": "language",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_938",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Pronouns",
+      "japanese": "私ども",
+      "furigana": "わたくしども",
+      "romaji": "watakushidomo",
+      "english": "We / Us (humble business pronoun)",
+      "sinhala": "අපි (නිහතමානී ව්‍යාපාරික වචනය)",
+      "audio": {
+        "file_name": "e2_938_watakushidomo.mp3",
+        "track_id": "L18-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_938_watakushidomo.png",
+        "category": "language",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_939",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Pronouns",
+      "japanese": "弊社",
+      "furigana": "へいしゃ",
+      "romaji": "heisha",
+      "english": "Our company (humble)",
+      "sinhala": "අපගේ සමාගම (නිහතමානී)",
+      "audio": {
+        "file_name": "e2_939_heisha.mp3",
+        "track_id": "L18-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_939_heisha.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_940",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Pronouns",
+      "japanese": "御社",
+      "furigana": "おんしゃ",
+      "romaji": "onsha",
+      "english": "Your company (respectful spoken)",
+      "sinhala": "ඔබගේ සමාගම (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_940_onsha.mp3",
+        "track_id": "L18-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_940_onsha.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_941",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Speech Nuance",
+      "japanese": "丁寧",
+      "furigana": "ていねい",
+      "romaji": "teinei",
+      "english": "Polite / Courteous",
+      "sinhala": "විනීත / ආචාරශීලී",
+      "audio": {
+        "file_name": "e2_941_teinei.mp3",
+        "track_id": "L18-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_941_teinei.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_942",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Speech Nuance",
+      "japanese": "失礼",
+      "furigana": "しつれい",
+      "romaji": "shitsurei",
+      "english": "Impolite / Rude / Excuse me",
+      "sinhala": "අශිෂ්ට / අගෞරව / අවසරයි",
+      "audio": {
+        "file_name": "e2_942_shitsurei.mp3",
+        "track_id": "L18-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_942_shitsurei.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_943",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Speech Nuance",
+      "japanese": "親しい",
+      "furigana": "したしい",
+      "romaji": "shitashii",
+      "english": "Intimate / Close / Familiar",
+      "sinhala": "ළෙන්ගතු / සමීප",
+      "audio": {
+        "file_name": "e2_943_shitashii.mp3",
+        "track_id": "L18-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_943_shitashii.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_944",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Speech Nuance",
+      "japanese": "ため口",
+      "furigana": "ためぐち",
+      "romaji": "tameguchi",
+      "english": "Casual speech / Peer talk",
+      "sinhala": "මිතුරන් අතර කතාබහ / අනියම් භාෂාව",
+      "audio": {
+        "file_name": "e2_944_tameguchi.mp3",
+        "track_id": "L18-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_944_tameguchi.png",
+        "category": "language",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_945",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Prefixes",
+      "japanese": "お／ご",
+      "furigana": "お／ご",
+      "romaji": "o / go",
+      "english": "Polite honorific prefix",
+      "sinhala": "ගෞරවාන්විත පෙරපදය (ඔ/ගො)",
+      "audio": {
+        "file_name": "e2_945_ogo.mp3",
+        "track_id": "L18-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_945_ogo.png",
+        "category": "language",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_946",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Honorific Verbs",
+      "japanese": "おっしゃる",
+      "furigana": "おっしゃる",
+      "romaji": "ossharu",
+      "english": "To say (respectful for 言う)",
+      "sinhala": "පවසනවා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_946_ossharu.mp3",
+        "track_id": "L18-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_946_ossharu.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_947",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Honorific Verbs",
+      "japanese": "いらっしゃる",
+      "furigana": "いらっしゃる",
+      "romaji": "irassharu",
+      "english": "To be / go / come (respectful for いる/行く/来る)",
+      "sinhala": "සිටිනවා / යනවා / එනවා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_947_irassharu.mp3",
+        "track_id": "L18-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_947_irassharu.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_948",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Honorific Verbs",
+      "japanese": "なさる",
+      "furigana": "なさる",
+      "romaji": "nasaru",
+      "english": "To do (respectful for する)",
+      "sinhala": "සිදු කරනවා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_948_nasaru.mp3",
+        "track_id": "L18-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_948_nasaru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_949",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Honorific Verbs",
+      "japanese": "召し上がる",
+      "furigana": "めしあがる",
+      "romaji": "meshiagaru",
+      "english": "To eat / drink (respectful for 食べる/飲む)",
+      "sinhala": "අනුභව කරනවා / වළඳනවා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_949_meshiagaru.mp3",
+        "track_id": "L18-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_949_meshiagaru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_950",
+      "lesson": 18,
+      "main_topic": "33. 敬語と言葉遣い / Honorifics & Speech Styles",
+      "sub_topic": "Honorific Verbs",
+      "japanese": "ご覧になる",
+      "furigana": "ごらんになる",
+      "romaji": "goranninaru",
+      "english": "To look / see (respectful for 見る)",
+      "sinhala": "නරඹනවා / බලනවා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_950_goranninaru.mp3",
+        "track_id": "L18-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_950_goranninaru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_951",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Humble Verbs",
+      "japanese": "申す",
+      "furigana": "もうす",
+      "romaji": "mousu",
+      "english": "To say / be called (humble for 言う)",
+      "sinhala": "කියනවා / හඳුන්වනවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_951_mousu.mp3",
+        "track_id": "L18-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_951_mousu.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_952",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Humble Verbs",
+      "japanese": "申し上げる",
+      "furigana": "もうしあげる",
+      "romaji": "moushiageru",
+      "english": "To tell / express (humble to superior)",
+      "sinhala": "දන්වා සිටිනවා (ඉතා නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_952_moushiageru.mp3",
+        "track_id": "L18-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_952_moushiageru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_953",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Humble Verbs",
+      "japanese": "参る",
+      "furigana": "まいる",
+      "romaji": "mairu",
+      "english": "To go / come (humble for 行く/来る)",
+      "sinhala": "යනවා / එනවා (නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_953_mairu.mp3",
+        "track_id": "L18-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_953_mairu.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_954",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Humble Verbs",
+      "japanese": "伺う",
+      "furigana": "うかがう",
+      "romaji": "ukagau",
+      "english": "To visit / ask (humble)",
+      "sinhala": "බැහැදකිනවා / විමසනවා (නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_954_ukagau.mp3",
+        "track_id": "L18-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_954_ukagau.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_955",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Humble Verbs",
+      "japanese": "おる",
+      "furigana": "おる",
+      "romaji": "oru",
+      "english": "To be / exist (humble for いる)",
+      "sinhala": "ඉන්නවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_955_oru.mp3",
+        "track_id": "L18-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_955_oru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_956",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Humble Verbs",
+      "japanese": "いたす",
+      "furigana": "いたす",
+      "romaji": "itasu",
+      "english": "To do (humble for する)",
+      "sinhala": "කරනවා (නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_956_itasu.mp3",
+        "track_id": "L18-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_956_itasu.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_957",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Humble Verbs",
+      "japanese": "拝見する",
+      "furigana": "はいけんする",
+      "romaji": "haikensuru",
+      "english": "To look at / see (humble for 見る)",
+      "sinhala": "නරඹනවා / බලනවා (නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_957_haikensuru.mp3",
+        "track_id": "L18-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_957_haikensuru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_958",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Humble Verbs",
+      "japanese": "存じる",
+      "furigana": "ぞんじる",
+      "romaji": "zonjiru",
+      "english": "To know / think (humble for 知る/思う)",
+      "sinhala": "දන්නවා / හිතනවා (නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_958_zonjiru.mp3",
+        "track_id": "L18-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_958_zonjiru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_959",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Humble Verbs",
+      "japanese": "いただく",
+      "furigana": "いただく",
+      "romaji": "itadaku",
+      "english": "To receive / eat (humble for もらう/食べる)",
+      "sinhala": "ලබාගන්නවා / කනවා (නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_959_itadaku.mp3",
+        "track_id": "L18-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_959_itadaku.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_960",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Humble Verbs",
+      "japanese": "お目にかかる",
+      "furigana": "おめにかかる",
+      "romaji": "omenikakaru",
+      "english": "To meet (humble for 会う)",
+      "sinhala": "හමුවෙනවා (උසස් කෙනෙකු නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_960_omenikakaru.mp3",
+        "track_id": "L18-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_960_omenikakaru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_961",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Giving & Receiving",
+      "japanese": "差し上げる",
+      "furigana": "さしあげる",
+      "romaji": "sashiageru",
+      "english": "To give (humble for あげる)",
+      "sinhala": "දෙනවා / පිරිනමනවා (නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_961_sashiageru.mp3",
+        "track_id": "L18-V31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_961_sashiageru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_962",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Giving & Receiving",
+      "japanese": "くださる",
+      "furigana": "くださる",
+      "romaji": "kudasaru",
+      "english": "To give to me (respectful for くれる)",
+      "sinhala": "මට ලබාදෙනවා (අනෙකා ගෞරවාන්විතව)",
+      "audio": {
+        "file_name": "e2_962_kudasaru.mp3",
+        "track_id": "L18-V32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_962_kudasaru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_963",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Permission Actions",
+      "japanese": "許可",
+      "furigana": "きょか",
+      "romaji": "kyoka",
+      "english": "Permission / Approval",
+      "sinhala": "අවසරය / අනුමැතිය",
+      "audio": {
+        "file_name": "e2_963_kyoka.mp3",
+        "track_id": "L18-V33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_963_kyoka.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_964",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Permission Actions",
+      "japanese": "承諾",
+      "furigana": "しょうだく",
+      "romaji": "shoudaku",
+      "english": "Consent / Acceptance",
+      "sinhala": "එකඟ වීම / එකඟතාවය",
+      "audio": {
+        "file_name": "e2_964_shoudaku.mp3",
+        "track_id": "L18-V34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_964_shoudaku.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_965",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Polite Interactions",
+      "japanese": "お礼",
+      "furigana": "おれい",
+      "romaji": "orei",
+      "english": "Thanks / Gratitude / Return gift",
+      "sinhala": "ස්තූතිය / කෘතඥතාව",
+      "audio": {
+        "file_name": "e2_965_orei.mp3",
+        "track_id": "L18-V35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_965_orei.png",
+        "category": "social",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_966",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Polite Interactions",
+      "japanese": "お詫び",
+      "furigana": "おわび",
+      "romaji": "owabi",
+      "english": "Apology",
+      "sinhala": "සමාව අයැදීම",
+      "audio": {
+        "file_name": "e2_966_owabi.mp3",
+        "track_id": "L18-V36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_966_owabi.png",
+        "category": "social",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_967",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Gift Culture",
+      "japanese": "贈り物",
+      "furigana": "おくりもの",
+      "romaji": "okurimono",
+      "english": "Present / Gift",
+      "sinhala": "තෑග්ග",
+      "audio": {
+        "file_name": "e2_967_okurimono.mp3",
+        "track_id": "L18-V37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_967_okurimono.png",
+        "category": "gifts",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_968",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Gift Culture",
+      "japanese": "手土産",
+      "furigana": "てみやげ",
+      "romaji": "temiyage",
+      "english": "Present brought by a visitor",
+      "sinhala": "යමෙකු හමුවීමට යන විට ගෙන යන තෑග්ග",
+      "audio": {
+        "file_name": "e2_968_temiyage.mp3",
+        "track_id": "L18-V38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_968_temiyage.png",
+        "category": "gifts",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_969",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Gift Culture",
+      "japanese": "お中元",
+      "furigana": "おちゅうげん",
+      "romaji": "ochuugen",
+      "english": "Midyear gift (summer)",
+      "sinhala": "ගිම්හාන සමයේ දෙන සාම්ප්‍රදායික තෑග්ග",
+      "audio": {
+        "file_name": "e2_969_ochuugen.mp3",
+        "track_id": "L18-V39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_969_ochuugen.png",
+        "category": "gifts",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_970",
+      "lesson": 18,
+      "main_topic": "34. 謙譲表現と依頼 / Humble Expressions & Requests",
+      "sub_topic": "Gift Culture",
+      "japanese": "お歳暮",
+      "furigana": "おせいぼ",
+      "romaji": "oseibo",
+      "english": "Year-end gift",
+      "sinhala": "වසර අගදී ලබාදෙන සාම්ප්‍රදායික තෑග්ග",
+      "audio": {
+        "file_name": "e2_970_oseibo.mp3",
+        "track_id": "L18-V40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_970_oseibo.png",
+        "category": "gifts",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_971",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Cushion Words",
+      "japanese": "恐れ入りますが",
+      "furigana": "おそれいりますが",
+      "romaji": "osoreirimasuga",
+      "english": "I'm very sorry to trouble you, but...",
+      "sinhala": "කරදරයක් නම් සමාවෙන්න, නමුත්...",
+      "audio": {
+        "file_name": "e2_971_osoreirimasuga.mp3",
+        "track_id": "L18-V41",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_971_osoreirimasuga.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_972",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Cushion Words",
+      "japanese": "失礼ですが",
+      "furigana": "しつれいですが",
+      "romaji": "shitsureidesuga",
+      "english": "Excuse me, but...",
+      "sinhala": "අවසරයි, නමුත්...",
+      "audio": {
+        "file_name": "e2_972_shitsureidesuga.mp3",
+        "track_id": "L18-V42",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_972_shitsureidesuga.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_973",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Cushion Words",
+      "japanese": "差し支えなければ",
+      "furigana": "さしつかえなければ",
+      "romaji": "sashitsukaenakereba",
+      "english": "If it is all right with you...",
+      "sinhala": "බාධාවක් නැතිනම් / ගැටලුවක් නැත්නම්...",
+      "audio": {
+        "file_name": "e2_973_sashitsukaenakereba.mp3",
+        "track_id": "L18-V43",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_973_sashitsukaenakereba.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_974",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Cushion Words",
+      "japanese": "お手数をおかけしますが",
+      "furigana": "おてすうをおかけしますが",
+      "romaji": "otesuu o okakeshimasu ga",
+      "english": "I'm sorry to cause you trouble, but...",
+      "sinhala": "ඔබට වෙහෙසක් දෙනවාට සමාවෙන්න, නමුත්...",
+      "audio": {
+        "file_name": "e2_974_otesuuookakeshimasuga.mp3",
+        "track_id": "L18-V44",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_974_otesuuookakeshimasuga.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_975",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Cushion Words",
+      "japanese": "ご都合がよろしければ",
+      "furigana": "ごつごうがよろしければ",
+      "romaji": "gotsugou ga yoroshikereba",
+      "english": "If your schedule permits...",
+      "sinhala": "ඔබට වේලාව පහසු නම්...",
+      "audio": {
+        "file_name": "e2_975_gotsugougayoroshikereba.mp3",
+        "track_id": "L18-V45",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_975_gotsugougayoroshikereba.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_976",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Workplace Gratitude",
+      "japanese": "おかげさまで",
+      "furigana": "おかげさまで",
+      "romaji": "okagesamade",
+      "english": "Thanks to you / Fortunately",
+      "sinhala": "ඔබගේ පිහිටෙන් / පිනෙන්",
+      "audio": {
+        "file_name": "e2_976_okagesamade.mp3",
+        "track_id": "L18-V46",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_976_okagesamade.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_977",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Workplace Gratitude",
+      "japanese": "助かりました",
+      "furigana": "たすかりました",
+      "romaji": "tasukarimashita",
+      "english": "That was a great help",
+      "sinhala": "එය ලොකු උදව්වක් වුණා",
+      "audio": {
+        "file_name": "e2_977_tasukarimashita.mp3",
+        "track_id": "L18-V47",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_977_tasukarimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_978",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Workplace Gratitude",
+      "japanese": "お世話になっております",
+      "furigana": "おせわになっております",
+      "romaji": "osewa ni natte orimasu",
+      "english": "Thank you for your ongoing support (standard business opening)",
+      "sinhala": "ඔබ දක්වන නිරන්තර සහයෝගයට බොහෝම ස්තූතියි",
+      "audio": {
+        "file_name": "e2_978_osewaninatteorimasu.mp3",
+        "track_id": "L18-V48",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_978_osewaninatteorimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_979",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Greetings",
+      "japanese": "ご無沙汰しております",
+      "furigana": "ごぶさたしております",
+      "romaji": "gobusata shite orimasu",
+      "english": "Long time no see (formal)",
+      "sinhala": "බොහෝ කාලෙකින් හමුවුණේ / කතා කළේ නැහැ",
+      "audio": {
+        "file_name": "e2_979_gobusatashiteorimasu.mp3",
+        "track_id": "L18-V49",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_979_gobusatashiteorimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_980",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Greetings",
+      "japanese": "いかがでしょうか",
+      "furigana": "いかがでしょうか",
+      "romaji": "ikaga deshou ka",
+      "english": "How about this? / How is it? (polite)",
+      "sinhala": "මේ ගැන කුමක් සිතන්නේද? / කොහොමද?",
+      "audio": {
+        "file_name": "e2_980_ikagadeshouka.mp3",
+        "track_id": "L18-V50",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_980_ikagadeshouka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_981",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Polite Parting",
+      "japanese": "失礼いたします",
+      "furigana": "しつれいいたします",
+      "romaji": "shitsurei itashimasu",
+      "english": "Excuse me / Goodbye (leaving room or hanging up)",
+      "sinhala": "අවසරයි / මම සමුගන්නවා",
+      "audio": {
+        "file_name": "e2_981_shitsureiitashimasu.mp3",
+        "track_id": "L18-V51",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_981_shitsureiitashimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_982",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Polite Agreement",
+      "japanese": "かしこまりました",
+      "furigana": "かしこまりました",
+      "romaji": "kashikomarimashita",
+      "english": "Certainly / Right away",
+      "sinhala": "හොඳයි, ඒ ආකාරයෙන්ම කරන්නම්",
+      "audio": {
+        "file_name": "e2_982_kashikomarimashita.mp3",
+        "track_id": "L18-V52",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_982_kashikomarimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_983",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Polite Agreement",
+      "japanese": "承知いたしました",
+      "furigana": "しょうちいたしました",
+      "romaji": "shouchi itashimashita",
+      "english": "Understood / Acknowledged (humble)",
+      "sinhala": "පැහැදිලිවම වටහා ගත්තා",
+      "audio": {
+        "file_name": "e2_983_shouchiitashimashita.mp3",
+        "track_id": "L18-V53",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_983_shouchiitashimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_984",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Formal Apologies",
+      "japanese": "申し訳ございません",
+      "furigana": "もうしわけございません",
+      "romaji": "moushiwake gozaimasen",
+      "english": "I am deeply sorry / My sincerest apologies",
+      "sinhala": "මගේ බලවත් කණගාටුව සහ සමාව අයදිමි",
+      "audio": {
+        "file_name": "e2_984_moushiwakegozaimasen.mp3",
+        "track_id": "L18-V54",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_984_moushiwakegozaimasen.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_985",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Formal Apologies",
+      "japanese": "ご迷惑をおかけしました",
+      "furigana": "ごめいわくをおかけしました",
+      "romaji": "gomeiwaku o okakeshite shimashita",
+      "english": "I apologize for causing you trouble",
+      "sinhala": "ඔබට කරදරයක් කළාට සමාවෙන්න",
+      "audio": {
+        "file_name": "e2_985_gomeiwakuookakeshiteshimashita.mp3",
+        "track_id": "L18-V55",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_985_gomeiwakuookakeshiteshimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_986",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Business Phone",
+      "japanese": "お電話ありがとうございます",
+      "furigana": "おでんわありがとうございます",
+      "romaji": "odenwa arigatou gozaimasu",
+      "english": "Thank you for calling (business answer)",
+      "sinhala": "ඇමතුමට ස්තූතියි (ව්‍යාපාරික ඇමතුමකට පිළිතුරු දීම)",
+      "audio": {
+        "file_name": "e2_986_odenwaarigatougozaimasu.mp3",
+        "track_id": "L18-EX01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_986_odenwaarigatougozaimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_987",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Business Phone",
+      "japanese": "～社の～と申します",
+      "furigana": "～しゃの～ともうします",
+      "romaji": "~ sha no ~ to moushimasu",
+      "english": "This is ~ from ~ company speaking",
+      "sinhala": "මම ~ සමාගමේ ~ කතා කරන්නේ",
+      "audio": {
+        "file_name": "e2_987_shanotomoushimasu.mp3",
+        "track_id": "L18-EX02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_987_shanotomoushimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_988",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Business Phone",
+      "japanese": "～様はいらっしゃいますか",
+      "furigana": "～さまはいらっしゃいますか",
+      "romaji": "~ sama wa irasshaimasu ka",
+      "english": "Is Mr./Ms. ~ in?",
+      "sinhala": "~ මහතා/මිය එහි සිටිනවාද?",
+      "audio": {
+        "file_name": "e2_988_samawairasshaimasuka.mp3",
+        "track_id": "L18-EX03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_988_samawairasshaimasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_989",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Business Phone",
+      "japanese": "あいにく席を外しております",
+      "furigana": "あいにくせきをはずしております",
+      "romaji": "ainiku seki o hazushite orimasu",
+      "english": "Unfortunately, they are away from their desk",
+      "sinhala": "කණගාටුයි, ඔහු/ඇය මේ මොහොතේ අසුනෙන් බැහැරව සිටින්නේ",
+      "audio": {
+        "file_name": "e2_989_ainikusekiohazushiteorimasu.mp3",
+        "track_id": "L18-EX04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_989_ainikusekiohazushiteorimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_990",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Business Phone",
+      "japanese": "折り返しお電話いたします",
+      "furigana": "おりかえしおでんわいたします",
+      "romaji": "orikaeshi odenwa itashimasu",
+      "english": "We will return your call",
+      "sinhala": "නැවත ඔබට ඇමතුමක් ලබාදෙන්නම්",
+      "audio": {
+        "file_name": "e2_990_orikaeshiodenwaitashimasu.mp3",
+        "track_id": "L18-EX05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_990_orikaeshiodenwaitashimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_991",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Business Phone",
+      "japanese": "伝言をお願いできますか",
+      "furigana": "でんごんをおねがいできますか",
+      "romaji": "dengon o onegai dekimasu ka",
+      "english": "May I leave a message?",
+      "sinhala": "මට පණිවිඩයක් තබාගත හැකිද?",
+      "audio": {
+        "file_name": "e2_991_dengonoonegaidekimasuka.mp3",
+        "track_id": "L18-EX06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_991_dengonoonegaidekimasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_992",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Business Requests",
+      "japanese": "確認していただけますでしょうか",
+      "furigana": "かくにんしていただけますでしょうか",
+      "romaji": "kakunin shite itadakemasu deshou ka",
+      "english": "Could you please check/confirm this? (very polite)",
+      "sinhala": "කරුණාකර මෙය පරික්ෂා කර බැලිය හැකිද?",
+      "audio": {
+        "file_name": "e2_992_kakuninshiteitadakemasudeshouka.mp3",
+        "track_id": "L18-EX07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_992_kakuninshiteitadakemasudeshouka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_993",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Business Requests",
+      "japanese": "教えていただけますでしょうか",
+      "furigana": "おしえていただけますでしょうか",
+      "romaji": "oshiete itadakemasu deshou ka",
+      "english": "Could you please teach/explain this to me?",
+      "sinhala": "කරුණාකර මට මෙය කියා දිය හැකිද?",
+      "audio": {
+        "file_name": "e2_993_oshieteitadakemasudeshouka.mp3",
+        "track_id": "L18-EX08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_993_oshieteitadakemasudeshouka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_994",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Business Requests",
+      "japanese": "少々お時間をいただけますか",
+      "furigana": "しょうしょうおじかんをいただけますか",
+      "romaji": "shoushou ojikan o itadakemasu ka",
+      "english": "Could I have a moment of your time?",
+      "sinhala": "මට ඔබගේ සුළු වේලාවක් ලබාගත හැකිද?",
+      "audio": {
+        "file_name": "e2_994_shoushouojikanoitadakemasuka.mp3",
+        "track_id": "L18-EX09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_994_shoushouojikanoitadakemasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_995",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Business Mail Openings",
+      "japanese": "いつも大変お世話になっております",
+      "furigana": "いつもたいへんおせわになっております",
+      "romaji": "itsumo taihen osewa ni natte orimasu",
+      "english": "Thank you very much for your continuous kindness",
+      "sinhala": "සැමවිටම ඔබ දක්වන විශිෂ්ට සහයෝගයට බොහෝම ස්තූතියි",
+      "audio": {
+        "file_name": "e2_995_itsumotaihenosewaninatteorimasu.mp3",
+        "track_id": "L18-EX10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_995_itsumotaihenosewaninatteorimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_996",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Business Mail Inquiries",
+      "japanese": "ご検討のほどよろしくお願いいたします",
+      "furigana": "ごけんとうのほどよろしくおねがいいたします",
+      "romaji": "gokentou no hodo yoroshiku onegai itashimasu",
+      "english": "Thank you for taking this into consideration",
+      "sinhala": "මේ පිළිබඳව සලකා බලන මෙන් ගෞරවයෙන් ඉල්ලා සිටිමි",
+      "audio": {
+        "file_name": "e2_996_gokentounohodoyoroshikuonegaiitashimasu.mp3",
+        "track_id": "L18-EX11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_996_gokentounohodoyoroshikuonegaiitashimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_997",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Workplace Parting",
+      "japanese": "お先に失礼いたします",
+      "furigana": "おさきにしつれいいたします",
+      "romaji": "osaki ni shitsurei itashimasu",
+      "english": "Excuse me for leaving before you (polite business exit)",
+      "sinhala": "මම කලින් පිටවෙනවා, අවසරයි (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_997_osakinishitsureiitashimasu.mp3",
+        "track_id": "L18-EX12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_997_osakinishitsureiitashimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_998",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Workplace Closing",
+      "japanese": "本日もありがとうございました",
+      "furigana": "ほんじつもありがとうございました",
+      "romaji": "honjitsu mo arigatou gozaimashita",
+      "english": "Thank you very much for today as well",
+      "sinhala": "අද දවසේත් ඔබ දැක්වූ සහයෝගයට බොහෝම ස්තූතියි",
+      "audio": {
+        "file_name": "e2_998_honjitsumoarigatougozaimashita.mp3",
+        "track_id": "L18-EX13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_998_honjitsumoarigatougozaimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_999",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Workplace Closing",
+      "japanese": "今後ともよろしくお願いいたします",
+      "furigana": "こんごともよろしくおねがいいたします",
+      "romaji": "kongo tomo yoroshiku onegai itashimasu",
+      "english": "We look forward to working with you from now on",
+      "sinhala": "ඉදිරියටත් ඔබගේ සුහද සහයෝගය නිහතමානීව බලාපොරොත්තු වෙමි",
+      "audio": {
+        "file_name": "e2_999_kongotomoyoroshikuonegaiitashimasu.mp3",
+        "track_id": "L18-EX14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_999_kongotomoyoroshikuonegaiitashimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1000",
+      "lesson": 18,
+      "main_topic": "35. 職場の定型表現と挨拶 / Fixed Business & Etiquette Phrases",
+      "sub_topic": "Workplace Closing",
+      "japanese": "何卒よろしくお願い申し上げます",
+      "furigana": "なにとぞよろしくおねがいもうしあげます",
+      "romaji": "nanitozo yoroshiku onegai moushiagemasu",
+      "english": "I sincerely request your favor and support",
+      "sinhala": "ඔබගේ කාරුණික සහයෝගය අතිශය ගෞරවයෙන් අපේක්ෂා කරමි",
+      "audio": {
+        "file_name": "e2_1000_nanitozoyoroshikuonegaimoushiagemasu.mp3",
+        "track_id": "L18-EX15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1000_nanitozoyoroshikuonegaimoushiagemasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    }
+  ]
+}

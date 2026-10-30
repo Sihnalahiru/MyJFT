@@ -1,0 +1,2108 @@
+{
+  "level": "Irodori Elementary 2 (A2)",
+  "part": "Part 2",
+  "total_words": 100,
+  "coverage": "Seasons, climate, weather phenomena, temperature changes, seasonal nature, annual events, festivals, and seasonal customs with full Audio & Illustration mapping (Words 101-200).",
+  "vocabulary": [
+    {
+      "id": "e2_101",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasons",
+      "japanese": "季節",
+      "furigana": "きせつ",
+      "romaji": "kisetsu",
+      "english": "Season",
+      "sinhala": "සෘතුව / කාලගුණික සමය",
+      "audio": {
+        "file_name": "e2_101_kisetsu.mp3",
+        "track_id": "L03-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_101_kisetsu.png",
+        "category": "seasons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_102",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasons",
+      "japanese": "四季",
+      "furigana": "しき",
+      "romaji": "shiki",
+      "english": "Four seasons",
+      "sinhala": "සෘතු හතර",
+      "audio": {
+        "file_name": "e2_102_shiki.mp3",
+        "track_id": "L03-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_102_shiki.png",
+        "category": "seasons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_103",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasons",
+      "japanese": "春",
+      "furigana": "はる",
+      "romaji": "haru",
+      "english": "Spring",
+      "sinhala": "වසන්ත සෘතුව",
+      "audio": {
+        "file_name": "e2_103_haru.mp3",
+        "track_id": "L03-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_103_haru.png",
+        "category": "seasons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_104",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasons",
+      "japanese": "夏",
+      "furigana": "なつ",
+      "romaji": "natsu",
+      "english": "Summer",
+      "sinhala": "ගිම්හාන සෘතුව",
+      "audio": {
+        "file_name": "e2_104_natsu.mp3",
+        "track_id": "L03-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_104_natsu.png",
+        "category": "seasons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_105",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasons",
+      "japanese": "秋",
+      "furigana": "あき",
+      "romaji": "aki",
+      "english": "Autumn / Fall",
+      "sinhala": "සරත් සෘතුව",
+      "audio": {
+        "file_name": "e2_105_aki.mp3",
+        "track_id": "L03-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_105_aki.png",
+        "category": "seasons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_106",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasons",
+      "japanese": "冬",
+      "furigana": "ふゆ",
+      "romaji": "fuyu",
+      "english": "Winter",
+      "sinhala": "ශීත සෘතුව",
+      "audio": {
+        "file_name": "e2_106_fuyu.mp3",
+        "track_id": "L03-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_106_fuyu.png",
+        "category": "seasons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_107",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasons",
+      "japanese": "初夏",
+      "furigana": "しょか",
+      "romaji": "shoka",
+      "english": "Early summer",
+      "sinhala": "මුල් ගිම්හානය",
+      "audio": {
+        "file_name": "e2_107_shoka.mp3",
+        "track_id": "L03-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_107_shoka.png",
+        "category": "seasons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_108",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasons",
+      "japanese": "真夏",
+      "furigana": "まなつ",
+      "romaji": "manatsu",
+      "english": "Midsummer",
+      "sinhala": "මැද ගිම්හානය",
+      "audio": {
+        "file_name": "e2_108_manatsu.mp3",
+        "track_id": "L03-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_108_manatsu.png",
+        "category": "seasons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_109",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasons",
+      "japanese": "晩秋",
+      "furigana": "ばんしゅう",
+      "romaji": "banshuu",
+      "english": "Late autumn",
+      "sinhala": "අග සරත් සමය",
+      "audio": {
+        "file_name": "e2_109_banshuu.mp3",
+        "track_id": "L03-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_109_banshuu.png",
+        "category": "seasons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_110",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasons",
+      "japanese": "真冬",
+      "furigana": "まふゆ",
+      "romaji": "mafuyu",
+      "english": "Midwinter",
+      "sinhala": "මැද ශීත සමය",
+      "audio": {
+        "file_name": "e2_110_mafuyu.mp3",
+        "track_id": "L03-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_110_mafuyu.png",
+        "category": "seasons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_111",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate & Environment",
+      "japanese": "気候",
+      "furigana": "きこう",
+      "romaji": "kikou",
+      "english": "Climate",
+      "sinhala": "දේශගුණය",
+      "audio": {
+        "file_name": "e2_111_kikou.mp3",
+        "track_id": "L03-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_111_kikou.png",
+        "category": "climate",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_112",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate & Environment",
+      "japanese": "気温",
+      "furigana": "きおん",
+      "romaji": "kion",
+      "english": "Air temperature",
+      "sinhala": "වායු උෂ්ණත්වය",
+      "audio": {
+        "file_name": "e2_112_kion.mp3",
+        "track_id": "L03-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_112_kion.png",
+        "category": "climate",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_113",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate & Environment",
+      "japanese": "最高気温",
+      "furigana": "さいこうきおん",
+      "romaji": "saikoukion",
+      "english": "Highest temperature",
+      "sinhala": "උපරිම උෂ්ණත්වය",
+      "audio": {
+        "file_name": "e2_113_saikoukion.mp3",
+        "track_id": "L03-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_113_saikoukion.png",
+        "category": "climate",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_114",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate & Environment",
+      "japanese": "最低気温",
+      "furigana": "さいていきおん",
+      "romaji": "saiteikion",
+      "english": "Lowest temperature",
+      "sinhala": "අවම උෂ්ණත්වය",
+      "audio": {
+        "file_name": "e2_114_saiteikion.mp3",
+        "track_id": "L03-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_114_saiteikion.png",
+        "category": "climate",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_115",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate & Environment",
+      "japanese": "湿度",
+      "furigana": "しつど",
+      "romaji": "shitsudo",
+      "english": "Humidity",
+      "sinhala": "ආර්ද්‍රතාවය (තෙතමනය)",
+      "audio": {
+        "file_name": "e2_115_shitsudo.mp3",
+        "track_id": "L03-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_115_shitsudo.png",
+        "category": "climate",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_116",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate & Environment",
+      "japanese": "乾燥",
+      "furigana": "かんそう",
+      "romaji": "kansou",
+      "english": "Dryness / Aridity",
+      "sinhala": "වියළි බව",
+      "audio": {
+        "file_name": "e2_116_kansou.mp3",
+        "track_id": "L03-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_116_kansou.png",
+        "category": "climate",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_117",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate & Environment",
+      "japanese": "梅雨",
+      "furigana": "つゆ",
+      "romaji": "tsuyu",
+      "english": "Rainy season (Tsuyu)",
+      "sinhala": "සුපුරුදු වැසි සමය (ජපානයේ)",
+      "audio": {
+        "file_name": "e2_117_tsuyu.mp3",
+        "track_id": "L03-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_117_tsuyu.png",
+        "category": "climate",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_118",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate & Environment",
+      "japanese": "梅雨明け",
+      "furigana": "つゆあけ",
+      "romaji": "tsuyuake",
+      "english": "End of rainy season",
+      "sinhala": "වැසි සමය අවසන් වීම",
+      "audio": {
+        "file_name": "e2_118_tsuyuake.mp3",
+        "track_id": "L03-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_118_tsuyuake.png",
+        "category": "climate",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_119",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate & Environment",
+      "japanese": "熱帯夜",
+      "furigana": "ねったいや",
+      "romaji": "nettaiya",
+      "english": "Tropical night (over 25°C)",
+      "sinhala": "නිවර්තන උණුසුම් රාත්‍රිය",
+      "audio": {
+        "file_name": "e2_119_nettaiya.mp3",
+        "track_id": "L03-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_119_nettaiya.png",
+        "category": "climate",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_120",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate & Environment",
+      "japanese": "猛暑",
+      "furigana": "もうしょ",
+      "romaji": "mousho",
+      "english": "Heatwave / Extreme heat",
+      "sinhala": "අධික රස්නය / ග්‍රීෂ්ම තරංගය",
+      "audio": {
+        "file_name": "e2_120_mousho.mp3",
+        "track_id": "L03-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_120_mousho.png",
+        "category": "climate",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_121",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate & Environment",
+      "japanese": "寒波",
+      "furigana": "かんぱ",
+      "romaji": "kanpa",
+      "english": "Cold wave",
+      "sinhala": "ශීත තරංගය",
+      "audio": {
+        "file_name": "e2_121_kanpa.mp3",
+        "track_id": "L03-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_121_kanpa.png",
+        "category": "climate",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_122",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Weather Phenomena",
+      "japanese": "青空",
+      "furigana": "あおぞら",
+      "romaji": "aozora",
+      "english": "Blue sky",
+      "sinhala": "නිල් අහස",
+      "audio": {
+        "file_name": "e2_122_aozora.mp3",
+        "track_id": "L03-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_122_aozora.png",
+        "category": "weather",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_123",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Weather Phenomena",
+      "japanese": "快晴",
+      "furigana": "かいせい",
+      "romaji": "kaisei",
+      "english": "Clear weather / Cloudless",
+      "sinhala": "පැහැදිලි අව්ව සහිත අහස",
+      "audio": {
+        "file_name": "e2_123_kaisei.mp3",
+        "track_id": "L03-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_123_kaisei.png",
+        "category": "weather",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_124",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Weather Phenomena",
+      "japanese": "にわか雨",
+      "furigana": "にわかあめ",
+      "romaji": "niwakaame",
+      "english": "Sudden shower / Rain shower",
+      "sinhala": "හදිසි වැස්ස",
+      "audio": {
+        "file_name": "e2_124_niwakaame.mp3",
+        "track_id": "L03-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_124_niwakaame.png",
+        "category": "weather",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_125",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Weather Phenomena",
+      "japanese": "夕立",
+      "furigana": "ゆうだち",
+      "romaji": "yuudachi",
+      "english": "Evening summer shower",
+      "sinhala": "හවස ඇතිවන ගිම්හාන වැස්ස",
+      "audio": {
+        "file_name": "e2_125_yuudachi.mp3",
+        "track_id": "L03-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_125_yuudachi.png",
+        "category": "weather",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_126",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Weather Phenomena",
+      "japanese": "雷雨",
+      "furigana": "らいう",
+      "romaji": "raiu",
+      "english": "Thunderstorm",
+      "sinhala": "ගිගුරුම් සහිත වැස්ස",
+      "audio": {
+        "file_name": "e2_126_raiu.mp3",
+        "track_id": "L03-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_126_raiu.png",
+        "category": "weather",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_127",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Weather Phenomena",
+      "japanese": "豪雨",
+      "furigana": "ごうう",
+      "romaji": "gouu",
+      "english": "Heavy downpour / Torrential rain",
+      "sinhala": "ධාරානිපාත වැස්ස",
+      "audio": {
+        "file_name": "e2_127_gouu.mp3",
+        "track_id": "L03-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_127_gouu.png",
+        "category": "weather",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_128",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Weather Phenomena",
+      "japanese": "積雪",
+      "furigana": "せきせつ",
+      "romaji": "sekisetsu",
+      "english": "Snow cover / Snow accumulation",
+      "sinhala": "හිම තැන්පත්වීම",
+      "audio": {
+        "file_name": "e2_128_sekisetsu.mp3",
+        "track_id": "L03-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_128_sekisetsu.png",
+        "category": "weather",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_129",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Weather Phenomena",
+      "japanese": "吹雪",
+      "furigana": "ふぶき",
+      "romaji": "fubuki",
+      "english": "Blizzard / Snowstorm",
+      "sinhala": "හිම කුණාටුව",
+      "audio": {
+        "file_name": "e2_129_fubuki.mp3",
+        "track_id": "L03-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_129_fubuki.png",
+        "category": "weather",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_130",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Weather Phenomena",
+      "japanese": "霜",
+      "furigana": "しも",
+      "romaji": "shimo",
+      "english": "Frost",
+      "sinhala": "තුෂාරය (හිම මිදීම)",
+      "audio": {
+        "file_name": "e2_130_shimo.mp3",
+        "track_id": "L03-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_130_shimo.png",
+        "category": "weather",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_131",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Weather Phenomena",
+      "japanese": "突風",
+      "furigana": "とっぷう",
+      "romaji": "toppuu",
+      "english": "Sudden gust of wind",
+      "sinhala": "හදිසි දැඩි සුළං පහර",
+      "audio": {
+        "file_name": "e2_131_toppuu.mp3",
+        "track_id": "L03-V31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_131_toppuu.png",
+        "category": "weather",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_132",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Weather Phenomena",
+      "japanese": "台風",
+      "furigana": "たいふう",
+      "romaji": "taifuu",
+      "english": "Typhoon",
+      "sinhala": "ටයිෆූන් සුළි කුණාටුව",
+      "audio": {
+        "file_name": "e2_132_taifuu.mp3",
+        "track_id": "L03-V32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_132_taifuu.png",
+        "category": "weather",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_133",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Nature",
+      "japanese": "桜",
+      "furigana": "さくら",
+      "romaji": "sakura",
+      "english": "Cherry blossoms",
+      "sinhala": "සකුරා මල්",
+      "audio": {
+        "file_name": "e2_133_sakura.mp3",
+        "track_id": "L03-V33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_133_sakura.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_134",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Nature",
+      "japanese": "開花",
+      "furigana": "かいか",
+      "romaji": "kaika",
+      "english": "Blooming / Flowering",
+      "sinhala": "මල් පිපීම ආරම්භ වීම",
+      "audio": {
+        "file_name": "e2_134_kaika.mp3",
+        "track_id": "L03-V34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_134_kaika.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_135",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Nature",
+      "japanese": "満開",
+      "furigana": "まんかい",
+      "romaji": "mankai",
+      "english": "Full bloom",
+      "sinhala": "මල් පිරී පිපීම (Full bloom)",
+      "audio": {
+        "file_name": "e2_135_mankai.mp3",
+        "track_id": "L03-V35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_135_mankai.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_136",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Nature",
+      "japanese": "桜前線",
+      "furigana": "さくらぜんせん",
+      "romaji": "sakurazensen",
+      "english": "Cherry blossom front",
+      "sinhala": "සකුරා පිපීමේ රේඛාව (කාලගුණ වාර්තාවල)",
+      "audio": {
+        "file_name": "e2_136_sakurazensen.mp3",
+        "track_id": "L03-V36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_136_sakurazensen.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_137",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Nature",
+      "japanese": "新緑",
+      "furigana": "しんりょく",
+      "romaji": "shinryoku",
+      "english": "Fresh green leaves (spring/early summer)",
+      "sinhala": "නැවුම් ලපටි කොළ",
+      "audio": {
+        "file_name": "e2_137_shinryoku.mp3",
+        "track_id": "L03-V37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_137_shinryoku.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_138",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Nature",
+      "japanese": "紅葉",
+      "furigana": "こうよう",
+      "romaji": "kouyou",
+      "english": "Autumn leaves / Fall foliage",
+      "sinhala": "සරත් සෘතුවේ රතු/කහ කොළ",
+      "audio": {
+        "file_name": "e2_138_kouyou.mp3",
+        "track_id": "L03-V38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_138_kouyou.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_139",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Nature",
+      "japanese": "落ち葉",
+      "furigana": "おちば",
+      "romaji": "ochiba",
+      "english": "Fallen leaves",
+      "sinhala": "වැටුණු වියළි කොළ",
+      "audio": {
+        "file_name": "e2_139_ochiba.mp3",
+        "track_id": "L03-V39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_139_ochiba.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_140",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Nature",
+      "japanese": "芽が出る",
+      "furigana": "めがでる",
+      "romaji": "me ga deru",
+      "english": "To sprout / bud",
+      "sinhala": "පැළවෙනවා / දළු ලනවා",
+      "audio": {
+        "file_name": "e2_140_megaderu.mp3",
+        "track_id": "L03-V40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_140_megaderu.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_141",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Nature",
+      "japanese": "咲く",
+      "furigana": "さく",
+      "romaji": "saku",
+      "english": "To bloom",
+      "sinhala": "මල් පිපෙනවා",
+      "audio": {
+        "file_name": "e2_141_saku.mp3",
+        "track_id": "L03-V41",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_141_saku.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_142",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Nature",
+      "japanese": "散る",
+      "furigana": "ちる",
+      "romaji": "chiru",
+      "english": "To scatter / fall (petals/leaves)",
+      "sinhala": "හැලෙනවා / පරවී වැටෙනවා",
+      "audio": {
+        "file_name": "e2_142_chiru.mp3",
+        "track_id": "L03-V42",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_142_chiru.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_143",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Nature",
+      "japanese": "実る",
+      "furigana": "みのる",
+      "romaji": "minoru",
+      "english": "To ripen / bear fruit",
+      "sinhala": "ඵල දරනවා / පැසෙනවා",
+      "audio": {
+        "file_name": "e2_143_minoru.mp3",
+        "track_id": "L03-V43",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_143_minoru.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_144",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Sensory Adjectives",
+      "japanese": "蒸し暑い",
+      "furigana": "むしあつい",
+      "romaji": "mushiatsui",
+      "english": "Hot and humid / Muggy",
+      "sinhala": "දහදිය දමන තද උණුසුම",
+      "audio": {
+        "file_name": "e2_144_mushiatsui.mp3",
+        "track_id": "L03-V44",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_144_mushiatsui.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_145",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Sensory Adjectives",
+      "japanese": "肌寒い",
+      "furigana": "はだざむい",
+      "romaji": "hadazamui",
+      "english": "Chilly / Nippy",
+      "sinhala": "මඳ ශීතලක් දැනෙන",
+      "audio": {
+        "file_name": "e2_145_hadazamui.mp3",
+        "track_id": "L03-V45",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_145_hadazamui.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_146",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Sensory Adjectives",
+      "japanese": "涼しい",
+      "furigana": "すずしい",
+      "romaji": "suzushii",
+      "english": "Cool (pleasant)",
+      "sinhala": "සුවදායක සිසිල්",
+      "audio": {
+        "file_name": "e2_146_suzushii.mp3",
+        "track_id": "L03-V46",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_146_suzushii.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_147",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Sensory Adjectives",
+      "japanese": "暖かい",
+      "furigana": "あたたかい",
+      "romaji": "atatakai",
+      "english": "Warm (climate)",
+      "sinhala": "සුවදායක උණුසුම්",
+      "audio": {
+        "file_name": "e2_147_atatakai.mp3",
+        "track_id": "L03-V47",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_147_atatakai.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_148",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Sensory Adjectives",
+      "japanese": "過ごしやすい",
+      "furigana": "すごしやすい",
+      "romaji": "sugoshiyasui",
+      "english": "Comfortable to live / easy to spend time",
+      "sinhala": "ජීවත්වීමට හෝ කාලය ගත කිරීමට ඉතා පහසු",
+      "audio": {
+        "file_name": "e2_148_sugoshiyasui.mp3",
+        "track_id": "L03-V48",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_148_sugoshiyasui.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_149",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate Verbs",
+      "japanese": "凍る",
+      "furigana": "こおる",
+      "romaji": "kooru",
+      "english": "To freeze",
+      "sinhala": "මිදෙනවා (අයිස් වෙනවා)",
+      "audio": {
+        "file_name": "e2_149_kooru.mp3",
+        "track_id": "L03-V49",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_149_kooru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_150",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Climate Verbs",
+      "japanese": "解ける",
+      "furigana": "とける",
+      "romaji": "tokeru",
+      "english": "To melt / thaw",
+      "sinhala": "දියවෙනවා (හිම/අයිස්)",
+      "audio": {
+        "file_name": "e2_150_tokeru.mp3",
+        "track_id": "L03-V50",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_150_tokeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_151",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Basics",
+      "japanese": "行事",
+      "furigana": "ぎょうじ",
+      "romaji": "gyouji",
+      "english": "Event / Function",
+      "sinhala": "සම්ප්‍රදායික උත්සවය / උත්සවාකාර අවස්ථාව",
+      "audio": {
+        "file_name": "e2_151_gyouji.mp3",
+        "track_id": "L04-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_151_gyouji.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_152",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Basics",
+      "japanese": "年中行事",
+      "furigana": "ねんじゅうぎょうじ",
+      "romaji": "nenjuugyouji",
+      "english": "Annual events",
+      "sinhala": "වාර්ෂික චාරිත්‍ර හා උත්සව",
+      "audio": {
+        "file_name": "e2_152_nenjuugyouji.mp3",
+        "track_id": "L04-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_152_nenjuugyouji.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_153",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Basics",
+      "japanese": "伝統",
+      "furigana": "でんとう",
+      "romaji": "dentou",
+      "english": "Tradition",
+      "sinhala": "සම්ප්‍රදාය",
+      "audio": {
+        "file_name": "e2_153_dentou.mp3",
+        "track_id": "L04-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_153_dentou.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_154",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Basics",
+      "japanese": "お祭り",
+      "furigana": "おまつり",
+      "romaji": "omatsuri",
+      "english": "Festival",
+      "sinhala": "පෙරහැර / සැණකෙළිය",
+      "audio": {
+        "file_name": "e2_154_omatsuri.mp3",
+        "track_id": "L04-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_154_omatsuri.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_155",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "New Year Events",
+      "japanese": "お正月",
+      "furigana": "おしょうがつ",
+      "romaji": "oshougatsu",
+      "english": "New Year",
+      "sinhala": "අලුත් අවුරුද්ද",
+      "audio": {
+        "file_name": "e2_155_oshougatsu.mp3",
+        "track_id": "L04-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_155_oshougatsu.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_156",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "New Year Events",
+      "japanese": "初詣",
+      "furigana": "はつもうで",
+      "romaji": "hatsumoude",
+      "english": "First shrine visit of the New Year",
+      "sinhala": "අලුත් අවුරුද්දේ මුල්ම සිද්ධස්ථාන වන්දනාව",
+      "audio": {
+        "file_name": "e2_156_hatsumoude.mp3",
+        "track_id": "L04-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_156_hatsumoude.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_157",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "New Year Events",
+      "japanese": "おせち料理",
+      "furigana": "おせちりょうり",
+      "romaji": "osechiryouri",
+      "english": "Traditional New Year food",
+      "sinhala": "සාම්ප්‍රදායික අලුත් අවුරුදු ආහාර",
+      "audio": {
+        "file_name": "e2_157_osechiryouri.mp3",
+        "track_id": "L04-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_157_osechiryouri.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_158",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "New Year Events",
+      "japanese": "お年玉",
+      "furigana": "おとしだま",
+      "romaji": "otoshidama",
+      "english": "New Year gift money (to kids)",
+      "sinhala": "අලුත් අවුරුදු මුදල් තෑග්ග",
+      "audio": {
+        "file_name": "e2_158_otoshidama.mp3",
+        "track_id": "L04-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_158_otoshidama.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_159",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "New Year Events",
+      "japanese": "年賀状",
+      "furigana": "ねんがじょう",
+      "romaji": "nengajou",
+      "english": "New Year greeting card",
+      "sinhala": "අලුත් අවුරුදු සුභපැතුම් පත",
+      "audio": {
+        "file_name": "e2_159_nengajou.mp3",
+        "track_id": "L04-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_159_nengajou.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_160",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Winter & Spring Events",
+      "japanese": "大晦日",
+      "furigana": "おおみそか",
+      "romaji": "oomisoka",
+      "english": "New Year's Eve (Dec 31)",
+      "sinhala": "වසරේ අවසන් දිනය (දෙසැම්බර් 31)",
+      "audio": {
+        "file_name": "e2_160_oomisoka.mp3",
+        "track_id": "L04-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_160_oomisoka.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_161",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Winter & Spring Events",
+      "japanese": "年越しそば",
+      "furigana": "としこしそば",
+      "romaji": "toshikoshisoba",
+      "english": "Year-crossing soba noodles",
+      "sinhala": "අවුරුදු උදාව වෙනුවෙන් කන සොබා නූඩ්ල්ස්",
+      "audio": {
+        "file_name": "e2_161_toshikoshisoba.mp3",
+        "track_id": "L04-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_161_toshikoshisoba.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_162",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Winter & Spring Events",
+      "japanese": "節分",
+      "furigana": "せつぶん",
+      "romaji": "setsubun",
+      "english": "Setsubun (Bean-throwing festival)",
+      "sinhala": "සෙත්සුබුන් (බෝංචි ඇට විසි කිරීමේ උත්සවය)",
+      "audio": {
+        "file_name": "e2_162_setsubun.mp3",
+        "track_id": "L04-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_162_setsubun.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_163",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Winter & Spring Events",
+      "japanese": "豆まき",
+      "furigana": "まめまき",
+      "romaji": "mamemaki",
+      "english": "Scattering roasted soybeans",
+      "sinhala": "අයහපත දුරු කිරීමට බෝංචි ඇට ඉසීම",
+      "audio": {
+        "file_name": "e2_163_mamemaki.mp3",
+        "track_id": "L04-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_163_mamemaki.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_164",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Winter & Spring Events",
+      "japanese": "ひな祭り",
+      "furigana": "ひなまつり",
+      "romaji": "hinamatsuri",
+      "english": "Doll Festival / Girls' Day",
+      "sinhala": "බෝනික්කන්ගේ උත්සවය (ගැහැනු ළමුන් සඳහා)",
+      "audio": {
+        "file_name": "e2_164_hinamatsuri.mp3",
+        "track_id": "L04-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_164_hinamatsuri.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_165",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Spring Events",
+      "japanese": "お花見",
+      "furigana": "おはなみ",
+      "romaji": "ohanami",
+      "english": "Cherry blossom viewing party",
+      "sinhala": "සකුරා මල් නැරඹීමේ විනෝද චාරිකාව",
+      "audio": {
+        "file_name": "e2_165_ohanami.mp3",
+        "track_id": "L04-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_165_ohanami.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_166",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Spring Events",
+      "japanese": "こどもの日",
+      "furigana": "こどものひ",
+      "romaji": "kodomo no hi",
+      "english": "Children's Day (May 5)",
+      "sinhala": "ළමා දිනය (මැයි 5)",
+      "audio": {
+        "file_name": "e2_166_kodomonohi.mp3",
+        "track_id": "L04-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_166_kodomonohi.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_167",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Spring Events",
+      "japanese": "鯉のぼり",
+      "furigana": "こいのぼり",
+      "romaji": "koinobori",
+      "english": "Carp streamer",
+      "sinhala": "කොයි මත්ස්‍ය හැඩැති ධජය",
+      "audio": {
+        "file_name": "e2_167_koinobori.mp3",
+        "track_id": "L04-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_167_koinobori.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_168",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Summer Events",
+      "japanese": "七夕",
+      "furigana": "たなばた",
+      "romaji": "tanabata",
+      "english": "Star Festival (July 7)",
+      "sinhala": "තනබතා (තරු උත්සවය)",
+      "audio": {
+        "file_name": "e2_168_tanabata.mp3",
+        "track_id": "L04-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_168_tanabata.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_169",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Summer Events",
+      "japanese": "短冊",
+      "furigana": "たんざく",
+      "romaji": "tanzaku",
+      "english": "Small strip of paper for wishes",
+      "sinhala": "පැතුම් ලියන කුඩා කඩදාසි තීරුව",
+      "audio": {
+        "file_name": "e2_169_tanzaku.mp3",
+        "track_id": "L04-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_169_tanzaku.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_170",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Summer Events",
+      "japanese": "夏祭り",
+      "furigana": "なつまつり",
+      "romaji": "natsumatsuri",
+      "english": "Summer festival",
+      "sinhala": "ගිම්හාන සැණකෙළිය",
+      "audio": {
+        "file_name": "e2_170_natsumatsuri.mp3",
+        "track_id": "L04-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_170_natsumatsuri.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_171",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Summer Events",
+      "japanese": "花火大会",
+      "furigana": "はなびたいかい",
+      "romaji": "hanabitaikai",
+      "english": "Fireworks display",
+      "sinhala": "ගිනිකෙළි සංදර්ශනය",
+      "audio": {
+        "file_name": "e2_171_hanabitaikai.mp3",
+        "track_id": "L04-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_171_hanabitaikai.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_172",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Summer Events",
+      "japanese": "お盆",
+      "furigana": "おぼん",
+      "romaji": "obon",
+      "english": "Bon festival (ancestors)",
+      "sinhala": "ඔබොන් උත්සවය (මියගිය ඥාතීන් සිහිපත් කිරීම)",
+      "audio": {
+        "file_name": "e2_172_obon.mp3",
+        "track_id": "L04-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_172_obon.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_173",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Summer Events",
+      "japanese": "盆踊り",
+      "furigana": "ぼんおどり",
+      "romaji": "bon'odori",
+      "english": "Bon festival dance",
+      "sinhala": "බොන් උත්සව නැටුම",
+      "audio": {
+        "file_name": "e2_173_bon'odori.mp3",
+        "track_id": "L04-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_173_bon'odori.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_174",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Autumn & Winter Events",
+      "japanese": "お月見",
+      "furigana": "おつきみ",
+      "romaji": "otsukimi",
+      "english": "Moon viewing (autumn)",
+      "sinhala": "හඳ බැලීමේ චාරිත්‍රය",
+      "audio": {
+        "file_name": "e2_174_otsukimi.mp3",
+        "track_id": "L04-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_174_otsukimi.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_175",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Autumn & Winter Events",
+      "japanese": "七五三",
+      "furigana": "しちごさん",
+      "romaji": "shichigosan",
+      "english": "Festival for 7, 5, and 3-year-olds",
+      "sinhala": "ශිචිගොසන් (අවුරුදු 3, 5, 7 ළමුන්ගේ උත්සවය)",
+      "audio": {
+        "file_name": "e2_175_shichigosan.mp3",
+        "track_id": "L04-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_175_shichigosan.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_176",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Autumn & Winter Events",
+      "japanese": "ハロウィン",
+      "furigana": "ハロウィン",
+      "romaji": "harowiin",
+      "english": "Halloween",
+      "sinhala": "හැලොවීන්",
+      "audio": {
+        "file_name": "e2_176_harowiin.mp3",
+        "track_id": "L04-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_176_harowiin.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_177",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Autumn & Winter Events",
+      "japanese": "クリスマス",
+      "furigana": "クリスマス",
+      "romaji": "kurisumasu",
+      "english": "Christmas",
+      "sinhala": "නත්තල",
+      "audio": {
+        "file_name": "e2_177_kurisumasu.mp3",
+        "track_id": "L04-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_177_kurisumasu.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_178",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Autumn & Winter Events",
+      "japanese": "忘年会",
+      "furigana": "ぼうねんかい",
+      "romaji": "bounenkai",
+      "english": "Year-end party",
+      "sinhala": "වසර නිමා කිරීමේ සාදය",
+      "audio": {
+        "file_name": "e2_178_bounenkai.mp3",
+        "track_id": "L04-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_178_bounenkai.png",
+        "category": "gatherings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_179",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Autumn & Winter Events",
+      "japanese": "新年会",
+      "furigana": "しんねんかい",
+      "romaji": "shinnenkai",
+      "english": "New Year party",
+      "sinhala": "නව වසර පිළිගැනීමේ සාදය",
+      "audio": {
+        "file_name": "e2_179_shinnenkai.mp3",
+        "track_id": "L04-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_179_shinnenkai.png",
+        "category": "gatherings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_180",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Festival Elements",
+      "japanese": "浴衣",
+      "furigana": "ゆかた",
+      "romaji": "yukata",
+      "english": "Yukata (summer cotton kimono)",
+      "sinhala": "යුකාටා (සැහැල්ලු ගිම්හාන කිමෝනාව)",
+      "audio": {
+        "file_name": "e2_180_yukata.mp3",
+        "track_id": "L04-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_180_yukata.png",
+        "category": "clothing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_181",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Festival Elements",
+      "japanese": "着物",
+      "furigana": "きもの",
+      "romaji": "kimono",
+      "english": "Kimono",
+      "sinhala": "කිමෝනාව",
+      "audio": {
+        "file_name": "e2_181_kimono.mp3",
+        "track_id": "L04-V31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_181_kimono.png",
+        "category": "clothing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_182",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Festival Elements",
+      "japanese": "屋台",
+      "furigana": "やたい",
+      "romaji": "yatai",
+      "english": "Street food stall / Booth",
+      "sinhala": "මඟ දෙපස කෑම කඩය",
+      "audio": {
+        "file_name": "e2_182_yatai.mp3",
+        "track_id": "L04-V32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_182_yatai.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_183",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Festival Elements",
+      "japanese": "神輿",
+      "furigana": "みこし",
+      "romaji": "mikoshi",
+      "english": "Portable shrine",
+      "sinhala": "කරඬුවක් බඳු අතින් ගෙනියන කුඩා සිද්ධස්ථානය",
+      "audio": {
+        "file_name": "e2_183_mikoshi.mp3",
+        "track_id": "L04-V33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_183_mikoshi.png",
+        "category": "festivals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_184",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Festival Elements",
+      "japanese": "団子",
+      "furigana": "だんご",
+      "romaji": "dango",
+      "english": "Dango (rice dumpling)",
+      "sinhala": "දංගෝ (සහල් පිටි කැවිලි)",
+      "audio": {
+        "file_name": "e2_184_dango.mp3",
+        "track_id": "L04-V34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_184_dango.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_185",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Actions",
+      "japanese": "飾る",
+      "furigana": "かざる",
+      "romaji": "kazaru",
+      "english": "To decorate / display",
+      "sinhala": "සරසනවා / ප්‍රදර්ශනය කරනවා",
+      "audio": {
+        "file_name": "e2_185_kazaru.mp3",
+        "track_id": "L04-V35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_185_kazaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_186",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Actions",
+      "japanese": "祝う",
+      "furigana": "いわう",
+      "romaji": "iwau",
+      "english": "To celebrate",
+      "sinhala": "සමරනවා",
+      "audio": {
+        "file_name": "e2_186_iwau.mp3",
+        "track_id": "L04-V36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_186_iwau.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_187",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Actions",
+      "japanese": "祈る",
+      "furigana": "いのる",
+      "romaji": "inoru",
+      "english": "To pray",
+      "sinhala": "යාච්ඤා කරනවා / ප්‍රාර්ථනා කරනවා",
+      "audio": {
+        "file_name": "e2_187_inoru.mp3",
+        "track_id": "L04-V37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_187_inoru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_188",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Actions",
+      "japanese": "願う",
+      "furigana": "ねがう",
+      "romaji": "negau",
+      "english": "To wish / hope for",
+      "sinhala": "පතනවා / ඉල්ලා සිටිනවා",
+      "audio": {
+        "file_name": "e2_188_negau.mp3",
+        "track_id": "L04-V38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_188_negau.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_189",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Actions",
+      "japanese": "参加する",
+      "furigana": "さんかする",
+      "romaji": "sanka suru",
+      "english": "To participate / join",
+      "sinhala": "සහභාගී වෙනවා",
+      "audio": {
+        "file_name": "e2_189_sankasuru.mp3",
+        "track_id": "L04-V39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_189_sankasuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_190",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Actions",
+      "japanese": "準備する",
+      "furigana": "じゅんびする",
+      "romaji": "junbi suru",
+      "english": "To prepare",
+      "sinhala": "සූදානම් වෙනවා",
+      "audio": {
+        "file_name": "e2_190_junbisuru.mp3",
+        "track_id": "L04-V40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_190_junbisuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_191",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Transitions",
+      "japanese": "季節の変わり目",
+      "furigana": "きせつのかわりめ",
+      "romaji": "kisetsu no kawarime",
+      "english": "Change of season / Transitional period",
+      "sinhala": "සෘතු මාරු වන කාලය",
+      "audio": {
+        "file_name": "e2_191_kisetsunokawarime.mp3",
+        "track_id": "L03-EX01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_191_kisetsunokawarime.png",
+        "category": "seasons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_192",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Transitions",
+      "japanese": "だんだん",
+      "furigana": "だんだん",
+      "romaji": "dandan",
+      "english": "Gradually / Step by step",
+      "sinhala": "ක්‍රම ක්‍රමයෙන් / ටිකෙන් ටික",
+      "audio": {
+        "file_name": "e2_192_dandan.mp3",
+        "track_id": "L03-EX02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_192_dandan.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_193",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Transitions",
+      "japanese": "すっかり",
+      "furigana": "すっかり",
+      "romaji": "sukkari",
+      "english": "Completely / Totally",
+      "sinhala": "සම්පූර්ණයෙන්ම",
+      "audio": {
+        "file_name": "e2_193_sukkari.mp3",
+        "track_id": "L03-EX03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_193_sukkari.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_194",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Transitions",
+      "japanese": "ずいぶん",
+      "furigana": "ずいぶん",
+      "romaji": "zuibun",
+      "english": "Considerably / Quite a lot",
+      "sinhala": "බොහෝ දුරට / සැලකිය යුතු ලෙස",
+      "audio": {
+        "file_name": "e2_194_zuibun.mp3",
+        "track_id": "L03-EX04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_194_zuibun.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_195",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Phrases",
+      "japanese": "暖かくなりましたね",
+      "furigana": "あたたかくなりましたね",
+      "romaji": "atatakaku narimashita ne",
+      "english": "It has gotten warm, hasn't it?",
+      "sinhala": "උණුසුම් වුණා නේද?",
+      "audio": {
+        "file_name": "e2_195_atatakakunarimashitane.mp3",
+        "track_id": "L03-EX05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_195_atatakakunarimashitane.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_196",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Phrases",
+      "japanese": "寒さが厳しくなりました",
+      "furigana": "さむさがきびしくなりました",
+      "romaji": "samusa ga kibishiku narimashita",
+      "english": "The cold has gotten severe",
+      "sinhala": "සීතල දැඩි වෙලා තියෙනවා",
+      "audio": {
+        "file_name": "e2_196_samusagakibishikunarimashita.mp3",
+        "track_id": "L03-EX06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_196_samusagakibishikunarimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_197",
+      "lesson": 3,
+      "main_topic": "3. 季節と気候の移り変わり / Changing Seasons & Climate",
+      "sub_topic": "Seasonal Phrases",
+      "japanese": "風邪をひかないようにしてください",
+      "furigana": "かぜをひかないようにしてください",
+      "romaji": "kaze o hikanaiyou ni shite kudasai",
+      "english": "Please take care not to catch a cold",
+      "sinhala": "හෙම්බිරිස්සාව හදා නොගෙන පරිස්සම් වන්න",
+      "audio": {
+        "file_name": "e2_197_kazeohikanaiyounishitekudasai.mp3",
+        "track_id": "L03-EX07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_197_kazeohikanaiyounishitekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_198",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Phrases",
+      "japanese": "あけましておめでとうございます",
+      "furigana": "あけましておめでとうございます",
+      "romaji": "akemashite omedetou gozaimasu",
+      "english": "Happy New Year!",
+      "sinhala": "සුභ නව වසරක් වේවා!",
+      "audio": {
+        "file_name": "e2_198_akemashiteomedetougozaimasu.mp3",
+        "track_id": "L04-EX01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_198_akemashiteomedetougozaimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_199",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Phrases",
+      "japanese": "良いお年をお迎えください",
+      "furigana": "よいおとしをおむかえください",
+      "romaji": "yoi otoshi o omukae kudasai",
+      "english": "Have a wonderful New Year (before Jan 1)",
+      "sinhala": "සුභ නව වසරක් උදාවේවා (වසර අවසානයේ පවසන)",
+      "audio": {
+        "file_name": "e2_199_yoiotoshiomukaekudasai.mp3",
+        "track_id": "L04-EX02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_199_yoiotoshiomukaekudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_200",
+      "lesson": 4,
+      "main_topic": "4. 季節の年中行事とイベント / Annual Events & Festivals",
+      "sub_topic": "Event Phrases",
+      "japanese": "今年もお世話になりました",
+      "furigana": "ことしもおせわになりました",
+      "romaji": "kotoshi mo osewa ni narimashita",
+      "english": "Thank you for all your help this year",
+      "sinhala": "මේ වසර පුරා දැක්වූ සහයෝගයට බොහෝම ස්තූතියි",
+      "audio": {
+        "file_name": "e2_200_kotoshimoosewaninarimashita.mp3",
+        "track_id": "L04-EX03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_200_kotoshimoosewaninarimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    }
+  ]
+}

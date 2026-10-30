@@ -1,0 +1,3158 @@
+{
+  "level": "Irodori Elementary 2 (A2)",
+  "part": "Part 11",
+  "total_words": 150,
+  "coverage": "Formal opinions, advanced Keigo (honorifics), comprehensive business interactions, job interviews, career goals, social issues, and full curriculum wrap-up with Audio & Illustration mapping (Words 1001-1150).",
+  "vocabulary": [
+    {
+      "id": "e2_1001",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Stating Opinions",
+      "japanese": "意見",
+      "furigana": "いけん",
+      "romaji": "iken",
+      "english": "Opinion / View",
+      "sinhala": "අදහස / මතය",
+      "audio": {
+        "file_name": "e2_1001_iken.mp3",
+        "track_id": "L18-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1001_iken.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1002",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Stating Opinions",
+      "japanese": "賛成",
+      "furigana": "さんせい",
+      "romaji": "sansei",
+      "english": "Agreement / Approval",
+      "sinhala": "එකඟ වීම / එකඟතාවය",
+      "audio": {
+        "file_name": "e2_1002_sansei.mp3",
+        "track_id": "L18-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1002_sansei.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1003",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Stating Opinions",
+      "japanese": "反対",
+      "furigana": "はんたい",
+      "romaji": "hantai",
+      "english": "Opposition / Disagreement",
+      "sinhala": "විරුද්ධ වීම / එකඟ නොවීම",
+      "audio": {
+        "file_name": "e2_1003_hantai.mp3",
+        "track_id": "L18-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1003_hantai.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1004",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Stating Opinions",
+      "japanese": "賛否",
+      "furigana": "さんぴ",
+      "romaji": "sanpi",
+      "english": "Pros and cons / For and against",
+      "sinhala": "වාසි සහ අවාසි / එකඟ සහ විරුද්ධ මත",
+      "audio": {
+        "file_name": "e2_1004_sanpi.mp3",
+        "track_id": "L18-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1004_sanpi.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1005",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Evaluation",
+      "japanese": "評価する",
+      "furigana": "ひょうかする",
+      "romaji": "hyouka suru",
+      "english": "To evaluate / assess",
+      "sinhala": "ඇගයීමට ලක් කරනවා",
+      "audio": {
+        "file_name": "e2_1005_hyoukasuru.mp3",
+        "track_id": "L18-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1005_hyoukasuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1006",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Evaluation",
+      "japanese": "比べる",
+      "furigana": "くらべる",
+      "romaji": "kuraberu",
+      "english": "To compare",
+      "sinhala": "සංසන්දනය කරනවා",
+      "audio": {
+        "file_name": "e2_1006_kuraberu.mp3",
+        "track_id": "L18-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1006_kuraberu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1007",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Discussion",
+      "japanese": "話し合う",
+      "furigana": "はなしあう",
+      "romaji": "hanashiau",
+      "english": "To discuss / talk together",
+      "sinhala": "සාකච්ඡා කරනවා",
+      "audio": {
+        "file_name": "e2_1007_hanashiau.mp3",
+        "track_id": "L18-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1007_hanashiau.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1008",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Discussion",
+      "japanese": "決める",
+      "furigana": "きめる",
+      "romaji": "kimeru",
+      "english": "To decide",
+      "sinhala": "තීරණය කරනවා",
+      "audio": {
+        "file_name": "e2_1008_kimeru.mp3",
+        "track_id": "L18-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1008_kimeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1009",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Social Issues",
+      "japanese": "社会",
+      "furigana": "しゃかい",
+      "romaji": "shakai",
+      "english": "Society",
+      "sinhala": "සමාජය",
+      "audio": {
+        "file_name": "e2_1009_shakai.mp3",
+        "track_id": "L18-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1009_shakai.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1010",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Social Issues",
+      "japanese": "問題",
+      "furigana": "もんだい",
+      "romaji": "mondai",
+      "english": "Problem / Issue",
+      "sinhala": "ප්‍රශ්නය / ගැටලුව",
+      "audio": {
+        "file_name": "e2_1010_mondai.mp3",
+        "track_id": "L18-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1010_mondai.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1011",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Social Issues",
+      "japanese": "環境",
+      "furigana": "かんきょう",
+      "romaji": "kankyou",
+      "english": "Environment",
+      "sinhala": "පරිසරය",
+      "audio": {
+        "file_name": "e2_1011_kankyou.mp3",
+        "track_id": "L18-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1011_kankyou.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1012",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Social Issues",
+      "japanese": "ルール",
+      "furigana": "ルール",
+      "romaji": "ruuru",
+      "english": "Rule",
+      "sinhala": "නීතිය / රීතිය",
+      "audio": {
+        "file_name": "e2_1012_ruuru.mp3",
+        "track_id": "L18-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1012_ruuru.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1013",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Social Issues",
+      "japanese": "法律",
+      "furigana": "ほうりつ",
+      "romaji": "houritsu",
+      "english": "Law",
+      "sinhala": "නීතිය (රටේ නීතිය)",
+      "audio": {
+        "file_name": "e2_1013_houritsu.mp3",
+        "track_id": "L18-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1013_houritsu.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1014",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Social Issues",
+      "japanese": "守る",
+      "furigana": "まもる",
+      "romaji": "mamoru",
+      "english": "To protect / obey",
+      "sinhala": "ආරක්ෂා කරනවා / පිළිපදිනවා",
+      "audio": {
+        "file_name": "e2_1014_mamoru.mp3",
+        "track_id": "L18-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1014_mamoru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1015",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Change",
+      "japanese": "変わる",
+      "furigana": "かわる",
+      "romaji": "kawaru",
+      "english": "To change (intransitive)",
+      "sinhala": "වෙනස් වෙනවා",
+      "audio": {
+        "file_name": "e2_1015_kawaru.mp3",
+        "track_id": "L18-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1015_kawaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1016",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Change",
+      "japanese": "増える",
+      "furigana": "ふえる",
+      "romaji": "fueru",
+      "english": "To increase",
+      "sinhala": "වැඩි වෙනවා",
+      "audio": {
+        "file_name": "e2_1016_fueru.mp3",
+        "track_id": "L18-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1016_fueru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1017",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Change",
+      "japanese": "減る",
+      "furigana": "へる",
+      "romaji": "heru",
+      "english": "To decrease",
+      "sinhala": "අඩු වෙනවා",
+      "audio": {
+        "file_name": "e2_1017_heru.mp3",
+        "track_id": "L18-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1017_heru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1018",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Expressions",
+      "japanese": "私にとって",
+      "furigana": "わたしにとって",
+      "romaji": "watashi ni totte",
+      "english": "For me / To me",
+      "sinhala": "මට නම් / මගේ පැත්තෙන්",
+      "audio": {
+        "file_name": "e2_1018_watashinitotte.mp3",
+        "track_id": "L18-EX01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1018_watashinitotte.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1019",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Expressions",
+      "japanese": "～について",
+      "furigana": "～について",
+      "romaji": "~ ni tsuite",
+      "english": "Regarding / About ~",
+      "sinhala": "~ ගැන / පිළිබඳව",
+      "audio": {
+        "file_name": "e2_1019_nitsuite.mp3",
+        "track_id": "L18-EX02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1019_nitsuite.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1020",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Expressions",
+      "japanese": "～と思います",
+      "furigana": "～とおもいます",
+      "romaji": "~ to omoimasu",
+      "english": "I think that ~",
+      "sinhala": "මම හිතනවා ~ කියලා",
+      "audio": {
+        "file_name": "e2_1020_toomoimasu.mp3",
+        "track_id": "L18-EX03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1020_toomoimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1021",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Expressions",
+      "japanese": "確かにそうですね",
+      "furigana": "たしかにそうですね",
+      "romaji": "tashika ni sou desu ne",
+      "english": "That is certainly true",
+      "sinhala": "ඒක සහතික ඇත්ත",
+      "audio": {
+        "file_name": "e2_1021_tashikanisoudesune.mp3",
+        "track_id": "L18-EX04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1021_tashikanisoudesune.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1022",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Expressions",
+      "japanese": "それは違うと思います",
+      "furigana": "それはちがうとおもいます",
+      "romaji": "sore wa chigau to omoimasu",
+      "english": "I think that is incorrect",
+      "sinhala": "මම හිතන්නේ ඒක වැරදියි කියලා",
+      "audio": {
+        "file_name": "e2_1022_sorewachigautoomoimasu.mp3",
+        "track_id": "L18-EX05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1022_sorewachigautoomoimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1023",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Expressions",
+      "japanese": "例えば",
+      "furigana": "たとえば",
+      "romaji": "tatoeba",
+      "english": "For example",
+      "sinhala": "උදාහරණයක් ලෙස",
+      "audio": {
+        "file_name": "e2_1023_tatoeba.mp3",
+        "track_id": "L18-EX06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1023_tatoeba.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1024",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Expressions",
+      "japanese": "一番大切なのは",
+      "furigana": "いちばんたいせつなのは",
+      "romaji": "ichiban taisetsu na no wa",
+      "english": "The most important thing is...",
+      "sinhala": "වඩාත්ම වැදගත් දෙය නම්...",
+      "audio": {
+        "file_name": "e2_1024_ichibantaisetsunanowa.mp3",
+        "track_id": "L18-EX07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1024_ichibantaisetsunanowa.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1025",
+      "lesson": 18,
+      "main_topic": "36. 意見と社会問題 / Opinions & Social Issues",
+      "sub_topic": "Expressions",
+      "japanese": "どうしたらいいですか",
+      "furigana": "どうしたらいいですか",
+      "romaji": "dou shitara ii desu ka",
+      "english": "What should be done?",
+      "sinhala": "මොකක්ද කරන්න හොඳ?",
+      "audio": {
+        "file_name": "e2_1025_doushitaraiidesuka.mp3",
+        "track_id": "L18-EX08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1025_doushitaraiidesuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1026",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Respectful Verbs",
+      "japanese": "いらっしゃる",
+      "furigana": "いらっしゃる",
+      "romaji": "irassharu",
+      "english": "To be / come / go (Respectful)",
+      "sinhala": "සිටිනවා / එනවා / යනවා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_1026_irassharu.mp3",
+        "track_id": "L18-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1026_irassharu.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1027",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Respectful Verbs",
+      "japanese": "おっしゃる",
+      "furigana": "おっしゃる",
+      "romaji": "ossharu",
+      "english": "To say (Respectful)",
+      "sinhala": "කියනවා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_1027_ossharu.mp3",
+        "track_id": "L18-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1027_ossharu.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1028",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Respectful Verbs",
+      "japanese": "なさる",
+      "furigana": "なさる",
+      "romaji": "nasaru",
+      "english": "To do (Respectful)",
+      "sinhala": "කරනවා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_1028_nasaru.mp3",
+        "track_id": "L18-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1028_nasaru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1029",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Respectful Verbs",
+      "japanese": "召し上がる",
+      "furigana": "めしあがる",
+      "romaji": "meshiagaru",
+      "english": "To eat / drink (Respectful)",
+      "sinhala": "කනවා / බොනවා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_1029_meshiagaru.mp3",
+        "track_id": "L18-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1029_meshiagaru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1030",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Respectful Verbs",
+      "japanese": "ご覧になる",
+      "furigana": "ごらんになる",
+      "romaji": "goran ni naru",
+      "english": "To look / see (Respectful)",
+      "sinhala": "බලනවා / නරඹනවා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_1030_goranninaru.mp3",
+        "track_id": "L18-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1030_goranninaru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1031",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Respectful Verbs",
+      "japanese": "ご存知だ",
+      "furigana": "ごぞんじだ",
+      "romaji": "gozonji da",
+      "english": "To know (Respectful)",
+      "sinhala": "දන්නවා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_1031_gozonjida.mp3",
+        "track_id": "L18-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1031_gozonjida.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1032",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Humble Verbs",
+      "japanese": "申す",
+      "furigana": "もうす",
+      "romaji": "mousu",
+      "english": "To say / be called (Humble)",
+      "sinhala": "කියනවා / හඳුන්වනවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1032_mousu.mp3",
+        "track_id": "L18-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1032_mousu.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1033",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Humble Verbs",
+      "japanese": "参る",
+      "furigana": "まいる",
+      "romaji": "mairu",
+      "english": "To go / come (Humble)",
+      "sinhala": "යනවා / එනවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1033_mairu.mp3",
+        "track_id": "L18-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1033_mairu.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1034",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Humble Verbs",
+      "japanese": "伺う",
+      "furigana": "うかがう",
+      "romaji": "ukagau",
+      "english": "To ask / visit (Humble)",
+      "sinhala": "අසනවා / බැහැදකිනවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1034_ukagau.mp3",
+        "track_id": "L18-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1034_ukagau.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1035",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Humble Verbs",
+      "japanese": "おる",
+      "furigana": "おる",
+      "romaji": "oru",
+      "english": "To be (Humble)",
+      "sinhala": "සිටිනවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1035_oru.mp3",
+        "track_id": "L18-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1035_oru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1036",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Humble Verbs",
+      "japanese": "いたす",
+      "furigana": "いたす",
+      "romaji": "itasu",
+      "english": "To do (Humble)",
+      "sinhala": "කරනවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1036_itasu.mp3",
+        "track_id": "L18-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1036_itasu.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1037",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Humble Verbs",
+      "japanese": "拝見する",
+      "furigana": "はいけんする",
+      "romaji": "haiken suru",
+      "english": "To look / see (Humble)",
+      "sinhala": "බලනවා / නරඹනවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1037_haikensuru.mp3",
+        "track_id": "L18-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1037_haikensuru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1038",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Humble Verbs",
+      "japanese": "存じる",
+      "furigana": "ぞんじる",
+      "romaji": "zonjiru",
+      "english": "To know (Humble)",
+      "sinhala": "දන්නවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1038_zonjiru.mp3",
+        "track_id": "L18-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1038_zonjiru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1039",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Humble Verbs",
+      "japanese": "お目にかかる",
+      "furigana": "おめにかかる",
+      "romaji": "ome ni kakaru",
+      "english": "To meet (Humble)",
+      "sinhala": "හමුවෙනවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1039_omenikakaru.mp3",
+        "track_id": "L18-V31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1039_omenikakaru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1040",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Giving & Receiving",
+      "japanese": "差し上げる",
+      "furigana": "さしあげる",
+      "romaji": "sashiageru",
+      "english": "To give (Humble)",
+      "sinhala": "දෙනවා / ප්‍රදානය කරනවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1040_sashiageru.mp3",
+        "track_id": "L18-V32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1040_sashiageru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1041",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Giving & Receiving",
+      "japanese": "くださる",
+      "furigana": "くださる",
+      "romaji": "kudasaru",
+      "english": "To give to me (Respectful)",
+      "sinhala": "මට දෙනවා (අනෙකා ගැන ගෞරවාන්විතව)",
+      "audio": {
+        "file_name": "e2_1041_kudasaru.mp3",
+        "track_id": "L18-V33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1041_kudasaru.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1042",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Giving & Receiving",
+      "japanese": "いただく",
+      "furigana": "いただく",
+      "romaji": "itadaku",
+      "english": "To receive / eat / drink (Humble)",
+      "sinhala": "ලබා ගන්නවා / කනවා / බොනවා (තමා ගැන නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1042_itadaku.mp3",
+        "track_id": "L18-V34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1042_itadaku.png",
+        "category": "honorifics",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1043",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Keigo Contexts",
+      "japanese": "社長室",
+      "furigana": "しゃちょうしつ",
+      "romaji": "shachoushitsu",
+      "english": "President's office",
+      "sinhala": "සභාපති කාර්යාලය",
+      "audio": {
+        "file_name": "e2_1043_shachoushitsu.mp3",
+        "track_id": "L18-V35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1043_shachoushitsu.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1044",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Keigo Contexts",
+      "japanese": "お客様",
+      "furigana": "おきゃくさま",
+      "romaji": "okyakusama",
+      "english": "Customer / Guest (Respectful)",
+      "sinhala": "පාරිභෝගිකයා / අමුත්තා (ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_1044_okyakusama.mp3",
+        "track_id": "L18-V36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1044_okyakusama.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1045",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Keigo Contexts",
+      "japanese": "取引先",
+      "furigana": "とりひきさき",
+      "romaji": "torihikisaki",
+      "english": "Business partner / Client",
+      "sinhala": "ව්‍යාපාරික හවුල්කරු / ගනුදෙනුකරු",
+      "audio": {
+        "file_name": "e2_1045_torihikisaki.mp3",
+        "track_id": "L18-V37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1045_torihikisaki.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1046",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Formal Requests",
+      "japanese": "よろしいでしょうか",
+      "furigana": "よろしいでしょうか",
+      "romaji": "yoroshii deshou ka",
+      "english": "Would it be alright? (Very polite)",
+      "sinhala": "ඒක හරිද? / කමක් නැද්ද? (ඉතා ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_1046_yoroshiideshouka.mp3",
+        "track_id": "L18-EX09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1046_yoroshiideshouka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1047",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Formal Requests",
+      "japanese": "お願いいたします",
+      "furigana": "おねがいいたします",
+      "romaji": "onegai itashimasu",
+      "english": "I humbly request / Please",
+      "sinhala": "කරුණාකර ඉල්ලා සිටිමි (නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1047_onegaiitashimasu.mp3",
+        "track_id": "L18-EX10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1047_onegaiitashimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1048",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Formal Apologies",
+      "japanese": "申し訳ございません",
+      "furigana": "もうしわけございません",
+      "romaji": "moushiwake gozaimasen",
+      "english": "I am deeply sorry",
+      "sinhala": "මගේ බලවත් කණගාටුව (ඉතා ගෞරවාන්විත)",
+      "audio": {
+        "file_name": "e2_1048_moushiwakegozaimasen.mp3",
+        "track_id": "L18-EX11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1048_moushiwakegozaimasen.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1049",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Formal Actions",
+      "japanese": "ご案内します",
+      "furigana": "ごあんないします",
+      "romaji": "goannai shimasu",
+      "english": "I will show you the way / guide you (Humble)",
+      "sinhala": "මම ඔබට මඟ පෙන්වන්නම් (නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1049_goannaishimasu.mp3",
+        "track_id": "L18-EX12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1049_goannaishimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1050",
+      "lesson": 18,
+      "main_topic": "37. 上級の敬語と謙譲語 / Advanced Honorifics",
+      "sub_topic": "Formal Actions",
+      "japanese": "ご説明します",
+      "furigana": "ごせつめいします",
+      "romaji": "gosetsumei shimasu",
+      "english": "I will explain (Humble)",
+      "sinhala": "මම ඔබට පැහැදිලි කරන්නම් (නිහතමානීව)",
+      "audio": {
+        "file_name": "e2_1050_gosetsumeishimasu.mp3",
+        "track_id": "L18-EX13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1050_gosetsumeishimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1051",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Job Hunting",
+      "japanese": "面接",
+      "furigana": "めんせつ",
+      "romaji": "mensetsu",
+      "english": "Interview",
+      "sinhala": "සම්මුඛ පරීක්ෂණය",
+      "audio": {
+        "file_name": "e2_1051_mensetsu.mp3",
+        "track_id": "L18-V38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1051_mensetsu.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1052",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Job Hunting",
+      "japanese": "履歴書",
+      "furigana": "りれきしょ",
+      "romaji": "rirekisho",
+      "english": "Resume / CV",
+      "sinhala": "ජීව දත්ත සටහන (CV)",
+      "audio": {
+        "file_name": "e2_1052_rirekisho.mp3",
+        "track_id": "L18-V39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1052_rirekisho.png",
+        "category": "documents",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1053",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Job Hunting",
+      "japanese": "志望動機",
+      "furigana": "しぼうどうき",
+      "romaji": "shiboudouki",
+      "english": "Reason for application",
+      "sinhala": "ඉල්ලුම් කිරීමට හේතුව",
+      "audio": {
+        "file_name": "e2_1053_shiboudouki.mp3",
+        "track_id": "L18-V40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1053_shiboudouki.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1054",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Job Hunting",
+      "japanese": "自己PR",
+      "furigana": "じこピーアール",
+      "romaji": "jiko piiaaru",
+      "english": "Self-promotion / Selling oneself",
+      "sinhala": "තමාගේ හැකියාවන් ප්‍රවර්ධනය කිරීම",
+      "audio": {
+        "file_name": "e2_1054_jikopiiaaru.mp3",
+        "track_id": "L18-V41",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1054_jikopiiaaru.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1055",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Job Hunting",
+      "japanese": "長所",
+      "furigana": "ちょうしょ",
+      "romaji": "chousho",
+      "english": "Strong point / Strength",
+      "sinhala": "ප්‍රබලතාවය / දක්ෂතාවය",
+      "audio": {
+        "file_name": "e2_1055_chousho.mp3",
+        "track_id": "L18-V42",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1055_chousho.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1056",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Job Hunting",
+      "japanese": "短所",
+      "furigana": "たんしょ",
+      "romaji": "tansho",
+      "english": "Weak point / Weakness",
+      "sinhala": "දුර්වලතාවය",
+      "audio": {
+        "file_name": "e2_1056_tansho.mp3",
+        "track_id": "L18-V43",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1056_tansho.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1057",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Employment Status",
+      "japanese": "正社員",
+      "furigana": "せいしゃいん",
+      "romaji": "seishain",
+      "english": "Full-time employee",
+      "sinhala": "ස්ථිර සේවකයා",
+      "audio": {
+        "file_name": "e2_1057_seishain.mp3",
+        "track_id": "L18-V44",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1057_seishain.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1058",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Employment Status",
+      "japanese": "契約社員",
+      "furigana": "けいやくしゃいん",
+      "romaji": "keiyakushain",
+      "english": "Contract employee",
+      "sinhala": "කොන්ත්‍රාත් සේවකයා",
+      "audio": {
+        "file_name": "e2_1058_keiyakushain.mp3",
+        "track_id": "L18-V45",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1058_keiyakushain.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1059",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Employment Status",
+      "japanese": "派遣社員",
+      "furigana": "はけんしゃいん",
+      "romaji": "hakenshain",
+      "english": "Dispatched worker",
+      "sinhala": "ඒජන්සියක් හරහා යොදවන සේවකයා",
+      "audio": {
+        "file_name": "e2_1059_hakenshain.mp3",
+        "track_id": "L18-V46",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1059_hakenshain.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1060",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Employment Status",
+      "japanese": "フリーター",
+      "furigana": "フリーター",
+      "romaji": "furiitaa",
+      "english": "Part-time worker (lifestyle)",
+      "sinhala": "අර්ධකාලීන රැකියා මත යැපෙන්නා",
+      "audio": {
+        "file_name": "e2_1060_furiitaa.mp3",
+        "track_id": "L18-V47",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1060_furiitaa.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1061",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Work Actions",
+      "japanese": "就職する",
+      "furigana": "しゅうしょくする",
+      "romaji": "shuushoku suru",
+      "english": "To find employment / get a job",
+      "sinhala": "රැකියාවකට බැඳෙනවා",
+      "audio": {
+        "file_name": "e2_1061_shuushokusuru.mp3",
+        "track_id": "L18-V48",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1061_shuushokusuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1062",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Work Actions",
+      "japanese": "転職する",
+      "furigana": "てんしょくする",
+      "romaji": "tenshoku suru",
+      "english": "To change jobs",
+      "sinhala": "රැකියාව මාරු කරනවා",
+      "audio": {
+        "file_name": "e2_1062_tenshokusuru.mp3",
+        "track_id": "L18-V49",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1062_tenshokusuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1063",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Work Actions",
+      "japanese": "退職する",
+      "furigana": "たいしょくする",
+      "romaji": "taishoku suru",
+      "english": "To resign / retire",
+      "sinhala": "රැකියාවෙන් ඉවත් වෙනවා",
+      "audio": {
+        "file_name": "e2_1063_taishokusuru.mp3",
+        "track_id": "L18-V50",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1063_taishokusuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1064",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Work Actions",
+      "japanese": "昇進する",
+      "furigana": "しょうしんする",
+      "romaji": "shoushin suru",
+      "english": "To get promoted",
+      "sinhala": "උසස්වීමක් ලබනවා",
+      "audio": {
+        "file_name": "e2_1064_shoushinsuru.mp3",
+        "track_id": "L18-V51",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1064_shoushinsuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1065",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Work Actions",
+      "japanese": "独立する",
+      "furigana": "どくりつする",
+      "romaji": "dokuritsu suru",
+      "english": "To become independent (start own business)",
+      "sinhala": "ස්වාධීන වෙනවා (තම ව්‍යාපාරයක් ඇරඹීම)",
+      "audio": {
+        "file_name": "e2_1065_dokuritsusuru.mp3",
+        "track_id": "L18-V52",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1065_dokuritsusuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1066",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Career Goals",
+      "japanese": "資格",
+      "furigana": "しかく",
+      "romaji": "shikaku",
+      "english": "Qualification / Certification",
+      "sinhala": "සුදුසුකම / සහතිකය",
+      "audio": {
+        "file_name": "e2_1066_shikaku.mp3",
+        "track_id": "L18-V53",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1066_shikaku.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1067",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Career Goals",
+      "japanese": "スキル",
+      "furigana": "スキル",
+      "romaji": "sukiru",
+      "english": "Skill",
+      "sinhala": "හැකියාව / කුසලතාව",
+      "audio": {
+        "file_name": "e2_1067_sukiru.mp3",
+        "track_id": "L18-V54",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1067_sukiru.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1068",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Career Goals",
+      "japanese": "やりがい",
+      "furigana": "やりがい",
+      "romaji": "yarigai",
+      "english": "Sense of fulfillment / Rewarding",
+      "sinhala": "තෘප්තියක් ලැබෙන දෙයක්",
+      "audio": {
+        "file_name": "e2_1068_yarigai.mp3",
+        "track_id": "L18-V55",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1068_yarigai.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1069",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Career Goals",
+      "japanese": "安定",
+      "furigana": "あんてい",
+      "romaji": "antei",
+      "english": "Stability",
+      "sinhala": "ස්ථාවරත්වය",
+      "audio": {
+        "file_name": "e2_1069_antei.mp3",
+        "track_id": "L18-V56",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1069_antei.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1070",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Career Goals",
+      "japanese": "挑戦",
+      "furigana": "ちょうせん",
+      "romaji": "chousen",
+      "english": "Challenge",
+      "sinhala": "අභියෝගය",
+      "audio": {
+        "file_name": "e2_1070_chousen.mp3",
+        "track_id": "L18-V57",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1070_chousen.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1071",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Interview Phrases",
+      "japanese": "よろしくお願いします",
+      "furigana": "よろしくおねがいします",
+      "romaji": "yoroshiku onegaishimasu",
+      "english": "I look forward to working with you",
+      "sinhala": "කරුණාකර මා සමඟ සුහදව කටයුතු කරන්න",
+      "audio": {
+        "file_name": "e2_1071_yoroshikuonegaishimasu.mp3",
+        "track_id": "L18-EX14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1071_yoroshikuonegaishimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1072",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Interview Phrases",
+      "japanese": "私の長所は～です",
+      "furigana": "わたしのちょうしょは～です",
+      "romaji": "watashi no chousho wa ~ desu",
+      "english": "My strength is ~",
+      "sinhala": "මගේ ප්‍රබලතාවය වන්නේ ~",
+      "audio": {
+        "file_name": "e2_1072_watashinochoushowadesu.mp3",
+        "track_id": "L18-EX15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1072_watashinochoushowadesu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1073",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Interview Phrases",
+      "japanese": "一生懸命頑張ります",
+      "furigana": "いっしょうけんめいがんばります",
+      "romaji": "isshoukenmei ganbarimasu",
+      "english": "I will do my absolute best",
+      "sinhala": "මම මගේ උපරිම උත්සාහයෙන් වැඩ කරනවා",
+      "audio": {
+        "file_name": "e2_1073_isshoukenmeiganbarimasu.mp3",
+        "track_id": "L18-EX16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1073_isshoukenmeiganbarimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1074",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Interview Phrases",
+      "japanese": "経験を活かしたいです",
+      "furigana": "けいけんをいかしたいです",
+      "romaji": "keiken o ikashitai desu",
+      "english": "I want to utilize my experience",
+      "sinhala": "මගේ අත්දැකීම් ප්‍රයෝජනයට ගන්න මට අවශ්‍යයි",
+      "audio": {
+        "file_name": "e2_1074_keikenoikashitaidesu.mp3",
+        "track_id": "L18-EX17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1074_keikenoikashitaidesu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1075",
+      "lesson": 18,
+      "main_topic": "38. 面接とキャリア / Job Interviews & Careers",
+      "sub_topic": "Interview Phrases",
+      "japanese": "採用",
+      "furigana": "さいよう",
+      "romaji": "saiyou",
+      "english": "Adoption / Employment / Hiring",
+      "sinhala": "බඳවා ගැනීම",
+      "audio": {
+        "file_name": "e2_1075_saiyou.mp3",
+        "track_id": "L18-V58",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1075_saiyou.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1076",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Global Environment",
+      "japanese": "地球",
+      "furigana": "ちきゅう",
+      "romaji": "chikyuu",
+      "english": "Earth / Globe",
+      "sinhala": "පෘථිවිය / ලෝකය",
+      "audio": {
+        "file_name": "e2_1076_chikyuu.mp3",
+        "track_id": "L18-V59",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1076_chikyuu.png",
+        "category": "environment",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1077",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Global Environment",
+      "japanese": "温暖化",
+      "furigana": "おんだんか",
+      "romaji": "ondanka",
+      "english": "Global warming",
+      "sinhala": "ගෝලීය උණුසුම",
+      "audio": {
+        "file_name": "e2_1077_ondanka.mp3",
+        "track_id": "L18-V60",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1077_ondanka.png",
+        "category": "environment",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1078",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Global Environment",
+      "japanese": "気候変動",
+      "furigana": "きこうへんどう",
+      "romaji": "kikouhendou",
+      "english": "Climate change",
+      "sinhala": "දේශගුණික විපර්යාසය",
+      "audio": {
+        "file_name": "e2_1078_kikouhendou.mp3",
+        "track_id": "L18-V61",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1078_kikouhendou.png",
+        "category": "environment",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1079",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Global Environment",
+      "japanese": "ごみ問題",
+      "furigana": "ごみもんだい",
+      "romaji": "gomimondai",
+      "english": "Garbage problem",
+      "sinhala": "කසළ ගැටලුව",
+      "audio": {
+        "file_name": "e2_1079_gomimondai.mp3",
+        "track_id": "L18-V62",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1079_gomimondai.png",
+        "category": "environment",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1080",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Global Environment",
+      "japanese": "リサイクル",
+      "furigana": "リサイクル",
+      "romaji": "risaikuru",
+      "english": "Recycling",
+      "sinhala": "ප්‍රතිචක්‍රීකරණය",
+      "audio": {
+        "file_name": "e2_1080_risaikuru.mp3",
+        "track_id": "L18-V63",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1080_risaikuru.png",
+        "category": "environment",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1081",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Social Issues",
+      "japanese": "少子化",
+      "furigana": "しょうしか",
+      "romaji": "shoushika",
+      "english": "Declining birthrate",
+      "sinhala": "උපත් අනුපාතය අඩුවීම",
+      "audio": {
+        "file_name": "e2_1081_shoushika.mp3",
+        "track_id": "L18-V64",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1081_shoushika.png",
+        "category": "social_issues",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1082",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Social Issues",
+      "japanese": "高齢化",
+      "furigana": "こうれいか",
+      "romaji": "koureika",
+      "english": "Aging population",
+      "sinhala": "වැඩිහිටි ජනගහනය වැඩිවීම",
+      "audio": {
+        "file_name": "e2_1082_koureika.mp3",
+        "track_id": "L18-V65",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1082_koureika.png",
+        "category": "social_issues",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1083",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Social Issues",
+      "japanese": "人口",
+      "furigana": "じんこう",
+      "romaji": "jinkou",
+      "english": "Population",
+      "sinhala": "ජනගහනය",
+      "audio": {
+        "file_name": "e2_1083_jinkou.mp3",
+        "track_id": "L18-V66",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1083_jinkou.png",
+        "category": "social_issues",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1084",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Social Issues",
+      "japanese": "経済",
+      "furigana": "けいざい",
+      "romaji": "keizai",
+      "english": "Economy",
+      "sinhala": "ආර්ථිකය",
+      "audio": {
+        "file_name": "e2_1084_keizai.mp3",
+        "track_id": "L18-V67",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1084_keizai.png",
+        "category": "social_issues",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1085",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Social Issues",
+      "japanese": "政治",
+      "furigana": "せいじ",
+      "romaji": "seiji",
+      "english": "Politics",
+      "sinhala": "දේශපාලනය",
+      "audio": {
+        "file_name": "e2_1085_seiji.mp3",
+        "track_id": "L18-V68",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1085_seiji.png",
+        "category": "social_issues",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1086",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Actions for Society",
+      "japanese": "減らす",
+      "furigana": "へらす",
+      "romaji": "herasu",
+      "english": "To decrease / reduce (transitive)",
+      "sinhala": "අඩු කරනවා",
+      "audio": {
+        "file_name": "e2_1086_herasu.mp3",
+        "track_id": "L18-V69",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1086_herasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1087",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Actions for Society",
+      "japanese": "増やす",
+      "furigana": "ふやす",
+      "romaji": "fuyasu",
+      "english": "To increase (transitive)",
+      "sinhala": "වැඩි කරනවා",
+      "audio": {
+        "file_name": "e2_1087_fuyasu.mp3",
+        "track_id": "L18-V70",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1087_fuyasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1088",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Actions for Society",
+      "japanese": "節約する",
+      "furigana": "せつやくする",
+      "romaji": "setsuyaku suru",
+      "english": "To save / economize",
+      "sinhala": "පිරිමසා ගන්නවා / ඉතිරි කරනවා",
+      "audio": {
+        "file_name": "e2_1088_setsuyakusuru.mp3",
+        "track_id": "L18-V71",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1088_setsuyakusuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1089",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Actions for Society",
+      "japanese": "保護する",
+      "furigana": "ほごする",
+      "romaji": "hogo suru",
+      "english": "To protect / preserve",
+      "sinhala": "සුරකිනවා / ආරක්ෂා කරනවා",
+      "audio": {
+        "file_name": "e2_1089_hogosuru.mp3",
+        "track_id": "L18-V72",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1089_hogosuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1090",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Actions for Society",
+      "japanese": "解決する",
+      "furigana": "かいけつする",
+      "romaji": "kaiketsu suru",
+      "english": "To resolve / solve",
+      "sinhala": "විසඳනවා",
+      "audio": {
+        "file_name": "e2_1090_kaiketsusuru.mp3",
+        "track_id": "L18-V73",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1090_kaiketsusuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1091",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Opinion Adjectives",
+      "japanese": "重大",
+      "furigana": "じゅうだい",
+      "romaji": "juudai",
+      "english": "Serious / Important",
+      "sinhala": "බරපතල / වැදගත්",
+      "audio": {
+        "file_name": "e2_1091_juudai.mp3",
+        "track_id": "L18-V74",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1091_juudai.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1092",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Opinion Adjectives",
+      "japanese": "深刻",
+      "furigana": "しんこく",
+      "romaji": "shinkoku",
+      "english": "Serious / Severe (problem)",
+      "sinhala": "අතිශය බරපතල (ගැටලුවක්)",
+      "audio": {
+        "file_name": "e2_1092_shinkoku.mp3",
+        "track_id": "L18-V75",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1092_shinkoku.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1093",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Opinion Adjectives",
+      "japanese": "豊か",
+      "furigana": "ゆたか",
+      "romaji": "yutaka",
+      "english": "Abundant / Wealthy",
+      "sinhala": "පොහොසත් / සමෘද්ධිමත්",
+      "audio": {
+        "file_name": "e2_1093_yutaka.mp3",
+        "track_id": "L18-V76",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1093_yutaka.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1094",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Opinion Adjectives",
+      "japanese": "複雑",
+      "furigana": "ふくざつ",
+      "romaji": "fukuzatsu",
+      "english": "Complicated",
+      "sinhala": "සංකීර්ණ",
+      "audio": {
+        "file_name": "e2_1094_fukuzatsu.mp3",
+        "track_id": "L18-V77",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1094_fukuzatsu.png",
+        "category": "adjectives",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1095",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Opinion Adjectives",
+      "japanese": "平和",
+      "furigana": "へいわ",
+      "romaji": "heiwa",
+      "english": "Peace / Peaceful",
+      "sinhala": "සාමකාමී / සාමය",
+      "audio": {
+        "file_name": "e2_1095_heiwa.mp3",
+        "track_id": "L18-V78",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1095_heiwa.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1096",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Opinion Phrases",
+      "japanese": "～についてどう思いますか",
+      "furigana": "～についてどうおもいますか",
+      "romaji": "~ ni tsuite dou omoimasu ka",
+      "english": "What do you think about ~?",
+      "sinhala": "~ පිළිබඳව ඔබ කුමක් සිතන්නේද?",
+      "audio": {
+        "file_name": "e2_1096_nitsuitedouomoimasuka.mp3",
+        "track_id": "L18-EX18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1096_nitsuitedouomoimasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1097",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Opinion Phrases",
+      "japanese": "～するべきだと思います",
+      "furigana": "～するべきだとおもいます",
+      "romaji": "~ suru beki da to omoimasu",
+      "english": "I think we should ~",
+      "sinhala": "මම හිතන්නේ අප ~ කළ යුතුයි",
+      "audio": {
+        "file_name": "e2_1097_surubekidatoomoimasu.mp3",
+        "track_id": "L18-EX19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1097_surubekidatoomoimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1098",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Opinion Phrases",
+      "japanese": "～の問題があります",
+      "furigana": "～のもんだいがあります",
+      "romaji": "~ no mondai ga arimasu",
+      "english": "There is a problem with ~",
+      "sinhala": "~ සම්බන්ධ ගැටලුවක් පවතිනවා",
+      "audio": {
+        "file_name": "e2_1098_nomondaigaarimasu.mp3",
+        "track_id": "L18-EX20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1098_nomondaigaarimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1099",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Opinion Phrases",
+      "japanese": "大切なことだと思います",
+      "furigana": "たいせつなことだとおもいます",
+      "romaji": "taisetsu na koto da to omoimasu",
+      "english": "I think it is an important matter",
+      "sinhala": "ඒක වැදගත් දෙයක් කියලා මම හිතනවා",
+      "audio": {
+        "file_name": "e2_1099_taisetsunakotodatoomoimasu.mp3",
+        "track_id": "L18-EX21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1099_taisetsunakotodatoomoimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1100",
+      "lesson": 18,
+      "main_topic": "39. 環境問題と社会 / Environmental & Social Issues",
+      "sub_topic": "Opinion Phrases",
+      "japanese": "解決するのは難しいです",
+      "furigana": "かいけつするのはむずかしいです",
+      "romaji": "kaiketsu suru no wa muzukashii desu",
+      "english": "It is difficult to resolve",
+      "sinhala": "මෙය විසඳීම අපහසුයි",
+      "audio": {
+        "file_name": "e2_1100_kaiketsusurunowamuzukashiidesu.mp3",
+        "track_id": "L18-EX22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1100_kaiketsusurunowamuzukashiidesu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1101",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Time & Frequency",
+      "japanese": "たまに",
+      "furigana": "たまに",
+      "romaji": "tama ni",
+      "english": "Occasionally / Once in a while",
+      "sinhala": "කලාතුරකින් / ඉඳහිට",
+      "audio": {
+        "file_name": "e2_1101_tamani.mp3",
+        "track_id": "L18-W01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1101_tamani.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1102",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Time & Frequency",
+      "japanese": "めったに",
+      "furigana": "めったに",
+      "romaji": "metta ni",
+      "english": "Rarely / Seldom (with negative)",
+      "sinhala": "බොහොම කලාතුරකින් (නැත අර්ථය සමඟ)",
+      "audio": {
+        "file_name": "e2_1102_mettani.mp3",
+        "track_id": "L18-W02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1102_mettani.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1103",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Time & Frequency",
+      "japanese": "最近",
+      "furigana": "さいきん",
+      "romaji": "saikin",
+      "english": "Recently / Lately",
+      "sinhala": "මෑතකදී / ළඟදී",
+      "audio": {
+        "file_name": "e2_1103_saikin.mp3",
+        "track_id": "L18-W03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1103_saikin.png",
+        "category": "time",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1104",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Time & Frequency",
+      "japanese": "ずっと",
+      "furigana": "ずっと",
+      "romaji": "zutto",
+      "english": "For a long time / All along",
+      "sinhala": "දිගටම / ගොඩක් වෙලා",
+      "audio": {
+        "file_name": "e2_1104_zutto.mp3",
+        "track_id": "L18-W04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1104_zutto.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1105",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Time & Frequency",
+      "japanese": "やっと",
+      "furigana": "やっと",
+      "romaji": "yatto",
+      "english": "Finally / At last",
+      "sinhala": "අන්තිමේදී",
+      "audio": {
+        "file_name": "e2_1105_yatto.mp3",
+        "track_id": "L18-W05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1105_yatto.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1106",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Degree Adverbs",
+      "japanese": "とても",
+      "furigana": "とても",
+      "romaji": "totemo",
+      "english": "Very",
+      "sinhala": "ගොඩක් / ඉතා",
+      "audio": {
+        "file_name": "e2_1106_totemo.mp3",
+        "track_id": "L18-W06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1106_totemo.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1107",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Degree Adverbs",
+      "japanese": "少し",
+      "furigana": "すこし",
+      "romaji": "sukoshi",
+      "english": "A little / Slightly",
+      "sinhala": "ටිකක්",
+      "audio": {
+        "file_name": "e2_1107_sukoshi.mp3",
+        "track_id": "L18-W07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1107_sukoshi.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1108",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Degree Adverbs",
+      "japanese": "まあまあ",
+      "furigana": "まあまあ",
+      "romaji": "maamaa",
+      "english": "So-so / Moderately",
+      "sinhala": "සාමාන්‍යයි / අවුලක් නෑ",
+      "audio": {
+        "file_name": "e2_1108_maamaa.mp3",
+        "track_id": "L18-W08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1108_maamaa.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1109",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Degree Adverbs",
+      "japanese": "かなり",
+      "furigana": "かなり",
+      "romaji": "kanari",
+      "english": "Considerably / Fairly",
+      "sinhala": "සැලකිය යුතු තරම් / සෑහෙන්න",
+      "audio": {
+        "file_name": "e2_1109_kanari.mp3",
+        "track_id": "L18-W09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1109_kanari.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1110",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Degree Adverbs",
+      "japanese": "全然",
+      "furigana": "ぜんぜん",
+      "romaji": "zenzen",
+      "english": "Not at all (with negative)",
+      "sinhala": "කිසිසේත්ම (නැත)",
+      "audio": {
+        "file_name": "e2_1110_zenzen.mp3",
+        "track_id": "L18-W10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1110_zenzen.png",
+        "category": "adverbs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1111",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Comparison",
+      "japanese": "同じ",
+      "furigana": "おなじ",
+      "romaji": "onaji",
+      "english": "Same",
+      "sinhala": "සමාන / එකම",
+      "audio": {
+        "file_name": "e2_1111_onaji.mp3",
+        "track_id": "L18-W11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1111_onaji.png",
+        "category": "comparisons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1112",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Comparison",
+      "japanese": "違う",
+      "furigana": "ちがう",
+      "romaji": "chigau",
+      "english": "Different",
+      "sinhala": "වෙනස්",
+      "audio": {
+        "file_name": "e2_1112_chigau.mp3",
+        "track_id": "L18-W12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1112_chigau.png",
+        "category": "comparisons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1113",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Comparison",
+      "japanese": "似ている",
+      "furigana": "にている",
+      "romaji": "niteiru",
+      "english": "Similar / Resembling",
+      "sinhala": "සමානයි (හැඩයෙන්/ස්වභාවයෙන්)",
+      "audio": {
+        "file_name": "e2_1113_niteiru.mp3",
+        "track_id": "L18-W13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1113_niteiru.png",
+        "category": "comparisons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1114",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Comparison",
+      "japanese": "以上",
+      "furigana": "いじょう",
+      "romaji": "ijou",
+      "english": "More than / Over",
+      "sinhala": "ඊට වඩා වැඩි",
+      "audio": {
+        "file_name": "e2_1114_ijou.mp3",
+        "track_id": "L18-W14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1114_ijou.png",
+        "category": "comparisons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1115",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Comparison",
+      "japanese": "以下",
+      "furigana": "いか",
+      "romaji": "ika",
+      "english": "Less than / Under",
+      "sinhala": "ඊට වඩා අඩු",
+      "audio": {
+        "file_name": "e2_1115_ika.mp3",
+        "track_id": "L18-W15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1115_ika.png",
+        "category": "comparisons",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1116",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Conjunctions",
+      "japanese": "だから",
+      "furigana": "だから",
+      "romaji": "dakara",
+      "english": "Therefore / So",
+      "sinhala": "ඒ නිසා",
+      "audio": {
+        "file_name": "e2_1116_dakara.mp3",
+        "track_id": "L18-W16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1116_dakara.png",
+        "category": "conjunctions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1117",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Conjunctions",
+      "japanese": "しかし",
+      "furigana": "しかし",
+      "romaji": "shikashi",
+      "english": "However / But",
+      "sinhala": "කෙසේ වෙතත් / නමුත්",
+      "audio": {
+        "file_name": "e2_1117_shikashi.mp3",
+        "track_id": "L18-W17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1117_shikashi.png",
+        "category": "conjunctions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1118",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Conjunctions",
+      "japanese": "それで",
+      "furigana": "それで",
+      "romaji": "sorede",
+      "english": "And then / So",
+      "sinhala": "ඊට පස්සේ / ඒ නිසා",
+      "audio": {
+        "file_name": "e2_1118_sorede.mp3",
+        "track_id": "L18-W18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1118_sorede.png",
+        "category": "conjunctions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1119",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Conjunctions",
+      "japanese": "また",
+      "furigana": "また",
+      "romaji": "mata",
+      "english": "Also / Again",
+      "sinhala": "නැවතත් / ඒ වගේම",
+      "audio": {
+        "file_name": "e2_1119_mata.mp3",
+        "track_id": "L18-W19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1119_mata.png",
+        "category": "conjunctions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1120",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Conjunctions",
+      "japanese": "例えば",
+      "furigana": "たとえば",
+      "romaji": "tatoeba",
+      "english": "For example",
+      "sinhala": "උදාහරණයක් විදිහට",
+      "audio": {
+        "file_name": "e2_1120_tatoeba.mp3",
+        "track_id": "L18-W20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1120_tatoeba.png",
+        "category": "conjunctions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1121",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Life Events",
+      "japanese": "生まれる",
+      "furigana": "うまれる",
+      "romaji": "umareru",
+      "english": "To be born",
+      "sinhala": "උපදිනවා",
+      "audio": {
+        "file_name": "e2_1121_umareru.mp3",
+        "track_id": "L18-W21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1121_umareru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1122",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Life Events",
+      "japanese": "育つ",
+      "furigana": "そだつ",
+      "romaji": "sodatsu",
+      "english": "To grow up / be raised",
+      "sinhala": "හැදී වැඩෙනවා",
+      "audio": {
+        "file_name": "e2_1122_sodatsu.mp3",
+        "track_id": "L18-W22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1122_sodatsu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1123",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Life Events",
+      "japanese": "結婚する",
+      "furigana": "けっこんする",
+      "romaji": "kekkon suru",
+      "english": "To marry",
+      "sinhala": "විවාහ වෙනවා",
+      "audio": {
+        "file_name": "e2_1123_kekkonsuru.mp3",
+        "track_id": "L18-W23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1123_kekkonsuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1124",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Life Events",
+      "japanese": "離婚する",
+      "furigana": "りこんする",
+      "romaji": "rikon suru",
+      "english": "To divorce",
+      "sinhala": "දික්කසාද වෙනවා",
+      "audio": {
+        "file_name": "e2_1124_rikonsuru.mp3",
+        "track_id": "L18-W24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1124_rikonsuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1125",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Life Events",
+      "japanese": "亡くなる",
+      "furigana": "なくなる",
+      "romaji": "nakunaru",
+      "english": "To pass away / die",
+      "sinhala": "මිය යනවා",
+      "audio": {
+        "file_name": "e2_1125_nakunaru.mp3",
+        "track_id": "L18-W25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1125_nakunaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1126",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Communication Action",
+      "japanese": "話す",
+      "furigana": "はなす",
+      "romaji": "hanasu",
+      "english": "To speak / talk",
+      "sinhala": "කතා කරනවා",
+      "audio": {
+        "file_name": "e2_1126_hanasu.mp3",
+        "track_id": "L18-W26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1126_hanasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1127",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Communication Action",
+      "japanese": "聞く",
+      "furigana": "きく",
+      "romaji": "kiku",
+      "english": "To listen / ask",
+      "sinhala": "අසනවා / අහනවා",
+      "audio": {
+        "file_name": "e2_1127_kiku.mp3",
+        "track_id": "L18-W27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1127_kiku.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1128",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Communication Action",
+      "japanese": "答える",
+      "furigana": "こたえる",
+      "romaji": "kotaeru",
+      "english": "To answer",
+      "sinhala": "පිළිතුරු දෙනවා",
+      "audio": {
+        "file_name": "e2_1128_kotaeru.mp3",
+        "track_id": "L18-W28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1128_kotaeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1129",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Communication Action",
+      "japanese": "教える",
+      "furigana": "おしえる",
+      "romaji": "oshieru",
+      "english": "To teach / tell",
+      "sinhala": "කියා දෙනවා / උගන්වනවා",
+      "audio": {
+        "file_name": "e2_1129_oshieru.mp3",
+        "track_id": "L18-W29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1129_oshieru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1130",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Communication Action",
+      "japanese": "習う",
+      "furigana": "ならう",
+      "romaji": "narau",
+      "english": "To learn (from someone)",
+      "sinhala": "ඉගෙන ගන්නවා (කෙනෙකුගෙන්)",
+      "audio": {
+        "file_name": "e2_1130_narau.mp3",
+        "track_id": "L18-W30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1130_narau.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1131",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Mental Actions",
+      "japanese": "思い出す",
+      "furigana": "おもいだす",
+      "romaji": "omoidasu",
+      "english": "To recall / remember",
+      "sinhala": "මතක් වෙනවා / මතකයට එනවා",
+      "audio": {
+        "file_name": "e2_1131_omoidasu.mp3",
+        "track_id": "L18-W31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1131_omoidasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1132",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Mental Actions",
+      "japanese": "信じる",
+      "furigana": "しんじる",
+      "romaji": "shinjiru",
+      "english": "To believe",
+      "sinhala": "විශ්වාස කරනවා",
+      "audio": {
+        "file_name": "e2_1132_shinjiru.mp3",
+        "track_id": "L18-W32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1132_shinjiru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1133",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Mental Actions",
+      "japanese": "気付く",
+      "furigana": "きづく",
+      "romaji": "kiduku",
+      "english": "To notice / realize",
+      "sinhala": "අවබෝධ වෙනවා / තේරුම් යනවා",
+      "audio": {
+        "file_name": "e2_1133_kiduku.mp3",
+        "track_id": "L18-W33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1133_kiduku.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1134",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Mental Actions",
+      "japanese": "考える",
+      "furigana": "かんがえる",
+      "romaji": "kangaeru",
+      "english": "To think / consider",
+      "sinhala": "කල්පනා කරනවා / සිතනවා",
+      "audio": {
+        "file_name": "e2_1134_kangaeru.mp3",
+        "track_id": "L18-W34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1134_kangaeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1135",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Mental Actions",
+      "japanese": "忘れる",
+      "furigana": "わすれる",
+      "romaji": "wasureru",
+      "english": "To forget",
+      "sinhala": "අමතක වෙනවා",
+      "audio": {
+        "file_name": "e2_1135_wasureru.mp3",
+        "track_id": "L18-W35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1135_wasureru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1136",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Core Verbs",
+      "japanese": "開く",
+      "furigana": "あく",
+      "romaji": "aku",
+      "english": "To open (intransitive)",
+      "sinhala": "ඇරෙනවා",
+      "audio": {
+        "file_name": "e2_1136_aku.mp3",
+        "track_id": "L18-W36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1136_aku.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1137",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Core Verbs",
+      "japanese": "閉まる",
+      "furigana": "しまる",
+      "romaji": "shimaru",
+      "english": "To close (intransitive)",
+      "sinhala": "වැසෙනවා",
+      "audio": {
+        "file_name": "e2_1137_shimaru.mp3",
+        "track_id": "L18-W37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1137_shimaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1138",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Core Verbs",
+      "japanese": "つく",
+      "furigana": "つく",
+      "romaji": "tsuku",
+      "english": "To turn on (intransitive)",
+      "sinhala": "දැල්වෙනවා (විදුලිය/ගින්දර)",
+      "audio": {
+        "file_name": "e2_1138_tsuku.mp3",
+        "track_id": "L18-W38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1138_tsuku.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1139",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Core Verbs",
+      "japanese": "消える",
+      "furigana": "きえる",
+      "romaji": "kieru",
+      "english": "To turn off / disappear",
+      "sinhala": "නිවෙනවා / අතුරුදහන් වෙනවා",
+      "audio": {
+        "file_name": "e2_1139_kieru.mp3",
+        "track_id": "L18-W39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1139_kieru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1140",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Core Verbs",
+      "japanese": "壊れる",
+      "furigana": "こわれる",
+      "romaji": "kowareru",
+      "english": "To break (intransitive)",
+      "sinhala": "කැඩෙනවා / බිඳෙනවා",
+      "audio": {
+        "file_name": "e2_1140_kowareru.mp3",
+        "track_id": "L18-W40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1140_kowareru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1141",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Key Nouns",
+      "japanese": "経験",
+      "furigana": "けいけん",
+      "romaji": "keiken",
+      "english": "Experience",
+      "sinhala": "පළපුරුද්ද / අත්දැකීම",
+      "audio": {
+        "file_name": "e2_1141_keiken.mp3",
+        "track_id": "L18-W41",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1141_keiken.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1142",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Key Nouns",
+      "japanese": "知識",
+      "furigana": "ちしき",
+      "romaji": "chishiki",
+      "english": "Knowledge",
+      "sinhala": "දැනුම",
+      "audio": {
+        "file_name": "e2_1142_chishiki.mp3",
+        "track_id": "L18-W42",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1142_chishiki.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1143",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Key Nouns",
+      "japanese": "結果",
+      "furigana": "けっか",
+      "romaji": "kekka",
+      "english": "Result",
+      "sinhala": "ප්‍රතිඵලය",
+      "audio": {
+        "file_name": "e2_1143_kekka.mp3",
+        "track_id": "L18-W43",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1143_kekka.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1144",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Key Nouns",
+      "japanese": "理由",
+      "furigana": "りゆう",
+      "romaji": "riyuu",
+      "english": "Reason",
+      "sinhala": "හේතුව",
+      "audio": {
+        "file_name": "e2_1144_riyuu.mp3",
+        "track_id": "L18-W44",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1144_riyuu.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1145",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Key Nouns",
+      "japanese": "目的",
+      "furigana": "もくてき",
+      "romaji": "mokuteki",
+      "english": "Purpose",
+      "sinhala": "අරමුණ",
+      "audio": {
+        "file_name": "e2_1145_mokuteki.mp3",
+        "track_id": "L18-W45",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1145_mokuteki.png",
+        "category": "abstract",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1146",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Final Greetings",
+      "japanese": "皆さん",
+      "furigana": "みなさん",
+      "romaji": "minasan",
+      "english": "Everyone",
+      "sinhala": "ඔබ සැමට",
+      "audio": {
+        "file_name": "e2_1146_minasan.mp3",
+        "track_id": "L18-EX23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1146_minasan.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1147",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Final Greetings",
+      "japanese": "お疲れ様でした",
+      "furigana": "おつかれさまでした",
+      "romaji": "otsukaresama deshita",
+      "english": "Thank you for your hard work",
+      "sinhala": "ඔබගේ වෙහෙසට බොහෝම ස්තූතියි",
+      "audio": {
+        "file_name": "e2_1147_otsukaresamadeshita.mp3",
+        "track_id": "L18-EX24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1147_otsukaresamadeshita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1148",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Final Greetings",
+      "japanese": "これからも",
+      "furigana": "これからも",
+      "romaji": "korekaramo",
+      "english": "From now on too",
+      "sinhala": "ඉදිරියටත්",
+      "audio": {
+        "file_name": "e2_1148_korekaramo.mp3",
+        "track_id": "L18-EX25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1148_korekaramo.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1149",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Final Greetings",
+      "japanese": "頑張りましょう",
+      "furigana": "がんばりましょう",
+      "romaji": "ganbarimashou",
+      "english": "Let's do our best",
+      "sinhala": "අපි උපරිම උත්සාහයෙන් වැඩ කරමු",
+      "audio": {
+        "file_name": "e2_1149_ganbarimashou.mp3",
+        "track_id": "L18-EX26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1149_ganbarimashou.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_1150",
+      "lesson": 18,
+      "main_topic": "40. 総合復習 / Comprehensive Wrap-up",
+      "sub_topic": "Final Greetings",
+      "japanese": "ありがとうございました",
+      "furigana": "ありがとうございました",
+      "romaji": "arigatou gozaimashita",
+      "english": "Thank you very much (for everything)",
+      "sinhala": "සියල්ලටම බොහෝම ස්තූතියි",
+      "audio": {
+        "file_name": "e2_1150_arigatougozaimashita.mp3",
+        "track_id": "L18-EX27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_1150_arigatougozaimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    }
+  ]
+}

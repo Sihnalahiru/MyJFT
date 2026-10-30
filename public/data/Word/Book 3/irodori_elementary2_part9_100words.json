@@ -1,0 +1,2108 @@
+{
+  "level": "Irodori Elementary 2 (A2)",
+  "part": "Part 9",
+  "total_words": 100,
+  "coverage": "Workplace communication, office & factory tasks, shift management, Hou-Ren-So (Report-Contact-Consult), safety regulations, professional goals, and business etiquette with full Audio & Illustration mapping (Words 801-900).",
+  "vocabulary": [
+    {
+      "id": "e2_801",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Workplace Locations",
+      "japanese": "職場",
+      "furigana": "しょくば",
+      "romaji": "shokuba",
+      "english": "Workplace / Worksite",
+      "sinhala": "සේවා ස්ථානය / වැඩබිම",
+      "audio": {
+        "file_name": "e2_801_shokuba.mp3",
+        "track_id": "L17-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_801_shokuba.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_802",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Workplace Locations",
+      "japanese": "会社",
+      "furigana": "かいしゃ",
+      "romaji": "kaisha",
+      "english": "Company / Corporation",
+      "sinhala": "සමාගම / ආයතනය",
+      "audio": {
+        "file_name": "e2_802_kaisha.mp3",
+        "track_id": "L17-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_802_kaisha.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_803",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Workplace Locations",
+      "japanese": "事務所",
+      "furigana": "じむしょ",
+      "romaji": "jimusho",
+      "english": "Office",
+      "sinhala": "කාර්යාලය",
+      "audio": {
+        "file_name": "e2_803_jimusho.mp3",
+        "track_id": "L17-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_803_jimusho.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_804",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Workplace Locations",
+      "japanese": "工場",
+      "furigana": "こうじょう",
+      "romaji": "koujou",
+      "english": "Factory / Plant",
+      "sinhala": "කර්මාන්ත ශාලාව",
+      "audio": {
+        "file_name": "e2_804_koujou.mp3",
+        "track_id": "L17-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_804_koujou.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_805",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Workplace Locations",
+      "japanese": "現場",
+      "furigana": "げんば",
+      "romaji": "genba",
+      "english": "On-site / Work field",
+      "sinhala": "ක්‍රියාකාරී වැඩබිම / වැඩපළ",
+      "audio": {
+        "file_name": "e2_805_genba.mp3",
+        "track_id": "L17-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_805_genba.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_806",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Workplace Locations",
+      "japanese": "会議室",
+      "furigana": "かいぎしつ",
+      "romaji": "kaigishitsu",
+      "english": "Meeting room / Conference room",
+      "sinhala": "රැස්වීම් කාමරය",
+      "audio": {
+        "file_name": "e2_806_kaigishitsu.mp3",
+        "track_id": "L17-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_806_kaigishitsu.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_807",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Workplace Locations",
+      "japanese": "休憩室",
+      "furigana": "きゅうけいしつ",
+      "romaji": "kyuukeishitsu",
+      "english": "Break room / Rest area",
+      "sinhala": "විවේකාගාරය",
+      "audio": {
+        "file_name": "e2_807_kyuukeishitsu.mp3",
+        "track_id": "L17-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_807_kyuukeishitsu.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_808",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Workplace Locations",
+      "japanese": "倉庫",
+      "furigana": "そうこ",
+      "romaji": "souko",
+      "english": "Warehouse / Storage room",
+      "sinhala": "ගබඩා කාමරය / ගබඩාව",
+      "audio": {
+        "file_name": "e2_808_souko.mp3",
+        "track_id": "L17-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_808_souko.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_809",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "上司",
+      "furigana": "じょうし",
+      "romaji": "joushi",
+      "english": "Superior / Boss",
+      "sinhala": "ප්‍රධානියා / අධීක්ෂකවරයා",
+      "audio": {
+        "file_name": "e2_809_joushi.mp3",
+        "track_id": "L17-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_809_joushi.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_810",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "部下",
+      "furigana": "ぶか",
+      "romaji": "buka",
+      "english": "Subordinate",
+      "sinhala": "යටත් සේවකයා",
+      "audio": {
+        "file_name": "e2_810_buka.mp3",
+        "track_id": "L17-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_810_buka.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_811",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "先輩",
+      "furigana": "せんぱい",
+      "romaji": "senpai",
+      "english": "Senior colleague",
+      "sinhala": "ජ්‍යෙෂ්ඨ සගයා (සෙන්පායි)",
+      "audio": {
+        "file_name": "e2_811_senpai.mp3",
+        "track_id": "L17-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_811_senpai.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_812",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "後輩",
+      "furigana": "こうはい",
+      "romaji": "kouhai",
+      "english": "Junior colleague",
+      "sinhala": "කනිෂ්ඨ සගයා",
+      "audio": {
+        "file_name": "e2_812_kouhai.mp3",
+        "track_id": "L17-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_812_kouhai.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_813",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "同僚",
+      "furigana": "どうりょう",
+      "romaji": "douryou",
+      "english": "Coworker / Colleague",
+      "sinhala": "සම සේවකයා / සගයා",
+      "audio": {
+        "file_name": "e2_813_douryou.mp3",
+        "track_id": "L17-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_813_douryou.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_814",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "社長",
+      "furigana": "しゃちょう",
+      "romaji": "shachou",
+      "english": "Company president / CEO",
+      "sinhala": "සමාගම් සභාපතිවරයා",
+      "audio": {
+        "file_name": "e2_814_shachou.mp3",
+        "track_id": "L17-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_814_shachou.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_815",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "店長",
+      "furigana": "てんちょう",
+      "romaji": "tenchou",
+      "english": "Store manager",
+      "sinhala": "වෙළඳසැල් කළමනාකරු",
+      "audio": {
+        "file_name": "e2_815_tenchou.mp3",
+        "track_id": "L17-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_815_tenchou.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_816",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "リーダー",
+      "furigana": "リーダー",
+      "romaji": "riidaa",
+      "english": "Team leader",
+      "sinhala": "කණ්ඩායම් නායකයා",
+      "audio": {
+        "file_name": "e2_816_riidaa.mp3",
+        "track_id": "L17-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_816_riidaa.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_817",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "担当者",
+      "furigana": "たんとうしゃ",
+      "romaji": "tantousha",
+      "english": "Person in charge / Representative",
+      "sinhala": "භාරකරු / වගකිවයුතු නිලධාරියා",
+      "audio": {
+        "file_name": "e2_817_tantousha.mp3",
+        "track_id": "L17-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_817_tantousha.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_818",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "新入社員",
+      "furigana": "しんにゅうしゃいん",
+      "romaji": "shinnyuushain",
+      "english": "New employee / Freshman worker",
+      "sinhala": "නව සේවකයා",
+      "audio": {
+        "file_name": "e2_818_shinnyuushain.mp3",
+        "track_id": "L17-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_818_shinnyuushain.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_819",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "実習生",
+      "furigana": "じっしゅうせい",
+      "romaji": "jisshuusei",
+      "english": "Technical intern trainee",
+      "sinhala": "කාර්මික පුහුණුලාභියා",
+      "audio": {
+        "file_name": "e2_819_jisshuusei.mp3",
+        "track_id": "L17-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_819_jisshuusei.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_820",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Roles & Personnel",
+      "japanese": "アルバイト",
+      "furigana": "アルバイト",
+      "romaji": "arubaito",
+      "english": "Part-time worker / Part-time job",
+      "sinhala": "අර්ධකාලීන රැකියාව / සේවකයා",
+      "audio": {
+        "file_name": "e2_820_arubaito.mp3",
+        "track_id": "L17-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_820_arubaito.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_821",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "出勤",
+      "furigana": "しゅっきん",
+      "romaji": "shukkin",
+      "english": "Going to work / Attendance",
+      "sinhala": "වැඩට වාර්තා කිරීම / පැමිණීම",
+      "audio": {
+        "file_name": "e2_821_shukkin.mp3",
+        "track_id": "L17-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_821_shukkin.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_822",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "退勤",
+      "furigana": "たいきん",
+      "romaji": "taikin",
+      "english": "Leaving work / Clocking out",
+      "sinhala": "වැඩ අවසන් කර පිටවීම",
+      "audio": {
+        "file_name": "e2_822_taikin.mp3",
+        "track_id": "L17-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_822_taikin.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_823",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "勤務",
+      "furigana": "きんむ",
+      "romaji": "kinmu",
+      "english": "Work / Duty",
+      "sinhala": "සේවය / රාජකාරිය",
+      "audio": {
+        "file_name": "e2_823_kinmu.mp3",
+        "track_id": "L17-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_823_kinmu.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_824",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "シフト",
+      "furigana": "シフト",
+      "romaji": "shifuto",
+      "english": "Work shift",
+      "sinhala": "වැඩ මුරය (ෂිෆ්ට් එක)",
+      "audio": {
+        "file_name": "e2_824_shifuto.mp3",
+        "track_id": "L17-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_824_shifuto.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_825",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "早番",
+      "furigana": "はやばん",
+      "romaji": "hayaban",
+      "english": "Early shift",
+      "sinhala": "උදෑසන මුරය",
+      "audio": {
+        "file_name": "e2_825_hayaban.mp3",
+        "track_id": "L17-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_825_hayaban.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_826",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "遅番",
+      "furigana": "おそばん",
+      "romaji": "osoban",
+      "english": "Late shift",
+      "sinhala": "සවස් මුරය",
+      "audio": {
+        "file_name": "e2_826_osoban.mp3",
+        "track_id": "L17-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_826_osoban.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_827",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "夜勤",
+      "furigana": "やきん",
+      "romaji": "yakin",
+      "english": "Night shift",
+      "sinhala": "රාත්‍රී මුරය",
+      "audio": {
+        "file_name": "e2_827_yakin.mp3",
+        "track_id": "L17-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_827_yakin.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_828",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "休憩",
+      "furigana": "きゅうけい",
+      "romaji": "kyuukei",
+      "english": "Break / Rest period",
+      "sinhala": "විවේක කාලය",
+      "audio": {
+        "file_name": "e2_828_kyuukei.mp3",
+        "track_id": "L17-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_828_kyuukei.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_829",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "残業",
+      "furigana": "ざんぎょう",
+      "romaji": "zangyou",
+      "english": "Overtime work",
+      "sinhala": "අතිකාල සේවය (OT)",
+      "audio": {
+        "file_name": "e2_829_zangyou.mp3",
+        "track_id": "L17-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_829_zangyou.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_830",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "早退",
+      "furigana": "そうたい",
+      "romaji": "soutai",
+      "english": "Leaving work early",
+      "sinhala": "වේලාවට පෙර පිටවීම",
+      "audio": {
+        "file_name": "e2_830_soutai.mp3",
+        "track_id": "L17-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_830_soutai.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_831",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "遅刻",
+      "furigana": "ちこく",
+      "romaji": "chikoku",
+      "english": "Being late / Tardy",
+      "sinhala": "ප්‍රමාද වී පැමිණීම",
+      "audio": {
+        "file_name": "e2_831_chikoku.mp3",
+        "track_id": "L17-V31",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_831_chikoku.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_832",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "欠勤",
+      "furigana": "けっきん",
+      "romaji": "kekkin",
+      "english": "Absence from work",
+      "sinhala": "සේවයට නොපැමිණීම / නිවාඩු ගැනීම",
+      "audio": {
+        "file_name": "e2_832_kekkin.mp3",
+        "track_id": "L17-V32",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_832_kekkin.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_833",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "有給休暇",
+      "furigana": "ゆうきゅうきゅうか",
+      "romaji": "yuukyuukyuuka",
+      "english": "Paid leave",
+      "sinhala": "වැටුප් සහිත නිවාඩු",
+      "audio": {
+        "file_name": "e2_833_yuukyuukyuuka.mp3",
+        "track_id": "L17-V33",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_833_yuukyuukyuuka.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_834",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "休日",
+      "furigana": "きゅうじつ",
+      "romaji": "kyuujitsu",
+      "english": "Day off / Holiday",
+      "sinhala": "නිවාඩු දිනය",
+      "audio": {
+        "file_name": "e2_834_kyuujitsu.mp3",
+        "track_id": "L17-V34",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_834_kyuujitsu.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_835",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "タイムカード",
+      "furigana": "タイムカード",
+      "romaji": "taimukaado",
+      "english": "Time card",
+      "sinhala": "පැමිණීමේ කාඩ්පත (ටයිම් කාඩ් එක)",
+      "audio": {
+        "file_name": "e2_835_taimukaado.mp3",
+        "track_id": "L17-V35",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_835_taimukaado.png",
+        "category": "attendance",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_836",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Attendance & Shifts",
+      "japanese": "打刻",
+      "furigana": "だこく",
+      "romaji": "dakoku",
+      "english": "Clocking in / punching timecard",
+      "sinhala": "වේලාව සටහන් කිරීම (කාඩ් එක පන්ච් කිරීම)",
+      "audio": {
+        "file_name": "e2_836_dakoku.mp3",
+        "track_id": "L17-V36",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_836_dakoku.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_837",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Wages & Allowance",
+      "japanese": "給料",
+      "furigana": "きゅうりょう",
+      "romaji": "kyuuryou",
+      "english": "Salary / Wages",
+      "sinhala": "වැටුප / පඩිය",
+      "audio": {
+        "file_name": "e2_837_kyuuryou.mp3",
+        "track_id": "L17-V37",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_837_kyuuryou.png",
+        "category": "salary",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_838",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Wages & Allowance",
+      "japanese": "時給",
+      "furigana": "じきゅう",
+      "romaji": "jikyuu",
+      "english": "Hourly wage",
+      "sinhala": "පැයක වැටුප",
+      "audio": {
+        "file_name": "e2_838_jikyuu.mp3",
+        "track_id": "L17-V38",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_838_jikyuu.png",
+        "category": "salary",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_839",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Wages & Allowance",
+      "japanese": "交通費",
+      "furigana": "こうつうひ",
+      "romaji": "koutsuuhi",
+      "english": "Transportation expenses / allowance",
+      "sinhala": "ප්‍රවාහන දීමනාව",
+      "audio": {
+        "file_name": "e2_839_koutsuuhi.mp3",
+        "track_id": "L17-V39",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_839_koutsuuhi.png",
+        "category": "salary",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_840",
+      "lesson": 17,
+      "main_topic": "28. 職場と働く仲間 / Workplace & Colleagues",
+      "sub_topic": "Wages & Allowance",
+      "japanese": "手当",
+      "furigana": "てあて",
+      "romaji": "teate",
+      "english": "Allowance / Benefit",
+      "sinhala": "අමතර දීමනාව",
+      "audio": {
+        "file_name": "e2_840_teate.mp3",
+        "track_id": "L17-V40",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_840_teate.png",
+        "category": "salary",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_841",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Work Tasks",
+      "japanese": "業務",
+      "furigana": "ぎょうむ",
+      "romaji": "gyoumu",
+      "english": "Business duties / Work tasks",
+      "sinhala": "රාජකාරිය / වෘත්තීය කටයුතු",
+      "audio": {
+        "file_name": "e2_841_gyoumu.mp3",
+        "track_id": "L17-V41",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_841_gyoumu.png",
+        "category": "tasks",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_842",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Work Tasks",
+      "japanese": "作業",
+      "furigana": "さぎょう",
+      "romaji": "sagyou",
+      "english": "Work / Operation / Manual task",
+      "sinhala": "කාර්යය / වැඩ කිරීම",
+      "audio": {
+        "file_name": "e2_842_sagyou.mp3",
+        "track_id": "L17-V42",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_842_sagyou.png",
+        "category": "tasks",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_843",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Work Tasks",
+      "japanese": "仕事",
+      "furigana": "しごと",
+      "romaji": "shigoto",
+      "english": "Job / Work",
+      "sinhala": "රැකියාව / කාර්යය",
+      "audio": {
+        "file_name": "e2_843_shigoto.mp3",
+        "track_id": "L17-V43",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_843_shigoto.png",
+        "category": "tasks",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_844",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Guidelines",
+      "japanese": "マニュアル",
+      "furigana": "マニュアル",
+      "romaji": "manyuaru",
+      "english": "Manual / Handbook",
+      "sinhala": "උපදෙස් අත්පොත (මැනුවල් එක)",
+      "audio": {
+        "file_name": "e2_844_manyuaru.mp3",
+        "track_id": "L17-V44",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_844_manyuaru.png",
+        "category": "guidelines",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_845",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Guidelines",
+      "japanese": "手順",
+      "furigana": "てじゅん",
+      "romaji": "tejun",
+      "english": "Procedure / Sequence of steps",
+      "sinhala": "පියවරෙන් පියවර ක්‍රියාපටිපාටිය",
+      "audio": {
+        "file_name": "e2_845_tejun.mp3",
+        "track_id": "L17-V45",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_845_tejun.png",
+        "category": "guidelines",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_846",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Operation Steps",
+      "japanese": "準備",
+      "furigana": "じゅんび",
+      "romaji": "junbi",
+      "english": "Preparation / Setup",
+      "sinhala": "සූදානම් කිරීම / සූදානම",
+      "audio": {
+        "file_name": "e2_846_junbi.mp3",
+        "track_id": "L17-V46",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_846_junbi.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_847",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Operation Steps",
+      "japanese": "片付け",
+      "furigana": "かたづけ",
+      "romaji": "kataduke",
+      "english": "Tidying up / Clean-up",
+      "sinhala": "අස්පස් කිරීම",
+      "audio": {
+        "file_name": "e2_847_kataduke.mp3",
+        "track_id": "L17-V47",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_847_kataduke.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_848",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "5S Principles",
+      "japanese": "整理整頓",
+      "furigana": "せいりせいとん",
+      "romaji": "seiriseiton",
+      "english": "Keeping things neat and orderly (5S)",
+      "sinhala": "අවශ්‍ය දේ පිළිවෙළට තබාගැනීම (5S)",
+      "audio": {
+        "file_name": "e2_848_seiriseiton.mp3",
+        "track_id": "L17-V48",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_848_seiriseiton.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_849",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Quality & Checking",
+      "japanese": "点検",
+      "furigana": "てんけん",
+      "romaji": "tenken",
+      "english": "Inspection / Regular check",
+      "sinhala": "පරීක්ෂා කිරීම / පිරික්සුම",
+      "audio": {
+        "file_name": "e2_849_tenken.mp3",
+        "track_id": "L17-V49",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_849_tenken.png",
+        "category": "quality",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_850",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Quality & Checking",
+      "japanese": "確認",
+      "furigana": "かくにん",
+      "romaji": "kakunin",
+      "english": "Confirmation / Verification",
+      "sinhala": "තහවුරු කර ගැනීම",
+      "audio": {
+        "file_name": "e2_850_kakunin.mp3",
+        "track_id": "L17-V50",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_850_kakunin.png",
+        "category": "quality",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_851",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Instructions",
+      "japanese": "指示",
+      "furigana": "しじ",
+      "romaji": "shiji",
+      "english": "Instructions / Directives",
+      "sinhala": "උපදෙස් / නියෝග",
+      "audio": {
+        "file_name": "e2_851_shiji.mp3",
+        "track_id": "L17-V51",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_851_shiji.png",
+        "category": "instructions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_852",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Instructions",
+      "japanese": "依頼",
+      "furigana": "いらい",
+      "romaji": "irai",
+      "english": "Request / Commission",
+      "sinhala": "ඉල්ලීම / කාර්යයක් පැවරීම",
+      "audio": {
+        "file_name": "e2_852_irai.mp3",
+        "track_id": "L17-V52",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_852_irai.png",
+        "category": "instructions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_853",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Teamwork",
+      "japanese": "手伝い",
+      "furigana": "てつだい",
+      "romaji": "tetsudai",
+      "english": "Help / Assistance",
+      "sinhala": "උදව් කිරීම",
+      "audio": {
+        "file_name": "e2_853_tetsudai.mp3",
+        "track_id": "L17-V53",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_853_tetsudai.png",
+        "category": "teamwork",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_854",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Teamwork",
+      "japanese": "交代",
+      "furigana": "こうたい",
+      "romaji": "koutai",
+      "english": "Taking turns / Shift change",
+      "sinhala": "මාරුවීම / මාරුවෙන් මාරුවට කිරීම",
+      "audio": {
+        "file_name": "e2_854_koutai.mp3",
+        "track_id": "L17-V54",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_854_koutai.png",
+        "category": "teamwork",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_855",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Tools & Equipment",
+      "japanese": "道具",
+      "furigana": "どうぐ",
+      "romaji": "dougu",
+      "english": "Tool / Implement",
+      "sinhala": "ආයුධ / උපකරණ",
+      "audio": {
+        "file_name": "e2_855_dougu.mp3",
+        "track_id": "L17-V55",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_855_dougu.png",
+        "category": "tools",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_856",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Tools & Equipment",
+      "japanese": "機械",
+      "furigana": "きかい",
+      "romaji": "kikai",
+      "english": "Machine / Machinery",
+      "sinhala": "යන්ත්‍රය / මැෂිම",
+      "audio": {
+        "file_name": "e2_856_kikai.mp3",
+        "track_id": "L17-V56",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_856_kikai.png",
+        "category": "tools",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_857",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Tools & Equipment",
+      "japanese": "操作",
+      "furigana": "そうさ",
+      "romaji": "sousa",
+      "english": "Operation / Handling (machines)",
+      "sinhala": "යන්ත්‍ර ක්‍රියාත්මක කිරීම",
+      "audio": {
+        "file_name": "e2_857_sousa.mp3",
+        "track_id": "L17-V57",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_857_sousa.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_858",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Tools & Equipment",
+      "japanese": "スイッチ",
+      "furigana": "スイッチ",
+      "romaji": "suicchi",
+      "english": "Switch",
+      "sinhala": "ස්විචය",
+      "audio": {
+        "file_name": "e2_858_suicchi.mp3",
+        "track_id": "L17-V58",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_858_suicchi.png",
+        "category": "tools",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_859",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Tools & Equipment",
+      "japanese": "ボタン",
+      "furigana": "ボタン",
+      "romaji": "botan",
+      "english": "Button",
+      "sinhala": "බොත්තම",
+      "audio": {
+        "file_name": "e2_859_botan.mp3",
+        "track_id": "L17-V59",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_859_botan.png",
+        "category": "tools",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_860",
+      "lesson": 17,
+      "main_topic": "29. 業務と作業・安全管理 / Tasks, Operations & Safety",
+      "sub_topic": "Safety",
+      "japanese": "安全第一",
+      "furigana": "あんぜんだいいち",
+      "romaji": "anzendaiichi",
+      "english": "Safety first",
+      "sinhala": "ආරක්ෂාව ප්‍රමුඛයි",
+      "audio": {
+        "file_name": "e2_860_anzendaiichi.mp3",
+        "track_id": "L17-V60",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_860_anzendaiichi.png",
+        "category": "safety",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_861",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Business Basics",
+      "japanese": "ほうれんそう",
+      "furigana": "ほうれんそう",
+      "romaji": "hourensou",
+      "english": "Report, Contact, Consult (Hou-Ren-So)",
+      "sinhala": "වාර්තා කිරීම, සම්බන්ධ වීම, උපදෙස් ගැනීම (හෝ-රෙන්-සෝ)",
+      "audio": {
+        "file_name": "e2_861_hourensou.mp3",
+        "track_id": "L18-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_861_hourensou.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_862",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Business Basics",
+      "japanese": "報告",
+      "furigana": "ほうこく",
+      "romaji": "houkoku",
+      "english": "Report / Informing progress",
+      "sinhala": "වාර්තා කිරීම / තොරතුරු සැපයීම",
+      "audio": {
+        "file_name": "e2_862_houkoku.mp3",
+        "track_id": "L18-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_862_houkoku.png",
+        "category": "communication",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_863",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Business Basics",
+      "japanese": "連絡",
+      "furigana": "れんらく",
+      "romaji": "renraku",
+      "english": "Contact / Notification",
+      "sinhala": "සම්බන්ධ වීම / දැනුම්දීම",
+      "audio": {
+        "file_name": "e2_863_renraku.mp3",
+        "track_id": "L18-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_863_renraku.png",
+        "category": "communication",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_864",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Business Basics",
+      "japanese": "相談",
+      "furigana": "そうだん",
+      "romaji": "soudan",
+      "english": "Consultation / Seeking advice",
+      "sinhala": "උපදෙස් ගැනීම / සාකච්ඡා කිරීම",
+      "audio": {
+        "file_name": "e2_864_soudan.mp3",
+        "track_id": "L18-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_864_soudan.png",
+        "category": "communication",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_865",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Meetings",
+      "japanese": "打ち合わせ",
+      "furigana": "うちあわせ",
+      "romaji": "uchiawase",
+      "english": "Brief meeting / Arrangement session",
+      "sinhala": "කෙටි සාකච්ඡාව / වැඩ පිළියෙල කිරීම",
+      "audio": {
+        "file_name": "e2_865_uchiawase.mp3",
+        "track_id": "L18-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_865_uchiawase.png",
+        "category": "meetings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_866",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Meetings",
+      "japanese": "会議",
+      "furigana": "かいぎ",
+      "romaji": "kaigi",
+      "english": "Formal meeting / Conference",
+      "sinhala": "නිල රැස්වීම",
+      "audio": {
+        "file_name": "e2_866_kaigi.mp3",
+        "track_id": "L18-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_866_kaigi.png",
+        "category": "meetings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_867",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Records & Handover",
+      "japanese": "連絡帳",
+      "furigana": "れんらくちょう",
+      "romaji": "renrakuchou",
+      "english": "Communication notebook / Logbook",
+      "sinhala": "සන්නිවේදන සටහන් පොත",
+      "audio": {
+        "file_name": "e2_867_renrakuchou.mp3",
+        "track_id": "L18-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_867_renrakuchou.png",
+        "category": "documents",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_868",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Records & Handover",
+      "japanese": "引き継ぎ",
+      "furigana": "ひきつぎ",
+      "romaji": "hikitsugi",
+      "english": "Handover / Transition of duties",
+      "sinhala": "වැඩ භාරදීම / පැවරීම",
+      "audio": {
+        "file_name": "e2_868_hikitsugi.mp3",
+        "track_id": "L18-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_868_hikitsugi.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_869",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Records & Handover",
+      "japanese": "申し送り",
+      "furigana": "もうしおくり",
+      "romaji": "moushiokuri",
+      "english": "Handover briefing / Shift report",
+      "sinhala": "ඊළඟ මුරයට පණිවිඩ දීම",
+      "audio": {
+        "file_name": "e2_869_moushiokuri.mp3",
+        "track_id": "L18-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_869_moushiokuri.png",
+        "category": "workplace",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_870",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Records & Handover",
+      "japanese": "連絡事項",
+      "furigana": "れんらくじこう",
+      "romaji": "renrakujikou",
+      "english": "Notice items / Points to communicate",
+      "sinhala": "දැනුම් දිය යුතු කරුණු",
+      "audio": {
+        "file_name": "e2_870_renrakujikou.mp3",
+        "track_id": "L18-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_870_renrakujikou.png",
+        "category": "documents",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_871",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Dialogue",
+      "japanese": "質問",
+      "furigana": "しつもん",
+      "romaji": "shitsumon",
+      "english": "Question / Inquiry",
+      "sinhala": "ප්‍රශ්නය / විමසීම",
+      "audio": {
+        "file_name": "e2_871_shitsumon.mp3",
+        "track_id": "L18-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_871_shitsumon.png",
+        "category": "communication",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_872",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Dialogue",
+      "japanese": "説明",
+      "furigana": "せつめい",
+      "romaji": "setsumei",
+      "english": "Explanation",
+      "sinhala": "පැහැදිලි කිරීම",
+      "audio": {
+        "file_name": "e2_872_setsumei.mp3",
+        "track_id": "L18-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_872_setsumei.png",
+        "category": "communication",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_873",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Dialogue",
+      "japanese": "意見",
+      "furigana": "いけん",
+      "romaji": "iken",
+      "english": "Opinion",
+      "sinhala": "අදහස",
+      "audio": {
+        "file_name": "e2_873_iken.mp3",
+        "track_id": "L18-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_873_iken.png",
+        "category": "communication",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_874",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Dialogue",
+      "japanese": "提案",
+      "furigana": "ていあん",
+      "romaji": "teian",
+      "english": "Proposal / Suggestion",
+      "sinhala": "යෝජනාව",
+      "audio": {
+        "file_name": "e2_874_teian.mp3",
+        "track_id": "L18-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_874_teian.png",
+        "category": "communication",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_875",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Acknowledgement",
+      "japanese": "了解",
+      "furigana": "りょうかい",
+      "romaji": "ryoukai",
+      "english": "Understood / Roger",
+      "sinhala": "තේරුණා / පිළිගත්තා",
+      "audio": {
+        "file_name": "e2_875_ryoukai.mp3",
+        "track_id": "L18-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_875_ryoukai.png",
+        "category": "communication",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_876",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Acknowledgement",
+      "japanese": "承知",
+      "furigana": "しょうち",
+      "romaji": "shouchi",
+      "english": "Consent / Acknowledgment",
+      "sinhala": "අවබෝධ කරගත්තා",
+      "audio": {
+        "file_name": "e2_876_shouchi.mp3",
+        "track_id": "L18-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_876_shouchi.png",
+        "category": "communication",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_877",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Errors & Quality",
+      "japanese": "ミス",
+      "furigana": "ミス",
+      "romaji": "misu",
+      "english": "Mistake / Error",
+      "sinhala": "වැරදීම",
+      "audio": {
+        "file_name": "e2_877_misu.mp3",
+        "track_id": "L18-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_877_misu.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_878",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Errors & Quality",
+      "japanese": "失敗",
+      "furigana": "しっぱい",
+      "romaji": "shippai",
+      "english": "Failure / Blunder",
+      "sinhala": "අසාර්ථක වීම / අත්වැරැද්ද",
+      "audio": {
+        "file_name": "e2_878_shippai.mp3",
+        "track_id": "L18-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_878_shippai.png",
+        "category": "troubles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_879",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Errors & Quality",
+      "japanese": "注意",
+      "furigana": "ちゅうい",
+      "romaji": "chuui",
+      "english": "Caution / Warning",
+      "sinhala": "අවවාදය / සැලකිලිමත් වීම",
+      "audio": {
+        "file_name": "e2_879_chuui.mp3",
+        "track_id": "L18-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_879_chuui.png",
+        "category": "instructions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_880",
+      "lesson": 18,
+      "main_topic": "30. 報連相と職場コミュニケーション / Hou-Ren-So & Workplace Communication",
+      "sub_topic": "Errors & Quality",
+      "japanese": "改善",
+      "furigana": "かいぜん",
+      "romaji": "kaizen",
+      "english": "Improvement / Kaizen",
+      "sinhala": "වැඩිදියුණු කිරීම (කයිසෙන්)",
+      "audio": {
+        "file_name": "e2_880_kaizen.mp3",
+        "track_id": "L18-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_880_kaizen.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_881",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Career Goals",
+      "japanese": "目標",
+      "furigana": "もくひょう",
+      "romaji": "mokuhyou",
+      "english": "Goal / Target",
+      "sinhala": "ඉලක්කය",
+      "audio": {
+        "file_name": "e2_881_mokuhyou.mp3",
+        "track_id": "L18-V21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_881_mokuhyou.png",
+        "category": "goals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_882",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Career Goals",
+      "japanese": "努力",
+      "furigana": "どりょく",
+      "romaji": "doryoku",
+      "english": "Effort / Hard work",
+      "sinhala": "උත්සාහය / කැපවීම",
+      "audio": {
+        "file_name": "e2_882_doryoku.mp3",
+        "track_id": "L18-V22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_882_doryoku.png",
+        "category": "goals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_883",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Career Goals",
+      "japanese": "成長",
+      "furigana": "せいちょう",
+      "romaji": "seichou",
+      "english": "Growth / Development",
+      "sinhala": "වර්ධනය / දියුණුව",
+      "audio": {
+        "file_name": "e2_883_seichou.mp3",
+        "track_id": "L18-V23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_883_seichou.png",
+        "category": "goals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_884",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Career Goals",
+      "japanese": "評価",
+      "furigana": "ひょうか",
+      "romaji": "hyouka",
+      "english": "Evaluation / Assessment",
+      "sinhala": "ඇගයීම",
+      "audio": {
+        "file_name": "e2_884_hyouka.mp3",
+        "track_id": "L18-V24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_884_hyouka.png",
+        "category": "business",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_885",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Career Goals",
+      "japanese": "達成",
+      "furigana": "たっせい",
+      "romaji": "tassei",
+      "english": "Achievement / Attainment",
+      "sinhala": "ඉලක්ක සපුරා ගැනීම",
+      "audio": {
+        "file_name": "e2_885_tassei.mp3",
+        "track_id": "L18-V25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_885_tassei.png",
+        "category": "goals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_886",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Professional Actions",
+      "japanese": "頑張る",
+      "furigana": "がんばる",
+      "romaji": "ganbaru",
+      "english": "To do one's best / work hard",
+      "sinhala": "උපරිමයෙන් මහන්සි වී වැඩ කරනවා",
+      "audio": {
+        "file_name": "e2_886_ganbaru.mp3",
+        "track_id": "L18-V26",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_886_ganbaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_887",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Professional Actions",
+      "japanese": "覚える",
+      "furigana": "おぼえる",
+      "romaji": "oboeru",
+      "english": "To learn / memorize (work)",
+      "sinhala": "මතක තබා ගන්නවා / ඉගෙන ගන්නවා",
+      "audio": {
+        "file_name": "e2_887_oboeru.mp3",
+        "track_id": "L18-V27",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_887_oboeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_888",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Professional Actions",
+      "japanese": "慣れる",
+      "furigana": "なれる",
+      "romaji": "nareru",
+      "english": "To become accustomed to (the job)",
+      "sinhala": "වැඩවලට හුරු වෙනවා",
+      "audio": {
+        "file_name": "e2_888_nareru.mp3",
+        "track_id": "L18-V28",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_888_nareru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_889",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Professional Actions",
+      "japanese": "役に立つ",
+      "furigana": "やくにたつ",
+      "romaji": "yaku ni tatsu",
+      "english": "To be useful / helpful",
+      "sinhala": "ප්‍රයෝජනවත් වෙනවා",
+      "audio": {
+        "file_name": "e2_889_yakunitatsu.mp3",
+        "track_id": "L18-V29",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_889_yakunitatsu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_890",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Professional Actions",
+      "japanese": "続ける",
+      "furigana": "つづける",
+      "romaji": "tsuzukeru",
+      "english": "To continue / persist",
+      "sinhala": "දිගටම කරගෙන යනවා",
+      "audio": {
+        "file_name": "e2_890_tsuzukeru.mp3",
+        "track_id": "L18-V30",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_890_tsuzukeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_891",
+      "lesson": 17,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Workplace Greetings",
+      "japanese": "おはようございます",
+      "furigana": "おはようございます",
+      "romaji": "ohayou gozaimasu",
+      "english": "Good morning (used upon arrival anytime)",
+      "sinhala": "සුභ උදෑසනක් (වැඩට පැමිණි විට කියන ආචාරය)",
+      "audio": {
+        "file_name": "e2_891_ohayougozaimasu.mp3",
+        "track_id": "L17-EX01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_891_ohayougozaimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_892",
+      "lesson": 17,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Workplace Greetings",
+      "japanese": "お疲れ様です",
+      "furigana": "おつかれさまです",
+      "romaji": "otsukaresama desu",
+      "english": "Thank you for your hard work (coworker greeting)",
+      "sinhala": "වෙහෙස වී වැඩ කළාට ස්තූතියි (දෛනික සුබපැතුම)",
+      "audio": {
+        "file_name": "e2_892_otsukaresamadesu.mp3",
+        "track_id": "L17-EX02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_892_otsukaresamadesu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_893",
+      "lesson": 17,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Workplace Greetings",
+      "japanese": "お先に失礼します",
+      "furigana": "おさきにしつれいします",
+      "romaji": "osaki ni shitsurei shimasu",
+      "english": "Excuse me for leaving ahead of you",
+      "sinhala": "මම කලින් පිටවෙනවා, අවසරයි",
+      "audio": {
+        "file_name": "e2_893_osakinishitsureishimasu.mp3",
+        "track_id": "L17-EX03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_893_osakinishitsureishimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_894",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Polite Acknowledgement",
+      "japanese": "かしこまりました",
+      "furigana": "かしこまりました",
+      "romaji": "kashikomarimashita",
+      "english": "Certainly / Understood (polite to client/superior)",
+      "sinhala": "හොඳයි, ඒ ආකාරයෙන්ම සිදුකරන්නම්",
+      "audio": {
+        "file_name": "e2_894_kashikomarimashita.mp3",
+        "track_id": "L18-EX04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_894_kashikomarimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_895",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Polite Acknowledgement",
+      "japanese": "承知いたしました",
+      "furigana": "しょうちいたしました",
+      "romaji": "shouchi itashimashita",
+      "english": "Understood / Acknowledged (humble business phrase)",
+      "sinhala": "පැහැදිලිවම තේරුම් ගත්තා",
+      "audio": {
+        "file_name": "e2_895_shouchiitashimashita.mp3",
+        "track_id": "L18-EX05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_895_shouchiitashimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_896",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Workplace Requests",
+      "japanese": "少々お待ちください",
+      "furigana": "しょうしょうおまちください",
+      "romaji": "shoushou omachi kudasai",
+      "english": "Please wait a moment",
+      "sinhala": "කරුණාකර මොහොතක් රැඳී සිටින්න",
+      "audio": {
+        "file_name": "e2_896_shoushouomachikudasai.mp3",
+        "track_id": "L18-EX06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_896_shoushouomachikudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_897",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Workplace Requests",
+      "japanese": "確認していただけますか",
+      "furigana": "かくにんしていただけますか",
+      "romaji": "kakunin shite itadakemasu ka",
+      "english": "Could you please verify/check this?",
+      "sinhala": "කරුණාකර මෙය පරීක්ෂා කර බැලිය හැකිද?",
+      "audio": {
+        "file_name": "e2_897_kakuninshiteitadakemasuka.mp3",
+        "track_id": "L18-EX07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_897_kakuninshiteitadakemasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_898",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Workplace Requests",
+      "japanese": "教えていただけますか",
+      "furigana": "おしえていただけますか",
+      "romaji": "oshiete itadakemasu ka",
+      "english": "Could you please explain/teach me?",
+      "sinhala": "කරුණාකර මට කියා දිය හැකිද?",
+      "audio": {
+        "file_name": "e2_898_oshieteitadakemasuka.mp3",
+        "track_id": "L18-EX08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_898_oshieteitadakemasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_899",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Business Apologies",
+      "japanese": "申し訳ございません",
+      "furigana": "もうしわけございません",
+      "romaji": "moushiwake gozaimasen",
+      "english": "I am deeply sorry / My sincere apologies",
+      "sinhala": "ඉතාමත් කණගාටුයි / මගේ අවංක සමාව අයදිමි",
+      "audio": {
+        "file_name": "e2_899_moushiwakegozaimasen.mp3",
+        "track_id": "L18-EX09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_899_moushiwakegozaimasen.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e2_900",
+      "lesson": 18,
+      "main_topic": "31. キャリアと職場の決まり文句 / Professional Goals & Business Phrases",
+      "sub_topic": "Business Closing",
+      "japanese": "よろしくお願いいたします",
+      "furigana": "よろしくおねがいいたします",
+      "romaji": "yoroshiku onegai itashimasu",
+      "english": "Thank you very much for your cooperation",
+      "sinhala": "ඔබගේ සහයෝගය නිහතමානීව බලාපොරොත්තු වෙමි",
+      "audio": {
+        "file_name": "e2_900_yoroshikuonegaiitashimasu.mp3",
+        "track_id": "L18-EX10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e2_900_yoroshikuonegaiitashimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    }
+  ]
+}
