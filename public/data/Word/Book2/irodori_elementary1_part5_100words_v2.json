@@ -1,0 +1,2108 @@
+{
+  "level": "Irodori Elementary 1 (A2)",
+  "part": "Part 5",
+  "total_words": 100,
+  "coverage": "Transportation, vehicles, stations, train types, boarding actions, directions, and asking the way with full Audio & Illustration mapping (Words 401-500).",
+  "vocabulary": [
+    {
+      "id": "e1_401",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "乗り物",
+      "furigana": "のりもの",
+      "romaji": "norimono",
+      "english": "Vehicle / Transport",
+      "sinhala": "ප්‍රවාහන මාධ්‍ය / වාහනය",
+      "audio": {
+        "file_name": "e1_401_norimono.mp3",
+        "track_id": "L09-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_401_norimono.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_402",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "電車",
+      "furigana": "でんしゃ",
+      "romaji": "densha",
+      "english": "Train / Electric train",
+      "sinhala": "දුම්රිය",
+      "audio": {
+        "file_name": "e1_402_densha.mp3",
+        "track_id": "L09-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_402_densha.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_403",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "地下鉄",
+      "furigana": "ちかてつ",
+      "romaji": "chikatetsu",
+      "english": "Subway / Metro",
+      "sinhala": "උමං දුම්රිය",
+      "audio": {
+        "file_name": "e1_403_chikatetsu.mp3",
+        "track_id": "L09-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_403_chikatetsu.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_404",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "新幹線",
+      "furigana": "しんかんせん",
+      "romaji": "shinkansen",
+      "english": "Bullet train / Shinkansen",
+      "sinhala": "අධිවේගී දුම්රිය (ෂින්කන්සෙන්)",
+      "audio": {
+        "file_name": "e1_404_shinkansen.mp3",
+        "track_id": "L09-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_404_shinkansen.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_405",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "バス",
+      "furigana": "バス",
+      "romaji": "basu",
+      "english": "Bus",
+      "sinhala": "බස් රථය",
+      "audio": {
+        "file_name": "e1_405_basu.mp3",
+        "track_id": "L09-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_405_basu.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_406",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "タクシー",
+      "furigana": "タクシー",
+      "romaji": "takushii",
+      "english": "Taxi",
+      "sinhala": "ටැක්සි රථය",
+      "audio": {
+        "file_name": "e1_406_takushii.mp3",
+        "track_id": "L09-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_406_takushii.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_407",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "飛行機",
+      "furigana": "ひこうき",
+      "romaji": "hikouki",
+      "english": "Airplane",
+      "sinhala": "ගුවන් යානය",
+      "audio": {
+        "file_name": "e1_407_hikouki.mp3",
+        "track_id": "L09-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_407_hikouki.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_408",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "船",
+      "furigana": "ふね",
+      "romaji": "fune",
+      "english": "Ship / Boat",
+      "sinhala": "නැව / බෝට්ටුව",
+      "audio": {
+        "file_name": "e1_408_fune.mp3",
+        "track_id": "L09-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_408_fune.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_409",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "車",
+      "furigana": "くるま",
+      "romaji": "kuruma",
+      "english": "Car / Automobile",
+      "sinhala": "මෝටර් රථය",
+      "audio": {
+        "file_name": "e1_409_kuruma.mp3",
+        "track_id": "L09-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_409_kuruma.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_410",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "自動車",
+      "furigana": "じどうしゃ",
+      "romaji": "jidousha",
+      "english": "Automobile / Motor vehicle",
+      "sinhala": "මෝටර් රථය",
+      "audio": {
+        "file_name": "e1_410_jidousha.mp3",
+        "track_id": "L09-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_410_jidousha.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_411",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "自転車",
+      "furigana": "じてんしゃ",
+      "romaji": "jitensha",
+      "english": "Bicycle",
+      "sinhala": "පාපැදිය / බයිසිකලය",
+      "audio": {
+        "file_name": "e1_411_jitensha.mp3",
+        "track_id": "L09-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_411_jitensha.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_412",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "バイク",
+      "furigana": "バイク",
+      "romaji": "baiku",
+      "english": "Motorcycle / Motorbike",
+      "sinhala": "යතුරුපැදිය",
+      "audio": {
+        "file_name": "e1_412_baiku.mp3",
+        "track_id": "L09-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_412_baiku.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_413",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "モノレール",
+      "furigana": "モノレール",
+      "romaji": "monoreeru",
+      "english": "Monorail",
+      "sinhala": "මොනොරේල් දුම්රිය",
+      "audio": {
+        "file_name": "e1_413_monoreeru.mp3",
+        "track_id": "L09-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_413_monoreeru.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_414",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "夜行バス",
+      "furigana": "やこうバス",
+      "romaji": "yakoubasu",
+      "english": "Overnight bus",
+      "sinhala": "රාත්‍රී බස් රථය",
+      "audio": {
+        "file_name": "e1_414_yakoubasu.mp3",
+        "track_id": "L09-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_414_yakoubasu.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_415",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Vehicles",
+      "japanese": "観光バス",
+      "furigana": "かんこうバス",
+      "romaji": "kankoubasu",
+      "english": "Sightseeing bus / Tour bus",
+      "sinhala": "සංචාරක බස් රථය",
+      "audio": {
+        "file_name": "e1_415_kankoubasu.mp3",
+        "track_id": "L09-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_415_kankoubasu.png",
+        "category": "vehicles",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_416",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Train Types",
+      "japanese": "特急電車",
+      "furigana": "とっきゅうでんしゃ",
+      "romaji": "tokkyuudensha",
+      "english": "Limited express train",
+      "sinhala": "සීමිත සීඝ්‍රගාමී දුම්රිය",
+      "audio": {
+        "file_name": "e1_416_tokkyuudensha.mp3",
+        "track_id": "L09-TT01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_416_tokkyuudensha.png",
+        "category": "train_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_417",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Train Types",
+      "japanese": "急行",
+      "furigana": "きゅうこう",
+      "romaji": "kyuukou",
+      "english": "Express train",
+      "sinhala": "සීඝ්‍රගාමී දුම්රිය",
+      "audio": {
+        "file_name": "e1_417_kyuukou.mp3",
+        "track_id": "L09-TT02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_417_kyuukou.png",
+        "category": "train_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_418",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Train Types",
+      "japanese": "快速",
+      "furigana": "かいそく",
+      "romaji": "kaisoku",
+      "english": "Rapid train",
+      "sinhala": "වේගවත් දුම්රිය (Rapid)",
+      "audio": {
+        "file_name": "e1_418_kaisoku.mp3",
+        "track_id": "L09-TT03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_418_kaisoku.png",
+        "category": "train_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_419",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Train Types",
+      "japanese": "普通電車",
+      "furigana": "ふつうでんしゃ",
+      "romaji": "futsuudensha",
+      "english": "Local train",
+      "sinhala": "සාමාන්‍ය දුම්රිය",
+      "audio": {
+        "file_name": "e1_419_futsuudensha.mp3",
+        "track_id": "L09-TT04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_419_futsuudensha.png",
+        "category": "train_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_420",
+      "lesson": 9,
+      "main_topic": "34. 乗り物と交通手段 / Vehicles & Transport",
+      "sub_topic": "Train Types",
+      "japanese": "各駅停車",
+      "furigana": "かくえきていしゃ",
+      "romaji": "kakuekiteisha",
+      "english": "Local train (stops at every station)",
+      "sinhala": "සෑම නැවතුමකම නවත්වන දුම්රිය",
+      "audio": {
+        "file_name": "e1_420_kakuekiteisha.mp3",
+        "track_id": "L09-TT05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_420_kakuekiteisha.png",
+        "category": "train_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_421",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Tickets",
+      "japanese": "切符",
+      "furigana": "きっぷ",
+      "romaji": "kippu",
+      "english": "Ticket",
+      "sinhala": "ප්‍රවේශපත්‍රය / ටිකට් පත",
+      "audio": {
+        "file_name": "e1_421_kippu.mp3",
+        "track_id": "L09-TK01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_421_kippu.png",
+        "category": "station_tickets",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_422",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Tickets",
+      "japanese": "切符売り場",
+      "furigana": "きっぷうりば",
+      "romaji": "kippuuriba",
+      "english": "Ticket office / Ticket counter",
+      "sinhala": "ටිකට්පත් කවුන්ටරය",
+      "audio": {
+        "file_name": "e1_422_kippuuriba.mp3",
+        "track_id": "L09-TK02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_422_kippuuriba.png",
+        "category": "station_tickets",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_423",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Tickets",
+      "japanese": "自動券売機",
+      "furigana": "じどうけんばいき",
+      "romaji": "jidoukenbaiki",
+      "english": "Automatic ticket vending machine",
+      "sinhala": "ස්වයංක්‍රීය ටිකට් නිකුත් කිරීමේ යන්ත්‍රය",
+      "audio": {
+        "file_name": "e1_423_jidoukenbaiki.mp3",
+        "track_id": "L09-TK03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_423_jidoukenbaiki.png",
+        "category": "station_tickets",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_424",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Station Facilities",
+      "japanese": "改札口",
+      "furigana": "かいさつぐち",
+      "romaji": "kaisatsuguchi",
+      "english": "Ticket gate / Turnstile",
+      "sinhala": "ටිකට් පරීක්ෂණ දොරටුව",
+      "audio": {
+        "file_name": "e1_424_kaisatsuguchi.mp3",
+        "track_id": "L09-ST01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_424_kaisatsuguchi.png",
+        "category": "station_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_425",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Station Facilities",
+      "japanese": "ホーム",
+      "furigana": "ホーム",
+      "romaji": "hoomu",
+      "english": "Platform",
+      "sinhala": "දුම්රිය වේදිකාව (Platform)",
+      "audio": {
+        "file_name": "e1_425_hoomu.mp3",
+        "track_id": "L09-ST02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_425_hoomu.png",
+        "category": "station_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_426",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Station Facilities",
+      "japanese": "乗り場",
+      "furigana": "のりば",
+      "romaji": "noriba",
+      "english": "Boarding place / Stop",
+      "sinhala": "නැගීමේ ස්ථානය",
+      "audio": {
+        "file_name": "e1_426_noriba.mp3",
+        "track_id": "L09-ST03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_426_noriba.png",
+        "category": "station_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_427",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Station Facilities",
+      "japanese": "1番線",
+      "furigana": "いちばんせん",
+      "romaji": "ichibansen",
+      "english": "Track 1 / Platform 1",
+      "sinhala": "අංක 1 වේදිකාව",
+      "audio": {
+        "file_name": "e1_427_ichibansen.mp3",
+        "track_id": "L09-ST04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_427_ichibansen.png",
+        "category": "station_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_428",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Station Facilities",
+      "japanese": "2番線",
+      "furigana": "にばんせん",
+      "romaji": "nibansen",
+      "english": "Track 2 / Platform 2",
+      "sinhala": "අංක 2 වේදිකාව",
+      "audio": {
+        "file_name": "e1_428_nibansen.mp3",
+        "track_id": "L09-ST05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_428_nibansen.png",
+        "category": "station_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_429",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Station Information",
+      "japanese": "時刻表",
+      "furigana": "じこくひょう",
+      "romaji": "jikokuhyou",
+      "english": "Timetable / Schedule",
+      "sinhala": "කාලසටහන",
+      "audio": {
+        "file_name": "e1_429_jikokuhyou.mp3",
+        "track_id": "L09-SI01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_429_jikokuhyou.png",
+        "category": "station_info",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_430",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Station Information",
+      "japanese": "路線図",
+      "furigana": "ろせんず",
+      "romaji": "rosenzu",
+      "english": "Route map",
+      "sinhala": "මාර්ග සිතියම",
+      "audio": {
+        "file_name": "e1_430_rosenzu.mp3",
+        "track_id": "L09-SI02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_430_rosenzu.png",
+        "category": "station_info",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_431",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Fares",
+      "japanese": "運賃",
+      "furigana": "うんちん",
+      "romaji": "unchin",
+      "english": "Fare / Ticket price",
+      "sinhala": "ගමන් ගාස්තුව",
+      "audio": {
+        "file_name": "e1_431_unchin.mp3",
+        "track_id": "L09-FR01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_431_unchin.png",
+        "category": "fares",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_432",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Fares",
+      "japanese": "料金",
+      "furigana": "りょうきん",
+      "romaji": "ryoukin",
+      "english": "Fee / Charge",
+      "sinhala": "ගාස්තුව",
+      "audio": {
+        "file_name": "e1_432_ryoukin.mp3",
+        "track_id": "L09-FR02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_432_ryoukin.png",
+        "category": "fares",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_433",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Tickets",
+      "japanese": "定期券",
+      "furigana": "ていきけん",
+      "romaji": "teikiken",
+      "english": "Commuter pass",
+      "sinhala": "වාර ප්‍රවේශ පත්‍රය (Season pass)",
+      "audio": {
+        "file_name": "e1_433_teikiken.mp3",
+        "track_id": "L09-TK04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_433_teikiken.png",
+        "category": "station_tickets",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_434",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Tickets",
+      "japanese": "ICカード",
+      "furigana": "アイシーカード",
+      "romaji": "aishiikaado",
+      "english": "IC transit card (Suica/Pasmo)",
+      "sinhala": "IC ප්‍රවාහන කාඩ්පත",
+      "audio": {
+        "file_name": "e1_434_aishiikaado.mp3",
+        "track_id": "L09-TK05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_434_aishiikaado.png",
+        "category": "station_tickets",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_435",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Tickets",
+      "japanese": "チャージ",
+      "furigana": "チャージ",
+      "romaji": "chaaji",
+      "english": "Recharge / Top-up (card)",
+      "sinhala": "කාඩ්පතට මුදල් පිරවීම (Top-up)",
+      "audio": {
+        "file_name": "e1_435_chaaji.mp3",
+        "track_id": "L09-TK06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_435_chaaji.png",
+        "category": "station_tickets",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_436",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Station Facilities",
+      "japanese": "精算機",
+      "furigana": "せいさんき",
+      "romaji": "seisanki",
+      "english": "Fare adjustment machine",
+      "sinhala": "ගාස්තු ගැලපුම් යන්ත්‍රය",
+      "audio": {
+        "file_name": "e1_436_seisanki.mp3",
+        "track_id": "L09-ST06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_436_seisanki.png",
+        "category": "station_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_437",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Station Facilities",
+      "japanese": "窓口",
+      "furigana": "まどぐち",
+      "romaji": "madoguchi",
+      "english": "Ticket window / Service counter",
+      "sinhala": "සේවා කවුළුව / ටිකට් කවුළුව",
+      "audio": {
+        "file_name": "e1_437_madoguchi.mp3",
+        "track_id": "L09-ST07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_437_madoguchi.png",
+        "category": "station_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_438",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Seating",
+      "japanese": "自由席",
+      "furigana": "じゆうせき",
+      "romaji": "jiyuuseki",
+      "english": "Non-reserved seat",
+      "sinhala": "වෙන් නොකළ ආසනය",
+      "audio": {
+        "file_name": "e1_438_jiyuuseki.mp3",
+        "track_id": "L09-SS01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_438_jiyuuseki.png",
+        "category": "seating",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_439",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Seating",
+      "japanese": "指定席",
+      "furigana": "していせき",
+      "romaji": "shiteiseki",
+      "english": "Reserved seat",
+      "sinhala": "වෙන් කළ ආසනය",
+      "audio": {
+        "file_name": "e1_439_shiteiseki.mp3",
+        "track_id": "L09-SS02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_439_shiteiseki.png",
+        "category": "seating",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_440",
+      "lesson": 9,
+      "main_topic": "35. 駅と切符 / Station & Tickets",
+      "sub_topic": "Seating",
+      "japanese": "優先席",
+      "furigana": "ゆうせんせき",
+      "romaji": "yuusenseki",
+      "english": "Priority seat",
+      "sinhala": "ප්‍රමුඛතා ආසනය",
+      "audio": {
+        "file_name": "e1_440_yuusenseki.mp3",
+        "track_id": "L09-SS03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_440_yuusenseki.png",
+        "category": "seating",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_441",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Boarding Verbs",
+      "japanese": "乗る",
+      "furigana": "のる",
+      "romaji": "noru",
+      "english": "To ride / get on",
+      "sinhala": "නගිනවා (වාහනයකට)",
+      "audio": {
+        "file_name": "e1_441_noru.mp3",
+        "track_id": "L09-MV01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_441_noru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_442",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Boarding Verbs",
+      "japanese": "降りる",
+      "furigana": "おりる",
+      "romaji": "oriru",
+      "english": "To get off / disembark",
+      "sinhala": "බහිනවා (වාහනයකින්)",
+      "audio": {
+        "file_name": "e1_442_oriru.mp3",
+        "track_id": "L09-MV02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_442_oriru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_443",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Boarding Verbs",
+      "japanese": "乗り換える",
+      "furigana": "のりかえる",
+      "romaji": "norikaeru",
+      "english": "To transfer / change (trains/buses)",
+      "sinhala": "මාරු වෙනවා (දුම්රිය/බස්)",
+      "audio": {
+        "file_name": "e1_443_norikaeru.mp3",
+        "track_id": "L09-MV03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_443_norikaeru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_444",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Operation Verbs",
+      "japanese": "出発する",
+      "furigana": "しゅっぱつする",
+      "romaji": "shuppatsu suru",
+      "english": "To depart",
+      "sinhala": "පිටත්වෙනවා",
+      "audio": {
+        "file_name": "e1_444_shuppatsusuru.mp3",
+        "track_id": "L09-MV04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_444_shuppatsusuru.png",
+        "category": "operations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_445",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Operation Verbs",
+      "japanese": "到着する",
+      "furigana": "とうちゃくする",
+      "romaji": "touchaku suru",
+      "english": "To arrive",
+      "sinhala": "ළඟාවෙනවා",
+      "audio": {
+        "file_name": "e1_445_touchakusuru.mp3",
+        "track_id": "L09-MV05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_445_touchakusuru.png",
+        "category": "operations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_446",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Operation Verbs",
+      "japanese": "遅れる",
+      "furigana": "おくれる",
+      "romaji": "okureru",
+      "english": "To be late / delayed",
+      "sinhala": "ප්‍රමාද වෙනවා",
+      "audio": {
+        "file_name": "e1_446_okureru.mp3",
+        "track_id": "L09-MV06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_446_okureru.png",
+        "category": "operations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_447",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Operation Verbs",
+      "japanese": "間に合う",
+      "furigana": "まにあう",
+      "romaji": "maniau",
+      "english": "To be on time / make it",
+      "sinhala": "වේලාවට පැමිණෙනවා",
+      "audio": {
+        "file_name": "e1_447_maniau.mp3",
+        "track_id": "L09-MV07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_447_maniau.png",
+        "category": "operations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_448",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Operation Verbs",
+      "japanese": "止まる",
+      "furigana": "とまる",
+      "romaji": "tomaru",
+      "english": "To stop",
+      "sinhala": "නවතිනවා",
+      "audio": {
+        "file_name": "e1_448_tomaru.mp3",
+        "track_id": "L09-MV08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_448_tomaru.png",
+        "category": "operations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_449",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Operation Verbs",
+      "japanese": "動く",
+      "furigana": "うごく",
+      "romaji": "ugoku",
+      "english": "To move / run (train/bus)",
+      "sinhala": "ධාවනය වෙනවා / චලනය වෙනවා",
+      "audio": {
+        "file_name": "e1_449_ugoku.mp3",
+        "track_id": "L09-MV09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_449_ugoku.png",
+        "category": "operations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_450",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Movement Verbs",
+      "japanese": "通る",
+      "furigana": "とおる",
+      "romaji": "tooru",
+      "english": "To pass through",
+      "sinhala": "හරහා යනවා / පසුකර යනවා",
+      "audio": {
+        "file_name": "e1_450_tooru.mp3",
+        "track_id": "L09-MV10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_450_tooru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_451",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Movement Verbs",
+      "japanese": "渡る",
+      "furigana": "わたる",
+      "romaji": "wataru",
+      "english": "To cross (bridge/road)",
+      "sinhala": "මාරු වෙනවා (පාලම/පාර)",
+      "audio": {
+        "file_name": "e1_451_wataru.mp3",
+        "track_id": "L09-MV11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_451_wataru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_452",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Movement Verbs",
+      "japanese": "曲がる",
+      "furigana": "まがる",
+      "romaji": "magaru",
+      "english": "To turn",
+      "sinhala": "හැරෙනවා",
+      "audio": {
+        "file_name": "e1_452_magaru.mp3",
+        "track_id": "L09-MV12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_452_magaru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_453",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Movement Verbs",
+      "japanese": "走る",
+      "furigana": "はしる",
+      "romaji": "hashiru",
+      "english": "To run / drive",
+      "sinhala": "දුවනවා / ධාවනය වෙනවා",
+      "audio": {
+        "file_name": "e1_453_hashiru.mp3",
+        "track_id": "L09-MV13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_453_hashiru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_454",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Movement Verbs",
+      "japanese": "歩く",
+      "furigana": "あるく",
+      "romaji": "aruku",
+      "english": "To walk",
+      "sinhala": "ඇවිදිනවා",
+      "audio": {
+        "file_name": "e1_454_aruku.mp3",
+        "track_id": "L09-MV14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_454_aruku.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_455",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Movement Verbs",
+      "japanese": "運転する",
+      "furigana": "うんてんする",
+      "romaji": "unten suru",
+      "english": "To drive",
+      "sinhala": "රිය පදවනවා",
+      "audio": {
+        "file_name": "e1_455_untensuru.mp3",
+        "track_id": "L09-MV15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_455_untensuru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_456",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Action Verbs",
+      "japanese": "急ぐ",
+      "furigana": "いそぐ",
+      "romaji": "isogu",
+      "english": "To hurry",
+      "sinhala": "ඉක්මන් කරනවා",
+      "audio": {
+        "file_name": "e1_456_isogu.mp3",
+        "track_id": "L09-AV01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_456_isogu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_457",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Action Verbs",
+      "japanese": "待つ",
+      "furigana": "まつ",
+      "romaji": "matsu",
+      "english": "To wait",
+      "sinhala": "රැඳී සිටිනවා / බලන් ඉන්නවා",
+      "audio": {
+        "file_name": "e1_457_matsu.mp3",
+        "track_id": "L09-AV02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_457_matsu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_458",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Boarding Terms",
+      "japanese": "降り口",
+      "furigana": "おりぐち",
+      "romaji": "origuchi",
+      "english": "Exit door (vehicle) / Getting-off side",
+      "sinhala": "බසින දොරටුව / බසින පැත්ත",
+      "audio": {
+        "file_name": "e1_458_origuchi.mp3",
+        "track_id": "L09-BT01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_458_origuchi.png",
+        "category": "boarding",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_459",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Boarding Terms",
+      "japanese": "乗り口",
+      "furigana": "のりぐち",
+      "romaji": "noriguchi",
+      "english": "Entrance door (vehicle) / Boarding side",
+      "sinhala": "නගින දොරටුව / නගින පැත්ත",
+      "audio": {
+        "file_name": "e1_459_noriguchi.mp3",
+        "track_id": "L09-BT02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_459_noriguchi.png",
+        "category": "boarding",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_460",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Routing Terms",
+      "japanese": "行き先",
+      "furigana": "いきさき",
+      "romaji": "ikisaki",
+      "english": "Destination",
+      "sinhala": "ගමනාන්තය",
+      "audio": {
+        "file_name": "e1_460_ikisaki.mp3",
+        "track_id": "L09-RT01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_460_ikisaki.png",
+        "category": "routing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_461",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Routing Terms",
+      "japanese": "方面",
+      "furigana": "ほうめん",
+      "romaji": "houmen",
+      "english": "Direction / Bound for",
+      "sinhala": "දිශාව / දෙසට",
+      "audio": {
+        "file_name": "e1_461_houmen.mp3",
+        "track_id": "L09-RT02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_461_houmen.png",
+        "category": "routing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_462",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Routing Terms",
+      "japanese": "上り",
+      "furigana": "のぼり",
+      "romaji": "nobori",
+      "english": "Inbound train (toward capital/central)",
+      "sinhala": "අගනුවර දෙසට යන (දුම්රිය)",
+      "audio": {
+        "file_name": "e1_462_nobori.mp3",
+        "track_id": "L09-RT03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_462_nobori.png",
+        "category": "routing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_463",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Routing Terms",
+      "japanese": "下り",
+      "furigana": "くだり",
+      "romaji": "kudari",
+      "english": "Outbound train (away from capital)",
+      "sinhala": "අගනුවරින් පිටතට යන (දුම්රිය)",
+      "audio": {
+        "file_name": "e1_463_kudari.mp3",
+        "track_id": "L09-RT04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_463_kudari.png",
+        "category": "routing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_464",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Routing Terms",
+      "japanese": "終点",
+      "furigana": "しゅうてん",
+      "romaji": "shuuten",
+      "english": "Last stop / Terminal station",
+      "sinhala": "අවසාන නැවතුම",
+      "audio": {
+        "file_name": "e1_464_shuuten.mp3",
+        "track_id": "L09-RT05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_464_shuuten.png",
+        "category": "routing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_465",
+      "lesson": 9,
+      "main_topic": "36. 移動の動詞 / Transport & Movement Verbs",
+      "sub_topic": "Routing Terms",
+      "japanese": "次の駅",
+      "furigana": "つぎのえき",
+      "romaji": "tsugi no eki",
+      "english": "Next station",
+      "sinhala": "ඊළඟ දුම්රිය ස්ථානය",
+      "audio": {
+        "file_name": "e1_465_tsuginoeki.mp3",
+        "track_id": "L09-RT06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_465_tsuginoeki.png",
+        "category": "routing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_466",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "General Directions",
+      "japanese": "道案内",
+      "furigana": "みちあんない",
+      "romaji": "michiannai",
+      "english": "Showing the way / Route guidance",
+      "sinhala": "මඟ පෙන්වීම",
+      "audio": {
+        "file_name": "e1_466_michiannai.mp3",
+        "track_id": "L09-D01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_466_michiannai.png",
+        "category": "directions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_467",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "General Directions",
+      "japanese": "方向",
+      "furigana": "ほうこう",
+      "romaji": "houkou",
+      "english": "Direction / Way",
+      "sinhala": "දිශාව",
+      "audio": {
+        "file_name": "e1_467_houkou.mp3",
+        "track_id": "L09-D02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_467_houkou.png",
+        "category": "directions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_468",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Cardinal Directions",
+      "japanese": "東",
+      "furigana": "ひがし",
+      "romaji": "higashi",
+      "english": "East",
+      "sinhala": "නැගෙනහිර",
+      "audio": {
+        "file_name": "e1_468_higashi.mp3",
+        "track_id": "L09-CD01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_468_higashi.png",
+        "category": "cardinal_directions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_469",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Cardinal Directions",
+      "japanese": "西",
+      "furigana": "にし",
+      "romaji": "nishi",
+      "english": "West",
+      "sinhala": "බටහිර",
+      "audio": {
+        "file_name": "e1_469_nishi.mp3",
+        "track_id": "L09-CD02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_469_nishi.png",
+        "category": "cardinal_directions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_470",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Cardinal Directions",
+      "japanese": "南",
+      "furigana": "みなみ",
+      "romaji": "minami",
+      "english": "South",
+      "sinhala": "දකුණ",
+      "audio": {
+        "file_name": "e1_470_minami.mp3",
+        "track_id": "L09-CD03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_470_minami.png",
+        "category": "cardinal_directions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_471",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Cardinal Directions",
+      "japanese": "北",
+      "furigana": "きた",
+      "romaji": "kita",
+      "english": "North",
+      "sinhala": "උතුර",
+      "audio": {
+        "file_name": "e1_471_kita.mp3",
+        "track_id": "L09-CD04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_471_kita.png",
+        "category": "cardinal_directions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_472",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Station Exits",
+      "japanese": "東口",
+      "furigana": "ひがしぐち",
+      "romaji": "higashiguchi",
+      "english": "East exit",
+      "sinhala": "නැගෙනහිර පිටවීම",
+      "audio": {
+        "file_name": "e1_472_higashiguchi.mp3",
+        "track_id": "L09-EX01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_472_higashiguchi.png",
+        "category": "station_exits",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_473",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Station Exits",
+      "japanese": "西口",
+      "furigana": "にしぐち",
+      "romaji": "nishiguchi",
+      "english": "West exit",
+      "sinhala": "බටහිර පිටවීම",
+      "audio": {
+        "file_name": "e1_473_nishiguchi.mp3",
+        "track_id": "L09-EX02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_473_nishiguchi.png",
+        "category": "station_exits",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_474",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Station Exits",
+      "japanese": "南口",
+      "furigana": "みなみぐち",
+      "romaji": "minamiguchi",
+      "english": "South exit",
+      "sinhala": "දකුණු පිටවීම",
+      "audio": {
+        "file_name": "e1_474_minamiguchi.mp3",
+        "track_id": "L09-EX03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_474_minamiguchi.png",
+        "category": "station_exits",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_475",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Station Exits",
+      "japanese": "北口",
+      "furigana": "きたぐち",
+      "romaji": "kitaguchi",
+      "english": "North exit",
+      "sinhala": "උතුරු පිටවීම",
+      "audio": {
+        "file_name": "e1_475_kitaguchi.mp3",
+        "track_id": "L09-EX04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_475_kitaguchi.png",
+        "category": "station_exits",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_476",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Station Exits",
+      "japanese": "中央口",
+      "furigana": "ちゅうおうぐち",
+      "romaji": "chuuouguchi",
+      "english": "Central exit",
+      "sinhala": "මධ්‍යම පිටවීම",
+      "audio": {
+        "file_name": "e1_476_chuuouguchi.mp3",
+        "track_id": "L09-EX05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_476_chuuouguchi.png",
+        "category": "station_exits",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_477",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Spatial Relations",
+      "japanese": "右側",
+      "furigana": "みぎがわ",
+      "romaji": "migigawa",
+      "english": "Right side",
+      "sinhala": "දකුණු පැත්ත",
+      "audio": {
+        "file_name": "e1_477_migigawa.mp3",
+        "track_id": "L09-SR01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_477_migigawa.png",
+        "category": "spatial_relations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_478",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Spatial Relations",
+      "japanese": "左側",
+      "furigana": "ひだりがわ",
+      "romaji": "hidarigawa",
+      "english": "Left side",
+      "sinhala": "වම් පැත්ත",
+      "audio": {
+        "file_name": "e1_478_hidarigawa.mp3",
+        "track_id": "L09-SR02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_478_hidarigawa.png",
+        "category": "spatial_relations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_479",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Spatial Relations",
+      "japanese": "手前",
+      "furigana": "てまえ",
+      "romaji": "temae",
+      "english": "In front / Just before",
+      "sinhala": "මෙහා පැත්ත / ළඟ පැත්ත",
+      "audio": {
+        "file_name": "e1_479_temae.mp3",
+        "track_id": "L09-SR03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_479_temae.png",
+        "category": "spatial_relations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_480",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Spatial Relations",
+      "japanese": "奥",
+      "furigana": "おく",
+      "romaji": "oku",
+      "english": "Back / Deep inside",
+      "sinhala": "ඇතුළත / ඈත කෙළවර",
+      "audio": {
+        "file_name": "e1_480_oku.mp3",
+        "track_id": "L09-SR04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_480_oku.png",
+        "category": "spatial_relations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_481",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Spatial Relations",
+      "japanese": "突き当たり",
+      "furigana": "つきあたり",
+      "romaji": "tsukiatari",
+      "english": "End of the street / T-junction",
+      "sinhala": "පාරේ කෙළවර",
+      "audio": {
+        "file_name": "e1_481_tsukiatari.mp3",
+        "track_id": "L09-SR05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_481_tsukiatari.png",
+        "category": "spatial_relations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_482",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Spatial Relations",
+      "japanese": "側",
+      "furigana": "そば",
+      "romaji": "soba",
+      "english": "Near / Beside",
+      "sinhala": "ළඟ / ආසන්නව",
+      "audio": {
+        "file_name": "e1_482_soba.mp3",
+        "track_id": "L09-SR06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_482_soba.png",
+        "category": "spatial_relations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_483",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Spatial Relations",
+      "japanese": "沿い",
+      "furigana": "ぞい",
+      "romaji": "zoi",
+      "english": "Along (street/river)",
+      "sinhala": "දිගේ / ඔස්සේ",
+      "audio": {
+        "file_name": "e1_483_zoi.mp3",
+        "track_id": "L09-SR07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_483_zoi.png",
+        "category": "spatial_relations",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_484",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Wayfinding",
+      "japanese": "目印",
+      "furigana": "めじるし",
+      "romaji": "mejirushi",
+      "english": "Landmark / Sign",
+      "sinhala": "හඳුනාගැනීමේ ලකුණ / සලකුණ",
+      "audio": {
+        "file_name": "e1_484_mejirushi.mp3",
+        "track_id": "L09-WF01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_484_mejirushi.png",
+        "category": "wayfinding",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_485",
+      "lesson": 9,
+      "main_topic": "37. 道案内と位置 / Directions & Spatial Relations",
+      "sub_topic": "Wayfinding",
+      "japanese": "地図",
+      "furigana": "ちず",
+      "romaji": "chizu",
+      "english": "Map",
+      "sinhala": "සිතියම",
+      "audio": {
+        "file_name": "e1_485_chizu.mp3",
+        "track_id": "L09-WF02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_485_chizu.png",
+        "category": "wayfinding",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_486",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "道に迷う",
+      "furigana": "みちにまよう",
+      "romaji": "michi ni mayou",
+      "english": "To lose one's way / get lost",
+      "sinhala": "පාර වරදිනවා / අතරමං වෙනවා",
+      "audio": {
+        "file_name": "e1_486_michinimayou.mp3",
+        "track_id": "L09-AP01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_486_michinimayou.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_487",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "教える",
+      "furigana": "おしえる",
+      "romaji": "oshieru",
+      "english": "To tell / show (the way)",
+      "sinhala": "කියා දෙනවා / පෙන්වා දෙනවා",
+      "audio": {
+        "file_name": "e1_487_oshieru.mp3",
+        "track_id": "L09-AP02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_487_oshieru.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_488",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "すみません",
+      "furigana": "すみません",
+      "romaji": "sumimasen",
+      "english": "Excuse me",
+      "sinhala": "සමාවෙන්න",
+      "audio": {
+        "file_name": "e1_488_sumimasen.mp3",
+        "track_id": "L09-AP03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_488_sumimasen.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_489",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "～はどこですか",
+      "furigana": "～はどこですか",
+      "romaji": "~ wa doko desu ka",
+      "english": "Where is ~?",
+      "sinhala": "~ කොහෙද තියෙන්නේ?",
+      "audio": {
+        "file_name": "e1_489_wahadokodesuka.mp3",
+        "track_id": "L09-AP04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_489_wahadokodesuka.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_490",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "どうやって行きますか",
+      "furigana": "どうやっていきますか",
+      "romaji": "dou yatte ikimasu ka",
+      "english": "How do I get to ~?",
+      "sinhala": "එතැනට යන්නේ කොහොමද?",
+      "audio": {
+        "file_name": "e1_490_douyatteikimasuka.mp3",
+        "track_id": "L09-AP05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_490_douyatteikimasuka.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_491",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "どのくらいかかりますか",
+      "furigana": "どのくらいかかりますか",
+      "romaji": "dono kurai kakarimasu ka",
+      "english": "How long does it take?",
+      "sinhala": "කොපමණ වෙලාවක් ගතවේද?",
+      "audio": {
+        "file_name": "e1_491_donokuraikakarimasuka.mp3",
+        "track_id": "L09-AP06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_491_donokuraikakarimasuka.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_492",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "歩いて行けますか",
+      "furigana": "あるいていけますか",
+      "romaji": "aruite ikemasu ka",
+      "english": "Can I go on foot?",
+      "sinhala": "පයින් යන්න පුළුවන්ද?",
+      "audio": {
+        "file_name": "e1_492_aruiteikemasuka.mp3",
+        "track_id": "L09-AP07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_492_aruiteikemasuka.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_493",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "歩いて～分",
+      "furigana": "あるいて～ふん",
+      "romaji": "aruite ~ fun",
+      "english": "~ minutes on foot",
+      "sinhala": "පයින් විනාඩි ~",
+      "audio": {
+        "file_name": "e1_493_aruitefun.mp3",
+        "track_id": "L09-AP08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_493_aruitefun.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_494",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "車で～分",
+      "furigana": "くるまで～ふん",
+      "romaji": "kuruma de ~ fun",
+      "english": "~ minutes by car",
+      "sinhala": "මෝටර් රථයෙන් විනාඩි ~",
+      "audio": {
+        "file_name": "e1_494_kurumadefun.mp3",
+        "track_id": "L09-AP09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_494_kurumadefun.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_495",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "まっすぐ行ってください",
+      "furigana": "まっすぐいってください",
+      "romaji": "massugu itte kudasai",
+      "english": "Please go straight",
+      "sinhala": "කෙළින්ම යන්න",
+      "audio": {
+        "file_name": "e1_495_massuguittekudasai.mp3",
+        "track_id": "L09-AP10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_495_massuguittekudasai.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_496",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "右に曲がってください",
+      "furigana": "みぎにまがってください",
+      "romaji": "migi ni magatte kudasai",
+      "english": "Please turn right",
+      "sinhala": "දකුණට හැරෙන්න",
+      "audio": {
+        "file_name": "e1_496_miginimagattekudasai.mp3",
+        "track_id": "L09-AP11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_496_miginimagattekudasai.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_497",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "左に曲がってください",
+      "furigana": "ひだりにまがってください",
+      "romaji": "hidari ni magatte kudasai",
+      "english": "Please turn left",
+      "sinhala": "වමට හැරෙන්න",
+      "audio": {
+        "file_name": "e1_497_hidarinimagattekudasai.mp3",
+        "track_id": "L09-AP12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_497_hidarinimagattekudasai.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_498",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "橋を渡ってください",
+      "furigana": "はしをわたってください",
+      "romaji": "hashi o watatte kudasai",
+      "english": "Please cross the bridge",
+      "sinhala": "පාලම හරහා යන්න",
+      "audio": {
+        "file_name": "e1_498_hashiowatattekudasai.mp3",
+        "track_id": "L09-AP13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_498_hashiowatattekudasai.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_499",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "すぐそこです",
+      "furigana": "すぐそこです",
+      "romaji": "sugu soko desu",
+      "english": "It is right over there / just nearby",
+      "sinhala": "මෙන්න මෙතැනමයි / ඉතා ළඟයි",
+      "audio": {
+        "file_name": "e1_499_sugusokodesu.mp3",
+        "track_id": "L09-AP14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_499_sugusokodesu.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_500",
+      "lesson": 9,
+      "main_topic": "38. 道を聞く表現 / Asking the Way Expressions",
+      "sub_topic": "Phrases",
+      "japanese": "ありがとうございます",
+      "furigana": "ありがとうございます",
+      "romaji": "arigatou gozaimasu",
+      "english": "Thank you very much",
+      "sinhala": "බොහොම ස්තූතියි",
+      "audio": {
+        "file_name": "e1_500_arigatougozaimasu.mp3",
+        "track_id": "L09-AP15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_500_arigatougozaimasu.png",
+        "category": "asking_way",
+        "has_illustration": true
+      }
+    }
+  ]
+}

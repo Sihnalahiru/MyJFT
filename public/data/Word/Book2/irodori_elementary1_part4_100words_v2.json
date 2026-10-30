@@ -1,0 +1,2108 @@
+{
+  "level": "Irodori Elementary 1 (A2)",
+  "part": "Part 4",
+  "total_words": 100,
+  "coverage": "Town, neighborhood, buildings, public facilities, locations, and directions with full Audio & Illustration mapping (Words 301-400).",
+  "vocabulary": [
+    {
+      "id": "e1_301",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "町",
+      "furigana": "まち",
+      "romaji": "machi",
+      "english": "Town / City",
+      "sinhala": "නගරය",
+      "audio": {
+        "file_name": "e1_301_machi.mp3",
+        "track_id": "L08-T01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_301_machi.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_302",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "街",
+      "furigana": "まち",
+      "romaji": "machi",
+      "english": "Town area / Street quarter",
+      "sinhala": "නගර ප්‍රදේශය / වීදිය",
+      "audio": {
+        "file_name": "e1_302_machi.mp3",
+        "track_id": "L08-T02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_302_machi.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_303",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "近所",
+      "furigana": "きんじょ",
+      "romaji": "kinjo",
+      "english": "Neighborhood / Vicinity",
+      "sinhala": "අසල්වැසි ප්‍රදේශය",
+      "audio": {
+        "file_name": "e1_303_kinjo.mp3",
+        "track_id": "L08-T03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_303_kinjo.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_304",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "通り",
+      "furigana": "とおり",
+      "romaji": "toori",
+      "english": "Street / Avenue",
+      "sinhala": "මාවත / පාර",
+      "audio": {
+        "file_name": "e1_304_toori.mp3",
+        "track_id": "L08-T04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_304_toori.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_305",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "道",
+      "furigana": "みち",
+      "romaji": "michi",
+      "english": "Road / Path / Way",
+      "sinhala": "මාර්ගය / පාර",
+      "audio": {
+        "file_name": "e1_305_michi.mp3",
+        "track_id": "L08-T05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_305_michi.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_306",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "橋",
+      "furigana": "はし",
+      "romaji": "hashi",
+      "english": "Bridge",
+      "sinhala": "පාලම",
+      "audio": {
+        "file_name": "e1_306_hashi.mp3",
+        "track_id": "L08-T06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_306_hashi.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_307",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "信号",
+      "furigana": "しんごう",
+      "romaji": "shingou",
+      "english": "Traffic light / Signal",
+      "sinhala": "මාර්ග සංඥා ආලෝකය",
+      "audio": {
+        "file_name": "e1_307_shingou.mp3",
+        "track_id": "L08-T07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_307_shingou.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_308",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "交差点",
+      "furigana": "こうさてん",
+      "romaji": "kousaten",
+      "english": "Intersection / Crossroads",
+      "sinhala": "මංසන්ධිය",
+      "audio": {
+        "file_name": "e1_308_kousaten.mp3",
+        "track_id": "L08-T08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_308_kousaten.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_309",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "角",
+      "furigana": "かど",
+      "romaji": "kado",
+      "english": "Corner",
+      "sinhala": "හැරවුම / මුල්ල",
+      "audio": {
+        "file_name": "e1_309_kado.mp3",
+        "track_id": "L08-T09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_309_kado.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_310",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "歩道",
+      "furigana": "ほどう",
+      "romaji": "hodou",
+      "english": "Sidewalk / Footpath",
+      "sinhala": "පදික වේදිකාව",
+      "audio": {
+        "file_name": "e1_310_hodou.mp3",
+        "track_id": "L08-T10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_310_hodou.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_311",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "横断歩道",
+      "furigana": "おうだんほどう",
+      "romaji": "oudanhodou",
+      "english": "Pedestrian crossing / Crosswalk",
+      "sinhala": "පදික මාරුව",
+      "audio": {
+        "file_name": "e1_311_oudanhodou.mp3",
+        "track_id": "L08-T11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_311_oudanhodou.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_312",
+      "lesson": 8,
+      "main_topic": "26. 街と地域 / Town & Neighborhood",
+      "sub_topic": "Townscape",
+      "japanese": "踏切",
+      "furigana": "ふみきり",
+      "romaji": "fumikiri",
+      "english": "Railroad crossing",
+      "sinhala": "දුම්රිය හරස් මාර්ගය",
+      "audio": {
+        "file_name": "e1_312_fumikiri.mp3",
+        "track_id": "L08-T12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_312_fumikiri.png",
+        "category": "town",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_313",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Structures",
+      "japanese": "建物",
+      "furigana": "たてもの",
+      "romaji": "tatemono",
+      "english": "Building / Structure",
+      "sinhala": "ගොඩනැගිල්ල",
+      "audio": {
+        "file_name": "e1_313_tatemono.mp3",
+        "track_id": "L08-B01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_313_tatemono.png",
+        "category": "buildings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_314",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Structures",
+      "japanese": "ビル",
+      "furigana": "ビル",
+      "romaji": "biru",
+      "english": "Building / High-rise",
+      "sinhala": "උස් ගොඩනැගිල්ල / බිල්ඩිම",
+      "audio": {
+        "file_name": "e1_314_biru.mp3",
+        "track_id": "L08-B02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_314_biru.png",
+        "category": "buildings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_315",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Housing",
+      "japanese": "マンション",
+      "furigana": "マンション",
+      "romaji": "manshon",
+      "english": "Apartment building / Condo",
+      "sinhala": "මහල් නිවාසය",
+      "audio": {
+        "file_name": "e1_315_manshon.mp3",
+        "track_id": "L08-B03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_315_manshon.png",
+        "category": "housing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_316",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Housing",
+      "japanese": "アパート",
+      "furigana": "アパート",
+      "romaji": "apaato",
+      "english": "Apartment",
+      "sinhala": "කුලී නිවාසය / ඇපාර්ට්මන්ට්",
+      "audio": {
+        "file_name": "e1_316_apaato.mp3",
+        "track_id": "L08-B04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_316_apaato.png",
+        "category": "housing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_317",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Public Facilities",
+      "japanese": "銀行",
+      "furigana": "ぎんこう",
+      "romaji": "ginkou",
+      "english": "Bank",
+      "sinhala": "බැංකුව",
+      "audio": {
+        "file_name": "e1_317_ginkou.mp3",
+        "track_id": "L08-P01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_317_ginkou.png",
+        "category": "public_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_318",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Public Facilities",
+      "japanese": "郵便局",
+      "furigana": "ゆうびんきょく",
+      "romaji": "yuubinkyoku",
+      "english": "Post office",
+      "sinhala": "තැපැල් කාර්යාලය",
+      "audio": {
+        "file_name": "e1_318_yuubinkyoku.mp3",
+        "track_id": "L08-P02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_318_yuubinkyoku.png",
+        "category": "public_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_319",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Public Facilities",
+      "japanese": "市役所",
+      "furigana": "しやくしょ",
+      "romaji": "shiyakusho",
+      "english": "City hall / Municipal office",
+      "sinhala": "නගර සභාව",
+      "audio": {
+        "file_name": "e1_319_shiyakusho.mp3",
+        "track_id": "L08-P03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_319_shiyakusho.png",
+        "category": "public_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_320",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Public Facilities",
+      "japanese": "区役所",
+      "furigana": "くやくしょ",
+      "romaji": "kuyakusho",
+      "english": "Ward office",
+      "sinhala": "ප්‍රාදේශීය ලේකම් කාර්යාලය (Ward office)",
+      "audio": {
+        "file_name": "e1_320_kuyakusho.mp3",
+        "track_id": "L08-P04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_320_kuyakusho.png",
+        "category": "public_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_321",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Public Facilities",
+      "japanese": "警察署",
+      "furigana": "けいさつしょ",
+      "romaji": "keisatsusho",
+      "english": "Police station",
+      "sinhala": "පොලිස් ස්ථානය",
+      "audio": {
+        "file_name": "e1_321_keisatsusho.mp3",
+        "track_id": "L08-P05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_321_keisatsusho.png",
+        "category": "public_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_322",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Public Facilities",
+      "japanese": "交番",
+      "furigana": "こうばん",
+      "romaji": "kouban",
+      "english": "Police box (Koban)",
+      "sinhala": "කුඩා පොලිස් මුරපොළ (Koban)",
+      "audio": {
+        "file_name": "e1_322_kouban.mp3",
+        "track_id": "L08-P06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_322_kouban.png",
+        "category": "public_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_323",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Public Facilities",
+      "japanese": "消防署",
+      "furigana": "しょうぼうしょ",
+      "romaji": "shoubousho",
+      "english": "Fire station",
+      "sinhala": "ගිනි නිවන ස්ථානය",
+      "audio": {
+        "file_name": "e1_323_shoubousho.mp3",
+        "track_id": "L08-P07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_323_shoubousho.png",
+        "category": "public_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_324",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Medical",
+      "japanese": "病院",
+      "furigana": "びょういん",
+      "romaji": "byouin",
+      "english": "Hospital",
+      "sinhala": "රෝහල",
+      "audio": {
+        "file_name": "e1_324_byouin.mp3",
+        "track_id": "L08-M01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_324_byouin.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_325",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Medical",
+      "japanese": "医院",
+      "furigana": "いいん",
+      "romaji": "iin",
+      "english": "Clinic / Doctor's office",
+      "sinhala": "සායනය (Clinic)",
+      "audio": {
+        "file_name": "e1_325_iin.mp3",
+        "track_id": "L08-M02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_325_iin.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_326",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Medical",
+      "japanese": "歯医者",
+      "furigana": "はいしゃ",
+      "romaji": "haisha",
+      "english": "Dentist / Dental clinic",
+      "sinhala": "දන්ත සායනය / දන්ත වෛද්‍යවරයා",
+      "audio": {
+        "file_name": "e1_326_haisha.mp3",
+        "track_id": "L08-M03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_326_haisha.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_327",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Medical",
+      "japanese": "薬局",
+      "furigana": "やっきょく",
+      "romaji": "yakkyoku",
+      "english": "Pharmacy",
+      "sinhala": "ඖෂධ ශාලාව / ඔසුසල",
+      "audio": {
+        "file_name": "e1_327_yakkyoku.mp3",
+        "track_id": "L08-M04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_327_yakkyoku.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_328",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Culture & Leisure",
+      "japanese": "図書館",
+      "furigana": "としょかん",
+      "romaji": "toshokan",
+      "english": "Library",
+      "sinhala": "පුස්තකාලය",
+      "audio": {
+        "file_name": "e1_328_toshokan.mp3",
+        "track_id": "L08-C01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_328_toshokan.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_329",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Culture & Leisure",
+      "japanese": "美術館",
+      "furigana": "びじゅつかん",
+      "romaji": "bijutsukan",
+      "english": "Art museum",
+      "sinhala": "කලා කෞතුකාගාරය",
+      "audio": {
+        "file_name": "e1_329_bijutsukan.mp3",
+        "track_id": "L08-C02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_329_bijutsukan.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_330",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Culture & Leisure",
+      "japanese": "博物館",
+      "furigana": "はくぶつかん",
+      "romaji": "hakubutsukan",
+      "english": "Museum",
+      "sinhala": "කෞතුකාගාරය",
+      "audio": {
+        "file_name": "e1_330_hakubutsukan.mp3",
+        "track_id": "L08-C03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_330_hakubutsukan.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_331",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Culture & Leisure",
+      "japanese": "公園",
+      "furigana": "こうえん",
+      "romaji": "kouen",
+      "english": "Park",
+      "sinhala": "උද්‍යානය / පාක් එක",
+      "audio": {
+        "file_name": "e1_331_kouen.mp3",
+        "track_id": "L08-C04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_331_kouen.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_332",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Culture & Leisure",
+      "japanese": "広場",
+      "furigana": "ひろば",
+      "romaji": "hiroba",
+      "english": "Plaza / Public square",
+      "sinhala": "විවෘත චතුරශ්‍රය / පිට්ටනිය",
+      "audio": {
+        "file_name": "e1_332_hiroba.mp3",
+        "track_id": "L08-C05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_332_hiroba.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_333",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Culture & Leisure",
+      "japanese": "動物園",
+      "furigana": "どうぶつえん",
+      "romaji": "doubutsuen",
+      "english": "Zoo",
+      "sinhala": "සත්වෝද්‍යානය",
+      "audio": {
+        "file_name": "e1_333_doubutsuen.mp3",
+        "track_id": "L08-C06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_333_doubutsuen.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_334",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Culture & Leisure",
+      "japanese": "水族館",
+      "furigana": "すいぞくかん",
+      "romaji": "suizokukan",
+      "english": "Aquarium",
+      "sinhala": "ජලජ ජීවී මධ්‍යස්ථානය (Aquarium)",
+      "audio": {
+        "file_name": "e1_334_suizokukan.mp3",
+        "track_id": "L08-C07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_334_suizokukan.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_335",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Culture & Leisure",
+      "japanese": "映画館",
+      "furigana": "えいがかん",
+      "romaji": "eigakan",
+      "english": "Movie theater / Cinema",
+      "sinhala": "සිනමාහල",
+      "audio": {
+        "file_name": "e1_335_eigakan.mp3",
+        "track_id": "L08-C08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_335_eigakan.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_336",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Culture & Leisure",
+      "japanese": "劇場",
+      "furigana": "げきじょう",
+      "romaji": "gekijou",
+      "english": "Theater",
+      "sinhala": "රඟහල",
+      "audio": {
+        "file_name": "e1_336_gekijou.mp3",
+        "track_id": "L08-C09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_336_gekijou.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_337",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Hospitality",
+      "japanese": "ホテル",
+      "furigana": "ホテル",
+      "romaji": "hoteru",
+      "english": "Hotel",
+      "sinhala": "හෝටලය",
+      "audio": {
+        "file_name": "e1_337_hoteru.mp3",
+        "track_id": "L08-H01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_337_hoteru.png",
+        "category": "hospitality",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_338",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Hospitality",
+      "japanese": "旅館",
+      "furigana": "りょかん",
+      "romaji": "ryokan",
+      "english": "Japanese-style inn",
+      "sinhala": "ජපන් සම්ප්‍රදායික නවාතැන (Ryokan)",
+      "audio": {
+        "file_name": "e1_338_ryokan.mp3",
+        "track_id": "L08-H02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_338_ryokan.png",
+        "category": "hospitality",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_339",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Hospitality",
+      "japanese": "銭湯",
+      "furigana": "せんとう",
+      "romaji": "sentou",
+      "english": "Public bath",
+      "sinhala": "පොදු නාන ස්ථානය",
+      "audio": {
+        "file_name": "e1_339_sentou.mp3",
+        "track_id": "L08-H03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_339_sentou.png",
+        "category": "hospitality",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_340",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Hospitality",
+      "japanese": "温泉",
+      "furigana": "おんせん",
+      "romaji": "onsen",
+      "english": "Hot spring",
+      "sinhala": "උණු දිය උල්පත (Onsen)",
+      "audio": {
+        "file_name": "e1_340_onsen.mp3",
+        "track_id": "L08-H04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_340_onsen.png",
+        "category": "hospitality",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_341",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Sports",
+      "japanese": "プール",
+      "furigana": "プール",
+      "romaji": "puuru",
+      "english": "Swimming pool",
+      "sinhala": "පිහිනුම් තටාකය",
+      "audio": {
+        "file_name": "e1_341_puuru.mp3",
+        "track_id": "L08-SP01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_341_puuru.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_342",
+      "lesson": 8,
+      "main_topic": "27. 建物と施設 / Buildings & Facilities",
+      "sub_topic": "Sports",
+      "japanese": "ジム",
+      "furigana": "ジム",
+      "romaji": "jimu",
+      "english": "Gymnasium / Fitness gym",
+      "sinhala": "ව්‍යායාම් ශාලාව (Gym)",
+      "audio": {
+        "file_name": "e1_342_jimu.mp3",
+        "track_id": "L08-SP02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_342_jimu.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_343",
+      "lesson": 8,
+      "main_topic": "28. 学校と教育 / School & Education",
+      "sub_topic": "Schools",
+      "japanese": "学校",
+      "furigana": "がっこう",
+      "romaji": "gakkou",
+      "english": "School",
+      "sinhala": "පාසල",
+      "audio": {
+        "file_name": "e1_343_gakkou.mp3",
+        "track_id": "L08-E01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_343_gakkou.png",
+        "category": "education",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_344",
+      "lesson": 8,
+      "main_topic": "28. 学校と教育 / School & Education",
+      "sub_topic": "Schools",
+      "japanese": "小学校",
+      "furigana": "しょうがっこう",
+      "romaji": "shougakkou",
+      "english": "Elementary school",
+      "sinhala": "ප්‍රාථමික පාසල",
+      "audio": {
+        "file_name": "e1_344_shougakkou.mp3",
+        "track_id": "L08-E02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_344_shougakkou.png",
+        "category": "education",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_345",
+      "lesson": 8,
+      "main_topic": "28. 学校と教育 / School & Education",
+      "sub_topic": "Schools",
+      "japanese": "中学校",
+      "furigana": "ちゅうがっこう",
+      "romaji": "chuugakkou",
+      "english": "Junior high school",
+      "sinhala": "කනිෂ්ඨ විද්‍යාලය",
+      "audio": {
+        "file_name": "e1_345_chuugakkou.mp3",
+        "track_id": "L08-E03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_345_chuugakkou.png",
+        "category": "education",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_346",
+      "lesson": 8,
+      "main_topic": "28. 学校と教育 / School & Education",
+      "sub_topic": "Schools",
+      "japanese": "高校",
+      "furigana": "こうこう",
+      "romaji": "koukou",
+      "english": "High school",
+      "sinhala": "උසස් පාසල",
+      "audio": {
+        "file_name": "e1_346_koukou.mp3",
+        "track_id": "L08-E04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_346_koukou.png",
+        "category": "education",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_347",
+      "lesson": 8,
+      "main_topic": "28. 学校と教育 / School & Education",
+      "sub_topic": "Schools",
+      "japanese": "大学",
+      "furigana": "だいがく",
+      "romaji": "daigaku",
+      "english": "University / College",
+      "sinhala": "විශ්වවිද්‍යාලය",
+      "audio": {
+        "file_name": "e1_347_daigaku.mp3",
+        "track_id": "L08-E05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_347_daigaku.png",
+        "category": "education",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_348",
+      "lesson": 8,
+      "main_topic": "28. 学校と教育 / School & Education",
+      "sub_topic": "Schools",
+      "japanese": "専門学校",
+      "furigana": "せんもんがっこう",
+      "romaji": "senmongakkou",
+      "english": "Vocational school / College",
+      "sinhala": "වෘත්තීය විද්‍යාලය",
+      "audio": {
+        "file_name": "e1_348_senmongakkou.mp3",
+        "track_id": "L08-E06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_348_senmongakkou.png",
+        "category": "education",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_349",
+      "lesson": 8,
+      "main_topic": "28. 学校と教育 / School & Education",
+      "sub_topic": "School Facilities",
+      "japanese": "教室",
+      "furigana": "きょうしつ",
+      "romaji": "kyoushitsu",
+      "english": "Classroom",
+      "sinhala": "පන්ති කාමරය",
+      "audio": {
+        "file_name": "e1_349_kyoushitsu.mp3",
+        "track_id": "L08-E07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_349_kyoushitsu.png",
+        "category": "education",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_350",
+      "lesson": 8,
+      "main_topic": "29. 交通施設 / Transport Facilities",
+      "sub_topic": "Stations & Ports",
+      "japanese": "駅",
+      "furigana": "えき",
+      "romaji": "eki",
+      "english": "Train station",
+      "sinhala": "දුම්රිය ස්ථානය",
+      "audio": {
+        "file_name": "e1_350_eki.mp3",
+        "track_id": "L08-TR01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_350_eki.png",
+        "category": "transport",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_351",
+      "lesson": 8,
+      "main_topic": "29. 交通施設 / Transport Facilities",
+      "sub_topic": "Stations & Ports",
+      "japanese": "バス停",
+      "furigana": "バスてい",
+      "romaji": "basutei",
+      "english": "Bus stop",
+      "sinhala": "බස් නැවතුම",
+      "audio": {
+        "file_name": "e1_351_basutei.mp3",
+        "track_id": "L08-TR02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_351_basutei.png",
+        "category": "transport",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_352",
+      "lesson": 8,
+      "main_topic": "29. 交通施設 / Transport Facilities",
+      "sub_topic": "Stations & Ports",
+      "japanese": "バスターミナル",
+      "furigana": "バスターミナル",
+      "romaji": "basutaaminaru",
+      "english": "Bus terminal",
+      "sinhala": "ප්‍රධාන බස් නැවතුම්පළ",
+      "audio": {
+        "file_name": "e1_352_basutaaminaru.mp3",
+        "track_id": "L08-TR03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_352_basutaaminaru.png",
+        "category": "transport",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_353",
+      "lesson": 8,
+      "main_topic": "29. 交通施設 / Transport Facilities",
+      "sub_topic": "Stations & Ports",
+      "japanese": "空港",
+      "furigana": "くうこう",
+      "romaji": "kuukou",
+      "english": "Airport",
+      "sinhala": "ගුවන්තොටුපළ",
+      "audio": {
+        "file_name": "e1_353_kuukou.mp3",
+        "track_id": "L08-TR04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_353_kuukou.png",
+        "category": "transport",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_354",
+      "lesson": 8,
+      "main_topic": "29. 交通施設 / Transport Facilities",
+      "sub_topic": "Stations & Ports",
+      "japanese": "港",
+      "furigana": "みなと",
+      "romaji": "minato",
+      "english": "Port / Harbor",
+      "sinhala": "වරාය",
+      "audio": {
+        "file_name": "e1_354_minato.mp3",
+        "track_id": "L08-TR05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_354_minato.png",
+        "category": "transport",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_355",
+      "lesson": 8,
+      "main_topic": "29. 交通施設 / Transport Facilities",
+      "sub_topic": "Vehicle Facilities",
+      "japanese": "ガソリンスタンド",
+      "furigana": "ガソリンスタンド",
+      "romaji": "gasorinsutando",
+      "english": "Gas station / Petrol station",
+      "sinhala": "ඉන්ධන පිරවුම්හල",
+      "audio": {
+        "file_name": "e1_355_gasorinsutando.mp3",
+        "track_id": "L08-TR06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_355_gasorinsutando.png",
+        "category": "transport",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_356",
+      "lesson": 8,
+      "main_topic": "29. 交通施設 / Transport Facilities",
+      "sub_topic": "Vehicle Facilities",
+      "japanese": "駐車場",
+      "furigana": "ちゅうしゃじょう",
+      "romaji": "chuushajou",
+      "english": "Parking lot",
+      "sinhala": "වාහන නැවතුම්පළ",
+      "audio": {
+        "file_name": "e1_356_chuushajou.mp3",
+        "track_id": "L08-TR07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_356_chuushajou.png",
+        "category": "transport",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_357",
+      "lesson": 8,
+      "main_topic": "29. 交通施設 / Transport Facilities",
+      "sub_topic": "Vehicle Facilities",
+      "japanese": "駐輪場",
+      "furigana": "ちゅうりんじょう",
+      "romaji": "chuurinjou",
+      "english": "Bicycle parking lot",
+      "sinhala": "පාපැදි නැවතුම්පළ",
+      "audio": {
+        "file_name": "e1_357_chuurinjou.mp3",
+        "track_id": "L08-TR08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_357_chuurinjou.png",
+        "category": "transport",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_358",
+      "lesson": 8,
+      "main_topic": "30. 観光と宗教施設 / Sightseeing & Religious Sites",
+      "sub_topic": "Religious Sites",
+      "japanese": "神社",
+      "furigana": "じんじゃ",
+      "romaji": "jinja",
+      "english": "Shinto shrine",
+      "sinhala": "ෂින්ටෝ සිද්ධස්ථානය",
+      "audio": {
+        "file_name": "e1_358_jinja.mp3",
+        "track_id": "L08-SI01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_358_jinja.png",
+        "category": "sightseeing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_359",
+      "lesson": 8,
+      "main_topic": "30. 観光と宗教施設 / Sightseeing & Religious Sites",
+      "sub_topic": "Religious Sites",
+      "japanese": "お寺",
+      "furigana": "おてら",
+      "romaji": "otera",
+      "english": "Buddhist temple",
+      "sinhala": "බෞද්ධ විහාරය / පන්සල",
+      "audio": {
+        "file_name": "e1_359_otera.mp3",
+        "track_id": "L08-SI02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_359_otera.png",
+        "category": "sightseeing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_360",
+      "lesson": 8,
+      "main_topic": "30. 観光と宗教施設 / Sightseeing & Religious Sites",
+      "sub_topic": "Religious Sites",
+      "japanese": "教会",
+      "furigana": "きょうかい",
+      "romaji": "kyoukai",
+      "english": "Church",
+      "sinhala": "පල්ලිය / ක්‍රිස්තියානි දේවස්ථානය",
+      "audio": {
+        "file_name": "e1_360_kyoukai.mp3",
+        "track_id": "L08-SI03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_360_kyoukai.png",
+        "category": "sightseeing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_361",
+      "lesson": 8,
+      "main_topic": "30. 観光と宗教施設 / Sightseeing & Religious Sites",
+      "sub_topic": "Sightseeing",
+      "japanese": "城",
+      "furigana": "しろ",
+      "romaji": "shiro",
+      "english": "Castle",
+      "sinhala": "බලකොටුව / මාලිගය",
+      "audio": {
+        "file_name": "e1_361_shiro.mp3",
+        "track_id": "L08-SI04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_361_shiro.png",
+        "category": "sightseeing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_362",
+      "lesson": 8,
+      "main_topic": "30. 観光と宗教施設 / Sightseeing & Religious Sites",
+      "sub_topic": "Sightseeing",
+      "japanese": "案内所",
+      "furigana": "あんないじょ",
+      "romaji": "annaijo",
+      "english": "Information center",
+      "sinhala": "තොරතුරු මධ්‍යස්ථානය",
+      "audio": {
+        "file_name": "e1_362_annaijo.mp3",
+        "track_id": "L08-SI05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_362_annaijo.png",
+        "category": "sightseeing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_363",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Entrances & Exits",
+      "japanese": "入口",
+      "furigana": "いりぐち",
+      "romaji": "iriguchi",
+      "english": "Entrance",
+      "sinhala": "ඇතුල්වන ස්ථානය",
+      "audio": {
+        "file_name": "e1_363_iriguchi.mp3",
+        "track_id": "L08-BF01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_363_iriguchi.png",
+        "category": "facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_364",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Entrances & Exits",
+      "japanese": "出口",
+      "furigana": "でぐち",
+      "romaji": "deguchi",
+      "english": "Exit",
+      "sinhala": "පිටවන ස්ථානය",
+      "audio": {
+        "file_name": "e1_364_deguchi.mp3",
+        "track_id": "L08-BF02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_364_deguchi.png",
+        "category": "facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_365",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Entrances & Exits",
+      "japanese": "非常口",
+      "furigana": "ひじょうぐち",
+      "romaji": "hijouguchi",
+      "english": "Emergency exit",
+      "sinhala": "හදිසි පිටවීම",
+      "audio": {
+        "file_name": "e1_365_hijouguchi.mp3",
+        "track_id": "L08-BF03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_365_hijouguchi.png",
+        "category": "facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_366",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Interior",
+      "japanese": "受付",
+      "furigana": "うけつけ",
+      "romaji": "uketsuke",
+      "english": "Reception desk",
+      "sinhala": "පිළිගැනීමේ කවුන්ටරය",
+      "audio": {
+        "file_name": "e1_366_uketsuke.mp3",
+        "track_id": "L08-BF04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_366_uketsuke.png",
+        "category": "facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_367",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Interior",
+      "japanese": "階段",
+      "furigana": "かいだん",
+      "romaji": "kaidan",
+      "english": "Stairs / Staircase",
+      "sinhala": "පඩිපෙළ",
+      "audio": {
+        "file_name": "e1_367_kaidan.mp3",
+        "track_id": "L08-BF05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_367_kaidan.png",
+        "category": "facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_368",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Interior",
+      "japanese": "エレベーター",
+      "furigana": "エレベーター",
+      "romaji": "erebeetaa",
+      "english": "Elevator / Lift",
+      "sinhala": "විදුලි සෝපානය (Elevator)",
+      "audio": {
+        "file_name": "e1_368_erebeetaa.mp3",
+        "track_id": "L08-BF06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_368_erebeetaa.png",
+        "category": "facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_369",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Interior",
+      "japanese": "エスカレーター",
+      "furigana": "エスカレーター",
+      "romaji": "esukareetaa",
+      "english": "Escalator",
+      "sinhala": "ගමන් කරන පඩිපෙළ (Escalator)",
+      "audio": {
+        "file_name": "e1_369_esukareetaa.mp3",
+        "track_id": "L08-BF07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_369_esukareetaa.png",
+        "category": "facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_370",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Interior",
+      "japanese": "トイレ",
+      "furigana": "トイレ",
+      "romaji": "toire",
+      "english": "Toilet / Restroom",
+      "sinhala": "වැසිකිළිය",
+      "audio": {
+        "file_name": "e1_370_toire.mp3",
+        "track_id": "L08-BF08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_370_toire.png",
+        "category": "facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_371",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Interior",
+      "japanese": "お手洗い",
+      "furigana": "おてあらい",
+      "romaji": "otearai",
+      "english": "Restroom / Washroom (polite)",
+      "sinhala": "සෝදන කාමරය / වැසිකිළිය (විනීත)",
+      "audio": {
+        "file_name": "e1_371_otearai.mp3",
+        "track_id": "L08-BF09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_371_otearai.png",
+        "category": "facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_372",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Floors",
+      "japanese": "屋上",
+      "furigana": "おくじょう",
+      "romaji": "okujou",
+      "english": "Rooftop",
+      "sinhala": "වහල මත ප්‍රදේශය (Rooftop)",
+      "audio": {
+        "file_name": "e1_372_okujou.mp3",
+        "track_id": "L08-BF10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_372_okujou.png",
+        "category": "floors",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_373",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Floors",
+      "japanese": "地下",
+      "furigana": "ちか",
+      "romaji": "chika",
+      "english": "Underground / Basement",
+      "sinhala": "පොළොව යට / බිම් මහල",
+      "audio": {
+        "file_name": "e1_373_chika.mp3",
+        "track_id": "L08-BF11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_373_chika.png",
+        "category": "floors",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_374",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Floors",
+      "japanese": "1階",
+      "furigana": "いっかい",
+      "romaji": "ikkai",
+      "english": "1st floor (ground floor in Japan)",
+      "sinhala": "පළමු මහල",
+      "audio": {
+        "file_name": "e1_374_ikkai.mp3",
+        "track_id": "L08-BF12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_374_ikkai.png",
+        "category": "floors",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_375",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Floors",
+      "japanese": "地下1階",
+      "furigana": "ちかいっかい",
+      "romaji": "chikaikkai",
+      "english": "Basement 1st floor (B1)",
+      "sinhala": "බිම් යට පළමු මහල (B1)",
+      "audio": {
+        "file_name": "e1_375_chikaikkai.mp3",
+        "track_id": "L08-BF13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_375_chikaikkai.png",
+        "category": "floors",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_376",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Street Facilities",
+      "japanese": "自動販売機",
+      "furigana": "じどうはんばいき",
+      "romaji": "jidouhanbaiki",
+      "english": "Vending machine",
+      "sinhala": "ස්වයංක්‍රීය විකුණුම් යන්ත්‍රය",
+      "audio": {
+        "file_name": "e1_376_jidouhanbaiki.mp3",
+        "track_id": "L08-SF01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_376_jidouhanbaiki.png",
+        "category": "street_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_377",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Street Facilities",
+      "japanese": "ポスト",
+      "furigana": "ポスト",
+      "romaji": "posuto",
+      "english": "Mailbox / Postbox",
+      "sinhala": "තැපැල් පෙට්ටිය",
+      "audio": {
+        "file_name": "e1_377_posuto.mp3",
+        "track_id": "L08-SF02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_377_posuto.png",
+        "category": "street_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_378",
+      "lesson": 8,
+      "main_topic": "31. 建物内の設備 / Building Facilities",
+      "sub_topic": "Street Facilities",
+      "japanese": "公衆電話",
+      "furigana": "こうしゅうでんわ",
+      "romaji": "koushuudenwa",
+      "english": "Public phone",
+      "sinhala": "පොදු දුරකථනය",
+      "audio": {
+        "file_name": "e1_378_koushuudenwa.mp3",
+        "track_id": "L08-SF03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_378_koushuudenwa.png",
+        "category": "street_facilities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_379",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Directions",
+      "japanese": "右",
+      "furigana": "みぎ",
+      "romaji": "migi",
+      "english": "Right",
+      "sinhala": "දකුණ",
+      "audio": {
+        "file_name": "e1_379_migi.mp3",
+        "track_id": "L09-D01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_379_migi.png",
+        "category": "directions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_380",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Directions",
+      "japanese": "左",
+      "furigana": "ひだり",
+      "romaji": "hidari",
+      "english": "Left",
+      "sinhala": "වම",
+      "audio": {
+        "file_name": "e1_380_hidari.mp3",
+        "track_id": "L09-D02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_380_hidari.png",
+        "category": "directions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_381",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Positions",
+      "japanese": "前",
+      "furigana": "まえ",
+      "romaji": "mae",
+      "english": "In front of / Before",
+      "sinhala": "ඉදිරියෙන්",
+      "audio": {
+        "file_name": "e1_381_mae.mp3",
+        "track_id": "L09-D03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_381_mae.png",
+        "category": "positions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_382",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Positions",
+      "japanese": "後ろ",
+      "furigana": "うしろ",
+      "romaji": "ushiro",
+      "english": "Behind / Back",
+      "sinhala": "පිටුපසින්",
+      "audio": {
+        "file_name": "e1_382_ushiro.mp3",
+        "track_id": "L09-D04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_382_ushiro.png",
+        "category": "positions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_383",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Positions",
+      "japanese": "隣",
+      "furigana": "となり",
+      "romaji": "tonari",
+      "english": "Next to / Neighboring",
+      "sinhala": "යාබද / අල්ලපු",
+      "audio": {
+        "file_name": "e1_383_tonari.mp3",
+        "track_id": "L09-D05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_383_tonari.png",
+        "category": "positions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_384",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Positions",
+      "japanese": "横",
+      "furigana": "よこ",
+      "romaji": "yoko",
+      "english": "Beside / Side",
+      "sinhala": "පැත්ත / අසලින්",
+      "audio": {
+        "file_name": "e1_384_yoko.mp3",
+        "track_id": "L09-D06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_384_yoko.png",
+        "category": "positions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_385",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Positions",
+      "japanese": "近く",
+      "furigana": "ちかく",
+      "romaji": "chikaku",
+      "english": "Near / Close by",
+      "sinhala": "ආසන්නයේ / ළඟ",
+      "audio": {
+        "file_name": "e1_385_chikaku.mp3",
+        "track_id": "L09-D07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_385_chikaku.png",
+        "category": "positions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_386",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Positions",
+      "japanese": "遠く",
+      "furigana": "とおく",
+      "romaji": "tooku",
+      "english": "Far away / Distant",
+      "sinhala": "ඈතින් / දුර",
+      "audio": {
+        "file_name": "e1_386_tooku.mp3",
+        "track_id": "L09-D08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_386_tooku.png",
+        "category": "positions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_387",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Positions",
+      "japanese": "間",
+      "furigana": "あいだ",
+      "romaji": "aida",
+      "english": "Between",
+      "sinhala": "අතර",
+      "audio": {
+        "file_name": "e1_387_aida.mp3",
+        "track_id": "L09-D09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_387_aida.png",
+        "category": "positions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_388",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Positions",
+      "japanese": "向かい",
+      "furigana": "むかい",
+      "romaji": "mukai",
+      "english": "Across from / Opposite",
+      "sinhala": "විපරීත පැත්තේ / මුහුණලා ඇති පැත්තේ",
+      "audio": {
+        "file_name": "e1_388_mukai.mp3",
+        "track_id": "L09-D10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_388_mukai.png",
+        "category": "positions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_389",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Positions",
+      "japanese": "反対側",
+      "furigana": "はんたいがわ",
+      "romaji": "hantaigawa",
+      "english": "Opposite side",
+      "sinhala": "අනෙක් පැත්ත",
+      "audio": {
+        "file_name": "e1_389_hantaigawa.mp3",
+        "track_id": "L09-D11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_389_hantaigawa.png",
+        "category": "positions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_390",
+      "lesson": 9,
+      "main_topic": "32. 位置と方角 / Location & Directions",
+      "sub_topic": "Directions",
+      "japanese": "まっすぐ",
+      "furigana": "まっすぐ",
+      "romaji": "massugu",
+      "english": "Straight ahead",
+      "sinhala": "කෙළින්ම",
+      "audio": {
+        "file_name": "e1_390_massugu.mp3",
+        "track_id": "L09-D12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_390_massugu.png",
+        "category": "directions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_391",
+      "lesson": 9,
+      "main_topic": "33. 移動と道案内 / Movement & Wayfinding",
+      "sub_topic": "Movement Verbs",
+      "japanese": "行く",
+      "furigana": "いく",
+      "romaji": "iku",
+      "english": "To go",
+      "sinhala": "යනවා",
+      "audio": {
+        "file_name": "e1_391_iku.mp3",
+        "track_id": "L09-MV01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_391_iku.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_392",
+      "lesson": 9,
+      "main_topic": "33. 移動と道案内 / Movement & Wayfinding",
+      "sub_topic": "Movement Verbs",
+      "japanese": "曲がる",
+      "furigana": "まがる",
+      "romaji": "magaru",
+      "english": "To turn (corner/direction)",
+      "sinhala": "හැරෙනවා",
+      "audio": {
+        "file_name": "e1_392_magaru.mp3",
+        "track_id": "L09-MV02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_392_magaru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_393",
+      "lesson": 9,
+      "main_topic": "33. 移動と道案内 / Movement & Wayfinding",
+      "sub_topic": "Movement Verbs",
+      "japanese": "渡る",
+      "furigana": "わたる",
+      "romaji": "wataru",
+      "english": "To cross (street/bridge)",
+      "sinhala": "මාරු වෙනවා (පාර/පාලම)",
+      "audio": {
+        "file_name": "e1_393_wataru.mp3",
+        "track_id": "L09-MV03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_393_wataru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_394",
+      "lesson": 9,
+      "main_topic": "33. 移動と道案内 / Movement & Wayfinding",
+      "sub_topic": "Movement Verbs",
+      "japanese": "止まる",
+      "furigana": "とまる",
+      "romaji": "tomaru",
+      "english": "To stop",
+      "sinhala": "නවතිනවා",
+      "audio": {
+        "file_name": "e1_394_tomaru.mp3",
+        "track_id": "L09-MV04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_394_tomaru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_395",
+      "lesson": 9,
+      "main_topic": "33. 移動と道案内 / Movement & Wayfinding",
+      "sub_topic": "Movement Verbs",
+      "japanese": "通る",
+      "furigana": "とおる",
+      "romaji": "tooru",
+      "english": "To pass through / go along",
+      "sinhala": "පසුකර යනවා / හරහා යනවා",
+      "audio": {
+        "file_name": "e1_395_tooru.mp3",
+        "track_id": "L09-MV05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_395_tooru.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_396",
+      "lesson": 9,
+      "main_topic": "33. 移動と道案内 / Movement & Wayfinding",
+      "sub_topic": "Action Verbs",
+      "japanese": "探す",
+      "furigana": "さがす",
+      "romaji": "sagasu",
+      "english": "To look for / search",
+      "sinhala": "සොයනවා",
+      "audio": {
+        "file_name": "e1_396_sagasu.mp3",
+        "track_id": "L09-AV01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_396_sagasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_397",
+      "lesson": 9,
+      "main_topic": "33. 移動と道案内 / Movement & Wayfinding",
+      "sub_topic": "Action Verbs",
+      "japanese": "見つかる",
+      "furigana": "みつかる",
+      "romaji": "mitsukaru",
+      "english": "To be found",
+      "sinhala": "හමුවෙනවා",
+      "audio": {
+        "file_name": "e1_397_mitsukaru.mp3",
+        "track_id": "L09-AV02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_397_mitsukaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_398",
+      "lesson": 9,
+      "main_topic": "33. 移動と道案内 / Movement & Wayfinding",
+      "sub_topic": "Action Verbs",
+      "japanese": "迷う",
+      "furigana": "まよう",
+      "romaji": "mayou",
+      "english": "To get lost (way)",
+      "sinhala": "අතරමං වෙනවා",
+      "audio": {
+        "file_name": "e1_398_mayou.mp3",
+        "track_id": "L09-AV03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_398_mayou.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_399",
+      "lesson": 8,
+      "main_topic": "33. 移動と道案内 / Movement & Wayfinding",
+      "sub_topic": "Descriptions",
+      "japanese": "賑やか",
+      "furigana": "にぎやか",
+      "romaji": "nigiyaka",
+      "english": "Lively / Bustling",
+      "sinhala": "කාර්යබහුල / ජනාකීර්ණ",
+      "audio": {
+        "file_name": "e1_399_nigiyaka.mp3",
+        "track_id": "L08-AD01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_399_nigiyaka.png",
+        "category": "descriptions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_400",
+      "lesson": 8,
+      "main_topic": "33. 移動と道案内 / Movement & Wayfinding",
+      "sub_topic": "Descriptions",
+      "japanese": "静か",
+      "furigana": "しずか",
+      "romaji": "shizuka",
+      "english": "Quiet / Peaceful",
+      "sinhala": "නිශ්ශබ්ද / සාමකාමී",
+      "audio": {
+        "file_name": "e1_400_shizuka.mp3",
+        "track_id": "L08-AD02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_400_shizuka.png",
+        "category": "descriptions",
+        "has_illustration": true
+      }
+    }
+  ]
+}

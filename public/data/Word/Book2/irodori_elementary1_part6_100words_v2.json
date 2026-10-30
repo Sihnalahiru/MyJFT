@@ -1,0 +1,2108 @@
+{
+  "level": "Irodori Elementary 1 (A2)",
+  "part": "Part 6",
+  "total_words": 100,
+  "coverage": "Hobbies, free time, sports, outdoors, events, feelings, and related verbs with full Audio & Illustration mapping (Words 501-600).",
+  "vocabulary": [
+    {
+      "id": "e1_501",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "趣味",
+      "furigana": "しゅみ",
+      "romaji": "shumi",
+      "english": "Hobby",
+      "sinhala": "විනෝදාංශය",
+      "audio": {
+        "file_name": "e1_501_shumi.mp3",
+        "track_id": "L10-H01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_501_shumi.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_502",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "音楽",
+      "furigana": "おんがく",
+      "romaji": "ongaku",
+      "english": "Music",
+      "sinhala": "සංගීතය",
+      "audio": {
+        "file_name": "e1_502_ongaku.mp3",
+        "track_id": "L10-H02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_502_ongaku.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_503",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "映画",
+      "furigana": "えいが",
+      "romaji": "eiga",
+      "english": "Movie",
+      "sinhala": "චිත්‍රපටය",
+      "audio": {
+        "file_name": "e1_503_eiga.mp3",
+        "track_id": "L10-H03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_503_eiga.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_504",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "読書",
+      "furigana": "どくしょ",
+      "romaji": "dokusho",
+      "english": "Reading",
+      "sinhala": "කියවීම (පොත්)",
+      "audio": {
+        "file_name": "e1_504_dokusho.mp3",
+        "track_id": "L10-H04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_504_dokusho.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_505",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "写真",
+      "furigana": "しゃしん",
+      "romaji": "shashin",
+      "english": "Photograph",
+      "sinhala": "ඡායාරූපය",
+      "audio": {
+        "file_name": "e1_505_shashin.mp3",
+        "track_id": "L10-H05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_505_shashin.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_506",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "絵",
+      "furigana": "え",
+      "romaji": "e",
+      "english": "Picture / Drawing",
+      "sinhala": "චිත්‍රය",
+      "audio": {
+        "file_name": "e1_506_e.mp3",
+        "track_id": "L10-H06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_506_e.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_507",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "アニメ",
+      "furigana": "アニメ",
+      "romaji": "anime",
+      "english": "Anime",
+      "sinhala": "ඇනිමේ",
+      "audio": {
+        "file_name": "e1_507_anime.mp3",
+        "track_id": "L10-H07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_507_anime.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_508",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "ゲーム",
+      "furigana": "ゲーム",
+      "romaji": "geemu",
+      "english": "Game",
+      "sinhala": "ක්‍රීඩාව / ගේම් එක",
+      "audio": {
+        "file_name": "e1_508_geemu.mp3",
+        "track_id": "L10-H08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_508_geemu.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_509",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "ピアノ",
+      "furigana": "ピアノ",
+      "romaji": "piano",
+      "english": "Piano",
+      "sinhala": "පියානෝව",
+      "audio": {
+        "file_name": "e1_509_piano.mp3",
+        "track_id": "L10-H09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_509_piano.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_510",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "ギター",
+      "furigana": "ギター",
+      "romaji": "gitaa",
+      "english": "Guitar",
+      "sinhala": "ගිටාරය",
+      "audio": {
+        "file_name": "e1_510_gitaa.mp3",
+        "track_id": "L10-H10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_510_gitaa.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_511",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "歌",
+      "furigana": "うた",
+      "romaji": "uta",
+      "english": "Song",
+      "sinhala": "ගීතය",
+      "audio": {
+        "file_name": "e1_511_uta.mp3",
+        "track_id": "L10-H11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_511_uta.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_512",
+      "lesson": 10,
+      "main_topic": "39. 趣味と休日の過ごし方 / Hobbies & Free Time",
+      "sub_topic": "Hobbies",
+      "japanese": "料理",
+      "furigana": "りょうり",
+      "romaji": "ryouri",
+      "english": "Cooking",
+      "sinhala": "ඉවුම් පිහුම්",
+      "audio": {
+        "file_name": "e1_512_ryouri.mp3",
+        "track_id": "L10-H12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_512_ryouri.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_513",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Sports",
+      "japanese": "スポーツ",
+      "furigana": "スポーツ",
+      "romaji": "supootsu",
+      "english": "Sports",
+      "sinhala": "ක්‍රීඩා",
+      "audio": {
+        "file_name": "e1_513_supootsu.mp3",
+        "track_id": "L10-S01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_513_supootsu.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_514",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Sports",
+      "japanese": "サッカー",
+      "furigana": "サッカー",
+      "romaji": "sakkaa",
+      "english": "Soccer",
+      "sinhala": "පාපන්දු",
+      "audio": {
+        "file_name": "e1_514_sakkaa.mp3",
+        "track_id": "L10-S02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_514_sakkaa.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_515",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Sports",
+      "japanese": "野球",
+      "furigana": "やきゅう",
+      "romaji": "yakyuu",
+      "english": "Baseball",
+      "sinhala": "බේස්බෝල්",
+      "audio": {
+        "file_name": "e1_515_yakyuu.mp3",
+        "track_id": "L10-S03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_515_yakyuu.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_516",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Sports",
+      "japanese": "テニス",
+      "furigana": "テニス",
+      "romaji": "tenisu",
+      "english": "Tennis",
+      "sinhala": "ටෙනිස්",
+      "audio": {
+        "file_name": "e1_516_tenisu.mp3",
+        "track_id": "L10-S04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_516_tenisu.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_517",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Sports",
+      "japanese": "バスケットボール",
+      "furigana": "バスケットボール",
+      "romaji": "basukettobooru",
+      "english": "Basketball",
+      "sinhala": "පැසිපන්දු",
+      "audio": {
+        "file_name": "e1_517_basukettobooru.mp3",
+        "track_id": "L10-S05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_517_basukettobooru.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_518",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Sports",
+      "japanese": "水泳",
+      "furigana": "すいえい",
+      "romaji": "suiei",
+      "english": "Swimming",
+      "sinhala": "පිහිනීම",
+      "audio": {
+        "file_name": "e1_518_suiei.mp3",
+        "track_id": "L10-S06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_518_suiei.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_519",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Sports",
+      "japanese": "スキー",
+      "furigana": "スキー",
+      "romaji": "sukii",
+      "english": "Skiing",
+      "sinhala": "ස්කීං ක්‍රීඩාව",
+      "audio": {
+        "file_name": "e1_519_sukii.mp3",
+        "track_id": "L10-S07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_519_sukii.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_520",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Sports",
+      "japanese": "スノーボード",
+      "furigana": "スノーボード",
+      "romaji": "sunooboodo",
+      "english": "Snowboarding",
+      "sinhala": "ස්නෝබෝඩිං",
+      "audio": {
+        "file_name": "e1_520_sunooboodo.mp3",
+        "track_id": "L10-S08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_520_sunooboodo.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_521",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Exercise",
+      "japanese": "ジョギング",
+      "furigana": "ジョギング",
+      "romaji": "jogingu",
+      "english": "Jogging",
+      "sinhala": "ජෝගිං",
+      "audio": {
+        "file_name": "e1_521_jogingu.mp3",
+        "track_id": "L10-S09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_521_jogingu.png",
+        "category": "exercise",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_522",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Exercise",
+      "japanese": "ヨガ",
+      "furigana": "ヨガ",
+      "romaji": "yoga",
+      "english": "Yoga",
+      "sinhala": "යෝගා",
+      "audio": {
+        "file_name": "e1_522_yoga.mp3",
+        "track_id": "L10-S10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_522_yoga.png",
+        "category": "exercise",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_523",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Exercise",
+      "japanese": "ダンス",
+      "furigana": "ダンス",
+      "romaji": "dansu",
+      "english": "Dance",
+      "sinhala": "නැටුම්",
+      "audio": {
+        "file_name": "e1_523_dansu.mp3",
+        "track_id": "L10-S11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_523_dansu.png",
+        "category": "exercise",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_524",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Sports Activities",
+      "japanese": "練習",
+      "furigana": "れんしゅう",
+      "romaji": "renshuu",
+      "english": "Practice",
+      "sinhala": "පුහුණුව",
+      "audio": {
+        "file_name": "e1_524_renshuu.mp3",
+        "track_id": "L10-S12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_524_renshuu.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_525",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Sports Activities",
+      "japanese": "試合",
+      "furigana": "しあい",
+      "romaji": "shiai",
+      "english": "Match / Game",
+      "sinhala": "තරඟය",
+      "audio": {
+        "file_name": "e1_525_shiai.mp3",
+        "track_id": "L10-S13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_525_shiai.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_526",
+      "lesson": 10,
+      "main_topic": "40. スポーツと運動 / Sports & Exercise",
+      "sub_topic": "Sports Activities",
+      "japanese": "応援",
+      "furigana": "おうえん",
+      "romaji": "ouen",
+      "english": "Cheering / Support",
+      "sinhala": "ඔල්වරසන් දීම / සහයෝගය",
+      "audio": {
+        "file_name": "e1_526_ouen.mp3",
+        "track_id": "L10-S14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_526_ouen.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_527",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Outdoors",
+      "japanese": "旅行",
+      "furigana": "りょこう",
+      "romaji": "ryokou",
+      "english": "Travel / Trip",
+      "sinhala": "සංචාරය",
+      "audio": {
+        "file_name": "e1_527_ryokou.mp3",
+        "track_id": "L11-O01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_527_ryokou.png",
+        "category": "outdoors",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_528",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Outdoors",
+      "japanese": "釣り",
+      "furigana": "つり",
+      "romaji": "tsuri",
+      "english": "Fishing",
+      "sinhala": "මාළු ඇල්ලීම",
+      "audio": {
+        "file_name": "e1_528_tsuri.mp3",
+        "track_id": "L11-O02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_528_tsuri.png",
+        "category": "outdoors",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_529",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Outdoors",
+      "japanese": "キャンプ",
+      "furigana": "キャンプ",
+      "romaji": "kyanpu",
+      "english": "Camp",
+      "sinhala": "කඳවුරු බැඳීම",
+      "audio": {
+        "file_name": "e1_529_kyanpu.mp3",
+        "track_id": "L11-O03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_529_kyanpu.png",
+        "category": "outdoors",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_530",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Outdoors",
+      "japanese": "山登り",
+      "furigana": "やまのぼり",
+      "romaji": "yamanobori",
+      "english": "Mountain climbing",
+      "sinhala": "කඳු නැගීම",
+      "audio": {
+        "file_name": "e1_530_yamanobori.mp3",
+        "track_id": "L11-O04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_530_yamanobori.png",
+        "category": "outdoors",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_531",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Outdoors",
+      "japanese": "ピクニック",
+      "furigana": "ピクニック",
+      "romaji": "pikunikku",
+      "english": "Picnic",
+      "sinhala": "විනෝද චාරිකාව",
+      "audio": {
+        "file_name": "e1_531_pikunikku.mp3",
+        "track_id": "L11-O05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_531_pikunikku.png",
+        "category": "outdoors",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_532",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Outdoors",
+      "japanese": "ドライブ",
+      "furigana": "ドライブ",
+      "romaji": "doraibu",
+      "english": "Drive",
+      "sinhala": "රිය පැදවීම / ඩ්‍රයිව් එකක් යාම",
+      "audio": {
+        "file_name": "e1_532_doraibu.mp3",
+        "track_id": "L11-O06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_532_doraibu.png",
+        "category": "outdoors",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_533",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Nature",
+      "japanese": "海",
+      "furigana": "うみ",
+      "romaji": "umi",
+      "english": "Sea / Ocean",
+      "sinhala": "මුහුද",
+      "audio": {
+        "file_name": "e1_533_umi.mp3",
+        "track_id": "L11-N01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_533_umi.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_534",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Nature",
+      "japanese": "山",
+      "furigana": "やま",
+      "romaji": "yama",
+      "english": "Mountain",
+      "sinhala": "කන්ද",
+      "audio": {
+        "file_name": "e1_534_yama.mp3",
+        "track_id": "L11-N02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_534_yama.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_535",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Nature",
+      "japanese": "川",
+      "furigana": "かわ",
+      "romaji": "kawa",
+      "english": "River",
+      "sinhala": "ගඟ",
+      "audio": {
+        "file_name": "e1_535_kawa.mp3",
+        "track_id": "L11-N03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_535_kawa.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_536",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Events",
+      "japanese": "お祭り",
+      "furigana": "おまつり",
+      "romaji": "omatsuri",
+      "english": "Festival",
+      "sinhala": "උත්සවය / සැණකෙළිය",
+      "audio": {
+        "file_name": "e1_536_omatsuri.mp3",
+        "track_id": "L11-E01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_536_omatsuri.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_537",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Events",
+      "japanese": "花火",
+      "furigana": "はなび",
+      "romaji": "hanabi",
+      "english": "Fireworks",
+      "sinhala": "ගිනිකෙළි",
+      "audio": {
+        "file_name": "e1_537_hanabi.mp3",
+        "track_id": "L11-E02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_537_hanabi.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_538",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Events",
+      "japanese": "コンサート",
+      "furigana": "コンサート",
+      "romaji": "konsaato",
+      "english": "Concert",
+      "sinhala": "සංගීත ප්‍රසංගය",
+      "audio": {
+        "file_name": "e1_538_konsaato.mp3",
+        "track_id": "L11-E03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_538_konsaato.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_539",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Events",
+      "japanese": "パーティー",
+      "furigana": "パーティー",
+      "romaji": "paatii",
+      "english": "Party",
+      "sinhala": "සාදය",
+      "audio": {
+        "file_name": "e1_539_paatii.mp3",
+        "track_id": "L11-E04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_539_paatii.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_540",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Events",
+      "japanese": "誕生日",
+      "furigana": "たんじょうび",
+      "romaji": "tanjoubi",
+      "english": "Birthday",
+      "sinhala": "උපන් දිනය",
+      "audio": {
+        "file_name": "e1_540_tanjoubi.mp3",
+        "track_id": "L11-E05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_540_tanjoubi.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_541",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Events",
+      "japanese": "お正月",
+      "furigana": "おしょうがつ",
+      "romaji": "oshougatsu",
+      "english": "New Year",
+      "sinhala": "අලුත් අවුරුද්ද",
+      "audio": {
+        "file_name": "e1_541_oshougatsu.mp3",
+        "track_id": "L11-E06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_541_oshougatsu.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_542",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Events",
+      "japanese": "クリスマス",
+      "furigana": "クリスマス",
+      "romaji": "kurisumasu",
+      "english": "Christmas",
+      "sinhala": "නත්තල",
+      "audio": {
+        "file_name": "e1_542_kurisumasu.mp3",
+        "track_id": "L11-E07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_542_kurisumasu.png",
+        "category": "events",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_543",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Entertainment",
+      "japanese": "カラオケ",
+      "furigana": "カラオケ",
+      "romaji": "karaoke",
+      "english": "Karaoke",
+      "sinhala": "කරාඔකේ",
+      "audio": {
+        "file_name": "e1_543_karaoke.mp3",
+        "track_id": "L11-EN01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_543_karaoke.png",
+        "category": "entertainment",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_544",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Entertainment",
+      "japanese": "ボウリング",
+      "furigana": "ボウリング",
+      "romaji": "bouringu",
+      "english": "Bowling",
+      "sinhala": "බෝලිං",
+      "audio": {
+        "file_name": "e1_544_bouringu.mp3",
+        "track_id": "L11-EN02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_544_bouringu.png",
+        "category": "entertainment",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_545",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Places",
+      "japanese": "美術館",
+      "furigana": "びじゅつかん",
+      "romaji": "bijutsukan",
+      "english": "Art museum",
+      "sinhala": "කලා කෞතුකාගාරය",
+      "audio": {
+        "file_name": "e1_545_bijutsukan.mp3",
+        "track_id": "L11-P01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_545_bijutsukan.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_546",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Places",
+      "japanese": "博物館",
+      "furigana": "はくぶつかん",
+      "romaji": "hakubutsukan",
+      "english": "Museum",
+      "sinhala": "කෞතුකාගාරය",
+      "audio": {
+        "file_name": "e1_546_hakubutsukan.mp3",
+        "track_id": "L11-P02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_546_hakubutsukan.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_547",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Places",
+      "japanese": "動物園",
+      "furigana": "どうぶつえん",
+      "romaji": "doubutsuen",
+      "english": "Zoo",
+      "sinhala": "සත්වෝද්‍යානය",
+      "audio": {
+        "file_name": "e1_547_doubutsuen.mp3",
+        "track_id": "L11-P03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_547_doubutsuen.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_548",
+      "lesson": 11,
+      "main_topic": "41. お出かけとイベント / Outings & Events",
+      "sub_topic": "Places",
+      "japanese": "水族館",
+      "furigana": "すいぞくかん",
+      "romaji": "suizokukan",
+      "english": "Aquarium",
+      "sinhala": "මින්මැදුර",
+      "audio": {
+        "file_name": "e1_548_suizokukan.mp3",
+        "track_id": "L11-P04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_548_suizokukan.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_549",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Holidays",
+      "japanese": "休日",
+      "furigana": "きゅうじつ",
+      "romaji": "kyuujitsu",
+      "english": "Holiday / Day off",
+      "sinhala": "නිවාඩු දිනය",
+      "audio": {
+        "file_name": "e1_549_kyuujitsu.mp3",
+        "track_id": "L10-HO01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_549_kyuujitsu.png",
+        "category": "holidays",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_550",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Holidays",
+      "japanese": "週末",
+      "furigana": "しゅうまつ",
+      "romaji": "shuumatsu",
+      "english": "Weekend",
+      "sinhala": "සති අන්තය",
+      "audio": {
+        "file_name": "e1_550_shuumatsu.mp3",
+        "track_id": "L10-HO02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_550_shuumatsu.png",
+        "category": "holidays",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_551",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Holidays",
+      "japanese": "暇",
+      "furigana": "ひま",
+      "romaji": "hima",
+      "english": "Free time",
+      "sinhala": "නිදහස් කාලය",
+      "audio": {
+        "file_name": "e1_551_hima.mp3",
+        "track_id": "L10-HO03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_551_hima.png",
+        "category": "holidays",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_552",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Holidays",
+      "japanese": "休み",
+      "furigana": "やすみ",
+      "romaji": "yasumi",
+      "english": "Rest / Holiday",
+      "sinhala": "නිවාඩුව / විවේකය",
+      "audio": {
+        "file_name": "e1_552_yasumi.mp3",
+        "track_id": "L10-HO04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_552_yasumi.png",
+        "category": "holidays",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_553",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Feelings",
+      "japanese": "リラックス",
+      "furigana": "リラックス",
+      "romaji": "rirakkusu",
+      "english": "Relax",
+      "sinhala": "ලිහිල් කිරීම / විවේක ගැනීම",
+      "audio": {
+        "file_name": "e1_553_rirakkusu.mp3",
+        "track_id": "L10-FE01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_553_rirakkusu.png",
+        "category": "feelings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_554",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Feelings",
+      "japanese": "楽しい",
+      "furigana": "たのしい",
+      "romaji": "tanoshii",
+      "english": "Fun / Enjoyable",
+      "sinhala": "විනෝදජනකයි",
+      "audio": {
+        "file_name": "e1_554_tanoshii.mp3",
+        "track_id": "L10-FE02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_554_tanoshii.png",
+        "category": "feelings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_555",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Feelings",
+      "japanese": "面白い",
+      "furigana": "おもしろい",
+      "romaji": "omoshiroi",
+      "english": "Interesting",
+      "sinhala": "රසවත්",
+      "audio": {
+        "file_name": "e1_555_omoshiroi.mp3",
+        "track_id": "L10-FE03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_555_omoshiroi.png",
+        "category": "feelings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_556",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Feelings",
+      "japanese": "つまらない",
+      "furigana": "つまらない",
+      "romaji": "tsumaranai",
+      "english": "Boring",
+      "sinhala": "කම්මැලි / නීරස",
+      "audio": {
+        "file_name": "e1_556_tsumaranai.mp3",
+        "track_id": "L10-FE04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_556_tsumaranai.png",
+        "category": "feelings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_557",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Feelings",
+      "japanese": "嬉しい",
+      "furigana": "うれしい",
+      "romaji": "ureshii",
+      "english": "Glad / Happy",
+      "sinhala": "සතුටුයි",
+      "audio": {
+        "file_name": "e1_557_ureshii.mp3",
+        "track_id": "L10-FE05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_557_ureshii.png",
+        "category": "feelings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_558",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Feelings",
+      "japanese": "素晴らしい",
+      "furigana": "すばらしい",
+      "romaji": "subarashii",
+      "english": "Wonderful / Amazing",
+      "sinhala": "අපූරුයි / විශිෂ්ටයි",
+      "audio": {
+        "file_name": "e1_558_subarashii.mp3",
+        "track_id": "L10-FE06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_558_subarashii.png",
+        "category": "feelings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_559",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Preferences",
+      "japanese": "好き",
+      "furigana": "すき",
+      "romaji": "suki",
+      "english": "Like",
+      "sinhala": "කැමතියි",
+      "audio": {
+        "file_name": "e1_559_suki.mp3",
+        "track_id": "L10-PR01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_559_suki.png",
+        "category": "preferences",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_560",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Preferences",
+      "japanese": "大好き",
+      "furigana": "だいすき",
+      "romaji": "daisuki",
+      "english": "Love / Like very much",
+      "sinhala": "ගොඩක් කැමතියි",
+      "audio": {
+        "file_name": "e1_560_daisuki.mp3",
+        "track_id": "L10-PR02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_560_daisuki.png",
+        "category": "preferences",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_561",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Preferences",
+      "japanese": "嫌い",
+      "furigana": "きらい",
+      "romaji": "kirai",
+      "english": "Dislike",
+      "sinhala": "අකමැතියි",
+      "audio": {
+        "file_name": "e1_561_kirai.mp3",
+        "track_id": "L10-PR03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_561_kirai.png",
+        "category": "preferences",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_562",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Skills",
+      "japanese": "上手",
+      "furigana": "じょうず",
+      "romaji": "jouzu",
+      "english": "Good at",
+      "sinhala": "දක්ෂයි",
+      "audio": {
+        "file_name": "e1_562_jouzu.mp3",
+        "track_id": "L10-SK01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_562_jouzu.png",
+        "category": "skills",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_563",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Skills",
+      "japanese": "下手",
+      "furigana": "へた",
+      "romaji": "heta",
+      "english": "Bad at",
+      "sinhala": "අදක්ෂයි",
+      "audio": {
+        "file_name": "e1_563_heta.mp3",
+        "track_id": "L10-SK02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_563_heta.png",
+        "category": "skills",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_564",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Skills",
+      "japanese": "得意",
+      "furigana": "とくい",
+      "romaji": "tokui",
+      "english": "Good at (one's own skill)",
+      "sinhala": "තමන්ගේ දක්ෂතාව",
+      "audio": {
+        "file_name": "e1_564_tokui.mp3",
+        "track_id": "L10-SK03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_564_tokui.png",
+        "category": "skills",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_565",
+      "lesson": 10,
+      "main_topic": "42. 休みと感情 / Holidays & Feelings",
+      "sub_topic": "Skills",
+      "japanese": "苦手",
+      "furigana": "にがて",
+      "romaji": "nigate",
+      "english": "Weak at",
+      "sinhala": "දුර්වලයි (යම් දෙයකට)",
+      "audio": {
+        "file_name": "e1_565_nigate.mp3",
+        "track_id": "L10-SK04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_565_nigate.png",
+        "category": "skills",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_566",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "遊ぶ",
+      "furigana": "あそぶ",
+      "romaji": "asobu",
+      "english": "To play / hang out",
+      "sinhala": "සෙල්ලම් කරනවා",
+      "audio": {
+        "file_name": "e1_566_asobu.mp3",
+        "track_id": "L10-AC01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_566_asobu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_567",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "走る",
+      "furigana": "はしる",
+      "romaji": "hashiru",
+      "english": "To run",
+      "sinhala": "දුවනවා",
+      "audio": {
+        "file_name": "e1_567_hashiru.mp3",
+        "track_id": "L10-AC02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_567_hashiru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_568",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "泳ぐ",
+      "furigana": "およぐ",
+      "romaji": "oyogu",
+      "english": "To swim",
+      "sinhala": "පිහිනනවා",
+      "audio": {
+        "file_name": "e1_568_oyogu.mp3",
+        "track_id": "L10-AC03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_568_oyogu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_569",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "歌う",
+      "furigana": "うたう",
+      "romaji": "utau",
+      "english": "To sing",
+      "sinhala": "ගායනා කරනවා",
+      "audio": {
+        "file_name": "e1_569_utau.mp3",
+        "track_id": "L10-AC04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_569_utau.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_570",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "踊る",
+      "furigana": "おどる",
+      "romaji": "odoru",
+      "english": "To dance",
+      "sinhala": "නටනවා",
+      "audio": {
+        "file_name": "e1_570_odoru.mp3",
+        "track_id": "L10-AC05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_570_odoru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_571",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "弾く",
+      "furigana": "ひく",
+      "romaji": "hiku",
+      "english": "To play (string instrument/piano)",
+      "sinhala": "වාදනය කරනවා",
+      "audio": {
+        "file_name": "e1_571_hiku.mp3",
+        "track_id": "L10-AC06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_571_hiku.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_572",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "描く",
+      "furigana": "かく",
+      "romaji": "kaku",
+      "english": "To draw / paint",
+      "sinhala": "අඳිනවා",
+      "audio": {
+        "file_name": "e1_572_kaku.mp3",
+        "track_id": "L10-AC07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_572_kaku.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_573",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "撮る",
+      "furigana": "とる",
+      "romaji": "toru",
+      "english": "To take (a photo)",
+      "sinhala": "ඡායාරූප ගන්නවා",
+      "audio": {
+        "file_name": "e1_573_toru.mp3",
+        "track_id": "L10-AC08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_573_toru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_574",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "集める",
+      "furigana": "あつめる",
+      "romaji": "atsumeru",
+      "english": "To collect",
+      "sinhala": "එකතු කරනවා",
+      "audio": {
+        "file_name": "e1_574_atsumeru.mp3",
+        "track_id": "L10-AC09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_574_atsumeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_575",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "見る",
+      "furigana": "みる",
+      "romaji": "miru",
+      "english": "To see / watch",
+      "sinhala": "බලනවා",
+      "audio": {
+        "file_name": "e1_575_miru.mp3",
+        "track_id": "L10-AC10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_575_miru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_576",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "聞く",
+      "furigana": "きく",
+      "romaji": "kiku",
+      "english": "To listen",
+      "sinhala": "අහනවා",
+      "audio": {
+        "file_name": "e1_576_kiku.mp3",
+        "track_id": "L10-AC11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_576_kiku.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_577",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "読む",
+      "furigana": "よむ",
+      "romaji": "yomu",
+      "english": "To read",
+      "sinhala": "කියවනවා",
+      "audio": {
+        "file_name": "e1_577_yomu.mp3",
+        "track_id": "L10-AC12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_577_yomu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_578",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "作る",
+      "furigana": "つくる",
+      "romaji": "tsukuru",
+      "english": "To make",
+      "sinhala": "හදනවා",
+      "audio": {
+        "file_name": "e1_578_tsukuru.mp3",
+        "track_id": "L10-AC13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_578_tsukuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_579",
+      "lesson": 11,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "登る",
+      "furigana": "のぼる",
+      "romaji": "noboru",
+      "english": "To climb",
+      "sinhala": "නගිනවා",
+      "audio": {
+        "file_name": "e1_579_noboru.mp3",
+        "track_id": "L11-AC01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_579_noboru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_580",
+      "lesson": 11,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "出かける",
+      "furigana": "でかける",
+      "romaji": "dekakeru",
+      "english": "To go out",
+      "sinhala": "පිටතට යනවා",
+      "audio": {
+        "file_name": "e1_580_dekakeru.mp3",
+        "track_id": "L11-AC02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_580_dekakeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_581",
+      "lesson": 11,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "休む",
+      "furigana": "やすむ",
+      "romaji": "yasumu",
+      "english": "To rest",
+      "sinhala": "විවේක ගන්නවා",
+      "audio": {
+        "file_name": "e1_581_yasumu.mp3",
+        "track_id": "L11-AC03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_581_yasumu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_582",
+      "lesson": 11,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "会う",
+      "furigana": "あう",
+      "romaji": "au",
+      "english": "To meet",
+      "sinhala": "හමුවෙනවා",
+      "audio": {
+        "file_name": "e1_582_au.mp3",
+        "track_id": "L11-AC04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_582_au.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_583",
+      "lesson": 11,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "話す",
+      "furigana": "はなす",
+      "romaji": "hanasu",
+      "english": "To speak / talk",
+      "sinhala": "කතා කරනවා",
+      "audio": {
+        "file_name": "e1_583_hanasu.mp3",
+        "track_id": "L11-AC05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_583_hanasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_584",
+      "lesson": 11,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "習う",
+      "furigana": "ならう",
+      "romaji": "narau",
+      "english": "To learn",
+      "sinhala": "ඉගෙන ගන්නවා (පුහුණු වෙනවා)",
+      "audio": {
+        "file_name": "e1_584_narau.mp3",
+        "track_id": "L11-AC06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_584_narau.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_585",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "勝つ",
+      "furigana": "かつ",
+      "romaji": "katsu",
+      "english": "To win",
+      "sinhala": "දිනනවා",
+      "audio": {
+        "file_name": "e1_585_katsu.mp3",
+        "track_id": "L10-AC14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_585_katsu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_586",
+      "lesson": 10,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "負ける",
+      "furigana": "まける",
+      "romaji": "makeru",
+      "english": "To lose (a game)",
+      "sinhala": "පරදිනවා",
+      "audio": {
+        "file_name": "e1_586_makeru.mp3",
+        "track_id": "L10-AC15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_586_makeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_587",
+      "lesson": 11,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "始める",
+      "furigana": "はじめる",
+      "romaji": "hajimeru",
+      "english": "To begin / start",
+      "sinhala": "පටන් ගන්නවා",
+      "audio": {
+        "file_name": "e1_587_hajimeru.mp3",
+        "track_id": "L11-AC07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_587_hajimeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_588",
+      "lesson": 11,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "終わる",
+      "furigana": "おわる",
+      "romaji": "owaru",
+      "english": "To finish / end",
+      "sinhala": "අවසන් වෙනවා",
+      "audio": {
+        "file_name": "e1_588_owaru.mp3",
+        "track_id": "L11-AC08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_588_owaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_589",
+      "lesson": 11,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "頑張る",
+      "furigana": "がんばる",
+      "romaji": "ganbaru",
+      "english": "To do one's best",
+      "sinhala": "උපරිම උත්සාහ කරනවා",
+      "audio": {
+        "file_name": "e1_589_ganbaru.mp3",
+        "track_id": "L11-AC09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_589_ganbaru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_590",
+      "lesson": 11,
+      "main_topic": "43. アクションと活動 / Actions & Activities",
+      "sub_topic": "Activity Verbs",
+      "japanese": "疲れる",
+      "furigana": "つかれる",
+      "romaji": "tsukareru",
+      "english": "To get tired",
+      "sinhala": "මහන්සි වෙනවා",
+      "audio": {
+        "file_name": "e1_590_tsukareru.mp3",
+        "track_id": "L11-AC10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_590_tsukareru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_591",
+      "lesson": 10,
+      "main_topic": "44. その他の趣味 / Other Hobbies & Items",
+      "sub_topic": "Hobby Items",
+      "japanese": "楽器",
+      "furigana": "がっき",
+      "romaji": "gakki",
+      "english": "Musical instrument",
+      "sinhala": "සංගීත භාණ්ඩය",
+      "audio": {
+        "file_name": "e1_591_gakki.mp3",
+        "track_id": "L10-HI01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_591_gakki.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_592",
+      "lesson": 10,
+      "main_topic": "44. その他の趣味 / Other Hobbies & Items",
+      "sub_topic": "Hobby Items",
+      "japanese": "小説",
+      "furigana": "しょうせつ",
+      "romaji": "shousetsu",
+      "english": "Novel",
+      "sinhala": "නවකතාව",
+      "audio": {
+        "file_name": "e1_592_shousetsu.mp3",
+        "track_id": "L10-HI02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_592_shousetsu.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_593",
+      "lesson": 10,
+      "main_topic": "44. その他の趣味 / Other Hobbies & Items",
+      "sub_topic": "Hobby Items",
+      "japanese": "漫画",
+      "furigana": "まんが",
+      "romaji": "manga",
+      "english": "Manga / Comic",
+      "sinhala": "කොමික් / මන්ගා",
+      "audio": {
+        "file_name": "e1_593_manga.mp3",
+        "track_id": "L10-HI03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_593_manga.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_594",
+      "lesson": 10,
+      "main_topic": "44. その他の趣味 / Other Hobbies & Items",
+      "sub_topic": "Hobby Items",
+      "japanese": "切手",
+      "furigana": "きって",
+      "romaji": "kitte",
+      "english": "Postage stamp",
+      "sinhala": "තැපැල් මුද්දරය",
+      "audio": {
+        "file_name": "e1_594_kitte.mp3",
+        "track_id": "L10-HI04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_594_kitte.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_595",
+      "lesson": 11,
+      "main_topic": "44. その他の趣味 / Other Hobbies & Items",
+      "sub_topic": "Places for Fun",
+      "japanese": "映画館",
+      "furigana": "えいがかん",
+      "romaji": "eigakan",
+      "english": "Movie theater",
+      "sinhala": "සිනමාහල",
+      "audio": {
+        "file_name": "e1_595_eigakan.mp3",
+        "track_id": "L11-PF01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_595_eigakan.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_596",
+      "lesson": 11,
+      "main_topic": "44. その他の趣味 / Other Hobbies & Items",
+      "sub_topic": "Places for Fun",
+      "japanese": "公園",
+      "furigana": "こうえん",
+      "romaji": "kouen",
+      "english": "Park",
+      "sinhala": "උද්‍යානය",
+      "audio": {
+        "file_name": "e1_596_kouen.mp3",
+        "track_id": "L11-PF02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_596_kouen.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_597",
+      "lesson": 10,
+      "main_topic": "44. その他の趣味 / Other Hobbies & Items",
+      "sub_topic": "Places for Fun",
+      "japanese": "プール",
+      "furigana": "プール",
+      "romaji": "puuru",
+      "english": "Pool",
+      "sinhala": "පිහිනුම් තටාකය",
+      "audio": {
+        "file_name": "e1_597_puuru.mp3",
+        "track_id": "L10-PF03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_597_puuru.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_598",
+      "lesson": 10,
+      "main_topic": "44. その他の趣味 / Other Hobbies & Items",
+      "sub_topic": "Places for Fun",
+      "japanese": "体育館",
+      "furigana": "たいいくかん",
+      "romaji": "taiikukan",
+      "english": "Gymnasium",
+      "sinhala": "ගෘහස්ථ ක්‍රීඩාගාරය",
+      "audio": {
+        "file_name": "e1_598_taiikukan.mp3",
+        "track_id": "L10-PF04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_598_taiikukan.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_599",
+      "lesson": 10,
+      "main_topic": "44. その他の趣味 / Other Hobbies & Items",
+      "sub_topic": "Health",
+      "japanese": "運動",
+      "furigana": "うんどう",
+      "romaji": "undou",
+      "english": "Exercise",
+      "sinhala": "ව්‍යායාමය",
+      "audio": {
+        "file_name": "e1_599_undou.mp3",
+        "track_id": "L10-HE01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_599_undou.png",
+        "category": "health",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_600",
+      "lesson": 10,
+      "main_topic": "45. 最終表現 / Final Phrases",
+      "sub_topic": "Phrases",
+      "japanese": "趣味は何ですか",
+      "furigana": "しゅみはなんですか",
+      "romaji": "shumi wa nan desu ka",
+      "english": "What is your hobby?",
+      "sinhala": "ඔබගේ විනෝදාංශය කුමක්ද?",
+      "audio": {
+        "file_name": "e1_600_shumiwanandesuka.mp3",
+        "track_id": "L10-PH01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_600_shumiwanandesuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    }
+  ]
+}

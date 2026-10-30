@@ -1,0 +1,2108 @@
+{
+  "level": "Irodori Elementary 1 (A2)",
+  "part": "Part 9",
+  "total_words": 100,
+  "coverage": "Travel, sightseeing, tourist spots, accommodation, hotel check-in/out, room amenities, and travel expressions with full Audio & Illustration mapping (Words 801-900).",
+  "vocabulary": [
+    {
+      "id": "e1_801",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Travel Basics",
+      "japanese": "旅行",
+      "furigana": "りょこう",
+      "romaji": "ryokou",
+      "english": "Travel / Trip",
+      "sinhala": "සංචාරය",
+      "audio": {
+        "file_name": "e1_801_ryokou.mp3",
+        "track_id": "L15-TR01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_801_ryokou.png",
+        "category": "travel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_802",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Travel Basics",
+      "japanese": "観光",
+      "furigana": "かんこう",
+      "romaji": "kankou",
+      "english": "Sightseeing",
+      "sinhala": "දර්ශන නැරඹීම",
+      "audio": {
+        "file_name": "e1_802_kankou.mp3",
+        "track_id": "L15-TR02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_802_kankou.png",
+        "category": "travel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_803",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Travel Basics",
+      "japanese": "観光地",
+      "furigana": "かんこうち",
+      "romaji": "kankouchi",
+      "english": "Tourist spot / Sightseeing area",
+      "sinhala": "සංචාරක ස්ථානය",
+      "audio": {
+        "file_name": "e1_803_kankouchi.mp3",
+        "track_id": "L15-TR03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_803_kankouchi.png",
+        "category": "travel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_804",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Travel Types",
+      "japanese": "国内旅行",
+      "furigana": "こくないりょこう",
+      "romaji": "kokunairyokou",
+      "english": "Domestic travel",
+      "sinhala": "දේශීය සංචාරය",
+      "audio": {
+        "file_name": "e1_804_kokunairyokou.mp3",
+        "track_id": "L15-TR04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_804_kokunairyokou.png",
+        "category": "travel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_805",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Travel Types",
+      "japanese": "海外旅行",
+      "furigana": "かいがいりょこう",
+      "romaji": "kaigairyokou",
+      "english": "Overseas travel",
+      "sinhala": "විදේශ සංචාරය",
+      "audio": {
+        "file_name": "e1_805_kaigairyokou.mp3",
+        "track_id": "L15-TR05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_805_kaigairyokou.png",
+        "category": "travel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_806",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Destinations",
+      "japanese": "温泉",
+      "furigana": "おんせん",
+      "romaji": "onsen",
+      "english": "Hot spring",
+      "sinhala": "උණු දිය උල්පත (ඔන්සෙන්)",
+      "audio": {
+        "file_name": "e1_806_onsen.mp3",
+        "track_id": "L15-TR06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_806_onsen.png",
+        "category": "onsen",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_807",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Destinations",
+      "japanese": "露天風呂",
+      "furigana": "ろてんぶろ",
+      "romaji": "rotenburo",
+      "english": "Open-air bath",
+      "sinhala": "එළිමහන් නාන තටාකය",
+      "audio": {
+        "file_name": "e1_807_rotenburo.mp3",
+        "track_id": "L15-TR07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_807_rotenburo.png",
+        "category": "onsen",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_808",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Scenery & Nature",
+      "japanese": "景色",
+      "furigana": "けしき",
+      "romaji": "keshiki",
+      "english": "Scenery / View",
+      "sinhala": "දර්ශනීය පරිසරය / දර්ශනය",
+      "audio": {
+        "file_name": "e1_808_keshiki.mp3",
+        "track_id": "L15-TR08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_808_keshiki.png",
+        "category": "scenery",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_809",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Scenery & Nature",
+      "japanese": "自然",
+      "furigana": "しぜん",
+      "romaji": "shizen",
+      "english": "Nature",
+      "sinhala": "සොබාදහම / ස්වභාවධර්මය",
+      "audio": {
+        "file_name": "e1_809_shizen.mp3",
+        "track_id": "L15-TR09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_809_shizen.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_810",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Scenery & Nature",
+      "japanese": "海岸",
+      "furigana": "かいがん",
+      "romaji": "kaigan",
+      "english": "Coast / Beach",
+      "sinhala": "වෙරළ තීරය",
+      "audio": {
+        "file_name": "e1_810_kaigan.mp3",
+        "track_id": "L15-TR10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_810_kaigan.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_811",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Scenery & Nature",
+      "japanese": "島",
+      "furigana": "しま",
+      "romaji": "shima",
+      "english": "Island",
+      "sinhala": "දූපත",
+      "audio": {
+        "file_name": "e1_811_shima.mp3",
+        "track_id": "L15-TR11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_811_shima.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_812",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Scenery & Nature",
+      "japanese": "滝",
+      "furigana": "たき",
+      "romaji": "taki",
+      "english": "Waterfall",
+      "sinhala": "දියඇල්ල",
+      "audio": {
+        "file_name": "e1_812_taki.mp3",
+        "track_id": "L15-TR12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_812_taki.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_813",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Scenery & Nature",
+      "japanese": "湖",
+      "furigana": "みずうみ",
+      "romaji": "mizuumi",
+      "english": "Lake",
+      "sinhala": "විල / වැව",
+      "audio": {
+        "file_name": "e1_813_mizuumi.mp3",
+        "track_id": "L15-TR13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_813_mizuumi.png",
+        "category": "nature",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_814",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Historical Sites",
+      "japanese": "神社",
+      "furigana": "じんじゃ",
+      "romaji": "jinja",
+      "english": "Shinto shrine",
+      "sinhala": "ෂින්ටෝ සිද්ධස්ථානය",
+      "audio": {
+        "file_name": "e1_814_jinja.mp3",
+        "track_id": "L15-TR14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_814_jinja.png",
+        "category": "sightseeing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_815",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Historical Sites",
+      "japanese": "寺",
+      "furigana": "てら",
+      "romaji": "tera",
+      "english": "Buddhist temple",
+      "sinhala": "පන්සල / බෞද්ධ විහාරය",
+      "audio": {
+        "file_name": "e1_815_tera.mp3",
+        "track_id": "L15-TR15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_815_tera.png",
+        "category": "sightseeing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_816",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Historical Sites",
+      "japanese": "城",
+      "furigana": "しろ",
+      "romaji": "shiro",
+      "english": "Castle",
+      "sinhala": "මාලිගය / බලකොටුව",
+      "audio": {
+        "file_name": "e1_816_shiro.mp3",
+        "track_id": "L15-TR16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_816_shiro.png",
+        "category": "sightseeing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_817",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Historical Sites",
+      "japanese": "歴史",
+      "furigana": "れきし",
+      "romaji": "rekishi",
+      "english": "History",
+      "sinhala": "ඉතිහාසය",
+      "audio": {
+        "file_name": "e1_817_rekishi.mp3",
+        "track_id": "L15-TR17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_817_rekishi.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_818",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Historical Sites",
+      "japanese": "文化",
+      "furigana": "ぶんか",
+      "romaji": "bunka",
+      "english": "Culture",
+      "sinhala": "සංස්කෘතිය",
+      "audio": {
+        "file_name": "e1_818_bunka.mp3",
+        "track_id": "L15-TR18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_818_bunka.png",
+        "category": "culture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_819",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Souvenirs & Products",
+      "japanese": "お土産",
+      "furigana": "おみやげ",
+      "romaji": "omiyage",
+      "english": "Souvenir",
+      "sinhala": "සිහිවටනය / තෑග්ග",
+      "audio": {
+        "file_name": "e1_819_omiyage.mp3",
+        "track_id": "L15-TR19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_819_omiyage.png",
+        "category": "souvenirs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_820",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Souvenirs & Products",
+      "japanese": "名物",
+      "furigana": "めいぶつ",
+      "romaji": "meibutsu",
+      "english": "Famous local product / Specialty",
+      "sinhala": "ප්‍රදේශයේ ප්‍රසිද්ධ නිෂ්පාදනය / විශේෂ ආහාරය",
+      "audio": {
+        "file_name": "e1_820_meibutsu.mp3",
+        "track_id": "L15-TR20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_820_meibutsu.png",
+        "category": "souvenirs",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_821",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Travel Planning",
+      "japanese": "ガイドブック",
+      "furigana": "ガイドブック",
+      "romaji": "gaidobukku",
+      "english": "Guidebook",
+      "sinhala": "මඟපෙන්වන පොත",
+      "audio": {
+        "file_name": "e1_821_gaidobukku.mp3",
+        "track_id": "L15-TR21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_821_gaidobukku.png",
+        "category": "travel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_822",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Travel Planning",
+      "japanese": "パンフレット",
+      "furigana": "パンフレット",
+      "romaji": "panfuretto",
+      "english": "Pamphlet / Brochure",
+      "sinhala": "පත්‍රිකාව",
+      "audio": {
+        "file_name": "e1_822_panfuretto.mp3",
+        "track_id": "L15-TR22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_822_panfuretto.png",
+        "category": "travel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_823",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Travel Planning",
+      "japanese": "ツアー",
+      "furigana": "ツアー",
+      "romaji": "tsuaa",
+      "english": "Tour",
+      "sinhala": "සංචාරය (ටුවර්)",
+      "audio": {
+        "file_name": "e1_823_tsuaa.mp3",
+        "track_id": "L15-TR23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_823_tsuaa.png",
+        "category": "travel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_824",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Travel Schedule",
+      "japanese": "日帰り",
+      "furigana": "ひがえり",
+      "romaji": "higaeri",
+      "english": "Day trip",
+      "sinhala": "දිනක චාරිකාව",
+      "audio": {
+        "file_name": "e1_824_higaeri.mp3",
+        "track_id": "L15-TR24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_824_higaeri.png",
+        "category": "travel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_825",
+      "lesson": 15,
+      "main_topic": "59. 旅行と観光地 / Travel & Sightseeing",
+      "sub_topic": "Travel Schedule",
+      "japanese": "一泊二日",
+      "furigana": "いっぱくふつか",
+      "romaji": "ippakufutsuka",
+      "english": "Two days, one night",
+      "sinhala": "දින දෙකක් හා එක් රැයක්",
+      "audio": {
+        "file_name": "e1_825_ippakufutsuka.mp3",
+        "track_id": "L15-TR25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_825_ippakufutsuka.png",
+        "category": "travel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_826",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Lodging Basics",
+      "japanese": "宿泊",
+      "furigana": "しゅくはく",
+      "romaji": "shukuhaku",
+      "english": "Lodging / Accommodation",
+      "sinhala": "නවාතැන් ගැනීම",
+      "audio": {
+        "file_name": "e1_826_shukuhaku.mp3",
+        "track_id": "L16-AC01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_826_shukuhaku.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_827",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Lodging Basics",
+      "japanese": "泊まる",
+      "furigana": "とまる",
+      "romaji": "tomaru",
+      "english": "To stay (at a hotel)",
+      "sinhala": "නවාතැන් ගන්නවා",
+      "audio": {
+        "file_name": "e1_827_tomaru.mp3",
+        "track_id": "L16-AC02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_827_tomaru.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_828",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Facilities",
+      "japanese": "ホテル",
+      "furigana": "ホテル",
+      "romaji": "hoteru",
+      "english": "Hotel",
+      "sinhala": "හෝටලය",
+      "audio": {
+        "file_name": "e1_828_hoteru.mp3",
+        "track_id": "L16-AC03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_828_hoteru.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_829",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Facilities",
+      "japanese": "旅館",
+      "furigana": "りょかん",
+      "romaji": "ryokan",
+      "english": "Japanese-style inn",
+      "sinhala": "ජපන් සම්ප්‍රදායික හෝටලය (රියොකන්)",
+      "audio": {
+        "file_name": "e1_829_ryokan.mp3",
+        "track_id": "L16-AC04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_829_ryokan.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_830",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Facilities",
+      "japanese": "民宿",
+      "furigana": "みんしゅく",
+      "romaji": "minshuku",
+      "english": "Guest house / Boarding house",
+      "sinhala": "පවුල් නවාතැන / ගෙස්ට් හවුස්",
+      "audio": {
+        "file_name": "e1_830_minshuku.mp3",
+        "track_id": "L16-AC05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_830_minshuku.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_831",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Reservations",
+      "japanese": "予約",
+      "furigana": "よやく",
+      "romaji": "yoyaku",
+      "english": "Reservation / Booking",
+      "sinhala": "වෙන්කරවා ගැනීම",
+      "audio": {
+        "file_name": "e1_831_yoyaku.mp3",
+        "track_id": "L16-AC06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_831_yoyaku.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_832",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Reservations",
+      "japanese": "予約する",
+      "furigana": "よやくする",
+      "romaji": "yoyaku suru",
+      "english": "To make a reservation",
+      "sinhala": "වෙන්කරවා ගන්නවා",
+      "audio": {
+        "file_name": "e1_832_yoyakusuru.mp3",
+        "track_id": "L16-AC07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_832_yoyakusuru.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_833",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Front Desk",
+      "japanese": "フロント",
+      "furigana": "フロント",
+      "romaji": "furonto",
+      "english": "Reception / Front desk",
+      "sinhala": "පිළිගැනීමේ කවුන්ටරය",
+      "audio": {
+        "file_name": "e1_833_furonto.mp3",
+        "track_id": "L16-AC08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_833_furonto.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_834",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Front Desk",
+      "japanese": "ロビー",
+      "furigana": "ロビー",
+      "romaji": "robii",
+      "english": "Lobby",
+      "sinhala": "ලොබිය",
+      "audio": {
+        "file_name": "e1_834_robii.mp3",
+        "track_id": "L16-AC09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_834_robii.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_835",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Hotel Process",
+      "japanese": "チェックイン",
+      "furigana": "チェックイン",
+      "romaji": "chekkuin",
+      "english": "Check-in",
+      "sinhala": "චෙක් ඉන් වීම",
+      "audio": {
+        "file_name": "e1_835_chekkuin.mp3",
+        "track_id": "L16-AC10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_835_chekkuin.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_836",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Hotel Process",
+      "japanese": "チェックアウト",
+      "furigana": "チェックアウト",
+      "romaji": "chekkuauto",
+      "english": "Check-out",
+      "sinhala": "චෙක් අවුට් වීම",
+      "audio": {
+        "file_name": "e1_836_chekkuauto.mp3",
+        "track_id": "L16-AC11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_836_chekkuauto.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_837",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Keys & Rooms",
+      "japanese": "鍵",
+      "furigana": "かぎ",
+      "romaji": "kagi",
+      "english": "Key",
+      "sinhala": "යතුර",
+      "audio": {
+        "file_name": "e1_837_kagi.mp3",
+        "track_id": "L16-AC12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_837_kagi.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_838",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Keys & Rooms",
+      "japanese": "ルームキー",
+      "furigana": "ルームキー",
+      "romaji": "ruumukii",
+      "english": "Room key",
+      "sinhala": "කාමර යතුර",
+      "audio": {
+        "file_name": "e1_838_ruumukii.mp3",
+        "track_id": "L16-AC13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_838_ruumukii.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_839",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Keys & Rooms",
+      "japanese": "部屋",
+      "furigana": "へや",
+      "romaji": "heya",
+      "english": "Room",
+      "sinhala": "කාමරය",
+      "audio": {
+        "file_name": "e1_839_heya.mp3",
+        "track_id": "L16-AC14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_839_heya.png",
+        "category": "hotel",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_840",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Room Types",
+      "japanese": "和室",
+      "furigana": "わしつ",
+      "romaji": "washitsu",
+      "english": "Japanese-style room",
+      "sinhala": "ජපන් සම්ප්‍රදායික කාමරය",
+      "audio": {
+        "file_name": "e1_840_washitsu.mp3",
+        "track_id": "L16-AC15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_840_washitsu.png",
+        "category": "room_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_841",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Room Types",
+      "japanese": "洋室",
+      "furigana": "ようしつ",
+      "romaji": "youshitsu",
+      "english": "Western-style room",
+      "sinhala": "බටහිර පන්නයේ කාමරය",
+      "audio": {
+        "file_name": "e1_841_youshitsu.mp3",
+        "track_id": "L16-AC16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_841_youshitsu.png",
+        "category": "room_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_842",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Room Types",
+      "japanese": "シングル",
+      "furigana": "シングル",
+      "romaji": "shinguru",
+      "english": "Single room",
+      "sinhala": "තනි කාමරය",
+      "audio": {
+        "file_name": "e1_842_shinguru.mp3",
+        "track_id": "L16-AC17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_842_shinguru.png",
+        "category": "room_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_843",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Room Types",
+      "japanese": "ダブル",
+      "furigana": "ダブル",
+      "romaji": "daburu",
+      "english": "Double room",
+      "sinhala": "ද්විත්ව කාමරය",
+      "audio": {
+        "file_name": "e1_843_daburu.mp3",
+        "track_id": "L16-AC18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_843_daburu.png",
+        "category": "room_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_844",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Room Types",
+      "japanese": "ツイン",
+      "furigana": "ツイン",
+      "romaji": "tsuin",
+      "english": "Twin room",
+      "sinhala": "නිවුන් ඇඳන් සහිත කාමරය",
+      "audio": {
+        "file_name": "e1_844_tsuin.mp3",
+        "track_id": "L16-AC19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_844_tsuin.png",
+        "category": "room_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_845",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Room Types",
+      "japanese": "禁煙ルーム",
+      "furigana": "きんえんルーム",
+      "romaji": "kin'en ruumu",
+      "english": "Non-smoking room",
+      "sinhala": "දුම් නොබොන කාමරය",
+      "audio": {
+        "file_name": "e1_845_kin'enruumu.mp3",
+        "track_id": "L16-AC20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_845_kin'enruumu.png",
+        "category": "room_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_846",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Room Types",
+      "japanese": "喫煙ルーム",
+      "furigana": "きつえんルーム",
+      "romaji": "kitsuen ruumu",
+      "english": "Smoking room",
+      "sinhala": "දුම් බොන කාමරය",
+      "audio": {
+        "file_name": "e1_846_kitsuenruumu.mp3",
+        "track_id": "L16-AC21",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_846_kitsuenruumu.png",
+        "category": "room_types",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_847",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Baggage Services",
+      "japanese": "荷物",
+      "furigana": "にもつ",
+      "romaji": "nimotsu",
+      "english": "Luggage / Baggage",
+      "sinhala": "ගමන් මලු / බඩු බාහිරාදිය",
+      "audio": {
+        "file_name": "e1_847_nimotsu.mp3",
+        "track_id": "L16-AC22",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_847_nimotsu.png",
+        "category": "baggage",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_848",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Baggage Services",
+      "japanese": "スーツケース",
+      "furigana": "スーツケース",
+      "romaji": "suutsukeesu",
+      "english": "Suitcase",
+      "sinhala": "සූට්කේස් එක",
+      "audio": {
+        "file_name": "e1_848_suutsukeesu.mp3",
+        "track_id": "L16-AC23",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_848_suutsukeesu.png",
+        "category": "baggage",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_849",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Baggage Services",
+      "japanese": "預ける",
+      "furigana": "あずける",
+      "romaji": "azukeru",
+      "english": "To leave / deposit (luggage)",
+      "sinhala": "භාර දෙනවා (බඩු බාහිරාදිය)",
+      "audio": {
+        "file_name": "e1_849_azukeru.mp3",
+        "track_id": "L16-AC24",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_849_azukeru.png",
+        "category": "baggage",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_850",
+      "lesson": 16,
+      "main_topic": "60. 宿泊と宿泊施設 / Accommodation & Facilities",
+      "sub_topic": "Baggage Services",
+      "japanese": "貴重品",
+      "furigana": "きちょうひん",
+      "romaji": "kichouhin",
+      "english": "Valuables",
+      "sinhala": "වටිනා දෑ",
+      "audio": {
+        "file_name": "e1_850_kichouhin.mp3",
+        "track_id": "L16-AC25",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_850_kichouhin.png",
+        "category": "baggage",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_851",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "General Facilities",
+      "japanese": "設備",
+      "furigana": "せつび",
+      "romaji": "setsubi",
+      "english": "Equipment / Facilities",
+      "sinhala": "උපකරණ / පහසුකම්",
+      "audio": {
+        "file_name": "e1_851_setsubi.mp3",
+        "track_id": "L16-FA01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_851_setsubi.png",
+        "category": "amenities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_852",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "General Facilities",
+      "japanese": "アメニティ",
+      "furigana": "アメニティ",
+      "romaji": "ameniti",
+      "english": "Amenities",
+      "sinhala": "අමතර පහසුකම් (ඇමෙනිටි)",
+      "audio": {
+        "file_name": "e1_852_ameniti.mp3",
+        "track_id": "L16-FA02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_852_ameniti.png",
+        "category": "amenities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_853",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Bath & Body",
+      "japanese": "タオル",
+      "furigana": "タオル",
+      "romaji": "taoru",
+      "english": "Towel",
+      "sinhala": "තුවාය",
+      "audio": {
+        "file_name": "e1_853_taoru.mp3",
+        "track_id": "L16-FA03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_853_taoru.png",
+        "category": "amenities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_854",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Bath & Body",
+      "japanese": "バスタオル",
+      "furigana": "バスタオル",
+      "romaji": "basutaoru",
+      "english": "Bath towel",
+      "sinhala": "නාන තුවාය",
+      "audio": {
+        "file_name": "e1_854_basutaoru.mp3",
+        "track_id": "L16-FA04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_854_basutaoru.png",
+        "category": "amenities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_855",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Electrical",
+      "japanese": "ドライヤー",
+      "furigana": "ドライヤー",
+      "romaji": "doraiyaa",
+      "english": "Hair dryer",
+      "sinhala": "හෙයා ඩ්‍රයර් එක",
+      "audio": {
+        "file_name": "e1_855_doraiyaa.mp3",
+        "track_id": "L16-FA05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_855_doraiyaa.png",
+        "category": "appliances",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_856",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Toiletries",
+      "japanese": "歯ブラシ",
+      "furigana": "はぶらし",
+      "romaji": "haburashi",
+      "english": "Toothbrush",
+      "sinhala": "දත් බුරුසුව",
+      "audio": {
+        "file_name": "e1_856_haburashi.mp3",
+        "track_id": "L16-FA06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_856_haburashi.png",
+        "category": "amenities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_857",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Toiletries",
+      "japanese": "シャンプー",
+      "furigana": "シャンプー",
+      "romaji": "shanpuu",
+      "english": "Shampoo",
+      "sinhala": "ෂැම්පූ",
+      "audio": {
+        "file_name": "e1_857_shanpuu.mp3",
+        "track_id": "L16-FA07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_857_shanpuu.png",
+        "category": "amenities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_858",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Toiletries",
+      "japanese": "リンス",
+      "furigana": "リンス",
+      "romaji": "rinsu",
+      "english": "Conditioner",
+      "sinhala": "කොණ්ඩය මෘදුකාරක (කන්ඩිෂනර්)",
+      "audio": {
+        "file_name": "e1_858_rinsu.mp3",
+        "track_id": "L16-FA08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_858_rinsu.png",
+        "category": "amenities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_859",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Toiletries",
+      "japanese": "ボディーソープ",
+      "furigana": "ボディーソープ",
+      "romaji": "bodiisoopu",
+      "english": "Body soap",
+      "sinhala": "බොඩි සෝප්",
+      "audio": {
+        "file_name": "e1_859_bodiisoopu.mp3",
+        "track_id": "L16-FA09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_859_bodiisoopu.png",
+        "category": "amenities",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_860",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Room Wear",
+      "japanese": "浴衣",
+      "furigana": "ゆかた",
+      "romaji": "yukata",
+      "english": "Yukata (cotton kimono)",
+      "sinhala": "යුකාටා (සැහැල්ලු කිමෝනාව)",
+      "audio": {
+        "file_name": "e1_860_yukata.mp3",
+        "track_id": "L16-FA10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_860_yukata.png",
+        "category": "clothing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_861",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Room Wear",
+      "japanese": "スリッパ",
+      "furigana": "スリッパ",
+      "romaji": "surippa",
+      "english": "Slippers",
+      "sinhala": "සෙරෙප්පු",
+      "audio": {
+        "file_name": "e1_861_surippa.mp3",
+        "track_id": "L16-FA11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_861_surippa.png",
+        "category": "clothing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_862",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Electrical",
+      "japanese": "冷蔵庫",
+      "furigana": "れいぞうこ",
+      "romaji": "reizouko",
+      "english": "Refrigerator",
+      "sinhala": "ශීතකරණය",
+      "audio": {
+        "file_name": "e1_862_reizouko.mp3",
+        "track_id": "L16-FA12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_862_reizouko.png",
+        "category": "appliances",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_863",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Security",
+      "japanese": "金庫",
+      "furigana": "きんこ",
+      "romaji": "kinko",
+      "english": "Safe / Safety deposit box",
+      "sinhala": "සේප්පුව",
+      "audio": {
+        "file_name": "e1_863_kinko.mp3",
+        "track_id": "L16-FA13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_863_kinko.png",
+        "category": "security",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_864",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Security",
+      "japanese": "暗証番号",
+      "furigana": "あんしょうばんごう",
+      "romaji": "anshoubangou",
+      "english": "PIN / Secret code",
+      "sinhala": "රහස් අංකය",
+      "audio": {
+        "file_name": "e1_864_anshoubangou.mp3",
+        "track_id": "L16-FA14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_864_anshoubangou.png",
+        "category": "security",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_865",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Costs",
+      "japanese": "無料",
+      "furigana": "むりょう",
+      "romaji": "muryou",
+      "english": "Free of charge",
+      "sinhala": "නොමිලේ",
+      "audio": {
+        "file_name": "e1_865_muryou.mp3",
+        "track_id": "L16-FA15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_865_muryou.png",
+        "category": "pricing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_866",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Costs",
+      "japanese": "有料",
+      "furigana": "ゆうりょう",
+      "romaji": "yuuryou",
+      "english": "Toll / Paid",
+      "sinhala": "ගෙවිය යුතු / මුදල් අය කරන",
+      "audio": {
+        "file_name": "e1_866_yuuryou.mp3",
+        "track_id": "L16-FA16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_866_yuuryou.png",
+        "category": "pricing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_867",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Meals",
+      "japanese": "朝食",
+      "furigana": "ちょうしょく",
+      "romaji": "choushoku",
+      "english": "Breakfast",
+      "sinhala": "උදෑසන ආහාරය",
+      "audio": {
+        "file_name": "e1_867_choushoku.mp3",
+        "track_id": "L16-FA17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_867_choushoku.png",
+        "category": "meals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_868",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Meals",
+      "japanese": "夕食",
+      "furigana": "ゆうしょく",
+      "romaji": "yuushoku",
+      "english": "Dinner",
+      "sinhala": "රාත්‍රී ආහාරය",
+      "audio": {
+        "file_name": "e1_868_yuushoku.mp3",
+        "track_id": "L16-FA18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_868_yuushoku.png",
+        "category": "meals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_869",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Meals",
+      "japanese": "バイキング",
+      "furigana": "バイキング",
+      "romaji": "baikingu",
+      "english": "Buffet",
+      "sinhala": "බුෆේ ක්‍රමය (ජපානයේ)",
+      "audio": {
+        "file_name": "e1_869_baikingu.mp3",
+        "track_id": "L16-FA19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_869_baikingu.png",
+        "category": "meals",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_870",
+      "lesson": 16,
+      "main_topic": "61. 客室の設備とアメニティ / Room Facilities & Amenities",
+      "sub_topic": "Meals",
+      "japanese": "含まれる",
+      "furigana": "ふくまれる",
+      "romaji": "fukumareru",
+      "english": "To be included",
+      "sinhala": "ඇතුළත් කර ඇත",
+      "audio": {
+        "file_name": "e1_870_fukumareru.mp3",
+        "track_id": "L16-FA20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_870_fukumareru.png",
+        "category": "pricing",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_871",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Sightseeing Actions",
+      "japanese": "観光する",
+      "furigana": "かんこうする",
+      "romaji": "kankou suru",
+      "english": "To sightsee",
+      "sinhala": "දර්ශන නරඹනවා",
+      "audio": {
+        "file_name": "e1_871_kankousuru.mp3",
+        "track_id": "L15-AC01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_871_kankousuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_872",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Sightseeing Actions",
+      "japanese": "見学する",
+      "furigana": "けんがくする",
+      "romaji": "kengaku suru",
+      "english": "To inspect / visit for study",
+      "sinhala": "අධ්‍යයන චාරිකාවක යෙදෙනවා",
+      "audio": {
+        "file_name": "e1_872_kengakusuru.mp3",
+        "track_id": "L15-AC02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_872_kengakusuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_873",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Sightseeing Actions",
+      "japanese": "散策する",
+      "furigana": "さんさくする",
+      "romaji": "sansaku suru",
+      "english": "To stroll / roam around",
+      "sinhala": "විනෝදයෙන් ඇවිදිනවා",
+      "audio": {
+        "file_name": "e1_873_sansakusuru.mp3",
+        "track_id": "L15-AC03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_873_sansakusuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_874",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Sightseeing Actions",
+      "japanese": "楽しむ",
+      "furigana": "たのしむ",
+      "romaji": "tanoshimu",
+      "english": "To enjoy",
+      "sinhala": "විනෝද වෙනවා",
+      "audio": {
+        "file_name": "e1_874_tanoshimu.mp3",
+        "track_id": "L15-AC04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_874_tanoshimu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_875",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Sightseeing Actions",
+      "japanese": "体験する",
+      "furigana": "たいけんする",
+      "romaji": "taiken suru",
+      "english": "To experience",
+      "sinhala": "අත්දකිනවා",
+      "audio": {
+        "file_name": "e1_875_taikensuru.mp3",
+        "track_id": "L15-AC05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_875_taikensuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_876",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Activities",
+      "japanese": "撮る",
+      "furigana": "とる",
+      "romaji": "toru",
+      "english": "To take (a photo)",
+      "sinhala": "ඡායාරූප ගන්නවා",
+      "audio": {
+        "file_name": "e1_876_toru.mp3",
+        "track_id": "L15-AC06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_876_toru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_877",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Activities",
+      "japanese": "買う",
+      "furigana": "かう",
+      "romaji": "kau",
+      "english": "To buy",
+      "sinhala": "මිලදී ගන්නවා",
+      "audio": {
+        "file_name": "e1_877_kau.mp3",
+        "track_id": "L15-AC07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_877_kau.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_878",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Activities",
+      "japanese": "食べる",
+      "furigana": "たべる",
+      "romaji": "taberu",
+      "english": "To eat",
+      "sinhala": "කනවා",
+      "audio": {
+        "file_name": "e1_878_taberu.mp3",
+        "track_id": "L15-AC08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_878_taberu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_879",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Activities",
+      "japanese": "温泉に入る",
+      "furigana": "おんせんにはいる",
+      "romaji": "onsen ni hairu",
+      "english": "To soak in a hot spring",
+      "sinhala": "උණු දිය උල්පතක නානවා",
+      "audio": {
+        "file_name": "e1_879_onsennihairu.mp3",
+        "track_id": "L15-AC09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_879_onsennihairu.png",
+        "category": "onsen",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_880",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Activities",
+      "japanese": "案内する",
+      "furigana": "あんないする",
+      "romaji": "annai suru",
+      "english": "To guide / show around",
+      "sinhala": "මඟ පෙන්වනවා",
+      "audio": {
+        "file_name": "e1_880_annaisuru.mp3",
+        "track_id": "L15-AC10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_880_annaisuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_881",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Movement",
+      "japanese": "探す",
+      "furigana": "さがす",
+      "romaji": "sagasu",
+      "english": "To search / look for",
+      "sinhala": "සොයනවා",
+      "audio": {
+        "file_name": "e1_881_sagasu.mp3",
+        "track_id": "L15-AC11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_881_sagasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_882",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Movement",
+      "japanese": "迷う",
+      "furigana": "まよう",
+      "romaji": "mayou",
+      "english": "To get lost",
+      "sinhala": "අතරමං වෙනවා",
+      "audio": {
+        "file_name": "e1_882_mayou.mp3",
+        "track_id": "L15-AC12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_882_mayou.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_883",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Movement",
+      "japanese": "訪れる",
+      "furigana": "おとずれる",
+      "romaji": "otozureru",
+      "english": "To visit (a place)",
+      "sinhala": "සංචාරය කරනවා / යනවා",
+      "audio": {
+        "file_name": "e1_883_otozureru.mp3",
+        "track_id": "L15-AC13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_883_otozureru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_884",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Movement",
+      "japanese": "帰る",
+      "furigana": "かえる",
+      "romaji": "kaeru",
+      "english": "To return home",
+      "sinhala": "ආපසු එනවා",
+      "audio": {
+        "file_name": "e1_884_kaeru.mp3",
+        "track_id": "L15-AC14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_884_kaeru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_885",
+      "lesson": 15,
+      "main_topic": "62. 旅行と観光の動作 / Travel & Sightseeing Actions",
+      "sub_topic": "Movement",
+      "japanese": "出発する",
+      "furigana": "しゅっぱつする",
+      "romaji": "shuppatsu suru",
+      "english": "To depart / set off",
+      "sinhala": "පිටත් වෙනවා",
+      "audio": {
+        "file_name": "e1_885_shuppatsusuru.mp3",
+        "track_id": "L15-AC15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_885_shuppatsusuru.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_886",
+      "lesson": 16,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Hotel Front Phrases",
+      "japanese": "チェックインをお願いします",
+      "furigana": "チェックインをおねがいします",
+      "romaji": "chekkuin o onegaishimasu",
+      "english": "Check-in, please",
+      "sinhala": "චෙක් ඉන් කරන්න කරුණාකර",
+      "audio": {
+        "file_name": "e1_886_chekkuinoonegaishimasu.mp3",
+        "track_id": "L16-EX01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_886_chekkuinoonegaishimasu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_887",
+      "lesson": 16,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Hotel Front Phrases",
+      "japanese": "チェックアウトは何時ですか",
+      "furigana": "チェックアウトはなんじですか",
+      "romaji": "chekkuauto wa nanji desu ka",
+      "english": "What time is check-out?",
+      "sinhala": "චෙක් අවුට් විය යුතු වේලාව කීයද?",
+      "audio": {
+        "file_name": "e1_887_chekkuautowananjidesuka.mp3",
+        "track_id": "L16-EX02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_887_chekkuautowananjidesuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_888",
+      "lesson": 16,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Hotel Front Phrases",
+      "japanese": "荷物を預かっていただけますか",
+      "furigana": "にもつをあずかっていただけますか",
+      "romaji": "nimotsu o azukatte itadakemasu ka",
+      "english": "Could you keep my luggage?",
+      "sinhala": "මගේ බඩු බාහිරාදිය තබාගත හැකිද?",
+      "audio": {
+        "file_name": "e1_888_nimotsuoazukatteitadakemasuka.mp3",
+        "track_id": "L16-EX03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_888_nimotsuoazukatteitadakemasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_889",
+      "lesson": 16,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Hotel Front Phrases",
+      "japanese": "Wi-Fiのパスワードは何ですか",
+      "furigana": "ワイファイのパスワードはなんですか",
+      "romaji": "waifai no pasuwaado wa nan desu ka",
+      "english": "What is the Wi-Fi password?",
+      "sinhala": "Wi-Fi මුරපදය කුමක්ද?",
+      "audio": {
+        "file_name": "e1_889_waifainopasuwaadowanandesuka.mp3",
+        "track_id": "L16-EX04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_889_waifainopasuwaadowanandesuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_890",
+      "lesson": 16,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Hotel Front Phrases",
+      "japanese": "朝食は何時からですか",
+      "furigana": "ちょうしょくはなんじからですか",
+      "romaji": "choushoku wa nanji kara desu ka",
+      "english": "From what time is breakfast?",
+      "sinhala": "උදෑසන ආහාරය ලැබෙන්නේ කීයේ සිටද?",
+      "audio": {
+        "file_name": "e1_890_choushoukuwananjikaradesuka.mp3",
+        "track_id": "L16-EX05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_890_choushoukuwananjikaradesuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_891",
+      "lesson": 16,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Room Requests",
+      "japanese": "部屋を変えてもらえますか",
+      "furigana": "へやをかえてもらえますか",
+      "romaji": "heya o kaete moraemasu ka",
+      "english": "Could I change rooms?",
+      "sinhala": "මගේ කාමරය මාරු කර දිය හැකිද?",
+      "audio": {
+        "file_name": "e1_891_heyaokaetemoraemasuka.mp3",
+        "track_id": "L16-EX06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_891_heyaokaetemoraemasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_892",
+      "lesson": 16,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Room Requests",
+      "japanese": "タオルをもう一枚ください",
+      "furigana": "タオルをもういちまいください",
+      "romaji": "taoru o mou ichimai kudasai",
+      "english": "Another towel, please",
+      "sinhala": "කරුණාකර තවත් තුවායක් දෙන්න",
+      "audio": {
+        "file_name": "e1_892_taoruomouichimaikudasai.mp3",
+        "track_id": "L16-EX07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_892_taoruomouichimaikudasai.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_893",
+      "lesson": 15,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Sightseeing Guidance",
+      "japanese": "おすすめの場所はありますか",
+      "furigana": "おすすめのばしょはありますか",
+      "romaji": "osusume no basho wa arimasu ka",
+      "english": "Are there any recommended places?",
+      "sinhala": "නිර්දේශ කරන තැන් තියෙනවාද?",
+      "audio": {
+        "file_name": "e1_893_osusumenobashowaarimasuka.mp3",
+        "track_id": "L15-EX08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_893_osusumenobashowaarimasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_894",
+      "lesson": 15,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Sightseeing Guidance",
+      "japanese": "ここからどう行きますか",
+      "furigana": "ここからどういきますか",
+      "romaji": "koko kara dou ikimasu ka",
+      "english": "How do I get there from here?",
+      "sinhala": "මෙතැන් සිට එහාට යන්නේ කොහොමද?",
+      "audio": {
+        "file_name": "e1_894_kokokaradouikimasuka.mp3",
+        "track_id": "L15-EX09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_894_kokokaradouikimasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_895",
+      "lesson": 15,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Photo Requests",
+      "japanese": "写真を撮ってもらえますか",
+      "furigana": "しゃしんをとってもらえますか",
+      "romaji": "shashin o totte moraemasu ka",
+      "english": "Could you take a picture for me?",
+      "sinhala": "කරුණාකර අපේ ඡායාරූපයක් ගත හැකිද?",
+      "audio": {
+        "file_name": "e1_895_shashinotottemoraemasuka.mp3",
+        "track_id": "L15-EX10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_895_shashinotottemoraemasuka.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_896",
+      "lesson": 15,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Travel Impressions",
+      "japanese": "とても楽しかったです",
+      "furigana": "とてもたのしかったです",
+      "romaji": "totemo tanoshikatta desu",
+      "english": "It was very fun",
+      "sinhala": "ගොඩක් විනෝදජනක වුණා",
+      "audio": {
+        "file_name": "e1_896_totemotanoshikattadesu.mp3",
+        "track_id": "L15-EX11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_896_totemotanoshikattadesu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_897",
+      "lesson": 15,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Travel Impressions",
+      "japanese": "景色が綺麗でした",
+      "furigana": "けしきがきれいでした",
+      "romaji": "keshiki ga kirei deshita",
+      "english": "The scenery was beautiful",
+      "sinhala": "දර්ශනය හරිම ලස්සනයි",
+      "audio": {
+        "file_name": "e1_897_keshikigakireideshita.mp3",
+        "track_id": "L15-EX12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_897_keshikigakireideshita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_898",
+      "lesson": 15,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Travel Impressions",
+      "japanese": "また行きたいです",
+      "furigana": "またいきたいです",
+      "romaji": "mata ikitai desu",
+      "english": "I want to go again",
+      "sinhala": "මට නැවතත් යන්න ඕනේ",
+      "audio": {
+        "file_name": "e1_898_mataikitaisu.mp3",
+        "track_id": "L15-EX13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_898_mataikitaisu.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_899",
+      "lesson": 15,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Greeting Phrases",
+      "japanese": "良い旅を",
+      "furigana": "いいたびを",
+      "romaji": "ii tabi o",
+      "english": "Have a good trip!",
+      "sinhala": "සුභ ගමනක් වේවා!",
+      "audio": {
+        "file_name": "e1_899_iitabio.mp3",
+        "track_id": "L15-EX14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_899_iitabio.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_900",
+      "lesson": 16,
+      "main_topic": "63. ホテル・旅行の表現 / Hotel & Travel Phrases",
+      "sub_topic": "Polite Parting Phrases",
+      "japanese": "お世話になりました",
+      "furigana": "おせわになりました",
+      "romaji": "osewa ni narimashita",
+      "english": "Thank you for your hospitality / care",
+      "sinhala": "ඔබගේ උපකාරයට හා ආගන්තුක සත්කාරයට බොහෝම ස්තූතියි",
+      "audio": {
+        "file_name": "e1_900_osewaninarimashita.mp3",
+        "track_id": "L16-EX15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_900_osewaninarimashita.png",
+        "category": "phrases",
+        "has_illustration": true
+      }
+    }
+  ]
+}

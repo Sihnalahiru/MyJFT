@@ -1,0 +1,2108 @@
+{
+  "level": "Irodori Elementary 1 (A2)",
+  "part": "Part 3",
+  "total_words": 100,
+  "coverage": "Dining out, food, restaurant menus, ordering, beverages, taste, cooking methods, tableware, and restaurant expressions with full Audio & Illustration mapping (Words 201-300).",
+  "vocabulary": [
+    {
+      "id": "e1_201",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Dining Places",
+      "japanese": "外食",
+      "furigana": "がいしょく",
+      "romaji": "gaishoku",
+      "english": "Dining out / Eating out",
+      "sinhala": "පිටතින් ආහාර ගැනීම",
+      "audio": {
+        "file_name": "e1_201_gaishoku.mp3",
+        "track_id": "L06-R01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_201_gaishoku.png",
+        "category": "dining",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_202",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Dining Places",
+      "japanese": "食堂",
+      "furigana": "しょくどう",
+      "romaji": "shokudou",
+      "english": "Cafeteria / Dining hall",
+      "sinhala": "ආපනශාලාව",
+      "audio": {
+        "file_name": "e1_202_shokudou.mp3",
+        "track_id": "L06-R02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_202_shokudou.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_203",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Dining Places",
+      "japanese": "レストラン",
+      "furigana": "レストラン",
+      "romaji": "resutoran",
+      "english": "Restaurant",
+      "sinhala": "අවන්හල / රෙස්ටුරන්ට්",
+      "audio": {
+        "file_name": "e1_203_resutoran.mp3",
+        "track_id": "L06-R03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_203_resutoran.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_204",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Dining Places",
+      "japanese": "喫茶店",
+      "furigana": "きっさてん",
+      "romaji": "kissaten",
+      "english": "Coffee shop / Cafe",
+      "sinhala": "කෝපි හල / කැෆේ එක",
+      "audio": {
+        "file_name": "e1_204_kissaten.mp3",
+        "track_id": "L06-R04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_204_kissaten.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_205",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Dining Places",
+      "japanese": "居酒屋",
+      "furigana": "いざかや",
+      "romaji": "izakaya",
+      "english": "Japanese style pub / Izakaya",
+      "sinhala": "ඉසකායා / ජපන් තැබෑරුම",
+      "audio": {
+        "file_name": "e1_205_izakaya.mp3",
+        "track_id": "L06-R05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_205_izakaya.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_206",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Dining Places",
+      "japanese": "ファストフード",
+      "furigana": "ファストフード",
+      "romaji": "fasutofuudo",
+      "english": "Fast food",
+      "sinhala": "ක්ෂණික ආහාර",
+      "audio": {
+        "file_name": "e1_206_fasutofuudo.mp3",
+        "track_id": "L06-R06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_206_fasutofuudo.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_207",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Dining Places",
+      "japanese": "ラーメン屋",
+      "furigana": "ラーメンや",
+      "romaji": "raamenya",
+      "english": "Ramen shop",
+      "sinhala": "රාමෙන් කඩය",
+      "audio": {
+        "file_name": "e1_207_raamenya.mp3",
+        "track_id": "L06-R07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_207_raamenya.png",
+        "category": "places",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_208",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Seating",
+      "japanese": "席",
+      "furigana": "せき",
+      "romaji": "seki",
+      "english": "Seat / Table",
+      "sinhala": "ආසනය / මේසය",
+      "audio": {
+        "file_name": "e1_208_seki.mp3",
+        "track_id": "L06-S01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_208_seki.png",
+        "category": "seating",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_209",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Seating",
+      "japanese": "禁煙席",
+      "furigana": "きんえんせき",
+      "romaji": "kin'enseki",
+      "english": "Non-smoking seat",
+      "sinhala": "දුම් නොබොන ආසනය",
+      "audio": {
+        "file_name": "e1_209_kinenseki.mp3",
+        "track_id": "L06-S02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_209_kinenseki.png",
+        "category": "seating",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_210",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Seating",
+      "japanese": "喫煙席",
+      "furigana": "きつえんせき",
+      "romaji": "kitsuenseki",
+      "english": "Smoking seat",
+      "sinhala": "දුම් බොන ආසනය",
+      "audio": {
+        "file_name": "e1_210_kitsuenseki.mp3",
+        "track_id": "L06-S03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_210_kitsuenseki.png",
+        "category": "seating",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_211",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Ordering Basics",
+      "japanese": "メニュー",
+      "furigana": "メニュー",
+      "romaji": "menyuu",
+      "english": "Menu",
+      "sinhala": "මෙනුව / කෑම ලැයිස්තුව",
+      "audio": {
+        "file_name": "e1_211_menyuu.mp3",
+        "track_id": "L06-O01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_211_menyuu.png",
+        "category": "ordering",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_212",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Ordering Basics",
+      "japanese": "注文",
+      "furigana": "ちゅうもん",
+      "romaji": "chuumon",
+      "english": "Order",
+      "sinhala": "ඇණවුම",
+      "audio": {
+        "file_name": "e1_212_chuumon.mp3",
+        "track_id": "L06-O02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_212_chuumon.png",
+        "category": "ordering",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_213",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Ordering Basics",
+      "japanese": "定食",
+      "furigana": "ていしょく",
+      "romaji": "teishoku",
+      "english": "Set meal",
+      "sinhala": "නියමිත කෑම වේල (Set meal)",
+      "audio": {
+        "file_name": "e1_213_teishoku.mp3",
+        "track_id": "L06-O03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_213_teishoku.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_214",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Ordering Basics",
+      "japanese": "単品",
+      "furigana": "たんぴん",
+      "romaji": "tanpin",
+      "english": "A la carte / Single item",
+      "sinhala": "තනි කෑම වර්ගයක් (A la carte)",
+      "audio": {
+        "file_name": "e1_214_tanpin.mp3",
+        "track_id": "L06-O04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_214_tanpin.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_215",
+      "lesson": 6,
+      "main_topic": "19. 外食と店 / Dining Out & Restaurants",
+      "sub_topic": "Ordering Basics",
+      "japanese": "おすすめ",
+      "furigana": "おすすめ",
+      "romaji": "osusume",
+      "english": "Recommendation",
+      "sinhala": "නිර්දේශිත ආහාරය",
+      "audio": {
+        "file_name": "e1_215_osusume.mp3",
+        "track_id": "L06-O05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_215_osusume.png",
+        "category": "ordering",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_216",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "ご飯",
+      "furigana": "ごはん",
+      "romaji": "gohan",
+      "english": "Rice / Meal",
+      "sinhala": "බත් / ආහාර වේල",
+      "audio": {
+        "file_name": "e1_216_gohan.mp3",
+        "track_id": "L06-F01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_216_gohan.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_217",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "味噌汁",
+      "furigana": "みそしる",
+      "romaji": "misoshiru",
+      "english": "Miso soup",
+      "sinhala": "මිසෝ සුප්",
+      "audio": {
+        "file_name": "e1_217_misoshiru.mp3",
+        "track_id": "L06-F02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_217_misoshiru.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_218",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "天ぷら",
+      "furigana": "てんぷら",
+      "romaji": "tenpura",
+      "english": "Tempura",
+      "sinhala": "ටෙම්පුරා",
+      "audio": {
+        "file_name": "e1_218_tenpura.mp3",
+        "track_id": "L06-F03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_218_tenpura.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_219",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "刺身",
+      "furigana": "さしみ",
+      "romaji": "sashimi",
+      "english": "Sashimi",
+      "sinhala": "සෂිමි (අමු මාළු පෙති)",
+      "audio": {
+        "file_name": "e1_219_sashimi.mp3",
+        "track_id": "L06-F04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_219_sashimi.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_220",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "寿司",
+      "furigana": "すし",
+      "romaji": "sushi",
+      "english": "Sushi",
+      "sinhala": "සුෂි",
+      "audio": {
+        "file_name": "e1_220_sushi.mp3",
+        "track_id": "L06-F05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_220_sushi.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_221",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "牛丼",
+      "furigana": "ぎゅうどん",
+      "romaji": "gyuudon",
+      "english": "Beef bowl",
+      "sinhala": "ගව මස් බත් බඳුන (Beef bowl)",
+      "audio": {
+        "file_name": "e1_221_gyuudon.mp3",
+        "track_id": "L06-F06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_221_gyuudon.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_222",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "カレーライス",
+      "furigana": "カレーライス",
+      "romaji": "kareeraisu",
+      "english": "Curry rice",
+      "sinhala": "කරි රයිස්",
+      "audio": {
+        "file_name": "e1_222_kareeraisu.mp3",
+        "track_id": "L06-F07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_222_kareeraisu.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_223",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "うどん",
+      "furigana": "うどん",
+      "romaji": "udon",
+      "english": "Udon noodles",
+      "sinhala": "උදොන් නූඩ්ල්ස්",
+      "audio": {
+        "file_name": "e1_223_udon.mp3",
+        "track_id": "L06-F08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_223_udon.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_224",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "そば",
+      "furigana": "そば",
+      "romaji": "soba",
+      "english": "Soba noodles",
+      "sinhala": "සොබා නූඩ්ල්ස්",
+      "audio": {
+        "file_name": "e1_224_soba.mp3",
+        "track_id": "L06-F09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_224_soba.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_225",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "焼き鳥",
+      "furigana": "やきとり",
+      "romaji": "yakitori",
+      "english": "Grilled chicken skewer",
+      "sinhala": "යකිටෝරි (කුකුළු මස් කූරු)",
+      "audio": {
+        "file_name": "e1_225_yakitori.mp3",
+        "track_id": "L06-F10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_225_yakitori.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_226",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "餃子",
+      "furigana": "ぎょうざ",
+      "romaji": "gyouza",
+      "english": "Gyoza / Dumplings",
+      "sinhala": "ග්යෝජා / ඩම්ප්ලින්ග්ස්",
+      "audio": {
+        "file_name": "e1_226_gyouza.mp3",
+        "track_id": "L06-F11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_226_gyouza.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_227",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "唐揚げ",
+      "furigana": "からあげ",
+      "romaji": "karaage",
+      "english": "Fried chicken",
+      "sinhala": "කැරආගෙ (බැදපු කුකුළු මස්)",
+      "audio": {
+        "file_name": "e1_227_karaage.mp3",
+        "track_id": "L06-F12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_227_karaage.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_228",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "サラダ",
+      "furigana": "サラダ",
+      "romaji": "sarada",
+      "english": "Salad",
+      "sinhala": "සලාද",
+      "audio": {
+        "file_name": "e1_228_sarada.mp3",
+        "track_id": "L06-F13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_228_sarada.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_229",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "スープ",
+      "furigana": "スープ",
+      "romaji": "suupu",
+      "english": "Soup",
+      "sinhala": "සුප්",
+      "audio": {
+        "file_name": "e1_229_suupu.mp3",
+        "track_id": "L06-F14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_229_suupu.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_230",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "肉料理",
+      "furigana": "にくりょうり",
+      "romaji": "nikuryouri",
+      "english": "Meat dish",
+      "sinhala": "මස් කෑම",
+      "audio": {
+        "file_name": "e1_230_nikuryouri.mp3",
+        "track_id": "L06-F15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_230_nikuryouri.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_231",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Common Meals",
+      "japanese": "魚料理",
+      "furigana": "さかなりょうり",
+      "romaji": "sakanaryouri",
+      "english": "Fish dish",
+      "sinhala": "මාළු කෑම",
+      "audio": {
+        "file_name": "e1_231_sakanaryouri.mp3",
+        "track_id": "L06-F16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_231_sakanaryouri.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_232",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Dessert",
+      "japanese": "デザート",
+      "furigana": "デザート",
+      "romaji": "dezaato",
+      "english": "Dessert",
+      "sinhala": "අතුරුපස",
+      "audio": {
+        "file_name": "e1_232_dezaato.mp3",
+        "track_id": "L06-F17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_232_dezaato.png",
+        "category": "dessert",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_233",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Dessert",
+      "japanese": "ケーキ",
+      "furigana": "ケーキ",
+      "romaji": "keeki",
+      "english": "Cake",
+      "sinhala": "කේක්",
+      "audio": {
+        "file_name": "e1_233_keeki.mp3",
+        "track_id": "L06-F18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_233_keeki.png",
+        "category": "dessert",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_234",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Dessert",
+      "japanese": "アイスクリーム",
+      "furigana": "アイスクリーム",
+      "romaji": "aisukuriimu",
+      "english": "Ice cream",
+      "sinhala": "අයිස්ක්‍රීම්",
+      "audio": {
+        "file_name": "e1_234_aisukuriimu.mp3",
+        "track_id": "L06-F19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_234_aisukuriimu.png",
+        "category": "dessert",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_235",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Meal Types",
+      "japanese": "弁当",
+      "furigana": "べんとう",
+      "romaji": "bentou",
+      "english": "Bento / Box lunch",
+      "sinhala": "බෙන්ටෝ (දිවා ආහාර පෙට්ටිය)",
+      "audio": {
+        "file_name": "e1_235_bentou.mp3",
+        "track_id": "L06-F20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_235_bentou.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_236",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Portions",
+      "japanese": "盛り合わせ",
+      "furigana": "もりあわせ",
+      "romaji": "moriawase",
+      "english": "Assortment / Platter",
+      "sinhala": "විවිධ කෑම එකතුවක් (Platter)",
+      "audio": {
+        "file_name": "e1_236_moriawase.mp3",
+        "track_id": "L06-PR01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_236_moriawase.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_237",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Portions",
+      "japanese": "大盛り",
+      "furigana": "おおもり",
+      "romaji": "oomori",
+      "english": "Large portion",
+      "sinhala": "ලොකු ප්‍රමාණය (Large portion)",
+      "audio": {
+        "file_name": "e1_237_oomori.mp3",
+        "track_id": "L06-PR02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_237_oomori.png",
+        "category": "portions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_238",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Portions",
+      "japanese": "普通盛り",
+      "furigana": "ふつうもり",
+      "romaji": "futsuumori",
+      "english": "Regular portion",
+      "sinhala": "සාමාන්‍ය ප්‍රමාණය (Regular)",
+      "audio": {
+        "file_name": "e1_238_futsuumori.mp3",
+        "track_id": "L06-PR03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_238_futsuumori.png",
+        "category": "portions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_239",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Portions",
+      "japanese": "少なめ",
+      "furigana": "すくなめ",
+      "romaji": "sukuname",
+      "english": "Small portion",
+      "sinhala": "අඩු ප්‍රමාණය (Small portion)",
+      "audio": {
+        "file_name": "e1_239_sukuname.mp3",
+        "track_id": "L06-PR04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_239_sukuname.png",
+        "category": "portions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_240",
+      "lesson": 6,
+      "main_topic": "20. 料理とメニュー / Dishes & Menu Items",
+      "sub_topic": "Portions",
+      "japanese": "おかわり",
+      "furigana": "おかわり",
+      "romaji": "okawari",
+      "english": "Another helping / Refill",
+      "sinhala": "නැවත බෙදා ගැනීම / රීෆිල්",
+      "audio": {
+        "file_name": "e1_240_okawari.mp3",
+        "track_id": "L06-PR05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_240_okawari.png",
+        "category": "portions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_241",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Drinks",
+      "japanese": "飲み物",
+      "furigana": "のみもの",
+      "romaji": "nomimono",
+      "english": "Beverage / Drink",
+      "sinhala": "බීම වර්ග",
+      "audio": {
+        "file_name": "e1_241_nomimono.mp3",
+        "track_id": "L06-B01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_241_nomimono.png",
+        "category": "beverages",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_242",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Drinks",
+      "japanese": "お茶",
+      "furigana": "おちゃ",
+      "romaji": "ocha",
+      "english": "Green tea / Tea",
+      "sinhala": "තේ / ග්‍රීන් ටී",
+      "audio": {
+        "file_name": "e1_242_ocha.mp3",
+        "track_id": "L06-B02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_242_ocha.png",
+        "category": "beverages",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_243",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Drinks",
+      "japanese": "水",
+      "furigana": "みず",
+      "romaji": "mizu",
+      "english": "Water",
+      "sinhala": "වතුර",
+      "audio": {
+        "file_name": "e1_243_mizu.mp3",
+        "track_id": "L06-B03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_243_mizu.png",
+        "category": "beverages",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_244",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Drinks",
+      "japanese": "お冷",
+      "furigana": "おひや",
+      "romaji": "ohiya",
+      "english": "Cold water (at restaurant)",
+      "sinhala": "සිසිල් වතුර (අවන්හල් වලදී)",
+      "audio": {
+        "file_name": "e1_244_ohiya.mp3",
+        "track_id": "L06-B04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_244_ohiya.png",
+        "category": "beverages",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_245",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Drinks",
+      "japanese": "お湯",
+      "furigana": "おゆ",
+      "romaji": "oyu",
+      "english": "Hot water",
+      "sinhala": "උණු වතුර",
+      "audio": {
+        "file_name": "e1_245_oyu.mp3",
+        "track_id": "L06-B05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_245_oyu.png",
+        "category": "beverages",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_246",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Drinks",
+      "japanese": "紅茶",
+      "furigana": "こうちゃ",
+      "romaji": "koucha",
+      "english": "Black tea",
+      "sinhala": "කළු තේ (Black tea)",
+      "audio": {
+        "file_name": "e1_246_koucha.mp3",
+        "track_id": "L06-B06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_246_koucha.png",
+        "category": "beverages",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_247",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Drinks",
+      "japanese": "コーヒー",
+      "furigana": "コーヒー",
+      "romaji": "koohii",
+      "english": "Coffee",
+      "sinhala": "කෝපි",
+      "audio": {
+        "file_name": "e1_247_koohii.mp3",
+        "track_id": "L06-B07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_247_koohii.png",
+        "category": "beverages",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_248",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Drinks",
+      "japanese": "ジュース",
+      "furigana": "ジュース",
+      "romaji": "juusu",
+      "english": "Juice",
+      "sinhala": "පළතුරු යුෂ / ජූස්",
+      "audio": {
+        "file_name": "e1_248_juusu.mp3",
+        "track_id": "L06-B08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_248_juusu.png",
+        "category": "beverages",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_249",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Drinks",
+      "japanese": "コーラ",
+      "furigana": "コーラ",
+      "romaji": "koora",
+      "english": "Cola",
+      "sinhala": "කෝලා",
+      "audio": {
+        "file_name": "e1_249_koora.mp3",
+        "track_id": "L06-B09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_249_koora.png",
+        "category": "beverages",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_250",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Drinks",
+      "japanese": "ウーロン茶",
+      "furigana": "ウーロンちゃ",
+      "romaji": "uuroncha",
+      "english": "Oolong tea",
+      "sinhala": "ඌලොන්ග් තේ",
+      "audio": {
+        "file_name": "e1_250_uuroncha.mp3",
+        "track_id": "L06-B10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_250_uuroncha.png",
+        "category": "beverages",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_251",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Alcohol",
+      "japanese": "ビール",
+      "furigana": "ビール",
+      "romaji": "biiru",
+      "english": "Beer",
+      "sinhala": "බියර්",
+      "audio": {
+        "file_name": "e1_251_biiru.mp3",
+        "track_id": "L06-A01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_251_biiru.png",
+        "category": "alcohol",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_252",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Alcohol",
+      "japanese": "生ビール",
+      "furigana": "なまビール",
+      "romaji": "namabiiru",
+      "english": "Draft beer",
+      "sinhala": "ඩ්‍රාෆ්ට් බියර්",
+      "audio": {
+        "file_name": "e1_252_namabiiru.mp3",
+        "track_id": "L06-A02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_252_namabiiru.png",
+        "category": "alcohol",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_253",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Alcohol",
+      "japanese": "お酒",
+      "furigana": "おさけ",
+      "romaji": "osake",
+      "english": "Alcohol / Sake",
+      "sinhala": "මත්පැන් / සාකේ",
+      "audio": {
+        "file_name": "e1_253_osake.mp3",
+        "track_id": "L06-A03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_253_osake.png",
+        "category": "alcohol",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_254",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Alcohol",
+      "japanese": "日本酒",
+      "furigana": "にほんしゅ",
+      "romaji": "nihonshu",
+      "english": "Japanese sake (rice wine)",
+      "sinhala": "ජපන් සාකේ",
+      "audio": {
+        "file_name": "e1_254_nihonshu.mp3",
+        "track_id": "L06-A04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_254_nihonshu.png",
+        "category": "alcohol",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_255",
+      "lesson": 6,
+      "main_topic": "21. 飲み物 / Beverages",
+      "sub_topic": "Alcohol",
+      "japanese": "ワイン",
+      "furigana": "ワイン",
+      "romaji": "wain",
+      "english": "Wine",
+      "sinhala": "වයින්",
+      "audio": {
+        "file_name": "e1_255_wain.mp3",
+        "track_id": "L06-A05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_255_wain.png",
+        "category": "alcohol",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_256",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Taste",
+      "japanese": "味",
+      "furigana": "あじ",
+      "romaji": "aji",
+      "english": "Taste / Flavor",
+      "sinhala": "රසය",
+      "audio": {
+        "file_name": "e1_256_aji.mp3",
+        "track_id": "L07-T01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_256_aji.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_257",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Taste",
+      "japanese": "美味しい",
+      "furigana": "おいしい",
+      "romaji": "oishii",
+      "english": "Delicious / Tasty",
+      "sinhala": "රසවත්",
+      "audio": {
+        "file_name": "e1_257_oishii.mp3",
+        "track_id": "L07-T02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_257_oishii.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_258",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Taste",
+      "japanese": "まずい",
+      "furigana": "まずい",
+      "romaji": "mazui",
+      "english": "Bad-tasting / Unpleasant",
+      "sinhala": "අප්‍රසන්න / රස නැති",
+      "audio": {
+        "file_name": "e1_258_mazui.mp3",
+        "track_id": "L07-T03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_258_mazui.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_259",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Taste",
+      "japanese": "甘い",
+      "furigana": "あまい",
+      "romaji": "amai",
+      "english": "Sweet",
+      "sinhala": "පැණිරස",
+      "audio": {
+        "file_name": "e1_259_amai.mp3",
+        "track_id": "L07-T04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_259_amai.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_260",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Taste",
+      "japanese": "辛い",
+      "furigana": "からい",
+      "romaji": "karai",
+      "english": "Spicy / Hot",
+      "sinhala": "සැර",
+      "audio": {
+        "file_name": "e1_260_karai.mp3",
+        "track_id": "L07-T05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_260_karai.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_261",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Taste",
+      "japanese": "しょっぱい",
+      "furigana": "しょっぱい",
+      "romaji": "shoppai",
+      "english": "Salty",
+      "sinhala": "ලුණු රස / කරදිය රස",
+      "audio": {
+        "file_name": "e1_261_shoppai.mp3",
+        "track_id": "L07-T06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_261_shoppai.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_262",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Taste",
+      "japanese": "酸っぱい",
+      "furigana": "すっぱい",
+      "romaji": "suppai",
+      "english": "Sour",
+      "sinhala": "ඇඹුල්",
+      "audio": {
+        "file_name": "e1_262_suppai.mp3",
+        "track_id": "L07-T07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_262_suppai.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_263",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Taste",
+      "japanese": "苦い",
+      "furigana": "にがい",
+      "romaji": "nigai",
+      "english": "Bitter",
+      "sinhala": "තිත්ත",
+      "audio": {
+        "file_name": "e1_263_nigai.mp3",
+        "track_id": "L07-T08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_263_nigai.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_264",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Flavor Intensity",
+      "japanese": "濃い",
+      "furigana": "こい",
+      "romaji": "koi",
+      "english": "Rich / Strong (flavor)",
+      "sinhala": "තද රස / ඝන රස",
+      "audio": {
+        "file_name": "e1_264_koi.mp3",
+        "track_id": "L07-T09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_264_koi.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_265",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Flavor Intensity",
+      "japanese": "薄い",
+      "furigana": "うすい",
+      "romaji": "usui",
+      "english": "Light / Mild (flavor)",
+      "sinhala": "ලා රස / දියාරු",
+      "audio": {
+        "file_name": "e1_265_usui.mp3",
+        "track_id": "L07-T10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_265_usui.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_266",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Temperature",
+      "japanese": "熱い",
+      "furigana": "あつい",
+      "romaji": "atsui",
+      "english": "Hot (food/drink)",
+      "sinhala": "උණුසුම් (කෑම/බීම)",
+      "audio": {
+        "file_name": "e1_266_atsui.mp3",
+        "track_id": "L07-TM01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_266_atsui.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_267",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Temperature",
+      "japanese": "冷たい",
+      "furigana": "つめたい",
+      "romaji": "tsumetai",
+      "english": "Cold (food/drink)",
+      "sinhala": "සිසිල් / සීතල",
+      "audio": {
+        "file_name": "e1_267_tsumetai.mp3",
+        "track_id": "L07-TM02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_267_tsumetai.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_268",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Texture",
+      "japanese": "柔らかい",
+      "furigana": "やわらかい",
+      "romaji": "yawarakai",
+      "english": "Soft / Tender",
+      "sinhala": "මෘදු / මොළොක්",
+      "audio": {
+        "file_name": "e1_268_yawarakai.mp3",
+        "track_id": "L07-TM03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_268_yawarakai.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_269",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Texture",
+      "japanese": "硬い",
+      "furigana": "かたい",
+      "romaji": "katai",
+      "english": "Hard / Tough",
+      "sinhala": "තද / හයිය",
+      "audio": {
+        "file_name": "e1_269_katai.mp3",
+        "track_id": "L07-TM04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_269_katai.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_270",
+      "lesson": 7,
+      "main_topic": "22. 味と状態 / Tastes & Sensations",
+      "sub_topic": "Freshness",
+      "japanese": "新鮮",
+      "furigana": "しんせん",
+      "romaji": "shinsen",
+      "english": "Fresh",
+      "sinhala": "නැවුම්",
+      "audio": {
+        "file_name": "e1_270_shinsen.mp3",
+        "track_id": "L07-TM05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_270_shinsen.png",
+        "category": "tastes",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_271",
+      "lesson": 6,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Actions",
+      "japanese": "食べる",
+      "furigana": "たべる",
+      "romaji": "taberu",
+      "english": "To eat",
+      "sinhala": "කනවා",
+      "audio": {
+        "file_name": "e1_271_taberu.mp3",
+        "track_id": "L06-AC01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_271_taberu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_272",
+      "lesson": 6,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Actions",
+      "japanese": "飲む",
+      "furigana": "のむ",
+      "romaji": "nomu",
+      "english": "To drink",
+      "sinhala": "බොනවා",
+      "audio": {
+        "file_name": "e1_272_nomu.mp3",
+        "track_id": "L06-AC02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_272_nomu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_273",
+      "lesson": 6,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Actions",
+      "japanese": "注文する",
+      "furigana": "ちゅうもんする",
+      "romaji": "chuumon suru",
+      "english": "To order",
+      "sinhala": "ඇණවුම් කරනවා",
+      "audio": {
+        "file_name": "e1_273_chuumonsuru.mp3",
+        "track_id": "L06-AC03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_273_chuumonsuru.png",
+        "category": "ordering",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_274",
+      "lesson": 6,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Actions",
+      "japanese": "頼む",
+      "furigana": "たのむ",
+      "romaji": "tanomu",
+      "english": "To order / ask for",
+      "sinhala": "ඉල්ලනවා / ඇණවුම් කරනවා",
+      "audio": {
+        "file_name": "e1_274_tanomu.mp3",
+        "track_id": "L06-AC04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_274_tanomu.png",
+        "category": "ordering",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_275",
+      "lesson": 7,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Actions",
+      "japanese": "料理する",
+      "furigana": "りょうりする",
+      "romaji": "ryouri suru",
+      "english": "To cook",
+      "sinhala": "උයනවා / කෑම හදනවා",
+      "audio": {
+        "file_name": "e1_275_ryourisuru.mp3",
+        "track_id": "L07-AC01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_275_ryourisuru.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_276",
+      "lesson": 7,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Actions",
+      "japanese": "作る",
+      "furigana": "つくる",
+      "romaji": "tsukuru",
+      "english": "To make / prepare",
+      "sinhala": "සාදනවා / පිළියෙල කරනවා",
+      "audio": {
+        "file_name": "e1_276_tsukuru.mp3",
+        "track_id": "L07-AC02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_276_tsukuru.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_277",
+      "lesson": 7,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Cooking Methods",
+      "japanese": "焼く",
+      "furigana": "やく",
+      "romaji": "yaku",
+      "english": "To grill / roast / bake",
+      "sinhala": "පුළුස්සනවා / බදිනවා",
+      "audio": {
+        "file_name": "e1_277_yaku.mp3",
+        "track_id": "L07-CM01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_277_yaku.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_278",
+      "lesson": 7,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Cooking Methods",
+      "japanese": "煮る",
+      "furigana": "にる",
+      "romaji": "niru",
+      "english": "To boil / simmer",
+      "sinhala": "තම්බනවා / නටවනවා",
+      "audio": {
+        "file_name": "e1_278_niru.mp3",
+        "track_id": "L07-CM02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_278_niru.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_279",
+      "lesson": 7,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Cooking Methods",
+      "japanese": "揚げる",
+      "furigana": "あげる",
+      "romaji": "ageru",
+      "english": "To deep-fry",
+      "sinhala": "ගැඹුරු තෙලේ බදිනවා",
+      "audio": {
+        "file_name": "e1_279_ageru.mp3",
+        "track_id": "L07-CM03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_279_ageru.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_280",
+      "lesson": 7,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Cooking Methods",
+      "japanese": "炒める",
+      "furigana": "いためる",
+      "romaji": "itameru",
+      "english": "To stir-fry",
+      "sinhala": "තෙම්පරාදු කරනවා",
+      "audio": {
+        "file_name": "e1_280_itameru.mp3",
+        "track_id": "L07-CM04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_280_itameru.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_281",
+      "lesson": 7,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Actions",
+      "japanese": "切る",
+      "furigana": "きる",
+      "romaji": "kiru",
+      "english": "To cut / slice",
+      "sinhala": "කපනවා",
+      "audio": {
+        "file_name": "e1_281_kiru.mp3",
+        "track_id": "L07-AC03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_281_kiru.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_282",
+      "lesson": 7,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Actions",
+      "japanese": "つける",
+      "furigana": "つける",
+      "romaji": "tsukeru",
+      "english": "To dip / soak",
+      "sinhala": "ගිල්වනවා (සෝස් වල ආදී)",
+      "audio": {
+        "file_name": "e1_282_tsukeru.mp3",
+        "track_id": "L07-AC04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_282_tsukeru.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_283",
+      "lesson": 7,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Actions",
+      "japanese": "かける",
+      "furigana": "かける",
+      "romaji": "kakeru",
+      "english": "To pour / sprinkle over",
+      "sinhala": "උඩින් වත්කරනවා / ඉසිනවා",
+      "audio": {
+        "file_name": "e1_283_kakeru.mp3",
+        "track_id": "L07-AC05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_283_kakeru.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_284",
+      "lesson": 7,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Actions",
+      "japanese": "入れる",
+      "furigana": "いれる",
+      "romaji": "ireru",
+      "english": "To put in / add",
+      "sinhala": "දමනවා / ඇතුළත් කරනවා",
+      "audio": {
+        "file_name": "e1_284_ireru.mp3",
+        "track_id": "L07-AC06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_284_ireru.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_285",
+      "lesson": 6,
+      "main_topic": "23. 調理と食事の動作 / Cooking & Dining Actions",
+      "sub_topic": "Actions",
+      "japanese": "払う",
+      "furigana": "はらう",
+      "romaji": "harau",
+      "english": "To pay",
+      "sinhala": "මුදල් ගෙවනවා",
+      "audio": {
+        "file_name": "e1_285_harau.mp3",
+        "track_id": "L06-AC05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_285_harau.png",
+        "category": "payment",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_286",
+      "lesson": 6,
+      "main_topic": "24. 食器と調味料 / Tableware & Seasonings",
+      "sub_topic": "Tableware",
+      "japanese": "箸",
+      "furigana": "はし",
+      "romaji": "hashi",
+      "english": "Chopsticks",
+      "sinhala": "චොප්ස්ටික්ස්",
+      "audio": {
+        "file_name": "e1_286_hashi.mp3",
+        "track_id": "L06-TW01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_286_hashi.png",
+        "category": "tableware",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_287",
+      "lesson": 6,
+      "main_topic": "24. 食器と調味料 / Tableware & Seasonings",
+      "sub_topic": "Tableware",
+      "japanese": "スプーン",
+      "furigana": "スプーン",
+      "romaji": "supuun",
+      "english": "Spoon",
+      "sinhala": "හැන්ද",
+      "audio": {
+        "file_name": "e1_287_supuun.mp3",
+        "track_id": "L06-TW02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_287_supuun.png",
+        "category": "tableware",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_288",
+      "lesson": 6,
+      "main_topic": "24. 食器と調味料 / Tableware & Seasonings",
+      "sub_topic": "Tableware",
+      "japanese": "フォーク",
+      "furigana": "フォーク",
+      "romaji": "fooku",
+      "english": "Fork",
+      "sinhala": "ගෑරුප්පුව",
+      "audio": {
+        "file_name": "e1_288_fooku.mp3",
+        "track_id": "L06-TW03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_288_fooku.png",
+        "category": "tableware",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_289",
+      "lesson": 6,
+      "main_topic": "24. 食器と調味料 / Tableware & Seasonings",
+      "sub_topic": "Tableware",
+      "japanese": "皿",
+      "furigana": "さら",
+      "romaji": "sara",
+      "english": "Plate / Dish",
+      "sinhala": "පිඟාන",
+      "audio": {
+        "file_name": "e1_289_sara.mp3",
+        "track_id": "L06-TW04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_289_sara.png",
+        "category": "tableware",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_290",
+      "lesson": 6,
+      "main_topic": "24. 食器と調味料 / Tableware & Seasonings",
+      "sub_topic": "Tableware",
+      "japanese": "茶碗",
+      "furigana": "ちゃわん",
+      "romaji": "chawan",
+      "english": "Rice bowl / Teacup",
+      "sinhala": "බත් කෝප්පය / බඳුන",
+      "audio": {
+        "file_name": "e1_290_chawan.mp3",
+        "track_id": "L06-TW05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_290_chawan.png",
+        "category": "tableware",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_291",
+      "lesson": 7,
+      "main_topic": "24. 食器と調味料 / Tableware & Seasonings",
+      "sub_topic": "Seasonings",
+      "japanese": "醤油",
+      "furigana": "しょうゆ",
+      "romaji": "shouyu",
+      "english": "Soy sauce",
+      "sinhala": "සෝයා සෝස්",
+      "audio": {
+        "file_name": "e1_291_shouyu.mp3",
+        "track_id": "L07-SE01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_291_shouyu.png",
+        "category": "seasonings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_292",
+      "lesson": 7,
+      "main_topic": "24. 食器と調味料 / Tableware & Seasonings",
+      "sub_topic": "Seasonings",
+      "japanese": "塩",
+      "furigana": "しお",
+      "romaji": "shio",
+      "english": "Salt",
+      "sinhala": "ලුණු",
+      "audio": {
+        "file_name": "e1_292_shio.mp3",
+        "track_id": "L07-SE02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_292_shio.png",
+        "category": "seasonings",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_293",
+      "lesson": 6,
+      "main_topic": "25. 飲食店での表現 / Restaurant Expressions",
+      "sub_topic": "Service Phrases",
+      "japanese": "何名様ですか",
+      "furigana": "なんめいさまですか",
+      "romaji": "nanmeisama desu ka",
+      "english": "How many people in your party?",
+      "sinhala": "කී දෙනෙක්ද? (ආගන්තුකයින් ගණන)",
+      "audio": {
+        "file_name": "e1_293_nanmeisamadesuka.mp3",
+        "track_id": "L06-EX01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_293_nanmeisamadesuka.png",
+        "category": "restaurant_phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_294",
+      "lesson": 6,
+      "main_topic": "25. 飲食店での表現 / Restaurant Expressions",
+      "sub_topic": "Service Phrases",
+      "japanese": "ご注文はお決まりですか",
+      "furigana": "ごちゅうもんはおきまりですか",
+      "romaji": "gochuumon wa okimari desu ka",
+      "english": "Have you decided on your order?",
+      "sinhala": "ඔබ ඇණවුම තෝරාගත්තාද?",
+      "audio": {
+        "file_name": "e1_294_gochuumonwaokimaridesuka.mp3",
+        "track_id": "L06-EX02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_294_gochuumonwaokimaridesuka.png",
+        "category": "restaurant_phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_295",
+      "lesson": 6,
+      "main_topic": "25. 飲食店での表現 / Restaurant Expressions",
+      "sub_topic": "Ordering Phrases",
+      "japanese": "これをお願いします",
+      "furigana": "これをおねがいします",
+      "romaji": "kore o onegaishimasu",
+      "english": "This one, please",
+      "sinhala": "කරුණාකර මට මේක දෙන්න",
+      "audio": {
+        "file_name": "e1_295_koreoonegaishimasu.mp3",
+        "track_id": "L06-EX03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_295_koreoonegaishimasu.png",
+        "category": "restaurant_phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_296",
+      "lesson": 6,
+      "main_topic": "25. 飲食店での表現 / Restaurant Expressions",
+      "sub_topic": "Service Phrases",
+      "japanese": "以上でよろしいですか",
+      "furigana": "いじょうでよろしいですか",
+      "romaji": "ijou de yoroshii desu ka",
+      "english": "Will that be all?",
+      "sinhala": "එපමණක්ද?",
+      "audio": {
+        "file_name": "e1_296_ijoudeyoroshiidesuka.mp3",
+        "track_id": "L06-EX04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_296_ijoudeyoroshiidesuka.png",
+        "category": "restaurant_phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_297",
+      "lesson": 6,
+      "main_topic": "25. 飲食店での表現 / Restaurant Expressions",
+      "sub_topic": "Service Phrases",
+      "japanese": "かしこまりました",
+      "furigana": "かしこまりました",
+      "romaji": "kashikomarimashita",
+      "english": "Certainly / Understood",
+      "sinhala": "හොඳයි, ඒ ආකාරයෙන්ම කරන්නම්",
+      "audio": {
+        "file_name": "e1_297_kashikomarimashita.mp3",
+        "track_id": "L06-EX05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_297_kashikomarimashita.png",
+        "category": "restaurant_phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_298",
+      "lesson": 6,
+      "main_topic": "25. 飲食店での表現 / Restaurant Expressions",
+      "sub_topic": "Payment Phrases",
+      "japanese": "お会計をお願いします",
+      "furigana": "おかいけいをおねがいします",
+      "romaji": "okaikei o onegaishimasu",
+      "english": "Check / Bill, please",
+      "sinhala": "කරුණාකර බිල ගෙනෙන්න",
+      "audio": {
+        "file_name": "e1_298_okaikeioonegaishimasu.mp3",
+        "track_id": "L06-EX06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_298_okaikeioonegaishimasu.png",
+        "category": "restaurant_phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_299",
+      "lesson": 6,
+      "main_topic": "25. 飲食店での表現 / Restaurant Expressions",
+      "sub_topic": "Meal Expressions",
+      "japanese": "ごちそうさまでした",
+      "furigana": "ごちそうさまでした",
+      "romaji": "gochisousama deshita",
+      "english": "Thank you for the meal (after eating)",
+      "sinhala": "කෑම වේලට බොහෝම ස්තූතියි (කෑමෙන් පසු)",
+      "audio": {
+        "file_name": "e1_299_gochisousamadeshita.mp3",
+        "track_id": "L06-EX07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_299_gochisousamadeshita.png",
+        "category": "restaurant_phrases",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_300",
+      "lesson": 6,
+      "main_topic": "25. 飲食店での表現 / Restaurant Expressions",
+      "sub_topic": "Meal Expressions",
+      "japanese": "いただきます",
+      "furigana": "いただきます",
+      "romaji": "itadakimasu",
+      "english": "Thank you for the meal (before eating)",
+      "sinhala": "ආහාර ගැනීමට පෙර පවසන ප්‍රකාශය",
+      "audio": {
+        "file_name": "e1_300_itadakimasu.mp3",
+        "track_id": "L06-EX08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_300_itadakimasu.png",
+        "category": "restaurant_phrases",
+        "has_illustration": true
+      }
+    }
+  ]
+}
