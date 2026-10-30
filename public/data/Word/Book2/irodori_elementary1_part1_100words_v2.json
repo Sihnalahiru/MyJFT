@@ -1,0 +1,2108 @@
+{
+  "level": "Irodori Elementary 1 (A2)",
+  "part": "Part 1",
+  "total_words": 100,
+  "coverage": "Daily life routines, morning activities, time/frequency, household items, actions, adjectives, people/workplace, and daily expressions with full Audio & Illustration mapping (Words 1-100).",
+  "vocabulary": [
+    {
+      "id": "e1_001",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Daily Routines",
+      "japanese": "起きます",
+      "furigana": "おきます",
+      "romaji": "okimasu",
+      "english": "To wake up / get up",
+      "sinhala": "නැගිටිනවා",
+      "audio": {
+        "file_name": "e1_001_okimasu.mp3",
+        "track_id": "L01-V01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_001_okimasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_002",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Daily Routines",
+      "japanese": "寝ます",
+      "furigana": "ねます",
+      "romaji": "nemasu",
+      "english": "To sleep / go to bed",
+      "sinhala": "නිදාගන්නවා",
+      "audio": {
+        "file_name": "e1_002_nemasu.mp3",
+        "track_id": "L01-V02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_002_nemasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_003",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Daily Routines",
+      "japanese": "働きます",
+      "furigana": "はたらきます",
+      "romaji": "hatarakimasu",
+      "english": "To work",
+      "sinhala": "වැඩ කරනවා",
+      "audio": {
+        "file_name": "e1_003_hatarakimasu.mp3",
+        "track_id": "L01-V03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_003_hatarakimasu.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_004",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Daily Routines",
+      "japanese": "休みます",
+      "furigana": "やすみます",
+      "romaji": "yasumimasu",
+      "english": "To rest / take a day off",
+      "sinhala": "විවේක ගන්නවා / නිවාඩු ගන්නවා",
+      "audio": {
+        "file_name": "e1_004_yasumimasu.mp3",
+        "track_id": "L01-V04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_004_yasumimasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_005",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Daily Routines",
+      "japanese": "勉強します",
+      "furigana": "べんきょうします",
+      "romaji": "benkyou shimasu",
+      "english": "To study",
+      "sinhala": "පාඩම් කරනවා / ඉගෙන ගන්නවා",
+      "audio": {
+        "file_name": "e1_005_benkyoushimasu.mp3",
+        "track_id": "L01-V05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_005_benkyoushimasu.png",
+        "category": "education",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_006",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Daily Routines",
+      "japanese": "終わります",
+      "furigana": "おわります",
+      "romaji": "owarimasu",
+      "english": "To finish / end",
+      "sinhala": "අවසන් වෙනවා",
+      "audio": {
+        "file_name": "e1_006_owarimasu.mp3",
+        "track_id": "L01-V06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_006_owarimasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_007",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Daily Routines",
+      "japanese": "行きます",
+      "furigana": "いきます",
+      "romaji": "ikimasu",
+      "english": "To go",
+      "sinhala": "යනවා",
+      "audio": {
+        "file_name": "e1_007_ikimasu.mp3",
+        "track_id": "L01-V07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_007_ikimasu.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_008",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Daily Routines",
+      "japanese": "来ます",
+      "furigana": "きます",
+      "romaji": "kimasu",
+      "english": "To come",
+      "sinhala": "එනවා",
+      "audio": {
+        "file_name": "e1_008_kimasu.mp3",
+        "track_id": "L01-V08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_008_kimasu.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_009",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Daily Routines",
+      "japanese": "帰ります",
+      "furigana": "かえります",
+      "romaji": "kaerimasu",
+      "english": "To return / go home",
+      "sinhala": "ආපසු යනවා / ගෙදර යනවා",
+      "audio": {
+        "file_name": "e1_009_kaerimasu.mp3",
+        "track_id": "L01-V09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_009_kaerimasu.png",
+        "category": "movement",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_010",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Daily Routines",
+      "japanese": "食べます",
+      "furigana": "たべます",
+      "romaji": "tabemasu",
+      "english": "To eat",
+      "sinhala": "කනවා",
+      "audio": {
+        "file_name": "e1_010_tabemasu.mp3",
+        "track_id": "L01-V10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_010_tabemasu.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_011",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Morning Activities",
+      "japanese": "飲みます",
+      "furigana": "のみます",
+      "romaji": "nomimasu",
+      "english": "To drink",
+      "sinhala": "බොනවා",
+      "audio": {
+        "file_name": "e1_011_nomimasu.mp3",
+        "track_id": "L01-V11",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_011_nomimasu.png",
+        "category": "food",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_012",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Morning Activities",
+      "japanese": "見ます",
+      "furigana": "みます",
+      "romaji": "mimasu",
+      "english": "To see / watch / look",
+      "sinhala": "බලනවා",
+      "audio": {
+        "file_name": "e1_012_mimasu.mp3",
+        "track_id": "L01-V12",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_012_mimasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_013",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Morning Activities",
+      "japanese": "聞きます",
+      "furigana": "ききます",
+      "romaji": "kikimasu",
+      "english": "To listen / hear",
+      "sinhala": "අසනවා",
+      "audio": {
+        "file_name": "e1_013_kikimasu.mp3",
+        "track_id": "L01-V13",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_013_kikimasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_014",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Morning Activities",
+      "japanese": "読みます",
+      "furigana": "よみます",
+      "romaji": "yomimasu",
+      "english": "To read",
+      "sinhala": "කියවනවා",
+      "audio": {
+        "file_name": "e1_014_yomimasu.mp3",
+        "track_id": "L01-V14",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_014_yomimasu.png",
+        "category": "education",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_015",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Morning Activities",
+      "japanese": "書きます",
+      "furigana": "かきます",
+      "romaji": "kakimasu",
+      "english": "To write / draw",
+      "sinhala": "ලියනවා / අඳිනවා",
+      "audio": {
+        "file_name": "e1_015_kakimasu.mp3",
+        "track_id": "L01-V15",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_015_kakimasu.png",
+        "category": "education",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_016",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Morning Activities",
+      "japanese": "買います",
+      "furigana": "かいます",
+      "romaji": "kaimasu",
+      "english": "To buy",
+      "sinhala": "මිලදී ගන්නවා",
+      "audio": {
+        "file_name": "e1_016_kaimasu.mp3",
+        "track_id": "L01-V16",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_016_kaimasu.png",
+        "category": "shopping",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_017",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Morning Activities",
+      "japanese": "喋ります",
+      "furigana": "しゃべります",
+      "romaji": "shaberimasu",
+      "english": "To chat / talk",
+      "sinhala": "කතාබහ කරනවා",
+      "audio": {
+        "file_name": "e1_017_shaberimasu.mp3",
+        "track_id": "L01-V17",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_017_shaberimasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_018",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Morning Activities",
+      "japanese": "会います",
+      "furigana": "あいます",
+      "romaji": "aimasu",
+      "english": "To meet",
+      "sinhala": "හමුවෙනවා",
+      "audio": {
+        "file_name": "e1_018_aimasu.mp3",
+        "track_id": "L01-V18",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_018_aimasu.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_019",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Morning Activities",
+      "japanese": "作ります",
+      "furigana": "つくります",
+      "romaji": "tsukurimasu",
+      "english": "To make / build",
+      "sinhala": "හදනවා / සකස් කරනවා",
+      "audio": {
+        "file_name": "e1_019_tsukurimasu.mp3",
+        "track_id": "L01-V19",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_019_tsukurimasu.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_020",
+      "lesson": 1,
+      "main_topic": "1. 毎日の生活 / Daily Life",
+      "sub_topic": "Morning Activities",
+      "japanese": "切ります",
+      "furigana": "きります",
+      "romaji": "kirimasu",
+      "english": "To cut",
+      "sinhala": "කපනවා",
+      "audio": {
+        "file_name": "e1_020_kirimasu.mp3",
+        "track_id": "L01-V20",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_020_kirimasu.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_021",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Time Expressions",
+      "japanese": "毎日",
+      "furigana": "まいにち",
+      "romaji": "mainichi",
+      "english": "Every day",
+      "sinhala": "දිනපතා / හැමදාම",
+      "audio": {
+        "file_name": "e1_021_mainichi.mp3",
+        "track_id": "L01-T01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_021_mainichi.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_022",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Time Expressions",
+      "japanese": "毎朝",
+      "furigana": "まいあさ",
+      "romaji": "maiasa",
+      "english": "Every morning",
+      "sinhala": "හැම උදෑසනකම",
+      "audio": {
+        "file_name": "e1_022_maiasa.mp3",
+        "track_id": "L01-T02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_022_maiasa.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_023",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Time Expressions",
+      "japanese": "毎晩",
+      "furigana": "まいばん",
+      "romaji": "maiban",
+      "english": "Every night",
+      "sinhala": "හැම රාත්‍රියකම",
+      "audio": {
+        "file_name": "e1_023_maiban.mp3",
+        "track_id": "L01-T03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_023_maiban.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_024",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Time Expressions",
+      "japanese": "週末",
+      "furigana": "しゅうまつ",
+      "romaji": "shuumatsu",
+      "english": "Weekend",
+      "sinhala": "සති අන්තය",
+      "audio": {
+        "file_name": "e1_024_shuumatsu.mp3",
+        "track_id": "L01-T04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_024_shuumatsu.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_025",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Time Expressions",
+      "japanese": "先週",
+      "furigana": "せんしゅう",
+      "romaji": "senshuu",
+      "english": "Last week",
+      "sinhala": "ගිය සතිය",
+      "audio": {
+        "file_name": "e1_025_senshuu.mp3",
+        "track_id": "L01-T05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_025_senshuu.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_026",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Time Expressions",
+      "japanese": "今週",
+      "furigana": "こんしゅう",
+      "romaji": "konshuu",
+      "english": "This week",
+      "sinhala": "මෙම සතිය",
+      "audio": {
+        "file_name": "e1_026_konshuu.mp3",
+        "track_id": "L01-T06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_026_konshuu.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_027",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Time Expressions",
+      "japanese": "来週",
+      "furigana": "らいしゅう",
+      "romaji": "raishuu",
+      "english": "Next week",
+      "sinhala": "ලබන සතිය",
+      "audio": {
+        "file_name": "e1_027_raishuu.mp3",
+        "track_id": "L01-T07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_027_raishuu.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_028",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Days of the Week",
+      "japanese": "月曜日",
+      "furigana": "げつようび",
+      "romaji": "getsuyoubi",
+      "english": "Monday",
+      "sinhala": "සඳුදා",
+      "audio": {
+        "file_name": "e1_028_getsuyoubi.mp3",
+        "track_id": "L01-D01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_028_getsuyoubi.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_029",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Days of the Week",
+      "japanese": "火曜日",
+      "furigana": "かようび",
+      "romaji": "kayoubi",
+      "english": "Tuesday",
+      "sinhala": "අඟහරුවාදා",
+      "audio": {
+        "file_name": "e1_029_kayoubi.mp3",
+        "track_id": "L01-D02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_029_kayoubi.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_030",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Days of the Week",
+      "japanese": "水曜日",
+      "furigana": "すいようび",
+      "romaji": "suiyoubi",
+      "english": "Wednesday",
+      "sinhala": "බදාදා",
+      "audio": {
+        "file_name": "e1_030_suiyoubi.mp3",
+        "track_id": "L01-D03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_030_suiyoubi.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_031",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Days of the Week",
+      "japanese": "木曜日",
+      "furigana": "もくようび",
+      "romaji": "mokuyoubi",
+      "english": "Thursday",
+      "sinhala": "බ්‍රහස්පතින්දා",
+      "audio": {
+        "file_name": "e1_031_mokuyoubi.mp3",
+        "track_id": "L01-D04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_031_mokuyoubi.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_032",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Days of the Week",
+      "japanese": "金曜日",
+      "furigana": "きんようび",
+      "romaji": "kinyoubi",
+      "english": "Friday",
+      "sinhala": "සිකුරාදා",
+      "audio": {
+        "file_name": "e1_032_kinyoubi.mp3",
+        "track_id": "L01-D05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_032_kinyoubi.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_033",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Days of the Week",
+      "japanese": "土曜日",
+      "furigana": "どようび",
+      "romaji": "doyoubi",
+      "english": "Saturday",
+      "sinhala": "සෙනසුරාදා",
+      "audio": {
+        "file_name": "e1_033_doyoubi.mp3",
+        "track_id": "L01-D06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_033_doyoubi.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_034",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Days of the Week",
+      "japanese": "日曜日",
+      "furigana": "にちようび",
+      "romaji": "nichiyoubi",
+      "english": "Sunday",
+      "sinhala": "ඉරිදා",
+      "audio": {
+        "file_name": "e1_034_nichiyoubi.mp3",
+        "track_id": "L01-D07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_034_nichiyoubi.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_035",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Frequency",
+      "japanese": "いつも",
+      "furigana": "いつも",
+      "romaji": "itsumo",
+      "english": "Always",
+      "sinhala": "නිතරම / සැමදා",
+      "audio": {
+        "file_name": "e1_035_itsumo.mp3",
+        "track_id": "L01-F01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_035_itsumo.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_036",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Frequency",
+      "japanese": "時々",
+      "furigana": "ときどき",
+      "romaji": "tokidoki",
+      "english": "Sometimes",
+      "sinhala": "සමහර විට",
+      "audio": {
+        "file_name": "e1_036_tokidoki.mp3",
+        "track_id": "L01-F02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_036_tokidoki.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_037",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Frequency",
+      "japanese": "あまり",
+      "furigana": "あまり",
+      "romaji": "amari",
+      "english": "Not much (with negative)",
+      "sinhala": "එතරම් (නැහැ)",
+      "audio": {
+        "file_name": "e1_037_amari.mp3",
+        "track_id": "L01-F03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_037_amari.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_038",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Frequency",
+      "japanese": "全然",
+      "furigana": "ぜんぜん",
+      "romaji": "zenzen",
+      "english": "Not at all (with negative)",
+      "sinhala": "කිසිසේත්ම (නැහැ)",
+      "audio": {
+        "file_name": "e1_038_zenzen.mp3",
+        "track_id": "L01-F04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_038_zenzen.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_039",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Time Expressions",
+      "japanese": "今",
+      "furigana": "いま",
+      "romaji": "ima",
+      "english": "Now",
+      "sinhala": "දැන්",
+      "audio": {
+        "file_name": "e1_039_ima.mp3",
+        "track_id": "L01-T08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_039_ima.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_040",
+      "lesson": 1,
+      "main_topic": "2. 時間と頻度 / Time & Frequency",
+      "sub_topic": "Time Expressions",
+      "japanese": "1時間",
+      "furigana": "いちじかん",
+      "romaji": "ichijikan",
+      "english": "One hour",
+      "sinhala": "පැය එකයි",
+      "audio": {
+        "file_name": "e1_040_ichijikan.mp3",
+        "track_id": "L01-T09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_040_ichijikan.png",
+        "category": "calendar",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_041",
+      "lesson": 2,
+      "main_topic": "3. 家と部屋 / Home & Room",
+      "sub_topic": "Household",
+      "japanese": "部屋",
+      "furigana": "へや",
+      "romaji": "heya",
+      "english": "Room",
+      "sinhala": "කාමරය",
+      "audio": {
+        "file_name": "e1_041_heya.mp3",
+        "track_id": "L02-H01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_041_heya.png",
+        "category": "house",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_042",
+      "lesson": 2,
+      "main_topic": "3. 家と部屋 / Home & Room",
+      "sub_topic": "Household",
+      "japanese": "ベッド",
+      "furigana": "ベッド",
+      "romaji": "beddo",
+      "english": "Bed",
+      "sinhala": "ඇඳ",
+      "audio": {
+        "file_name": "e1_042_beddo.mp3",
+        "track_id": "L02-H02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_042_beddo.png",
+        "category": "furniture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_043",
+      "lesson": 2,
+      "main_topic": "3. 家と部屋 / Home & Room",
+      "sub_topic": "Household",
+      "japanese": "机",
+      "furigana": "つくえ",
+      "romaji": "tsukue",
+      "english": "Desk",
+      "sinhala": "මේසය",
+      "audio": {
+        "file_name": "e1_043_tsukue.mp3",
+        "track_id": "L02-H03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_043_tsukue.png",
+        "category": "furniture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_044",
+      "lesson": 2,
+      "main_topic": "3. 家と部屋 / Home & Room",
+      "sub_topic": "Household",
+      "japanese": "椅子",
+      "furigana": "いす",
+      "romaji": "isu",
+      "english": "Chair",
+      "sinhala": "පුටුව",
+      "audio": {
+        "file_name": "e1_044_isu.mp3",
+        "track_id": "L02-H04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_044_isu.png",
+        "category": "furniture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_045",
+      "lesson": 2,
+      "main_topic": "3. 家と部屋 / Home & Room",
+      "sub_topic": "Household",
+      "japanese": "エアコン",
+      "furigana": "エアコン",
+      "romaji": "eakon",
+      "english": "Air conditioner",
+      "sinhala": "වායු සමීකරණය",
+      "audio": {
+        "file_name": "e1_045_eakon.mp3",
+        "track_id": "L02-H05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_045_eakon.png",
+        "category": "appliances",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_046",
+      "lesson": 2,
+      "main_topic": "3. 家と部屋 / Home & Room",
+      "sub_topic": "Household",
+      "japanese": "テレビ",
+      "furigana": "テレビ",
+      "romaji": "terebi",
+      "english": "Television",
+      "sinhala": "රූපවාහිනිය",
+      "audio": {
+        "file_name": "e1_046_terebi.mp3",
+        "track_id": "L02-H06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_046_terebi.png",
+        "category": "appliances",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_047",
+      "lesson": 2,
+      "main_topic": "3. 家と部屋 / Home & Room",
+      "sub_topic": "Household",
+      "japanese": "冷蔵庫",
+      "furigana": "れいぞうこ",
+      "romaji": "reizouko",
+      "english": "Refrigerator",
+      "sinhala": "ශීතකරණය",
+      "audio": {
+        "file_name": "e1_047_reizouko.mp3",
+        "track_id": "L02-H07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_047_reizouko.png",
+        "category": "appliances",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_048",
+      "lesson": 2,
+      "main_topic": "3. 家と部屋 / Home & Room",
+      "sub_topic": "Household",
+      "japanese": "洗濯機",
+      "furigana": "せんたくき",
+      "romaji": "sentakuki",
+      "english": "Washing machine",
+      "sinhala": "රෙදි සෝදන යන්ත්‍රය",
+      "audio": {
+        "file_name": "e1_048_sentakuki.mp3",
+        "track_id": "L02-H08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_048_sentakuki.png",
+        "category": "appliances",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_049",
+      "lesson": 2,
+      "main_topic": "3. 家と部屋 / Home & Room",
+      "sub_topic": "Household",
+      "japanese": "シャワー",
+      "furigana": "シャワー",
+      "romaji": "shawaa",
+      "english": "Shower",
+      "sinhala": "ෂවර් එක / නාන පහසුකම",
+      "audio": {
+        "file_name": "e1_049_shawaa.mp3",
+        "track_id": "L02-H09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_049_shawaa.png",
+        "category": "house",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_050",
+      "lesson": 2,
+      "main_topic": "3. 家と部屋 / Home & Room",
+      "sub_topic": "Household",
+      "japanese": "時計",
+      "furigana": "とけい",
+      "romaji": "tokei",
+      "english": "Clock / Watch",
+      "sinhala": "ඔරලෝසුව",
+      "audio": {
+        "file_name": "e1_050_tokei.mp3",
+        "track_id": "L02-H10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_050_tokei.png",
+        "category": "furniture",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_051",
+      "lesson": 2,
+      "main_topic": "4. 行動と動作 / Actions & Movements",
+      "sub_topic": "Verbs",
+      "japanese": "洗います",
+      "furigana": "あらいます",
+      "romaji": "araimasu",
+      "english": "To wash",
+      "sinhala": "සෝදනවා",
+      "audio": {
+        "file_name": "e1_051_araimasu.mp3",
+        "track_id": "L02-A01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_051_araimasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_052",
+      "lesson": 2,
+      "main_topic": "4. 行動と動作 / Actions & Movements",
+      "sub_topic": "Verbs",
+      "japanese": "掃除します",
+      "furigana": "そうじします",
+      "romaji": "souji shimasu",
+      "english": "To clean",
+      "sinhala": "පිරිසිදු කරනවා",
+      "audio": {
+        "file_name": "e1_052_soujishimasu.mp3",
+        "track_id": "L02-A02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_052_soujishimasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_053",
+      "lesson": 2,
+      "main_topic": "4. 行動と動作 / Actions & Movements",
+      "sub_topic": "Verbs",
+      "japanese": "洗濯します",
+      "furigana": "せんたくします",
+      "romaji": "sentaku shimasu",
+      "english": "To do laundry",
+      "sinhala": "රෙදි සෝදනවා",
+      "audio": {
+        "file_name": "e1_053_sentakushimasu.mp3",
+        "track_id": "L02-A03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_053_sentakushimasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_054",
+      "lesson": 2,
+      "main_topic": "4. 行動と動作 / Actions & Movements",
+      "sub_topic": "Verbs",
+      "japanese": "料理します",
+      "furigana": "りょうりします",
+      "romaji": "ryouri shimasu",
+      "english": "To cook",
+      "sinhala": "උයනවා / ආහාර සකස් කරනවා",
+      "audio": {
+        "file_name": "e1_054_ryourishimasu.mp3",
+        "track_id": "L02-A04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_054_ryourishimasu.png",
+        "category": "cooking",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_055",
+      "lesson": 2,
+      "main_topic": "4. 行動と動作 / Actions & Movements",
+      "sub_topic": "Verbs",
+      "japanese": "変えます",
+      "furigana": "かえます",
+      "romaji": "kaemasu",
+      "english": "To change / alter",
+      "sinhala": "වෙනස් කරනවා / මාරු කරනවා",
+      "audio": {
+        "file_name": "e1_055_kaemasu.mp3",
+        "track_id": "L02-A05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_055_kaemasu.png",
+        "category": "actions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_056",
+      "lesson": 2,
+      "main_topic": "4. 行動と動作 / Actions & Movements",
+      "sub_topic": "Verbs",
+      "japanese": "撮ります",
+      "furigana": "とります",
+      "romaji": "torimasu",
+      "english": "To take (a photo / time)",
+      "sinhala": "ගන්නවා (ඡායාරූපයක් ආදී)",
+      "audio": {
+        "file_name": "e1_056_torimasu.mp3",
+        "track_id": "L02-A06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_056_torimasu.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_057",
+      "lesson": 2,
+      "main_topic": "4. 行動と動作 / Actions & Movements",
+      "sub_topic": "Verbs",
+      "japanese": "歌います",
+      "furigana": "うたいます",
+      "romaji": "utaimasu",
+      "english": "To sing",
+      "sinhala": "ගීත ගායනා කරනවා",
+      "audio": {
+        "file_name": "e1_057_utaimasu.mp3",
+        "track_id": "L02-A07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_057_utaimasu.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_058",
+      "lesson": 2,
+      "main_topic": "4. 行動と動作 / Actions & Movements",
+      "sub_topic": "Verbs",
+      "japanese": "弾きます",
+      "furigana": "ひきます",
+      "romaji": "hikimasu",
+      "english": "To play (instrument/piano)",
+      "sinhala": "වාදනය කරනවා",
+      "audio": {
+        "file_name": "e1_058_hikimasu.mp3",
+        "track_id": "L02-A08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_058_hikimasu.png",
+        "category": "hobbies",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_059",
+      "lesson": 2,
+      "main_topic": "4. 行動と動作 / Actions & Movements",
+      "sub_topic": "Verbs",
+      "japanese": "泳ぎます",
+      "furigana": "およぎます",
+      "romaji": "oyogimasu",
+      "english": "To swim",
+      "sinhala": "පිහිනනවා",
+      "audio": {
+        "file_name": "e1_059_oyogimasu.mp3",
+        "track_id": "L02-A09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_059_oyogimasu.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_060",
+      "lesson": 2,
+      "main_topic": "4. 行動と動作 / Actions & Movements",
+      "sub_topic": "Verbs",
+      "japanese": "散歩します",
+      "furigana": "さんぽします",
+      "romaji": "sanpo shimasu",
+      "english": "To take a walk",
+      "sinhala": "ඇවිදින්න යනවා",
+      "audio": {
+        "file_name": "e1_060_sanposhimasu.mp3",
+        "track_id": "L02-A10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_060_sanposhimasu.png",
+        "category": "sports",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_061",
+      "lesson": 2,
+      "main_topic": "5. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "忙しい",
+      "furigana": "いそがしい",
+      "romaji": "isogashii",
+      "english": "Busy",
+      "sinhala": "කාර්යබහුලයි",
+      "audio": {
+        "file_name": "e1_061_isogashii.mp3",
+        "track_id": "L02-AD01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_061_isogashii.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_062",
+      "lesson": 2,
+      "main_topic": "5. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "暇",
+      "furigana": "ひま",
+      "romaji": "hima",
+      "english": "Free (time)",
+      "sinhala": "නිදහස් වේලාවක් ඇති",
+      "audio": {
+        "file_name": "e1_062_hima.mp3",
+        "track_id": "L02-AD02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_062_hima.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_063",
+      "lesson": 2,
+      "main_topic": "5. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "楽しい",
+      "furigana": "たのしい",
+      "romaji": "tanoshii",
+      "english": "Fun / Enjoyable",
+      "sinhala": "ප්‍රීතිමත් / විනෝදජනකයි",
+      "audio": {
+        "file_name": "e1_063_tanoshii.mp3",
+        "track_id": "L02-AD03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_063_tanoshii.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_064",
+      "lesson": 2,
+      "main_topic": "5. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "面白い",
+      "furigana": "おもしろい",
+      "romaji": "omoshiroi",
+      "english": "Interesting",
+      "sinhala": "කුතුහලය දනවන / රසවත්",
+      "audio": {
+        "file_name": "e1_064_omoshiroi.mp3",
+        "track_id": "L02-AD04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_064_omoshiroi.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_065",
+      "lesson": 2,
+      "main_topic": "5. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "つまらない",
+      "furigana": "つまらない",
+      "romaji": "tsumaranai",
+      "english": "Boring",
+      "sinhala": "නීරසයි / කම්මැලි",
+      "audio": {
+        "file_name": "e1_065_tsumaranai.mp3",
+        "track_id": "L02-AD05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_065_tsumaranai.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_066",
+      "lesson": 2,
+      "main_topic": "5. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "綺麗",
+      "furigana": "きれい",
+      "romaji": "kirei",
+      "english": "Beautiful / Clean",
+      "sinhala": "ලස්සනයි / පිරිසිදුයි",
+      "audio": {
+        "file_name": "e1_066_kirei.mp3",
+        "track_id": "L02-AD06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_066_kirei.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_067",
+      "lesson": 2,
+      "main_topic": "5. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "有名",
+      "furigana": "ゆうめい",
+      "romaji": "yuumei",
+      "english": "Famous",
+      "sinhala": "ප්‍රසිද්ධයි",
+      "audio": {
+        "file_name": "e1_067_yuumei.mp3",
+        "track_id": "L02-AD07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_067_yuumei.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_068",
+      "lesson": 2,
+      "main_topic": "5. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "静か",
+      "furigana": "しずか",
+      "romaji": "shizuka",
+      "english": "Quiet",
+      "sinhala": "නිශ්ශබ්දයි",
+      "audio": {
+        "file_name": "e1_068_shizuka.mp3",
+        "track_id": "L02-AD08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_068_shizuka.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_069",
+      "lesson": 2,
+      "main_topic": "5. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "元気",
+      "furigana": "げんき",
+      "romaji": "genki",
+      "english": "Healthy / Energetic",
+      "sinhala": "නිරෝගී / සතුටින් සිටින",
+      "audio": {
+        "file_name": "e1_069_genki.mp3",
+        "track_id": "L02-AD09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_069_genki.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_070",
+      "lesson": 2,
+      "main_topic": "5. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "大変",
+      "furigana": "たいへん",
+      "romaji": "taihen",
+      "english": "Hard / Tough / Terrible",
+      "sinhala": "අමාරුයි / දැඩි දුෂ්කරයි",
+      "audio": {
+        "file_name": "e1_070_taihen.mp3",
+        "track_id": "L02-AD10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_070_taihen.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_071",
+      "lesson": 3,
+      "main_topic": "6. 人と人間関係 / People & Relationships",
+      "sub_topic": "Relationships",
+      "japanese": "家族",
+      "furigana": "かぞく",
+      "romaji": "kazoku",
+      "english": "Family",
+      "sinhala": "පවුල",
+      "audio": {
+        "file_name": "e1_071_kazoku.mp3",
+        "track_id": "L03-P01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_071_kazoku.png",
+        "category": "family",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_072",
+      "lesson": 3,
+      "main_topic": "6. 人と人間関係 / People & Relationships",
+      "sub_topic": "Relationships",
+      "japanese": "両親",
+      "furigana": "りょうしん",
+      "romaji": "ryoushin",
+      "english": "Parents",
+      "sinhala": "මව්පියන්",
+      "audio": {
+        "file_name": "e1_072_ryoushin.mp3",
+        "track_id": "L03-P02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_072_ryoushin.png",
+        "category": "family",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_073",
+      "lesson": 3,
+      "main_topic": "6. 人と人間関係 / People & Relationships",
+      "sub_topic": "Relationships",
+      "japanese": "兄弟",
+      "furigana": "きょうだい",
+      "romaji": "kyoudai",
+      "english": "Siblings",
+      "sinhala": "සහෝදර සහෝදරියන්",
+      "audio": {
+        "file_name": "e1_073_kyoudai.mp3",
+        "track_id": "L03-P03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_073_kyoudai.png",
+        "category": "family",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_074",
+      "lesson": 3,
+      "main_topic": "6. 人と人間関係 / People & Relationships",
+      "sub_topic": "Relationships",
+      "japanese": "妻",
+      "furigana": "つま",
+      "romaji": "tsuma",
+      "english": "Wife (humble)",
+      "sinhala": "භාර්යාව / බිරිඳ",
+      "audio": {
+        "file_name": "e1_074_tsuma.mp3",
+        "track_id": "L03-P04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_074_tsuma.png",
+        "category": "family",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_075",
+      "lesson": 3,
+      "main_topic": "6. 人と人間関係 / People & Relationships",
+      "sub_topic": "Relationships",
+      "japanese": "夫",
+      "furigana": "おっと",
+      "romaji": "otto",
+      "english": "Husband (humble)",
+      "sinhala": "ස්වාමිපුරුෂයා / සැමියා",
+      "audio": {
+        "file_name": "e1_075_otto.mp3",
+        "track_id": "L03-P05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_075_otto.png",
+        "category": "family",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_076",
+      "lesson": 3,
+      "main_topic": "6. 人と人間関係 / People & Relationships",
+      "sub_topic": "Relationships",
+      "japanese": "叔父さん",
+      "furigana": "おじさん",
+      "romaji": "ojisan",
+      "english": "Uncle / Middle-aged man",
+      "sinhala": "මාමා / බාප්පා",
+      "audio": {
+        "file_name": "e1_076_ojisan.mp3",
+        "track_id": "L03-P06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_076_ojisan.png",
+        "category": "family",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_077",
+      "lesson": 3,
+      "main_topic": "6. 人と人間関係 / People & Relationships",
+      "sub_topic": "Relationships",
+      "japanese": "叔母さん",
+      "furigana": "おばさん",
+      "romaji": "obasan",
+      "english": "Aunt / Middle-aged woman",
+      "sinhala": "නැන්දා",
+      "audio": {
+        "file_name": "e1_077_obasan.mp3",
+        "track_id": "L03-P07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_077_obasan.png",
+        "category": "family",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_078",
+      "lesson": 3,
+      "main_topic": "6. 人と人間関係 / People & Relationships",
+      "sub_topic": "Relationships",
+      "japanese": "外国人",
+      "furigana": "がいこくじん",
+      "romaji": "gaikokujin",
+      "english": "Foreigner",
+      "sinhala": "විදේශිකයා",
+      "audio": {
+        "file_name": "e1_078_gaikokujin.mp3",
+        "track_id": "L03-P08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_078_gaikokujin.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_079",
+      "lesson": 3,
+      "main_topic": "6. 人と人間関係 / People & Relationships",
+      "sub_topic": "Relationships",
+      "japanese": "留学生",
+      "furigana": "りゅうがくせい",
+      "romaji": "ryuugakusei",
+      "english": "International student",
+      "sinhala": "විදේශීය ශිෂ්‍යයා",
+      "audio": {
+        "file_name": "e1_079_ryuugakusei.mp3",
+        "track_id": "L03-P09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_079_ryuugakusei.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_080",
+      "lesson": 3,
+      "main_topic": "6. 人と人間関係 / People & Relationships",
+      "sub_topic": "Relationships",
+      "japanese": "紹介",
+      "furigana": "しょうかい",
+      "romaji": "shoukai",
+      "english": "Introduction",
+      "sinhala": "හඳුන්වාදීම",
+      "audio": {
+        "file_name": "e1_080_shoukai.mp3",
+        "track_id": "L03-P10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_080_shoukai.png",
+        "category": "people",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_081",
+      "lesson": 3,
+      "main_topic": "7. 仕事と職場 / Work & Workplace",
+      "sub_topic": "Occupations",
+      "japanese": "会社員",
+      "furigana": "かいしゃいん",
+      "romaji": "kaishain",
+      "english": "Company employee",
+      "sinhala": "සමාගම් සේවකයා",
+      "audio": {
+        "file_name": "e1_081_kaishain.mp3",
+        "track_id": "L03-W01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_081_kaishain.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_082",
+      "lesson": 3,
+      "main_topic": "7. 仕事と職場 / Work & Workplace",
+      "sub_topic": "Occupations",
+      "japanese": "社長",
+      "furigana": "しゃちょう",
+      "romaji": "shachou",
+      "english": "Company president / CEO",
+      "sinhala": "සමාගම් සභාපති / අධ්‍යක්ෂක",
+      "audio": {
+        "file_name": "e1_082_shachou.mp3",
+        "track_id": "L03-W02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_082_shachou.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_083",
+      "lesson": 3,
+      "main_topic": "7. 仕事と職場 / Work & Workplace",
+      "sub_topic": "Occupations",
+      "japanese": "部長",
+      "furigana": "ぶちょう",
+      "romaji": "buchou",
+      "english": "Department manager",
+      "sinhala": "අංශ ප්‍රධානියා",
+      "audio": {
+        "file_name": "e1_083_buchou.mp3",
+        "track_id": "L03-W03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_083_buchou.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_084",
+      "lesson": 3,
+      "main_topic": "7. 仕事と職場 / Work & Workplace",
+      "sub_topic": "Occupations",
+      "japanese": "課長",
+      "furigana": "かちょう",
+      "romaji": "kachou",
+      "english": "Section manager",
+      "sinhala": "කොටස් ප්‍රධානියා",
+      "audio": {
+        "file_name": "e1_084_kachou.mp3",
+        "track_id": "L03-W04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_084_kachou.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_085",
+      "lesson": 3,
+      "main_topic": "7. 仕事と職場 / Work & Workplace",
+      "sub_topic": "Occupations",
+      "japanese": "先生",
+      "furigana": "せんせい",
+      "romaji": "sensei",
+      "english": "Teacher / Instructor",
+      "sinhala": "ගුරුවරයා",
+      "audio": {
+        "file_name": "e1_085_sensei.mp3",
+        "track_id": "L03-W05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_085_sensei.png",
+        "category": "education",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_086",
+      "lesson": 3,
+      "main_topic": "7. 仕事と職場 / Work & Workplace",
+      "sub_topic": "Occupations",
+      "japanese": "医者",
+      "furigana": "いしゃ",
+      "romaji": "isha",
+      "english": "Doctor",
+      "sinhala": "වෛද්‍යවරයා",
+      "audio": {
+        "file_name": "e1_086_isha.mp3",
+        "track_id": "L03-W06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_086_isha.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_087",
+      "lesson": 3,
+      "main_topic": "7. 仕事と職場 / Work & Workplace",
+      "sub_topic": "Occupations",
+      "japanese": "看護師",
+      "furigana": "かんごし",
+      "romaji": "kangoshi",
+      "english": "Nurse",
+      "sinhala": "හෙදිය",
+      "audio": {
+        "file_name": "e1_087_kangoshi.mp3",
+        "track_id": "L03-W07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_087_kangoshi.png",
+        "category": "medical",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_088",
+      "lesson": 3,
+      "main_topic": "7. 仕事と職場 / Work & Workplace",
+      "sub_topic": "Occupations",
+      "japanese": "エンジニア",
+      "furigana": "エンジニア",
+      "romaji": "enjinia",
+      "english": "Engineer",
+      "sinhala": "ඉංජිනේරුවා",
+      "audio": {
+        "file_name": "e1_088_enjinia.mp3",
+        "track_id": "L03-W08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_088_enjinia.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_089",
+      "lesson": 3,
+      "main_topic": "7. 仕事と職場 / Work & Workplace",
+      "sub_topic": "Occupations",
+      "japanese": "店員",
+      "furigana": "てんいん",
+      "romaji": "tenin",
+      "english": "Shop clerk",
+      "sinhala": "සාප්පු සේවකයා",
+      "audio": {
+        "file_name": "e1_089_tenin.mp3",
+        "track_id": "L03-W09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_089_tenin.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_090",
+      "lesson": 3,
+      "main_topic": "7. 仕事と職場 / Work & Workplace",
+      "sub_topic": "Occupations",
+      "japanese": "アルバイト",
+      "furigana": "アルバイト",
+      "romaji": "arubaito",
+      "english": "Part-time job",
+      "sinhala": "අර්ධකාලීන රැකියාව",
+      "audio": {
+        "file_name": "e1_090_arubaito.mp3",
+        "track_id": "L03-W10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_090_arubaito.png",
+        "category": "work",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_091",
+      "lesson": 3,
+      "main_topic": "8. 日常の表現 / Daily Expressions",
+      "sub_topic": "Polite Phrases",
+      "japanese": "どうも",
+      "furigana": "どうも",
+      "romaji": "doumo",
+      "english": "Thanks / Hello",
+      "sinhala": "ස්තූතියි",
+      "audio": {
+        "file_name": "e1_091_doumo.mp3",
+        "track_id": "L03-E01",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_091_doumo.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_092",
+      "lesson": 3,
+      "main_topic": "8. 日常の表現 / Daily Expressions",
+      "sub_topic": "Polite Phrases",
+      "japanese": "すみません",
+      "furigana": "すみません",
+      "romaji": "sumimasen",
+      "english": "Excuse me / Sorry",
+      "sinhala": "සමාවෙන්න",
+      "audio": {
+        "file_name": "e1_092_sumimasen.mp3",
+        "track_id": "L03-E02",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_092_sumimasen.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_093",
+      "lesson": 3,
+      "main_topic": "8. 日常の表現 / Daily Expressions",
+      "sub_topic": "Polite Phrases",
+      "japanese": "失礼します",
+      "furigana": "しつれいします",
+      "romaji": "shitsurei shimasu",
+      "english": "Excuse me / Goodbye (polite)",
+      "sinhala": "අවසරයි / මම යනවා",
+      "audio": {
+        "file_name": "e1_093_shitsureishimasu.mp3",
+        "track_id": "L03-E03",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_093_shitsureishimasu.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_094",
+      "lesson": 3,
+      "main_topic": "8. 日常の表現 / Daily Expressions",
+      "sub_topic": "Polite Phrases",
+      "japanese": "お願いします",
+      "furigana": "おねがいします",
+      "romaji": "onegaishimasu",
+      "english": "Please",
+      "sinhala": "කරුණාකර",
+      "audio": {
+        "file_name": "e1_094_onegaishimasu.mp3",
+        "track_id": "L03-E04",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_094_onegaishimasu.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_095",
+      "lesson": 3,
+      "main_topic": "8. 日常の表現 / Daily Expressions",
+      "sub_topic": "Polite Phrases",
+      "japanese": "分かりました",
+      "furigana": "わかりました",
+      "romaji": "wakarimashita",
+      "english": "Understood",
+      "sinhala": "තේරුණා",
+      "audio": {
+        "file_name": "e1_095_wakarimashita.mp3",
+        "track_id": "L03-E05",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_095_wakarimashita.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_096",
+      "lesson": 3,
+      "main_topic": "8. 日常の表現 / Daily Expressions",
+      "sub_topic": "Polite Phrases",
+      "japanese": "いいですよ",
+      "furigana": "いいですよ",
+      "romaji": "ii desu yo",
+      "english": "Sure / That's fine",
+      "sinhala": "කමක් නැහැ / පුළුවන්",
+      "audio": {
+        "file_name": "e1_096_iidesuyo.mp3",
+        "track_id": "L03-E06",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_096_iidesuyo.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_097",
+      "lesson": 3,
+      "main_topic": "8. 日常の表現 / Daily Expressions",
+      "sub_topic": "Polite Phrases",
+      "japanese": "ちょっと",
+      "furigana": "ちょっと",
+      "romaji": "chotto",
+      "english": "A little / Just a moment",
+      "sinhala": "පොඩ්ඩක්",
+      "audio": {
+        "file_name": "e1_097_chotto.mp3",
+        "track_id": "L03-E07",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_097_chotto.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_098",
+      "lesson": 3,
+      "main_topic": "8. 日常の表現 / Daily Expressions",
+      "sub_topic": "Polite Phrases",
+      "japanese": "本当ですか",
+      "furigana": "ほんとうですか",
+      "romaji": "hontou desu ka",
+      "english": "Really?",
+      "sinhala": "ඇත්තටමද?",
+      "audio": {
+        "file_name": "e1_098_hontoudesuka.mp3",
+        "track_id": "L03-E08",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_098_hontoudesuka.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_099",
+      "lesson": 3,
+      "main_topic": "8. 日常の表現 / Daily Expressions",
+      "sub_topic": "Polite Phrases",
+      "japanese": "よかったですね",
+      "furigana": "よかったですね",
+      "romaji": "yokatta desu ne",
+      "english": "That's great / I'm glad",
+      "sinhala": "ඒක හරිම සතුටක්",
+      "audio": {
+        "file_name": "e1_099_yokattadesune.mp3",
+        "track_id": "L03-E09",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_099_yokattadesune.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "e1_100",
+      "lesson": 3,
+      "main_topic": "8. 日常の表現 / Daily Expressions",
+      "sub_topic": "Polite Phrases",
+      "japanese": "お疲れ様でした",
+      "furigana": "おつかれさまでした",
+      "romaji": "otsukaresama deshita",
+      "english": "Good work today",
+      "sinhala": "මහන්සි වුණා නේද",
+      "audio": {
+        "file_name": "e1_100_otsukaresamadeshita.mp3",
+        "track_id": "L03-E10",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "e1_100_otsukaresamadeshita.png",
+        "category": "expressions",
+        "has_illustration": true
+      }
+    }
+  ]
+}
