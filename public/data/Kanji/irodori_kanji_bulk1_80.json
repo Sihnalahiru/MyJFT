@@ -1,0 +1,2648 @@
+{
+  "level": "Irodori Starter & Elem1 (N5 level)",
+  "part": "Kanji Bulk 1 (1-80)",
+  "total_words": 80,
+  "coverage": "First 80 foundational N5 kanji from Irodori curriculum with full readings, meanings, and multimedia support.",
+  "vocabulary": [
+    {
+      "id": "kj_001",
+      "kanji": "日",
+      "grade_level": "Starter / N5",
+      "lesson": 2,
+      "stroke_count": 4,
+      "radical": "日",
+      "readings": {
+        "onyomi": {
+          "kana": "ニチ, ジツ",
+          "romaji": "nichi, jitsu"
+        },
+        "kunyomi": {
+          "kana": "ひ, -び, -か",
+          "romaji": "hi, -bi, -ka"
+        }
+      },
+      "meanings": {
+        "english": "Day, Sun",
+        "sinhala": "දවස, ඉර (හිරු)"
+      },
+      "audio": {
+        "file_name": "kj_001_nichi.mp3",
+        "track_id": "KJ-001",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_001_mnemonic.png",
+        "stroke_order_image": "kj_001_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_002",
+      "kanji": "一",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 1,
+      "radical": "一",
+      "readings": {
+        "onyomi": {
+          "kana": "イチ, イツ",
+          "romaji": "ichi, itsu"
+        },
+        "kunyomi": {
+          "kana": "ひと, ひと.つ",
+          "romaji": "hito, hito.tsu"
+        }
+      },
+      "meanings": {
+        "english": "One",
+        "sinhala": "එක"
+      },
+      "audio": {
+        "file_name": "kj_002_ichi.mp3",
+        "track_id": "KJ-002",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_002_mnemonic.png",
+        "stroke_order_image": "kj_002_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_003",
+      "kanji": "二",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 2,
+      "radical": "二",
+      "readings": {
+        "onyomi": {
+          "kana": "ニ, ジ",
+          "romaji": "ni, ji"
+        },
+        "kunyomi": {
+          "kana": "ふた, ふた.つ",
+          "romaji": "futa, futa.tsu"
+        }
+      },
+      "meanings": {
+        "english": "Two",
+        "sinhala": "දෙක"
+      },
+      "audio": {
+        "file_name": "kj_003_ni.mp3",
+        "track_id": "KJ-003",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_003_mnemonic.png",
+        "stroke_order_image": "kj_003_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_004",
+      "kanji": "三",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 3,
+      "radical": "一",
+      "readings": {
+        "onyomi": {
+          "kana": "サン",
+          "romaji": "san"
+        },
+        "kunyomi": {
+          "kana": "み, み.つ, みっ.つ",
+          "romaji": "mi, mi.tsu, mit.tsu"
+        }
+      },
+      "meanings": {
+        "english": "Three",
+        "sinhala": "තුන"
+      },
+      "audio": {
+        "file_name": "kj_004_san.mp3",
+        "track_id": "KJ-004",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_004_mnemonic.png",
+        "stroke_order_image": "kj_004_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_005",
+      "kanji": "四",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 5,
+      "radical": "囗",
+      "readings": {
+        "onyomi": {
+          "kana": "シ",
+          "romaji": "shi"
+        },
+        "kunyomi": {
+          "kana": "よ, よ.つ, よっ.つ, よん",
+          "romaji": "yo, yo.tsu, yot.tsu, yon"
+        }
+      },
+      "meanings": {
+        "english": "Four",
+        "sinhala": "හතර"
+      },
+      "audio": {
+        "file_name": "kj_005_shi.mp3",
+        "track_id": "KJ-005",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_005_mnemonic.png",
+        "stroke_order_image": "kj_005_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_006",
+      "kanji": "五",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 4,
+      "radical": "二",
+      "readings": {
+        "onyomi": {
+          "kana": "ゴ",
+          "romaji": "go"
+        },
+        "kunyomi": {
+          "kana": "いつ, いつ.つ",
+          "romaji": "itsu, itsu.tsu"
+        }
+      },
+      "meanings": {
+        "english": "Five",
+        "sinhala": "පහ"
+      },
+      "audio": {
+        "file_name": "kj_006_go.mp3",
+        "track_id": "KJ-006",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_006_mnemonic.png",
+        "stroke_order_image": "kj_006_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_007",
+      "kanji": "六",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 4,
+      "radical": "八",
+      "readings": {
+        "onyomi": {
+          "kana": "ロク, リク",
+          "romaji": "roku, riku"
+        },
+        "kunyomi": {
+          "kana": "む, む.つ, むっ.つ, むい",
+          "romaji": "mu, mu.tsu, mut.tsu, mui"
+        }
+      },
+      "meanings": {
+        "english": "Six",
+        "sinhala": "හය"
+      },
+      "audio": {
+        "file_name": "kj_007_roku.mp3",
+        "track_id": "KJ-007",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_007_mnemonic.png",
+        "stroke_order_image": "kj_007_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_008",
+      "kanji": "七",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 2,
+      "radical": "一",
+      "readings": {
+        "onyomi": {
+          "kana": "シチ",
+          "romaji": "shichi"
+        },
+        "kunyomi": {
+          "kana": "なな, なな.つ, なの",
+          "romaji": "nana, nana.tsu, nano"
+        }
+      },
+      "meanings": {
+        "english": "Seven",
+        "sinhala": "හත"
+      },
+      "audio": {
+        "file_name": "kj_008_shichi.mp3",
+        "track_id": "KJ-008",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_008_mnemonic.png",
+        "stroke_order_image": "kj_008_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_009",
+      "kanji": "八",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 2,
+      "radical": "八",
+      "readings": {
+        "onyomi": {
+          "kana": "ハチ",
+          "romaji": "hachi"
+        },
+        "kunyomi": {
+          "kana": "や, や.つ, やっ.つ, よう",
+          "romaji": "ya, ya.tsu, yat.tsu, you"
+        }
+      },
+      "meanings": {
+        "english": "Eight",
+        "sinhala": "අට"
+      },
+      "audio": {
+        "file_name": "kj_009_hachi.mp3",
+        "track_id": "KJ-009",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_009_mnemonic.png",
+        "stroke_order_image": "kj_009_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_010",
+      "kanji": "九",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 2,
+      "radical": "乙",
+      "readings": {
+        "onyomi": {
+          "kana": "キュウ, ク",
+          "romaji": "kyuu, ku"
+        },
+        "kunyomi": {
+          "kana": "ここの, ここの.つ",
+          "romaji": "kokono, kokono.tsu"
+        }
+      },
+      "meanings": {
+        "english": "Nine",
+        "sinhala": "නවය"
+      },
+      "audio": {
+        "file_name": "kj_010_kyuu.mp3",
+        "track_id": "KJ-010",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_010_mnemonic.png",
+        "stroke_order_image": "kj_010_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_011",
+      "kanji": "十",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 2,
+      "radical": "十",
+      "readings": {
+        "onyomi": {
+          "kana": "ジュウ, ジッ, ジュッ",
+          "romaji": "juu, jit, jut"
+        },
+        "kunyomi": {
+          "kana": "とお, と",
+          "romaji": "too, to"
+        }
+      },
+      "meanings": {
+        "english": "Ten",
+        "sinhala": "දහය"
+      },
+      "audio": {
+        "file_name": "kj_011_juu.mp3",
+        "track_id": "KJ-011",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_011_mnemonic.png",
+        "stroke_order_image": "kj_011_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_012",
+      "kanji": "百",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 6,
+      "radical": "白",
+      "readings": {
+        "onyomi": {
+          "kana": "ヒャク, ビャク",
+          "romaji": "hyaku, byaku"
+        },
+        "kunyomi": {
+          "kana": "もも",
+          "romaji": "momo"
+        }
+      },
+      "meanings": {
+        "english": "Hundred",
+        "sinhala": "සියය"
+      },
+      "audio": {
+        "file_name": "kj_012_hyaku.mp3",
+        "track_id": "KJ-012",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_012_mnemonic.png",
+        "stroke_order_image": "kj_012_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_013",
+      "kanji": "千",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 3,
+      "radical": "十",
+      "readings": {
+        "onyomi": {
+          "kana": "セン",
+          "romaji": "sen"
+        },
+        "kunyomi": {
+          "kana": "ち",
+          "romaji": "chi"
+        }
+      },
+      "meanings": {
+        "english": "Thousand",
+        "sinhala": "දහස"
+      },
+      "audio": {
+        "file_name": "kj_013_sen.mp3",
+        "track_id": "KJ-013",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_013_mnemonic.png",
+        "stroke_order_image": "kj_013_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_014",
+      "kanji": "万",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 3,
+      "radical": "一",
+      "readings": {
+        "onyomi": {
+          "kana": "マン, バン",
+          "romaji": "man, ban"
+        },
+        "kunyomi": {
+          "kana": "よろず",
+          "romaji": "yorozu"
+        }
+      },
+      "meanings": {
+        "english": "Ten thousand",
+        "sinhala": "දහ දහස"
+      },
+      "audio": {
+        "file_name": "kj_014_man.mp3",
+        "track_id": "KJ-014",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_014_mnemonic.png",
+        "stroke_order_image": "kj_014_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_015",
+      "kanji": "円",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 4,
+      "radical": "冂",
+      "readings": {
+        "onyomi": {
+          "kana": "エン",
+          "romaji": "en"
+        },
+        "kunyomi": {
+          "kana": "まる.い, まる, まど, まど.か, まろ.やか",
+          "romaji": "maru.i, maru, mado, mado.ka, maro.yaka"
+        }
+      },
+      "meanings": {
+        "english": "Yen, Circle",
+        "sinhala": "යෙන් (මුදල්), රවුම"
+      },
+      "audio": {
+        "file_name": "kj_015_en.mp3",
+        "track_id": "KJ-015",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_015_mnemonic.png",
+        "stroke_order_image": "kj_015_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_016",
+      "kanji": "月",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 4,
+      "radical": "月",
+      "readings": {
+        "onyomi": {
+          "kana": "ゲツ, ガツ",
+          "romaji": "getsu, gatsu"
+        },
+        "kunyomi": {
+          "kana": "つき",
+          "romaji": "tsuki"
+        }
+      },
+      "meanings": {
+        "english": "Month, Moon",
+        "sinhala": "මාසය, සඳ"
+      },
+      "audio": {
+        "file_name": "kj_016_getsu.mp3",
+        "track_id": "KJ-016",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_016_mnemonic.png",
+        "stroke_order_image": "kj_016_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_017",
+      "kanji": "火",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 4,
+      "radical": "火",
+      "readings": {
+        "onyomi": {
+          "kana": "カ",
+          "romaji": "ka"
+        },
+        "kunyomi": {
+          "kana": "ひ, -び, ほ-",
+          "romaji": "hi, -bi, ho-"
+        }
+      },
+      "meanings": {
+        "english": "Fire",
+        "sinhala": "ගින්දර"
+      },
+      "audio": {
+        "file_name": "kj_017_ka.mp3",
+        "track_id": "KJ-017",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_017_mnemonic.png",
+        "stroke_order_image": "kj_017_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_018",
+      "kanji": "水",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 4,
+      "radical": "水",
+      "readings": {
+        "onyomi": {
+          "kana": "スイ",
+          "romaji": "sui"
+        },
+        "kunyomi": {
+          "kana": "みず, みずうみ",
+          "romaji": "mizu, mizuumi"
+        }
+      },
+      "meanings": {
+        "english": "Water",
+        "sinhala": "වතුර"
+      },
+      "audio": {
+        "file_name": "kj_018_sui.mp3",
+        "track_id": "KJ-018",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_018_mnemonic.png",
+        "stroke_order_image": "kj_018_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_019",
+      "kanji": "木",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 4,
+      "radical": "木",
+      "readings": {
+        "onyomi": {
+          "kana": "ボク, モク",
+          "romaji": "boku, moku"
+        },
+        "kunyomi": {
+          "kana": "き, こ-",
+          "romaji": "ki, ko-"
+        }
+      },
+      "meanings": {
+        "english": "Tree, Wood",
+        "sinhala": "ගස, ලී"
+      },
+      "audio": {
+        "file_name": "kj_019_boku.mp3",
+        "track_id": "KJ-019",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_019_mnemonic.png",
+        "stroke_order_image": "kj_019_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_020",
+      "kanji": "金",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 8,
+      "radical": "金",
+      "readings": {
+        "onyomi": {
+          "kana": "キン, コン, ゴン",
+          "romaji": "kin, kon, gon"
+        },
+        "kunyomi": {
+          "kana": "かね, かな-, -がね",
+          "romaji": "kane, kana-, -gane"
+        }
+      },
+      "meanings": {
+        "english": "Gold, Money",
+        "sinhala": "රත්තරන්, මුදල්"
+      },
+      "audio": {
+        "file_name": "kj_020_kin.mp3",
+        "track_id": "KJ-020",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_020_mnemonic.png",
+        "stroke_order_image": "kj_020_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_021",
+      "kanji": "土",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 3,
+      "radical": "土",
+      "readings": {
+        "onyomi": {
+          "kana": "ド, ト",
+          "romaji": "do, to"
+        },
+        "kunyomi": {
+          "kana": "つち",
+          "romaji": "tsuchi"
+        }
+      },
+      "meanings": {
+        "english": "Earth, Soil",
+        "sinhala": "පස, පස්"
+      },
+      "audio": {
+        "file_name": "kj_021_do.mp3",
+        "track_id": "KJ-021",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_021_mnemonic.png",
+        "stroke_order_image": "kj_021_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_022",
+      "kanji": "本",
+      "grade_level": "Starter / N5",
+      "lesson": 3,
+      "stroke_count": 5,
+      "radical": "木",
+      "readings": {
+        "onyomi": {
+          "kana": "ホン",
+          "romaji": "hon"
+        },
+        "kunyomi": {
+          "kana": "もと",
+          "romaji": "moto"
+        }
+      },
+      "meanings": {
+        "english": "Book, Origin, Main",
+        "sinhala": "පොත, මූලය"
+      },
+      "audio": {
+        "file_name": "kj_022_hon.mp3",
+        "track_id": "KJ-022",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_022_mnemonic.png",
+        "stroke_order_image": "kj_022_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_023",
+      "kanji": "人",
+      "grade_level": "Starter / N5",
+      "lesson": 4,
+      "stroke_count": 2,
+      "radical": "人",
+      "readings": {
+        "onyomi": {
+          "kana": "ジン, ニン",
+          "romaji": "jin, nin"
+        },
+        "kunyomi": {
+          "kana": "ひと, -り, -と",
+          "romaji": "hito, -ri, -to"
+        }
+      },
+      "meanings": {
+        "english": "Person",
+        "sinhala": "පුද්ගලයා"
+      },
+      "audio": {
+        "file_name": "kj_023_jin.mp3",
+        "track_id": "KJ-023",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_023_mnemonic.png",
+        "stroke_order_image": "kj_023_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_024",
+      "kanji": "男",
+      "grade_level": "Starter / N5",
+      "lesson": 4,
+      "stroke_count": 7,
+      "radical": "田",
+      "readings": {
+        "onyomi": {
+          "kana": "ダン, ナン",
+          "romaji": "dan, nan"
+        },
+        "kunyomi": {
+          "kana": "おとこ, お",
+          "romaji": "otoko, o"
+        }
+      },
+      "meanings": {
+        "english": "Man, Male",
+        "sinhala": "පිරිමියා"
+      },
+      "audio": {
+        "file_name": "kj_024_dan.mp3",
+        "track_id": "KJ-024",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_024_mnemonic.png",
+        "stroke_order_image": "kj_024_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_025",
+      "kanji": "女",
+      "grade_level": "Starter / N5",
+      "lesson": 4,
+      "stroke_count": 3,
+      "radical": "女",
+      "readings": {
+        "onyomi": {
+          "kana": "ジョ, ニョ, ニョウ",
+          "romaji": "jo, nyo, nyou"
+        },
+        "kunyomi": {
+          "kana": "おんな, め",
+          "romaji": "onna, me"
+        }
+      },
+      "meanings": {
+        "english": "Woman, Female",
+        "sinhala": "කාන්තාව"
+      },
+      "audio": {
+        "file_name": "kj_025_jo.mp3",
+        "track_id": "KJ-025",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_025_mnemonic.png",
+        "stroke_order_image": "kj_025_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_026",
+      "kanji": "子",
+      "grade_level": "Starter / N5",
+      "lesson": 4,
+      "stroke_count": 3,
+      "radical": "子",
+      "readings": {
+        "onyomi": {
+          "kana": "シ, ス, ツ",
+          "romaji": "shi, su, tsu"
+        },
+        "kunyomi": {
+          "kana": "こ, -こ, ね",
+          "romaji": "ko, -ko, ne"
+        }
+      },
+      "meanings": {
+        "english": "Child",
+        "sinhala": "දරුවා"
+      },
+      "audio": {
+        "file_name": "kj_026_shi.mp3",
+        "track_id": "KJ-026",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_026_mnemonic.png",
+        "stroke_order_image": "kj_026_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_027",
+      "kanji": "大",
+      "grade_level": "Starter / N5",
+      "lesson": 4,
+      "stroke_count": 3,
+      "radical": "大",
+      "readings": {
+        "onyomi": {
+          "kana": "ダイ, タイ",
+          "romaji": "dai, tai"
+        },
+        "kunyomi": {
+          "kana": "おお-, おお.きい, -おお.いに",
+          "romaji": "oo-, oo.kii, -oo.ini"
+        }
+      },
+      "meanings": {
+        "english": "Big, Large",
+        "sinhala": "විශාල"
+      },
+      "audio": {
+        "file_name": "kj_027_dai.mp3",
+        "track_id": "KJ-027",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_027_mnemonic.png",
+        "stroke_order_image": "kj_027_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_028",
+      "kanji": "小",
+      "grade_level": "Starter / N5",
+      "lesson": 4,
+      "stroke_count": 3,
+      "radical": "小",
+      "readings": {
+        "onyomi": {
+          "kana": "ショウ",
+          "romaji": "shou"
+        },
+        "kunyomi": {
+          "kana": "ちい.さい, こ-, お-, さ-",
+          "romaji": "chii.sai, ko-, o-, sa-"
+        }
+      },
+      "meanings": {
+        "english": "Small, Little",
+        "sinhala": "කුඩා"
+      },
+      "audio": {
+        "file_name": "kj_028_shou.mp3",
+        "track_id": "KJ-028",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_028_mnemonic.png",
+        "stroke_order_image": "kj_028_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_029",
+      "kanji": "上",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 3,
+      "radical": "一",
+      "readings": {
+        "onyomi": {
+          "kana": "ジョウ, ショウ, シャン",
+          "romaji": "jou, shou, shan"
+        },
+        "kunyomi": {
+          "kana": "うえ, -うえ, うわ-, かみ, あ.げる, あ.がる, あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, よい",
+          "romaji": "ue, -ue, uwa-, kami, a.geru, a.garu, a.gari, nobo.ru, nobo.ri, nobo.seru, nobo.su, yoi"
+        }
+      },
+      "meanings": {
+        "english": "Up, Above",
+        "sinhala": "ඉහළ, උඩ"
+      },
+      "audio": {
+        "file_name": "kj_029_jou.mp3",
+        "track_id": "KJ-029",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_029_mnemonic.png",
+        "stroke_order_image": "kj_029_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_030",
+      "kanji": "下",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 3,
+      "radical": "一",
+      "readings": {
+        "onyomi": {
+          "kana": "カ, ゲ",
+          "romaji": "ka, ge"
+        },
+        "kunyomi": {
+          "kana": "した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる",
+          "romaji": "shita, shimo, moto, sa.geru, sa.garu, kuda.ru, kuda.ri, kuda.su, -kuda.su, kuda.saru, o.rosu, o.riru"
+        }
+      },
+      "meanings": {
+        "english": "Down, Below",
+        "sinhala": "පහළ, යට"
+      },
+      "audio": {
+        "file_name": "kj_030_ka.mp3",
+        "track_id": "KJ-030",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_030_mnemonic.png",
+        "stroke_order_image": "kj_030_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_031",
+      "kanji": "中",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 4,
+      "radical": "丨",
+      "readings": {
+        "onyomi": {
+          "kana": "チュウ",
+          "romaji": "chuu"
+        },
+        "kunyomi": {
+          "kana": "なか, うち, あた.る",
+          "romaji": "naka, uchi, ata.ru"
+        }
+      },
+      "meanings": {
+        "english": "Inside, Middle",
+        "sinhala": "ඇතුළත, මැද"
+      },
+      "audio": {
+        "file_name": "kj_031_chuu.mp3",
+        "track_id": "KJ-031",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_031_mnemonic.png",
+        "stroke_order_image": "kj_031_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_032",
+      "kanji": "外",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 5,
+      "radical": "夕",
+      "readings": {
+        "onyomi": {
+          "kana": "ガイ, ゲ",
+          "romaji": "gai, ge"
+        },
+        "kunyomi": {
+          "kana": "そと, ほか, はず.す, はず.れる, と-",
+          "romaji": "soto, hoka, hazu.su, hazu.reru, to-"
+        }
+      },
+      "meanings": {
+        "english": "Outside",
+        "sinhala": "පිටත"
+      },
+      "audio": {
+        "file_name": "kj_032_gai.mp3",
+        "track_id": "KJ-032",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_032_mnemonic.png",
+        "stroke_order_image": "kj_032_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_033",
+      "kanji": "右",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 5,
+      "radical": "口",
+      "readings": {
+        "onyomi": {
+          "kana": "ウ, ユウ",
+          "romaji": "u, yuu"
+        },
+        "kunyomi": {
+          "kana": "みぎ",
+          "romaji": "migi"
+        }
+      },
+      "meanings": {
+        "english": "Right",
+        "sinhala": "දකුණ"
+      },
+      "audio": {
+        "file_name": "kj_033_u.mp3",
+        "track_id": "KJ-033",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_033_mnemonic.png",
+        "stroke_order_image": "kj_033_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_034",
+      "kanji": "左",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 5,
+      "radical": "工",
+      "readings": {
+        "onyomi": {
+          "kana": "サ, シャ",
+          "romaji": "sa, sha"
+        },
+        "kunyomi": {
+          "kana": "ひだり",
+          "romaji": "hidari"
+        }
+      },
+      "meanings": {
+        "english": "Left",
+        "sinhala": "වම"
+      },
+      "audio": {
+        "file_name": "kj_034_sa.mp3",
+        "track_id": "KJ-034",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_034_mnemonic.png",
+        "stroke_order_image": "kj_034_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_035",
+      "kanji": "前",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 9,
+      "radical": "刀",
+      "readings": {
+        "onyomi": {
+          "kana": "ゼン",
+          "romaji": "zen"
+        },
+        "kunyomi": {
+          "kana": "まえ, -まえ",
+          "romaji": "mae, -mae"
+        }
+      },
+      "meanings": {
+        "english": "Front, Before",
+        "sinhala": "ඉස්සරහ, පෙර"
+      },
+      "audio": {
+        "file_name": "kj_035_zen.mp3",
+        "track_id": "KJ-035",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_035_mnemonic.png",
+        "stroke_order_image": "kj_035_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_036",
+      "kanji": "後",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 9,
+      "radical": "彳",
+      "readings": {
+        "onyomi": {
+          "kana": "ゴ, コウ",
+          "romaji": "go, kou"
+        },
+        "kunyomi": {
+          "kana": "のち, うし.ろ, うしろ, あと, おく.れる",
+          "romaji": "nochi, ushi.ro, ushiro, ato, oku.reru"
+        }
+      },
+      "meanings": {
+        "english": "Behind, After",
+        "sinhala": "පිටුපස, පසුව"
+      },
+      "audio": {
+        "file_name": "kj_036_go.mp3",
+        "track_id": "KJ-036",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_036_mnemonic.png",
+        "stroke_order_image": "kj_036_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_037",
+      "kanji": "東",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 8,
+      "radical": "木",
+      "readings": {
+        "onyomi": {
+          "kana": "トウ",
+          "romaji": "tou"
+        },
+        "kunyomi": {
+          "kana": "ひがし",
+          "romaji": "higashi"
+        }
+      },
+      "meanings": {
+        "english": "East",
+        "sinhala": "නැගෙනහිර"
+      },
+      "audio": {
+        "file_name": "kj_037_tou.mp3",
+        "track_id": "KJ-037",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_037_mnemonic.png",
+        "stroke_order_image": "kj_037_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_038",
+      "kanji": "西",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 6,
+      "radical": "襾",
+      "readings": {
+        "onyomi": {
+          "kana": "セイ, サイ, ス",
+          "romaji": "sei, sai, su"
+        },
+        "kunyomi": {
+          "kana": "にし",
+          "romaji": "nishi"
+        }
+      },
+      "meanings": {
+        "english": "West",
+        "sinhala": "බටහිර"
+      },
+      "audio": {
+        "file_name": "kj_038_sei.mp3",
+        "track_id": "KJ-038",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_038_mnemonic.png",
+        "stroke_order_image": "kj_038_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_039",
+      "kanji": "南",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 9,
+      "radical": "十",
+      "readings": {
+        "onyomi": {
+          "kana": "ナン, ナ",
+          "romaji": "nan, na"
+        },
+        "kunyomi": {
+          "kana": "みなみ",
+          "romaji": "minami"
+        }
+      },
+      "meanings": {
+        "english": "South",
+        "sinhala": "දකුණු දිශාව"
+      },
+      "audio": {
+        "file_name": "kj_039_nan.mp3",
+        "track_id": "KJ-039",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_039_mnemonic.png",
+        "stroke_order_image": "kj_039_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_040",
+      "kanji": "北",
+      "grade_level": "Starter / N5",
+      "lesson": 5,
+      "stroke_count": 5,
+      "radical": "匕",
+      "readings": {
+        "onyomi": {
+          "kana": "ホク",
+          "romaji": "hoku"
+        },
+        "kunyomi": {
+          "kana": "きた",
+          "romaji": "kita"
+        }
+      },
+      "meanings": {
+        "english": "North",
+        "sinhala": "උතුර"
+      },
+      "audio": {
+        "file_name": "kj_040_hoku.mp3",
+        "track_id": "KJ-040",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_040_mnemonic.png",
+        "stroke_order_image": "kj_040_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_041",
+      "kanji": "山",
+      "grade_level": "Starter / N5",
+      "lesson": 6,
+      "stroke_count": 3,
+      "radical": "山",
+      "readings": {
+        "onyomi": {
+          "kana": "サン, セン",
+          "romaji": "san, sen"
+        },
+        "kunyomi": {
+          "kana": "やま",
+          "romaji": "yama"
+        }
+      },
+      "meanings": {
+        "english": "Mountain",
+        "sinhala": "කන්ද"
+      },
+      "audio": {
+        "file_name": "kj_041_san.mp3",
+        "track_id": "KJ-041",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_041_mnemonic.png",
+        "stroke_order_image": "kj_041_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_042",
+      "kanji": "川",
+      "grade_level": "Starter / N5",
+      "lesson": 6,
+      "stroke_count": 3,
+      "radical": "川",
+      "readings": {
+        "onyomi": {
+          "kana": "セン",
+          "romaji": "sen"
+        },
+        "kunyomi": {
+          "kana": "かわ",
+          "romaji": "kawa"
+        }
+      },
+      "meanings": {
+        "english": "River",
+        "sinhala": "ගඟ"
+      },
+      "audio": {
+        "file_name": "kj_042_sen.mp3",
+        "track_id": "KJ-042",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_042_mnemonic.png",
+        "stroke_order_image": "kj_042_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_043",
+      "kanji": "田",
+      "grade_level": "Starter / N5",
+      "lesson": 6,
+      "stroke_count": 5,
+      "radical": "田",
+      "readings": {
+        "onyomi": {
+          "kana": "デン",
+          "romaji": "den"
+        },
+        "kunyomi": {
+          "kana": "た",
+          "romaji": "ta"
+        }
+      },
+      "meanings": {
+        "english": "Rice field",
+        "sinhala": "කුඹුර"
+      },
+      "audio": {
+        "file_name": "kj_043_den.mp3",
+        "track_id": "KJ-043",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_043_mnemonic.png",
+        "stroke_order_image": "kj_043_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_044",
+      "kanji": "花",
+      "grade_level": "Starter / N5",
+      "lesson": 6,
+      "stroke_count": 7,
+      "radical": "艸",
+      "readings": {
+        "onyomi": {
+          "kana": "カ, ケ",
+          "romaji": "ka, ke"
+        },
+        "kunyomi": {
+          "kana": "はな",
+          "romaji": "hana"
+        }
+      },
+      "meanings": {
+        "english": "Flower",
+        "sinhala": "මල"
+      },
+      "audio": {
+        "file_name": "kj_044_ka.mp3",
+        "track_id": "KJ-044",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_044_mnemonic.png",
+        "stroke_order_image": "kj_044_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_045",
+      "kanji": "空",
+      "grade_level": "Starter / N5",
+      "lesson": 6,
+      "stroke_count": 8,
+      "radical": "穴",
+      "readings": {
+        "onyomi": {
+          "kana": "クウ",
+          "romaji": "kuu"
+        },
+        "kunyomi": {
+          "kana": "そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい",
+          "romaji": "sora, a.ku, a.ki, a.keru, kara, su.ku, su.kasu, muna.shii"
+        }
+      },
+      "meanings": {
+        "english": "Sky, Empty",
+        "sinhala": "අහස, හිස්"
+      },
+      "audio": {
+        "file_name": "kj_045_kuu.mp3",
+        "track_id": "KJ-045",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_045_mnemonic.png",
+        "stroke_order_image": "kj_045_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_046",
+      "kanji": "雨",
+      "grade_level": "Starter / N5",
+      "lesson": 6,
+      "stroke_count": 8,
+      "radical": "雨",
+      "readings": {
+        "onyomi": {
+          "kana": "ウ",
+          "romaji": "u"
+        },
+        "kunyomi": {
+          "kana": "あめ, あま-",
+          "romaji": "ame, ama-"
+        }
+      },
+      "meanings": {
+        "english": "Rain",
+        "sinhala": "වැස්ස"
+      },
+      "audio": {
+        "file_name": "kj_046_u.mp3",
+        "track_id": "KJ-046",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_046_mnemonic.png",
+        "stroke_order_image": "kj_046_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_047",
+      "kanji": "生",
+      "grade_level": "Starter / N5",
+      "lesson": 6,
+      "stroke_count": 5,
+      "radical": "生",
+      "readings": {
+        "onyomi": {
+          "kana": "セイ, ショウ",
+          "romaji": "sei, shou"
+        },
+        "kunyomi": {
+          "kana": "い.きる, い.かす, い.ける, う.まれる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う",
+          "romaji": "i.kiru, i.kasu, i.keru, u.mareru, u.mare, umare, u.mu, o.u, ha.eru, ha.yasu, ki, nama, nama-, na.ru, na.su, mu.su, -u"
+        }
+      },
+      "meanings": {
+        "english": "Life, Birth, Raw",
+        "sinhala": "ජීවිතය, ඉපදීම, අමු"
+      },
+      "audio": {
+        "file_name": "kj_047_sei.mp3",
+        "track_id": "KJ-047",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_047_mnemonic.png",
+        "stroke_order_image": "kj_047_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_048",
+      "kanji": "学",
+      "grade_level": "Starter / N5",
+      "lesson": 6,
+      "stroke_count": 8,
+      "radical": "子",
+      "readings": {
+        "onyomi": {
+          "kana": "ガク",
+          "romaji": "gaku"
+        },
+        "kunyomi": {
+          "kana": "まな.ぶ",
+          "romaji": "mana.bu"
+        }
+      },
+      "meanings": {
+        "english": "Study, Learn",
+        "sinhala": "ඉගෙනීම"
+      },
+      "audio": {
+        "file_name": "kj_048_gaku.mp3",
+        "track_id": "KJ-048",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_048_mnemonic.png",
+        "stroke_order_image": "kj_048_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_049",
+      "kanji": "校",
+      "grade_level": "Starter / N5",
+      "lesson": 6,
+      "stroke_count": 10,
+      "radical": "木",
+      "readings": {
+        "onyomi": {
+          "kana": "コウ, キョウ",
+          "romaji": "kou, kyou"
+        },
+        "kunyomi": {
+          "kana": "",
+          "romaji": ""
+        }
+      },
+      "meanings": {
+        "english": "School, Exam",
+        "sinhala": "පාසල"
+      },
+      "audio": {
+        "file_name": "kj_049_kou.mp3",
+        "track_id": "KJ-049",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_049_mnemonic.png",
+        "stroke_order_image": "kj_049_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_050",
+      "kanji": "先",
+      "grade_level": "Starter / N5",
+      "lesson": 6,
+      "stroke_count": 6,
+      "radical": "儿",
+      "readings": {
+        "onyomi": {
+          "kana": "セン",
+          "romaji": "sen"
+        },
+        "kunyomi": {
+          "kana": "さき, ま.ず",
+          "romaji": "saki, ma.zu"
+        }
+      },
+      "meanings": {
+        "english": "Before, Ahead, Future",
+        "sinhala": "පෙර, ඉදිරියෙන්"
+      },
+      "audio": {
+        "file_name": "kj_050_sen.mp3",
+        "track_id": "KJ-050",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_050_mnemonic.png",
+        "stroke_order_image": "kj_050_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_051",
+      "kanji": "車",
+      "grade_level": "Starter / N5",
+      "lesson": 7,
+      "stroke_count": 7,
+      "radical": "車",
+      "readings": {
+        "onyomi": {
+          "kana": "シャ",
+          "romaji": "sha"
+        },
+        "kunyomi": {
+          "kana": "くるま",
+          "romaji": "kuruma"
+        }
+      },
+      "meanings": {
+        "english": "Car, Vehicle",
+        "sinhala": "මෝටර් රථය, වාහනය"
+      },
+      "audio": {
+        "file_name": "kj_051_sha.mp3",
+        "track_id": "KJ-051",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_051_mnemonic.png",
+        "stroke_order_image": "kj_051_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_052",
+      "kanji": "休",
+      "grade_level": "Starter / N5",
+      "lesson": 7,
+      "stroke_count": 6,
+      "radical": "人",
+      "readings": {
+        "onyomi": {
+          "kana": "キュウ",
+          "romaji": "kyuu"
+        },
+        "kunyomi": {
+          "kana": "やす.む, やす.まる, やす.める",
+          "romaji": "yasu.mu, yasu.maru, yasu.meru"
+        }
+      },
+      "meanings": {
+        "english": "Rest, Day off",
+        "sinhala": "විවේකය, නිවාඩුව"
+      },
+      "audio": {
+        "file_name": "kj_052_kyuu.mp3",
+        "track_id": "KJ-052",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_052_mnemonic.png",
+        "stroke_order_image": "kj_052_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_053",
+      "kanji": "見",
+      "grade_level": "Starter / N5",
+      "lesson": 7,
+      "stroke_count": 7,
+      "radical": "見",
+      "readings": {
+        "onyomi": {
+          "kana": "ケン",
+          "romaji": "ken"
+        },
+        "kunyomi": {
+          "kana": "み.る, み.える, み.せる",
+          "romaji": "mi.ru, mi.eru, mi.seru"
+        }
+      },
+      "meanings": {
+        "english": "See, Look, Watch",
+        "sinhala": "බලනවා, දකිනවා"
+      },
+      "audio": {
+        "file_name": "kj_053_ken.mp3",
+        "track_id": "KJ-053",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_053_mnemonic.png",
+        "stroke_order_image": "kj_053_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_054",
+      "kanji": "言",
+      "grade_level": "Starter / N5",
+      "lesson": 7,
+      "stroke_count": 7,
+      "radical": "言",
+      "readings": {
+        "onyomi": {
+          "kana": "ゲン, ゴン",
+          "romaji": "gen, gon"
+        },
+        "kunyomi": {
+          "kana": "い.う, こと",
+          "romaji": "i.u, koto"
+        }
+      },
+      "meanings": {
+        "english": "Say, Word",
+        "sinhala": "කියනවා, වචනය"
+      },
+      "audio": {
+        "file_name": "kj_054_gen.mp3",
+        "track_id": "KJ-054",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_054_mnemonic.png",
+        "stroke_order_image": "kj_054_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_055",
+      "kanji": "読",
+      "grade_level": "Starter / N5",
+      "lesson": 7,
+      "stroke_count": 14,
+      "radical": "言",
+      "readings": {
+        "onyomi": {
+          "kana": "ドク, トク, トウ",
+          "romaji": "doku, toku, tou"
+        },
+        "kunyomi": {
+          "kana": "よ.む, -よ.み",
+          "romaji": "yo.mu, -yo.mi"
+        }
+      },
+      "meanings": {
+        "english": "Read",
+        "sinhala": "කියවනවා"
+      },
+      "audio": {
+        "file_name": "kj_055_doku.mp3",
+        "track_id": "KJ-055",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_055_mnemonic.png",
+        "stroke_order_image": "kj_055_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_056",
+      "kanji": "書",
+      "grade_level": "Starter / N5",
+      "lesson": 7,
+      "stroke_count": 10,
+      "radical": "曰",
+      "readings": {
+        "onyomi": {
+          "kana": "ショ",
+          "romaji": "sho"
+        },
+        "kunyomi": {
+          "kana": "か.く, -が.き, -がき",
+          "romaji": "ka.ku, -ga.ki, -gaki"
+        }
+      },
+      "meanings": {
+        "english": "Write",
+        "sinhala": "ලියනවා"
+      },
+      "audio": {
+        "file_name": "kj_056_sho.mp3",
+        "track_id": "KJ-056",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_056_mnemonic.png",
+        "stroke_order_image": "kj_056_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_057",
+      "kanji": "食",
+      "grade_level": "Starter / N5",
+      "lesson": 7,
+      "stroke_count": 9,
+      "radical": "食",
+      "readings": {
+        "onyomi": {
+          "kana": "ショク, ジキ",
+          "romaji": "shoku, jiki"
+        },
+        "kunyomi": {
+          "kana": "く.う, く.らう, た.べる, は.む",
+          "romaji": "ku.u, ku.rau, ta.beru, ha.mu"
+        }
+      },
+      "meanings": {
+        "english": "Eat, Food",
+        "sinhala": "කනවා, ආහාර"
+      },
+      "audio": {
+        "file_name": "kj_057_shoku.mp3",
+        "track_id": "KJ-057",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_057_mnemonic.png",
+        "stroke_order_image": "kj_057_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_058",
+      "kanji": "飲",
+      "grade_level": "Starter / N5",
+      "lesson": 7,
+      "stroke_count": 12,
+      "radical": "食",
+      "readings": {
+        "onyomi": {
+          "kana": "イン, オン",
+          "romaji": "in, on"
+        },
+        "kunyomi": {
+          "kana": "の.む, -の.み",
+          "romaji": "no.mu, -no.mi"
+        }
+      },
+      "meanings": {
+        "english": "Drink",
+        "sinhala": "බොනවා"
+      },
+      "audio": {
+        "file_name": "kj_058_in.mp3",
+        "track_id": "KJ-058",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_058_mnemonic.png",
+        "stroke_order_image": "kj_058_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_059",
+      "kanji": "買",
+      "grade_level": "Starter / N5",
+      "lesson": 7,
+      "stroke_count": 12,
+      "radical": "貝",
+      "readings": {
+        "onyomi": {
+          "kana": "バイ",
+          "romaji": "bai"
+        },
+        "kunyomi": {
+          "kana": "か.う",
+          "romaji": "ka.u"
+        }
+      },
+      "meanings": {
+        "english": "Buy",
+        "sinhala": "මිලදී ගන්නවා"
+      },
+      "audio": {
+        "file_name": "kj_059_bai.mp3",
+        "track_id": "KJ-059",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_059_mnemonic.png",
+        "stroke_order_image": "kj_059_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_060",
+      "kanji": "行",
+      "grade_level": "Starter / N5",
+      "lesson": 7,
+      "stroke_count": 6,
+      "radical": "行",
+      "readings": {
+        "onyomi": {
+          "kana": "コウ, ギョウ, アン",
+          "romaji": "kou, gyou, an"
+        },
+        "kunyomi": {
+          "kana": "い.く, ゆ.く, -ゆ.き, -ゆき, い.き, -い.き, いき, おこな.う, おこ.なう",
+          "romaji": "i.ku, yu.ku, -yu.ki, -yuki, i.ki, -i.ki, iki, okona.u, oko.nau"
+        }
+      },
+      "meanings": {
+        "english": "Go, Journey",
+        "sinhala": "යනවා, ගමන"
+      },
+      "audio": {
+        "file_name": "kj_060_kou.mp3",
+        "track_id": "KJ-060",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_060_mnemonic.png",
+        "stroke_order_image": "kj_060_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_061",
+      "kanji": "来",
+      "grade_level": "Starter / N5",
+      "lesson": 8,
+      "stroke_count": 7,
+      "radical": "木",
+      "readings": {
+        "onyomi": {
+          "kana": "ライ, タイ",
+          "romaji": "rai, tai"
+        },
+        "kunyomi": {
+          "kana": "く.る, きた.る, きた.す, き.たす, き.たる, き, こ",
+          "romaji": "ku.ru, kita.ru, kita.su, ki.tasu, ki.taru, ki, ko"
+        }
+      },
+      "meanings": {
+        "english": "Come, Next",
+        "sinhala": "එනවා, මීළඟ"
+      },
+      "audio": {
+        "file_name": "kj_061_rai.mp3",
+        "track_id": "KJ-061",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_061_mnemonic.png",
+        "stroke_order_image": "kj_061_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_062",
+      "kanji": "出",
+      "grade_level": "Starter / N5",
+      "lesson": 8,
+      "stroke_count": 5,
+      "radical": "凵",
+      "readings": {
+        "onyomi": {
+          "kana": "シュツ, スイ",
+          "romaji": "shutsu, sui"
+        },
+        "kunyomi": {
+          "kana": "で.る, -で, だ.す, -だ.す, い.でる, い.だす",
+          "romaji": "de.ru, -de, da.su, -da.su, i.deru, i.dasu"
+        }
+      },
+      "meanings": {
+        "english": "Exit, Go out",
+        "sinhala": "පිටවෙනවා, එළියට යනවා"
+      },
+      "audio": {
+        "file_name": "kj_062_shutsu.mp3",
+        "track_id": "KJ-062",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_062_mnemonic.png",
+        "stroke_order_image": "kj_062_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_063",
+      "kanji": "入",
+      "grade_level": "Starter / N5",
+      "lesson": 8,
+      "stroke_count": 2,
+      "radical": "入",
+      "readings": {
+        "onyomi": {
+          "kana": "ニュウ, ジュ",
+          "romaji": "nyuu, ju"
+        },
+        "kunyomi": {
+          "kana": "い.る, -い.る, -い.り, いれる, -い.れ, はい.る",
+          "romaji": "i.ru, -i.ru, -i.ri, ireru, -i.re, hai.ru"
+        }
+      },
+      "meanings": {
+        "english": "Enter, Insert",
+        "sinhala": "ඇතුළු වෙනවා, දමනවා"
+      },
+      "audio": {
+        "file_name": "kj_063_nyuu.mp3",
+        "track_id": "KJ-063",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_063_mnemonic.png",
+        "stroke_order_image": "kj_063_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_064",
+      "kanji": "立",
+      "grade_level": "Starter / N5",
+      "lesson": 8,
+      "stroke_count": 5,
+      "radical": "立",
+      "readings": {
+        "onyomi": {
+          "kana": "リツ, リュウ, リット",
+          "romaji": "ritsu, ryuu, ritto"
+        },
+        "kunyomi": {
+          "kana": "た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる",
+          "romaji": "ta.tsu, -ta.tsu, ta.chi-, ta.teru, -ta.teru, ta.te-, tate-, -ta.te, -da.te, -da.teru"
+        }
+      },
+      "meanings": {
+        "english": "Stand, Stand up",
+        "sinhala": "නැගී සිටිනවා"
+      },
+      "audio": {
+        "file_name": "kj_064_ritsu.mp3",
+        "track_id": "KJ-064",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_064_mnemonic.png",
+        "stroke_order_image": "kj_064_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_065",
+      "kanji": "白",
+      "grade_level": "Starter / N5",
+      "lesson": 8,
+      "stroke_count": 5,
+      "radical": "白",
+      "readings": {
+        "onyomi": {
+          "kana": "ハク, ビャク",
+          "romaji": "haku, byaku"
+        },
+        "kunyomi": {
+          "kana": "しろ, しら-, しろ.い",
+          "romaji": "shiro, shira-, shiro.i"
+        }
+      },
+      "meanings": {
+        "english": "White",
+        "sinhala": "සුදු"
+      },
+      "audio": {
+        "file_name": "kj_065_haku.mp3",
+        "track_id": "KJ-065",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_065_mnemonic.png",
+        "stroke_order_image": "kj_065_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_066",
+      "kanji": "百",
+      "grade_level": "Starter / N5",
+      "lesson": 8,
+      "stroke_count": 6,
+      "radical": "白",
+      "readings": {
+        "onyomi": {
+          "kana": "ヒャク, ビャク",
+          "romaji": "hyaku, byaku"
+        },
+        "kunyomi": {
+          "kana": "もも",
+          "romaji": "momo"
+        }
+      },
+      "meanings": {
+        "english": "Hundred",
+        "sinhala": "සියය"
+      },
+      "audio": {
+        "file_name": "kj_066_hyaku.mp3",
+        "track_id": "KJ-066",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_066_mnemonic.png",
+        "stroke_order_image": "kj_066_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_067",
+      "kanji": "千",
+      "grade_level": "Starter / N5",
+      "lesson": 8,
+      "stroke_count": 3,
+      "radical": "十",
+      "readings": {
+        "onyomi": {
+          "kana": "セン",
+          "romaji": "sen"
+        },
+        "kunyomi": {
+          "kana": "ち",
+          "romaji": "chi"
+        }
+      },
+      "meanings": {
+        "english": "Thousand",
+        "sinhala": "දහස"
+      },
+      "audio": {
+        "file_name": "kj_067_sen.mp3",
+        "track_id": "KJ-067",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_067_mnemonic.png",
+        "stroke_order_image": "kj_067_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_068",
+      "kanji": "万",
+      "grade_level": "Starter / N5",
+      "lesson": 8,
+      "stroke_count": 3,
+      "radical": "一",
+      "readings": {
+        "onyomi": {
+          "kana": "マン, バン",
+          "romaji": "man, ban"
+        },
+        "kunyomi": {
+          "kana": "よろず",
+          "romaji": "yorozu"
+        }
+      },
+      "meanings": {
+        "english": "Ten thousand",
+        "sinhala": "දහ දහස"
+      },
+      "audio": {
+        "file_name": "kj_068_man.mp3",
+        "track_id": "KJ-068",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_068_mnemonic.png",
+        "stroke_order_image": "kj_068_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_069",
+      "kanji": "円",
+      "grade_level": "Starter / N5",
+      "lesson": 8,
+      "stroke_count": 4,
+      "radical": "冂",
+      "readings": {
+        "onyomi": {
+          "kana": "エン",
+          "romaji": "en"
+        },
+        "kunyomi": {
+          "kana": "まる.い, まる, まど, まど.か, まろ.やか",
+          "romaji": "maru.i, maru, mado, mado.ka, maro.yaka"
+        }
+      },
+      "meanings": {
+        "english": "Yen, Circle",
+        "sinhala": "යෙන් (මුදල්), රවුම"
+      },
+      "audio": {
+        "file_name": "kj_069_en.mp3",
+        "track_id": "KJ-069",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_069_mnemonic.png",
+        "stroke_order_image": "kj_069_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_070",
+      "kanji": "年",
+      "grade_level": "Starter / N5",
+      "lesson": 8,
+      "stroke_count": 6,
+      "radical": "干",
+      "readings": {
+        "onyomi": {
+          "kana": "ネン",
+          "romaji": "nen"
+        },
+        "kunyomi": {
+          "kana": "とし",
+          "romaji": "toshi"
+        }
+      },
+      "meanings": {
+        "english": "Year",
+        "sinhala": "අවුරුද්ද / වසර"
+      },
+      "audio": {
+        "file_name": "kj_070_nen.mp3",
+        "track_id": "KJ-070",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_070_mnemonic.png",
+        "stroke_order_image": "kj_070_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_071",
+      "kanji": "日",
+      "grade_level": "Starter / N5",
+      "lesson": 9,
+      "stroke_count": 4,
+      "radical": "日",
+      "readings": {
+        "onyomi": {
+          "kana": "ニチ, ジツ",
+          "romaji": "nichi, jitsu"
+        },
+        "kunyomi": {
+          "kana": "ひ, -び, -か",
+          "romaji": "hi, -bi, -ka"
+        }
+      },
+      "meanings": {
+        "english": "Day, Sun",
+        "sinhala": "දවස, ඉර"
+      },
+      "audio": {
+        "file_name": "kj_071_nichi.mp3",
+        "track_id": "KJ-071",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_071_mnemonic.png",
+        "stroke_order_image": "kj_071_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_072",
+      "kanji": "月",
+      "grade_level": "Starter / N5",
+      "lesson": 9,
+      "stroke_count": 4,
+      "radical": "月",
+      "readings": {
+        "onyomi": {
+          "kana": "ゲツ, ガツ",
+          "romaji": "getsu, gatsu"
+        },
+        "kunyomi": {
+          "kana": "つき",
+          "romaji": "tsuki"
+        }
+      },
+      "meanings": {
+        "english": "Month, Moon",
+        "sinhala": "මාසය, සඳ"
+      },
+      "audio": {
+        "file_name": "kj_072_getsu.mp3",
+        "track_id": "KJ-072",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_072_mnemonic.png",
+        "stroke_order_image": "kj_072_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_073",
+      "kanji": "火",
+      "grade_level": "Starter / N5",
+      "lesson": 9,
+      "stroke_count": 4,
+      "radical": "火",
+      "readings": {
+        "onyomi": {
+          "kana": "カ",
+          "romaji": "ka"
+        },
+        "kunyomi": {
+          "kana": "ひ, -び, ほ-",
+          "romaji": "hi, -bi, ho-"
+        }
+      },
+      "meanings": {
+        "english": "Fire",
+        "sinhala": "ගින්දර"
+      },
+      "audio": {
+        "file_name": "kj_073_ka.mp3",
+        "track_id": "KJ-073",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_073_mnemonic.png",
+        "stroke_order_image": "kj_073_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_074",
+      "kanji": "水",
+      "grade_level": "Starter / N5",
+      "lesson": 9,
+      "stroke_count": 4,
+      "radical": "水",
+      "readings": {
+        "onyomi": {
+          "kana": "スイ",
+          "romaji": "sui"
+        },
+        "kunyomi": {
+          "kana": "みず, みずうみ",
+          "romaji": "mizu, mizuumi"
+        }
+      },
+      "meanings": {
+        "english": "Water",
+        "sinhala": "වතුර"
+      },
+      "audio": {
+        "file_name": "kj_074_sui.mp3",
+        "track_id": "KJ-074",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_074_mnemonic.png",
+        "stroke_order_image": "kj_074_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_075",
+      "kanji": "木",
+      "grade_level": "Starter / N5",
+      "lesson": 9,
+      "stroke_count": 4,
+      "radical": "木",
+      "readings": {
+        "onyomi": {
+          "kana": "ボク, モク",
+          "romaji": "boku, moku"
+        },
+        "kunyomi": {
+          "kana": "き, こ-",
+          "romaji": "ki, ko-"
+        }
+      },
+      "meanings": {
+        "english": "Tree, Wood",
+        "sinhala": "ගස, ලී"
+      },
+      "audio": {
+        "file_name": "kj_075_boku.mp3",
+        "track_id": "KJ-075",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_075_mnemonic.png",
+        "stroke_order_image": "kj_075_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_076",
+      "kanji": "金",
+      "grade_level": "Starter / N5",
+      "lesson": 9,
+      "stroke_count": 8,
+      "radical": "金",
+      "readings": {
+        "onyomi": {
+          "kana": "キン, コン, ゴン",
+          "romaji": "kin, kon, gon"
+        },
+        "kunyomi": {
+          "kana": "かね, かな-, -がね",
+          "romaji": "kane, kana-, -gane"
+        }
+      },
+      "meanings": {
+        "english": "Gold, Money",
+        "sinhala": "රත්තරන්, මුදල්"
+      },
+      "audio": {
+        "file_name": "kj_076_kin.mp3",
+        "track_id": "KJ-076",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_076_mnemonic.png",
+        "stroke_order_image": "kj_076_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_077",
+      "kanji": "土",
+      "grade_level": "Starter / N5",
+      "lesson": 9,
+      "stroke_count": 3,
+      "radical": "土",
+      "readings": {
+        "onyomi": {
+          "kana": "ド, ト",
+          "romaji": "do, to"
+        },
+        "kunyomi": {
+          "kana": "つち",
+          "romaji": "tsuchi"
+        }
+      },
+      "meanings": {
+        "english": "Earth, Soil",
+        "sinhala": "පස, පස්"
+      },
+      "audio": {
+        "file_name": "kj_077_do.mp3",
+        "track_id": "KJ-077",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_077_mnemonic.png",
+        "stroke_order_image": "kj_077_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_078",
+      "kanji": "曜",
+      "grade_level": "Starter / N5",
+      "lesson": 9,
+      "stroke_count": 18,
+      "radical": "日",
+      "readings": {
+        "onyomi": {
+          "kana": "ヨウ",
+          "romaji": "you"
+        },
+        "kunyomi": {
+          "kana": "",
+          "romaji": ""
+        }
+      },
+      "meanings": {
+        "english": "Day of the week",
+        "sinhala": "සතියේ දිනය"
+      },
+      "audio": {
+        "file_name": "kj_078_you.mp3",
+        "track_id": "KJ-078",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_078_mnemonic.png",
+        "stroke_order_image": "kj_078_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_079",
+      "kanji": "時",
+      "grade_level": "Starter / N5",
+      "lesson": 9,
+      "stroke_count": 10,
+      "radical": "日",
+      "readings": {
+        "onyomi": {
+          "kana": "ジ",
+          "romaji": "ji"
+        },
+        "kunyomi": {
+          "kana": "とき, -どき",
+          "romaji": "toki, -doki"
+        }
+      },
+      "meanings": {
+        "english": "Time, Hour",
+        "sinhala": "වේලාව, පැය"
+      },
+      "audio": {
+        "file_name": "kj_079_ji.mp3",
+        "track_id": "KJ-079",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_079_mnemonic.png",
+        "stroke_order_image": "kj_079_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_080",
+      "kanji": "分",
+      "grade_level": "Starter / N5",
+      "lesson": 9,
+      "stroke_count": 4,
+      "radical": "刀",
+      "readings": {
+        "onyomi": {
+          "kana": "ブン, フン, ブ",
+          "romaji": "bun, fun, bu"
+        },
+        "kunyomi": {
+          "kana": "わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",
+          "romaji": "wa.keru, wa.ke, wa.kareru, wa.karu, wa.katsu"
+        }
+      },
+      "meanings": {
+        "english": "Minute, Part, Understand",
+        "sinhala": "මිනිත්තුව, කොටස, තේරුම් ගන්නවා"
+      },
+      "audio": {
+        "file_name": "kj_080_bun.mp3",
+        "track_id": "KJ-080",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_080_mnemonic.png",
+        "stroke_order_image": "kj_080_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    }
+  ]
+}

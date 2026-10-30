@@ -1,0 +1,2728 @@
+{
+  "level": "Irodori Elementary (N4 level)",
+  "part": "Kanji Bulk 3 (161-240)",
+  "total_kanji": 80,
+  "coverage": "Third batch of 80 core N4 kanji with Sinhala mnemonic breakdown stories, full readings, meanings, stroke order, and multimedia mapping.",
+  "kanji_list": [
+    {
+      "id": "kj_161",
+      "kanji": "始",
+      "grade_level": "Elementary / N4",
+      "lesson": 1,
+      "stroke_count": 8,
+      "radical": "女",
+      "readings": {
+        "onyomi": {
+          "kana": "シ",
+          "romaji": "shi"
+        },
+        "kunyomi": {
+          "kana": "はじ.める, はじ.まる",
+          "romaji": "haji.meru, haji.maru"
+        }
+      },
+      "meanings": {
+        "english": "Begin, Start",
+        "sinhala": "ආරම්භ කරනවා, පටන් ගන්නවා"
+      },
+      "mnemonic_story_sinhala": "කාන්තාවක් (女) තම කුළුඳුල් දරුවා බිහි කළ වේදිකාව (台) ඇගේ ජීවිතයේ අලුත් ආරම්භයයි.",
+      "audio": {
+        "file_name": "kj_161_hajimeru.mp3",
+        "track_id": "KJ-161",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_161_mnemonic.png",
+        "stroke_order_image": "kj_161_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_162",
+      "kanji": "終",
+      "grade_level": "Elementary / N4",
+      "lesson": 1,
+      "stroke_count": 11,
+      "radical": "糸",
+      "readings": {
+        "onyomi": {
+          "kana": "シュウ",
+          "romaji": "shuu"
+        },
+        "kunyomi": {
+          "kana": "お.わる, お.える",
+          "romaji": "o.waru, o.eru"
+        }
+      },
+      "meanings": {
+        "english": "End, Finish",
+        "sinhala": "අවසන් වෙනවා, නිමාව"
+      },
+      "mnemonic_story_sinhala": "රෙදි වියන නූල් (糸) පටලැවිල්ල ශීත සෘතුව (冬) පැමිණි විට ගෙතී අවසන් වේ.",
+      "audio": {
+        "file_name": "kj_162_owaru.mp3",
+        "track_id": "KJ-162",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_162_mnemonic.png",
+        "stroke_order_image": "kj_162_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_163",
+      "kanji": "開",
+      "grade_level": "Elementary / N4",
+      "lesson": 1,
+      "stroke_count": 12,
+      "radical": "門",
+      "readings": {
+        "onyomi": {
+          "kana": "カイ",
+          "romaji": "kai"
+        },
+        "kunyomi": {
+          "kana": "ひら.く, あ.ける, あ.く",
+          "romaji": "hira.ku, a.keru, a.ku"
+        }
+      },
+      "meanings": {
+        "english": "Open, Unlock",
+        "sinhala": "අරිනවා, විවෘත කරනවා"
+      },
+      "mnemonic_story_sinhala": "දෙපසට විවර වන ගේට්ටුව (門) අත් දෙකෙන්ම අල්ලා (幵) විවෘත කරන අයුරුයි.",
+      "audio": {
+        "file_name": "kj_163_hiraku.mp3",
+        "track_id": "KJ-163",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_163_mnemonic.png",
+        "stroke_order_image": "kj_163_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_164",
+      "kanji": "閉",
+      "grade_level": "Elementary / N4",
+      "lesson": 1,
+      "stroke_count": 11,
+      "radical": "門",
+      "readings": {
+        "onyomi": {
+          "kana": "ヘイ",
+          "romaji": "hei"
+        },
+        "kunyomi": {
+          "kana": "と.じる, し.める, し.まる",
+          "romaji": "to.jiru, shi.meru, shi.maru"
+        }
+      },
+      "meanings": {
+        "english": "Close, Shut",
+        "sinhala": "වහනවා, පියවනවා"
+      },
+      "mnemonic_story_sinhala": "ගේට්ටුව (門) ඇතුළතින් කිසිවෙකුට ඇතුළු විය නොහැකි ලෙස ලී බාල්කයකින් (才) වසා දමයි.",
+      "audio": {
+        "file_name": "kj_164_tojiru.mp3",
+        "track_id": "KJ-164",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_164_mnemonic.png",
+        "stroke_order_image": "kj_164_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_165",
+      "kanji": "問",
+      "grade_level": "Elementary / N4",
+      "lesson": 2,
+      "stroke_count": 11,
+      "radical": "口",
+      "readings": {
+        "onyomi": {
+          "kana": "モン",
+          "romaji": "mon"
+        },
+        "kunyomi": {
+          "kana": "と.う, と.い, とん",
+          "romaji": "to.u, to.i, ton"
+        }
+      },
+      "meanings": {
+        "english": "Question, Ask, Problem",
+        "sinhala": "ප්‍රශ්නය, විමසීම"
+      },
+      "mnemonic_story_sinhala": "ගේට්ටුව (門) අසල සිටින මුරකරුවාගෙන් කටින් (口) ප්‍රශ්නයක් අසයි.",
+      "audio": {
+        "file_name": "kj_165_tou.mp3",
+        "track_id": "KJ-165",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_165_mnemonic.png",
+        "stroke_order_image": "kj_165_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_166",
+      "kanji": "題",
+      "grade_level": "Elementary / N4",
+      "lesson": 2,
+      "stroke_count": 18,
+      "radical": "頁",
+      "readings": {
+        "onyomi": {
+          "kana": "ダイ",
+          "romaji": "dai"
+        },
+        "kunyomi": {
+          "kana": "",
+          "romaji": ""
+        }
+      },
+      "meanings": {
+        "english": "Topic, Title, Subject",
+        "sinhala": "මාතෘකාව, විෂය, ගැටලුව"
+      },
+      "mnemonic_story_sinhala": "සූර්යයා (日) යට හිඳ පොතේ පිටුවක් (頁) දෙස හිස යොමු කර මාතෘකාව තේරුම් ගනී.",
+      "audio": {
+        "file_name": "kj_166_dai.mp3",
+        "track_id": "KJ-166",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_166_mnemonic.png",
+        "stroke_order_image": "kj_166_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_167",
+      "kanji": "答",
+      "grade_level": "Elementary / N4",
+      "lesson": 2,
+      "stroke_count": 12,
+      "radical": "竹",
+      "readings": {
+        "onyomi": {
+          "kana": "トウ",
+          "romaji": "tou"
+        },
+        "kunyomi": {
+          "kana": "こた.える, こた.え",
+          "romaji": "kota.eru, kota.e"
+        }
+      },
+      "meanings": {
+        "english": "Answer, Reply",
+        "sinhala": "පිළිතුර, උත්තර දෙනවා"
+      },
+      "mnemonic_story_sinhala": "උණ බම්බු (竹) පෑනෙන් එකඟතාව (合) පළකරමින් ලිඛිත පිළිතුර සටහන් කරයි.",
+      "audio": {
+        "file_name": "kj_167_kotaeru.mp3",
+        "track_id": "KJ-167",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_167_mnemonic.png",
+        "stroke_order_image": "kj_167_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_168",
+      "kanji": "宿",
+      "grade_level": "Elementary / N4",
+      "lesson": 2,
+      "stroke_count": 11,
+      "radical": "宀",
+      "readings": {
+        "onyomi": {
+          "kana": "シュク",
+          "romaji": "shuku"
+        },
+        "kunyomi": {
+          "kana": "やど, やど.る, やど.す",
+          "romaji": "yado, yado.ru, yado.su"
+        }
+      },
+      "meanings": {
+        "english": "Inn, Lodge, Dwell",
+        "sinhala": "නවාතැන, ලැගුම්හල"
+      },
+      "mnemonic_story_sinhala": "වහලක් (宀) යට තණකොළ පැදුරක (亻+百) රාත්‍රිය ගත කරන නවාතැනයි.",
+      "audio": {
+        "file_name": "kj_168_yado.mp3",
+        "track_id": "KJ-168",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_168_mnemonic.png",
+        "stroke_order_image": "kj_168_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_169",
+      "kanji": "教",
+      "grade_level": "Elementary / N4",
+      "lesson": 2,
+      "stroke_count": 11,
+      "radical": "攴",
+      "readings": {
+        "onyomi": {
+          "kana": "キョウ",
+          "romaji": "kyou"
+        },
+        "kunyomi": {
+          "kana": "おし.える, おそ.わる",
+          "romaji": "oshi.eru, oso.waru"
+        }
+      },
+      "meanings": {
+        "english": "Teach, Faith, Doctrine",
+        "sinhala": "උගන්වනවා, කියා දෙනවා"
+      },
+      "mnemonic_story_sinhala": "දරුවෙකුට (子) දැනුම (孝) ලබා දීමට අතේ සැරයටියක් (攵) ගෙන ගුරුවරයා උගන්වයි.",
+      "audio": {
+        "file_name": "kj_169_oshieru.mp3",
+        "track_id": "KJ-169",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_169_mnemonic.png",
+        "stroke_order_image": "kj_169_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_170",
+      "kanji": "室",
+      "grade_level": "Elementary / N4",
+      "lesson": 2,
+      "stroke_count": 9,
+      "radical": "宀",
+      "readings": {
+        "onyomi": {
+          "kana": "シツ",
+          "romaji": "shitsu"
+        },
+        "kunyomi": {
+          "kana": "むろ",
+          "romaji": "muro"
+        }
+      },
+      "meanings": {
+        "english": "Room, Chamber",
+        "sinhala": "කාමරය, ශාලාව"
+      },
+      "mnemonic_story_sinhala": "වහලක් (宀) යට ඊතලයක් බිම පතිත වන (至) සීමිත ආරක්ෂිත කාමරයයි.",
+      "audio": {
+        "file_name": "kj_170_muro.mp3",
+        "track_id": "KJ-170",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_170_mnemonic.png",
+        "stroke_order_image": "kj_170_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_171",
+      "kanji": "文",
+      "grade_level": "Elementary / N4",
+      "lesson": 3,
+      "stroke_count": 4,
+      "radical": "文",
+      "readings": {
+        "onyomi": {
+          "kana": "ブン, モン",
+          "romaji": "bun, mon"
+        },
+        "kunyomi": {
+          "kana": "ふみ, あや",
+          "romaji": "fumi, aya"
+        }
+      },
+      "meanings": {
+        "english": "Sentence, Literature, Letter",
+        "sinhala": "වාක්‍යය, ලේඛනය, සාහිත්‍යය"
+      },
+      "mnemonic_story_sinhala": "පපුව මත පච්චයක් කෙටූ රූපයකින් අක්ෂර සහ සාහිත්‍යමය වාක්‍ය නිර්මාණය විය.",
+      "audio": {
+        "file_name": "kj_171_fumi.mp3",
+        "track_id": "KJ-171",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_171_mnemonic.png",
+        "stroke_order_image": "kj_171_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_172",
+      "kanji": "字",
+      "grade_level": "Elementary / N4",
+      "lesson": 3,
+      "stroke_count": 6,
+      "radical": "子",
+      "readings": {
+        "onyomi": {
+          "kana": "ジ",
+          "romaji": "ji"
+        },
+        "kunyomi": {
+          "kana": "あざ, あざな",
+          "romaji": "aza, azana"
+        }
+      },
+      "meanings": {
+        "english": "Character, Letter, Symbol",
+        "sinhala": "අකුර, අක්ෂරය"
+      },
+      "mnemonic_story_sinhala": "නිවසේ වහල (宀) යට සිටින දරුවා (子) ලියන්නට පුරුදු වන අකුරයි.",
+      "audio": {
+        "file_name": "kj_172_aza.mp3",
+        "track_id": "KJ-172",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_172_mnemonic.png",
+        "stroke_order_image": "kj_172_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_173",
+      "kanji": "紙",
+      "grade_level": "Elementary / N4",
+      "lesson": 3,
+      "stroke_count": 10,
+      "radical": "糸",
+      "readings": {
+        "onyomi": {
+          "kana": "シ",
+          "romaji": "shi"
+        },
+        "kunyomi": {
+          "kana": "かみ",
+          "romaji": "kami"
+        }
+      },
+      "meanings": {
+        "english": "Paper",
+        "sinhala": "කඩදාසි, කොළය"
+      },
+      "mnemonic_story_sinhala": "සිහින් නූල් කෙඳි (糸) එකිනෙක අලවා පැතලි හැඩයක් (氏) ගත් කඩදාසියයි.",
+      "audio": {
+        "file_name": "kj_173_kami.mp3",
+        "track_id": "KJ-173",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_173_mnemonic.png",
+        "stroke_order_image": "kj_173_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_174",
+      "kanji": "意",
+      "grade_level": "Elementary / N4",
+      "lesson": 3,
+      "stroke_count": 13,
+      "radical": "心",
+      "readings": {
+        "onyomi": {
+          "kana": "イ",
+          "romaji": "i"
+        },
+        "kunyomi": {
+          "kana": "",
+          "romaji": ""
+        }
+      },
+      "meanings": {
+        "english": "Idea, Mind, Meaning",
+        "sinhala": "අදහස, සිතුවිල්ල"
+      },
+      "mnemonic_story_sinhala": "හදවතින් (心) නැගෙන ශබ්දය (音) තුළ ගැබ්වූ අදහසයි.",
+      "audio": {
+        "file_name": "kj_174_i.mp3",
+        "track_id": "KJ-174",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_174_mnemonic.png",
+        "stroke_order_image": "kj_174_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_175",
+      "kanji": "味",
+      "grade_level": "Elementary / N4",
+      "lesson": 3,
+      "stroke_count": 8,
+      "radical": "口",
+      "readings": {
+        "onyomi": {
+          "kana": "ミ, ビ",
+          "romaji": "mi, bi"
+        },
+        "kunyomi": {
+          "kana": "あじ, あじ.わう",
+          "romaji": "aji, aji.wau"
+        }
+      },
+      "meanings": {
+        "english": "Flavor, Taste",
+        "sinhala": "රසය, විඳිනවා"
+      },
+      "mnemonic_story_sinhala": "තවමත් නොඉදුණු (未) ඵලයක් කටින් (口) සපා රස බලන ආකාරයයි.",
+      "audio": {
+        "file_name": "kj_175_aji.mp3",
+        "track_id": "KJ-175",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_175_mnemonic.png",
+        "stroke_order_image": "kj_175_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_176",
+      "kanji": "動",
+      "grade_level": "Elementary / N4",
+      "lesson": 4,
+      "stroke_count": 11,
+      "radical": "力",
+      "readings": {
+        "onyomi": {
+          "kana": "ドウ",
+          "romaji": "dou"
+        },
+        "kunyomi": {
+          "kana": "うご.く, うご.かす",
+          "romaji": "ugo.ku, ugo.kasu"
+        }
+      },
+      "meanings": {
+        "english": "Move, Motion",
+        "sinhala": "සෙලවෙනවා, චලනය වෙනවා"
+      },
+      "mnemonic_story_sinhala": "බරැති (重) දෙයක් ශක්තිය (力) යොදා එහා මෙහා චලනය කිරීමයි.",
+      "audio": {
+        "file_name": "kj_176_ugoku.mp3",
+        "track_id": "KJ-176",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_176_mnemonic.png",
+        "stroke_order_image": "kj_176_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_177",
+      "kanji": "運",
+      "grade_level": "Elementary / N4",
+      "lesson": 4,
+      "stroke_count": 12,
+      "radical": "辵",
+      "readings": {
+        "onyomi": {
+          "kana": "ウン",
+          "romaji": "un"
+        },
+        "kunyomi": {
+          "kana": "はこ.ぶ",
+          "romaji": "hako.bu"
+        }
+      },
+      "meanings": {
+        "english": "Carry, Luck, Transport",
+        "sinhala": "ප්‍රවාහනය, වාසනාව"
+      },
+      "mnemonic_story_sinhala": "රෝදයක් (軍) කරකවමින් පාරේ ගමන් කරන (辶) කරත්තයෙන් බඩු ප්‍රවාහනය කරයි.",
+      "audio": {
+        "file_name": "kj_177_hakobu.mp3",
+        "track_id": "KJ-177",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_177_mnemonic.png",
+        "stroke_order_image": "kj_177_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_178",
+      "kanji": "転",
+      "grade_level": "Elementary / N4",
+      "lesson": 4,
+      "stroke_count": 11,
+      "radical": "車",
+      "readings": {
+        "onyomi": {
+          "kana": "テン",
+          "romaji": "ten"
+        },
+        "kunyomi": {
+          "kana": "ころ.がる, ころ.げる, ころ.がす, ころ.ぶ",
+          "romaji": "koro.garu, koro.geru, koro.gasu, koro.bu"
+        }
+      },
+      "meanings": {
+        "english": "Revolve, Turn, Roll",
+        "sinhala": "පෙරළෙනවා, කැරකෙනවා"
+      },
+      "mnemonic_story_sinhala": "කරත්තයේ (車) රෝදය වටයක් කැරකී පෙරළී (云) යන ආකාරයයි.",
+      "audio": {
+        "file_name": "kj_178_korogaru.mp3",
+        "track_id": "KJ-178",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_178_mnemonic.png",
+        "stroke_order_image": "kj_178_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_179",
+      "kanji": "旅",
+      "grade_level": "Elementary / N4",
+      "lesson": 4,
+      "stroke_count": 10,
+      "radical": "方",
+      "readings": {
+        "onyomi": {
+          "kana": "リョ",
+          "romaji": "ryo"
+        },
+        "kunyomi": {
+          "kana": "たび",
+          "romaji": "tabi"
+        }
+      },
+      "meanings": {
+        "english": "Trip, Travel",
+        "sinhala": "සංචාරය, චාරිකාව"
+      },
+      "mnemonic_story_sinhala": "ධජයක් (方) ඔසවාගත් පිරිසක් (氏) එක්වී යන දීර්ඝ සංචාරයයි.",
+      "audio": {
+        "file_name": "kj_179_tabi.mp3",
+        "track_id": "KJ-179",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_179_mnemonic.png",
+        "stroke_order_image": "kj_179_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_180",
+      "kanji": "通",
+      "grade_level": "Elementary / N4",
+      "lesson": 4,
+      "stroke_count": 10,
+      "radical": "辵",
+      "readings": {
+        "onyomi": {
+          "kana": "ツウ, ツ",
+          "romaji": "tsuu, tsu"
+        },
+        "kunyomi": {
+          "kana": "とお.る, とお.り, とお.す, かよ.う",
+          "romaji": "too.ru, too.ri, too.su, kayo.u"
+        }
+      },
+      "meanings": {
+        "english": "Pass through, Commute",
+        "sinhala": "හරහා යනවා, ගමන් කරනවා"
+      },
+      "mnemonic_story_sinhala": "බාධාවකින් තොරව (甬) පාර දිගේ (辶) නිතර එහා මෙහා ගමන් කිරීමයි.",
+      "audio": {
+        "file_name": "kj_180_tooru.mp3",
+        "track_id": "KJ-180",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_180_mnemonic.png",
+        "stroke_order_image": "kj_180_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_181",
+      "kanji": "降",
+      "grade_level": "Elementary / N4",
+      "lesson": 5,
+      "stroke_count": 10,
+      "radical": "阜",
+      "readings": {
+        "onyomi": {
+          "kana": "コウ, ゴ",
+          "romaji": "kou, go"
+        },
+        "kunyomi": {
+          "kana": "お.りる, お.ろす, ふ.る",
+          "romaji": "o.riru, o.rosu, fu.ru"
+        }
+      },
+      "meanings": {
+        "english": "Descend, Fall (rain/snow)",
+        "sinhala": "බහිනවා, ඇද හැලෙනවා"
+      },
+      "mnemonic_story_sinhala": "කන්දකින් (阝) පහළට පය තබමින් (夅) බැස ඒම හෝ වැස්ස ඇද හැලීමයි.",
+      "audio": {
+        "file_name": "kj_181_oriru.mp3",
+        "track_id": "KJ-181",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_181_mnemonic.png",
+        "stroke_order_image": "kj_181_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_182",
+      "kanji": "乗",
+      "grade_level": "Elementary / N4",
+      "lesson": 5,
+      "stroke_count": 9,
+      "radical": "丿",
+      "readings": {
+        "onyomi": {
+          "kana": "ジョウ, ショウ",
+          "romaji": "jou, shou"
+        },
+        "kunyomi": {
+          "kana": "の.る, の.せる",
+          "romaji": "no.ru, no.seru"
+        }
+      },
+      "meanings": {
+        "english": "Ride, Board, Mount",
+        "sinhala": "නගිනවා (වාහනයකට)"
+      },
+      "mnemonic_story_sinhala": "ගසක් හෝ කරත්තයක් මතට කෙනෙකු පාද තබා නගින ආකාරයයි.",
+      "audio": {
+        "file_name": "kj_182_noru.mp3",
+        "track_id": "KJ-182",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_182_mnemonic.png",
+        "stroke_order_image": "kj_182_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_183",
+      "kanji": "借",
+      "grade_level": "Elementary / N4",
+      "lesson": 5,
+      "stroke_count": 10,
+      "radical": "人",
+      "readings": {
+        "onyomi": {
+          "kana": "シャク",
+          "romaji": "shaku"
+        },
+        "kunyomi": {
+          "kana": "か.りる",
+          "romaji": "ka.riru"
+        }
+      },
+      "meanings": {
+        "english": "Borrow, Rent",
+        "sinhala": "ණයට ගන්නවා, ඉල්ලා ගන්නවා"
+      },
+      "mnemonic_story_sinhala": "මිනිසෙකු (亻) අතීතයේ (昔) සිට හිතවතෙකුගෙන් යමක් ණයට ලබාගනී.",
+      "audio": {
+        "file_name": "kj_183_kariru.mp3",
+        "track_id": "KJ-183",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_183_mnemonic.png",
+        "stroke_order_image": "kj_183_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_184",
+      "kanji": "貸",
+      "grade_level": "Elementary / N4",
+      "lesson": 5,
+      "stroke_count": 12,
+      "radical": "貝",
+      "readings": {
+        "onyomi": {
+          "kana": "タイ",
+          "romaji": "tai"
+        },
+        "kunyomi": {
+          "kana": "か.す, か.し-",
+          "romaji": "ka.su, ka.shi-"
+        }
+      },
+      "meanings": {
+        "english": "Lend, Loan",
+        "sinhala": "ණයට දෙනවා"
+      },
+      "mnemonic_story_sinhala": "තම ධනය හෝ මුදල් (貝) වෙනත් කෙනෙකුට (代) තාවකාලිකව පරිහරණයට ලබාදීමයි.",
+      "audio": {
+        "file_name": "kj_184_kasu.mp3",
+        "track_id": "KJ-184",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_184_mnemonic.png",
+        "stroke_order_image": "kj_184_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_185",
+      "kanji": "返",
+      "grade_level": "Elementary / N4",
+      "lesson": 5,
+      "stroke_count": 7,
+      "radical": "辵",
+      "readings": {
+        "onyomi": {
+          "kana": "ヘン",
+          "romaji": "hen"
+        },
+        "kunyomi": {
+          "kana": "かえ.す, かえ.る",
+          "romaji": "kae.su, kae.ru"
+        }
+      },
+      "meanings": {
+        "english": "Return, Repay",
+        "sinhala": "ආපසු දෙනවා, පෙරළා දෙනවා"
+      },
+      "mnemonic_story_sinhala": "ණයට ගත් දේ නැවත ආපසු හරවා (反) රැගෙන යන (辶) ගමනයි.",
+      "audio": {
+        "file_name": "kj_185_kaesu.mp3",
+        "track_id": "KJ-185",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_185_mnemonic.png",
+        "stroke_order_image": "kj_185_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_186",
+      "kanji": "送",
+      "grade_level": "Elementary / N4",
+      "lesson": 6,
+      "stroke_count": 9,
+      "radical": "辵",
+      "readings": {
+        "onyomi": {
+          "kana": "ソウ",
+          "romaji": "sou"
+        },
+        "kunyomi": {
+          "kana": "おく.る",
+          "romaji": "oku.ru"
+        }
+      },
+      "meanings": {
+        "english": "Send, Escort",
+        "sinhala": "යවනවා, පිටත් කරනවා"
+      },
+      "mnemonic_story_sinhala": "තෑග්ගක් අත් දෙකෙන්ම ඔසවාගෙන (关) මගියා පසුපස ගොස් (辶) පිටත් කර හැරීමයි.",
+      "audio": {
+        "file_name": "kj_186_okuru.mp3",
+        "track_id": "KJ-186",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_186_mnemonic.png",
+        "stroke_order_image": "kj_186_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_187",
+      "kanji": "切",
+      "grade_level": "Elementary / N4",
+      "lesson": 6,
+      "stroke_count": 4,
+      "radical": "刀",
+      "readings": {
+        "onyomi": {
+          "kana": "セツ, サイ",
+          "romaji": "setsu, sai"
+        },
+        "kunyomi": {
+          "kana": "き.る, -き.る, き.り, き.れる",
+          "romaji": "ki.ru, -ki.ru, ki.ri, ki.reru"
+        }
+      },
+      "meanings": {
+        "english": "Cut, Sever, Urgent",
+        "sinhala": "කපනවා, කපා දමනවා"
+      },
+      "mnemonic_story_sinhala": "පිහියක් (刀) යොදාගෙන රෙදි කැබැල්ලක් හතට (七) කපා දමයි.",
+      "audio": {
+        "file_name": "kj_187_kiru.mp3",
+        "track_id": "KJ-187",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_187_mnemonic.png",
+        "stroke_order_image": "kj_187_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_188",
+      "kanji": "着",
+      "grade_level": "Elementary / N4",
+      "lesson": 6,
+      "stroke_count": 12,
+      "radical": "目",
+      "readings": {
+        "onyomi": {
+          "kana": "チャク, ジャク",
+          "romaji": "chaku, jaku"
+        },
+        "kunyomi": {
+          "kana": "き.る, -ぎ, き.せる, つ.く, つ.ける",
+          "romaji": "ki.ru, -gi, ki.seru, tsu.ku, tsu.keru"
+        }
+      },
+      "meanings": {
+        "english": "Don, Wear, Arrive",
+        "sinhala": "අඳිනවා, ළඟා වෙනවා"
+      },
+      "mnemonic_story_sinhala": "බැටළු ලොම් (羊) ඇඳුමක් ඇඟලාගෙන ඇස් (目) මානයට ළඟා වීමයි.",
+      "audio": {
+        "file_name": "kj_188_kiru.mp3",
+        "track_id": "KJ-188",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_188_mnemonic.png",
+        "stroke_order_image": "kj_188_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_189",
+      "kanji": "洗",
+      "grade_level": "Elementary / N4",
+      "lesson": 6,
+      "stroke_count": 9,
+      "radical": "水",
+      "readings": {
+        "onyomi": {
+          "kana": "セン",
+          "romaji": "sen"
+        },
+        "kunyomi": {
+          "kana": "あら.う",
+          "romaji": "ara.u"
+        }
+      },
+      "meanings": {
+        "english": "Wash, Cleanse",
+        "sinhala": "සෝදනවා, පිරිසිදු කරනවා"
+      },
+      "mnemonic_story_sinhala": "වතුර (氵) යොදාගෙන කෙනෙකුට වඩා කලින් (先) තම අත් පා පිරිසිදු කර ගැනීමයි.",
+      "audio": {
+        "file_name": "kj_189_arau.mp3",
+        "track_id": "KJ-189",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_189_mnemonic.png",
+        "stroke_order_image": "kj_189_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_190",
+      "kanji": "急",
+      "grade_level": "Elementary / N4",
+      "lesson": 6,
+      "stroke_count": 9,
+      "radical": "心",
+      "readings": {
+        "onyomi": {
+          "kana": "キュウ",
+          "romaji": "kyuu"
+        },
+        "kunyomi": {
+          "kana": "いそ.ぐ, いそ.ぎ",
+          "romaji": "iso.gu, iso.gi"
+        }
+      },
+      "meanings": {
+        "english": "Hurry, Emergency, Sudden",
+        "sinhala": "කඩිමුඩිය, හදිසිය"
+      },
+      "mnemonic_story_sinhala": "අතින් යමක් අල්ලාගෙන හදවත (心) ගැහෙමින් ඉක්මන් වීමයි.",
+      "audio": {
+        "file_name": "kj_190_isogu.mp3",
+        "track_id": "KJ-190",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_190_mnemonic.png",
+        "stroke_order_image": "kj_190_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_191",
+      "kanji": "痛",
+      "grade_level": "Elementary / N4",
+      "lesson": 7,
+      "stroke_count": 12,
+      "radical": "疒",
+      "readings": {
+        "onyomi": {
+          "kana": "ツウ",
+          "romaji": "tsuu"
+        },
+        "kunyomi": {
+          "kana": "いた.い, いた.む, いた.ましい",
+          "romaji": "ita.i, ita.mu, ita.mashii"
+        }
+      },
+      "meanings": {
+        "english": "Pain, Hurt, Sore",
+        "sinhala": "රිදෙනවා, වේදනාව"
+      },
+      "mnemonic_story_sinhala": "ලෙඩ ඇඳක (疒) වැතිරී නළලින් දහඩිය දමමින් (甬) වේදනා විඳීමයි.",
+      "audio": {
+        "file_name": "kj_191_itai.mp3",
+        "track_id": "KJ-191",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_191_mnemonic.png",
+        "stroke_order_image": "kj_191_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_192",
+      "kanji": "病",
+      "grade_level": "Elementary / N4",
+      "lesson": 7,
+      "stroke_count": 10,
+      "radical": "疒",
+      "readings": {
+        "onyomi": {
+          "kana": "ビョウ, ヘイ",
+          "romaji": "byou, hei"
+        },
+        "kunyomi": {
+          "kana": "や.む, -や.み, やまい",
+          "romaji": "ya.mu, -ya.mi, yamai"
+        }
+      },
+      "meanings": {
+        "english": "Illness, Sickness",
+        "sinhala": "රෝගය, අසනීපය"
+      },
+      "mnemonic_story_sinhala": "ලෙඩ ඇඳක (疒) හිඳගෙන තෙවැනි (丙) වරටත් ප්‍රතිකාර ලබන අසනීපයයි.",
+      "audio": {
+        "file_name": "kj_192_yamu.mp3",
+        "track_id": "KJ-192",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_192_mnemonic.png",
+        "stroke_order_image": "kj_192_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_193",
+      "kanji": "院",
+      "grade_level": "Elementary / N4",
+      "lesson": 7,
+      "stroke_count": 10,
+      "radical": "阜",
+      "readings": {
+        "onyomi": {
+          "kana": "イン",
+          "romaji": "in"
+        },
+        "kunyomi": {
+          "kana": "",
+          "romaji": ""
+        }
+      },
+      "meanings": {
+        "english": "Institution, Hospital",
+        "sinhala": "ආයතනය, ශාලාව"
+      },
+      "mnemonic_story_sinhala": "පවුරක් (阝) ඇතුළත පිහිටි පරිපූර්ණ (完) රෝහල් ආයතනයයි.",
+      "audio": {
+        "file_name": "kj_193_in.mp3",
+        "track_id": "KJ-193",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_193_mnemonic.png",
+        "stroke_order_image": "kj_193_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_194",
+      "kanji": "医",
+      "grade_level": "Elementary / N4",
+      "lesson": 7,
+      "stroke_count": 7,
+      "radical": "匚",
+      "readings": {
+        "onyomi": {
+          "kana": "イ",
+          "romaji": "i"
+        },
+        "kunyomi": {
+          "kana": "い.やす, い.する, くすし",
+          "romaji": "i.yasu, i.suru, kusushi"
+        }
+      },
+      "meanings": {
+        "english": "Doctor, Medicine",
+        "sinhala": "වෛද්‍යවරයා, චිකිත්සාව"
+      },
+      "mnemonic_story_sinhala": "පෙට්ටියක් (匚) තුළ ඇති ඊතල (矢) වැනි සියුම් කටු චිකිත්සක මෙවලම් භාවිත කරන වෛද්‍යවරයායි.",
+      "audio": {
+        "file_name": "kj_194_iyasu.mp3",
+        "track_id": "KJ-194",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_194_mnemonic.png",
+        "stroke_order_image": "kj_194_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_195",
+      "kanji": "薬",
+      "grade_level": "Elementary / N4",
+      "lesson": 7,
+      "stroke_count": 16,
+      "radical": "艸",
+      "readings": {
+        "onyomi": {
+          "kana": "ヤク",
+          "romaji": "yaku"
+        },
+        "kunyomi": {
+          "kana": "くすり",
+          "romaji": "kusuri"
+        }
+      },
+      "meanings": {
+        "english": "Medicine, Chemical",
+        "sinhala": "බෙහෙත්, ඖෂධ"
+      },
+      "mnemonic_story_sinhala": "තණකොළ/පැළෑටි (艹) යොදාගෙන සැනසිල්ලක් සහ සතුටක් (楽) ගෙන දෙන ඖෂධයයි.",
+      "audio": {
+        "file_name": "kj_195_kusuri.mp3",
+        "track_id": "KJ-195",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_195_mnemonic.png",
+        "stroke_order_image": "kj_195_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_196",
+      "kanji": "売",
+      "grade_level": "Elementary / N4",
+      "lesson": 8,
+      "stroke_count": 7,
+      "radical": "士",
+      "readings": {
+        "onyomi": {
+          "kana": "バイ",
+          "romaji": "bai"
+        },
+        "kunyomi": {
+          "kana": "う.る, う.れる",
+          "romaji": "u.ru, u.reru"
+        }
+      },
+      "meanings": {
+        "english": "Sell",
+        "sinhala": "විකුණනවා"
+      },
+      "mnemonic_story_sinhala": "පුද්ගලයෙක් කකුල් දෙකෙන් (儿) නැගී සිට තම භාණ්ඩ විකිණීමට කෑගසයි.",
+      "audio": {
+        "file_name": "kj_196_uru.mp3",
+        "track_id": "KJ-196",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_196_mnemonic.png",
+        "stroke_order_image": "kj_196_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_197",
+      "kanji": "計",
+      "grade_level": "Elementary / N4",
+      "lesson": 8,
+      "stroke_count": 9,
+      "radical": "言",
+      "readings": {
+        "onyomi": {
+          "kana": "ケイ",
+          "romaji": "kei"
+        },
+        "kunyomi": {
+          "kana": "はか.る, はか.らう",
+          "romaji": "haka.ru, haka.rau"
+        }
+      },
+      "meanings": {
+        "english": "Plan, Measure, Calculate",
+        "sinhala": "මනිනවා, සැලසුම් කරනවා"
+      },
+      "mnemonic_story_sinhala": "වචන (言) දහයකින් (十) කළ යුතු දේ ගණනය කර සැලසුම් කිරීමයි.",
+      "audio": {
+        "file_name": "kj_197_hakaru.mp3",
+        "track_id": "KJ-197",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_197_mnemonic.png",
+        "stroke_order_image": "kj_197_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_198",
+      "kanji": "寺",
+      "grade_level": "Elementary / N4",
+      "lesson": 8,
+      "stroke_count": 6,
+      "radical": "寸",
+      "readings": {
+        "onyomi": {
+          "kana": "ジ",
+          "romaji": "ji"
+        },
+        "kunyomi": {
+          "kana": "てら",
+          "romaji": "tera"
+        }
+      },
+      "meanings": {
+        "english": "Buddhist temple",
+        "sinhala": "බෞද්ධ පන්සල"
+      },
+      "mnemonic_story_sinhala": "පූජනීය පස් (土) මත නීතිය හා මැනීම (寸) රකින බෞද්ධ විහාරයයි.",
+      "audio": {
+        "file_name": "kj_198_tera.mp3",
+        "track_id": "KJ-198",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_198_mnemonic.png",
+        "stroke_order_image": "kj_198_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_199",
+      "kanji": "神",
+      "grade_level": "Elementary / N4",
+      "lesson": 8,
+      "stroke_count": 9,
+      "radical": "示",
+      "readings": {
+        "onyomi": {
+          "kana": "シン, ジン",
+          "romaji": "shin, jin"
+        },
+        "kunyomi": {
+          "kana": "かみ, かん-, こう-",
+          "romaji": "kami, kan-, kou-"
+        }
+      },
+      "meanings": {
+        "english": "God, Deity, Spirit",
+        "sinhala": "දෙවියන්, ශක්තිය"
+      },
+      "mnemonic_story_sinhala": "විහාර පූජාසනයක් (礻) අසලින් විදුලි සැරයක් (申) මෙන් මතු වන අද්භූත දෙවියන්ය.",
+      "audio": {
+        "file_name": "kj_199_kami.mp3",
+        "track_id": "KJ-199",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_199_mnemonic.png",
+        "stroke_order_image": "kj_199_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_200",
+      "kanji": "堂",
+      "grade_level": "Elementary / N4",
+      "lesson": 8,
+      "stroke_count": 11,
+      "radical": "土",
+      "readings": {
+        "onyomi": {
+          "kana": "ドウ",
+          "romaji": "dou"
+        },
+        "kunyomi": {
+          "kana": "",
+          "romaji": ""
+        }
+      },
+      "meanings": {
+        "english": "Public chamber, Hall",
+        "sinhala": "ශාලාව, මන්දිරය"
+      },
+      "mnemonic_story_sinhala": "පස (土) මත උසස් (尚) ලෙස තනා ඇති ගාම්භීර මහජන ශාලාවයි.",
+      "audio": {
+        "file_name": "kj_200_dou.mp3",
+        "track_id": "KJ-200",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_200_mnemonic.png",
+        "stroke_order_image": "kj_200_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_201",
+      "kanji": "建",
+      "grade_level": "Elementary / N4",
+      "lesson": 9,
+      "stroke_count": 9,
+      "radical": "廴",
+      "readings": {
+        "onyomi": {
+          "kana": "ケン, コン",
+          "romaji": "ken, kon"
+        },
+        "kunyomi": {
+          "kana": "た.てる, た.て, -だ.て, た.つ",
+          "romaji": "ta.teru, ta.te, -da.te, ta.tsu"
+        }
+      },
+      "meanings": {
+        "english": "Build, Construct",
+        "sinhala": "ගොඩනගනවා, ඉදිකිරීම"
+      },
+      "mnemonic_story_sinhala": "පොතක් හෝ සැළැස්මක් (聿) අතැතිව දිගු මාවතක (廴) නව නිවසක් ගොඩනැගීමයි.",
+      "audio": {
+        "file_name": "kj_201_tateru.mp3",
+        "track_id": "KJ-201",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_201_mnemonic.png",
+        "stroke_order_image": "kj_201_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_202",
+      "kanji": "物",
+      "grade_level": "Elementary / N4",
+      "lesson": 9,
+      "stroke_count": 8,
+      "radical": "牛",
+      "readings": {
+        "onyomi": {
+          "kana": "ブツ, モツ",
+          "romaji": "butsu, motsu"
+        },
+        "kunyomi": {
+          "kana": "もの, もの-",
+          "romaji": "mono, mono-"
+        }
+      },
+      "meanings": {
+        "english": "Thing, Object, Matter",
+        "sinhala": "දෙය, වස්තුව, බඩු"
+      },
+      "mnemonic_story_sinhala": "ගවයෙකු (牛) යනු ලෝකයේ විවිධ වර්ණ (勿) ඇති එක් ජීවී වස්තුවකි.",
+      "audio": {
+        "file_name": "kj_202_mono.mp3",
+        "track_id": "KJ-202",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_202_mnemonic.png",
+        "stroke_order_image": "kj_202_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_203",
+      "kanji": "品",
+      "grade_level": "Elementary / N4",
+      "lesson": 9,
+      "stroke_count": 9,
+      "radical": "口",
+      "readings": {
+        "onyomi": {
+          "kana": "ヒン, ホン",
+          "romaji": "hin, hon"
+        },
+        "kunyomi": {
+          "kana": "しな",
+          "romaji": "shina"
+        }
+      },
+      "meanings": {
+        "english": "Goods, Article, Refinement",
+        "sinhala": "භාණ්ඩය, නිෂ්පාදනය"
+      },
+      "mnemonic_story_sinhala": "පෙට්ටි තුනක් (口口口) එක මත එක තබා ඇති විකිණීමට ඇති භාණ්ඩයි.",
+      "audio": {
+        "file_name": "kj_203_shina.mp3",
+        "track_id": "KJ-203",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_203_mnemonic.png",
+        "stroke_order_image": "kj_203_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_204",
+      "kanji": "地",
+      "grade_level": "Elementary / N4",
+      "lesson": 9,
+      "stroke_count": 6,
+      "radical": "土",
+      "readings": {
+        "onyomi": {
+          "kana": "チ, ジ",
+          "romaji": "chi, ji"
+        },
+        "kunyomi": {
+          "kana": "",
+          "romaji": ""
+        }
+      },
+      "meanings": {
+        "english": "Ground, Earth, Land",
+        "sinhala": "පොළොව, භූමිය"
+      },
+      "mnemonic_story_sinhala": "පස (土) මත සර්පයෙකු (也) බඩගා යන මහ පොළොවයි.",
+      "audio": {
+        "file_name": "kj_204_chi.mp3",
+        "track_id": "KJ-204",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_204_mnemonic.png",
+        "stroke_order_image": "kj_204_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_205",
+      "kanji": "図",
+      "grade_level": "Elementary / N4",
+      "lesson": 9,
+      "stroke_count": 7,
+      "radical": "囗",
+      "readings": {
+        "onyomi": {
+          "kana": "ズ, ト",
+          "romaji": "zu, to"
+        },
+        "kunyomi": {
+          "kana": "え, はか.る",
+          "romaji": "e, haka.ru"
+        }
+      },
+      "meanings": {
+        "english": "Map, Drawing, Plan",
+        "sinhala": "සිතියම, රූප සටහන"
+      },
+      "mnemonic_story_sinhala": "සීමාවක් (囗) ඇතුළත ඇති සියලු මාර්ග හා ලකුණු දැක්වෙන සිතියමයි.",
+      "audio": {
+        "file_name": "kj_205_e.mp3",
+        "track_id": "KJ-205",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_205_mnemonic.png",
+        "stroke_order_image": "kj_205_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_206",
+      "kanji": "館",
+      "grade_level": "Elementary / N4",
+      "lesson": 9,
+      "stroke_count": 16,
+      "radical": "食",
+      "readings": {
+        "onyomi": {
+          "kana": "カン",
+          "romaji": "kan"
+        },
+        "kunyomi": {
+          "kana": "やかた, たて",
+          "romaji": "yakata, tate"
+        }
+      },
+      "meanings": {
+        "english": "Building, Mansion, Hall",
+        "sinhala": "ගොඩනැගිල්ල, මන්දිරය"
+      },
+      "mnemonic_story_sinhala": "ආහාර (食) ගනිමින් නිලධාරීන් (官) රැඳී සිටින විශාල මහජන ගොඩනැගිල්ලයි.",
+      "audio": {
+        "file_name": "kj_206_yakata.mp3",
+        "track_id": "KJ-206",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_206_mnemonic.png",
+        "stroke_order_image": "kj_206_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_207",
+      "kanji": "親",
+      "grade_level": "Elementary / N4",
+      "lesson": 10,
+      "stroke_count": 16,
+      "radical": "見",
+      "readings": {
+        "onyomi": {
+          "kana": "シン",
+          "romaji": "shin"
+        },
+        "kunyomi": {
+          "kana": "おや, おや-, した.しい, した.しむ",
+          "romaji": "oya, oya-, shita.shii, shita.shimu"
+        }
+      },
+      "meanings": {
+        "english": "Parent, Intimate, Relative",
+        "sinhala": "දෙමව්පියන්, හිතවත්"
+      },
+      "mnemonic_story_sinhala": "ගසක් (木) මත නැගී (立) දරුවා එන දෙස ආදරයෙන් බලා සිටින (見) දෙමව්පියන්ය.",
+      "audio": {
+        "file_name": "kj_207_oya.mp3",
+        "track_id": "KJ-207",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_207_mnemonic.png",
+        "stroke_order_image": "kj_207_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_208",
+      "kanji": "族",
+      "grade_level": "Elementary / N4",
+      "lesson": 10,
+      "stroke_count": 11,
+      "radical": "方",
+      "readings": {
+        "onyomi": {
+          "kana": "ゾク",
+          "romaji": "zoku"
+        },
+        "kunyomi": {
+          "kana": "",
+          "romaji": ""
+        }
+      },
+      "meanings": {
+        "english": "Tribe, Family, Clan",
+        "sinhala": "පවුල, පරපුර, ගෝත්‍රය"
+      },
+      "mnemonic_story_sinhala": "එකම කොඩියක් (方) යට ඊතල (矢) රැගෙන පෙළගැසෙන පවුලේ ඥාතීන්ය.",
+      "audio": {
+        "file_name": "kj_208_zoku.mp3",
+        "track_id": "KJ-208",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_208_mnemonic.png",
+        "stroke_order_image": "kj_208_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_209",
+      "kanji": "私",
+      "grade_level": "Elementary / N4",
+      "lesson": 10,
+      "stroke_count": 7,
+      "radical": "禾",
+      "readings": {
+        "onyomi": {
+          "kana": "シ",
+          "romaji": "shi"
+        },
+        "kunyomi": {
+          "kana": "わたくし, わたし",
+          "romaji": "watakushi, watashi"
+        }
+      },
+      "meanings": {
+        "english": "I, Me, Private",
+        "sinhala": "මම, පෞද්ගලික"
+      },
+      "mnemonic_story_sinhala": "අස්වැන්න (禾) තමා වෙතට පමණක් (厶) ලංකර ගන්නා පුද්ගලික 'මම' ය.",
+      "audio": {
+        "file_name": "kj_209_watakushi.mp3",
+        "track_id": "KJ-209",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_209_mnemonic.png",
+        "stroke_order_image": "kj_209_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_210",
+      "kanji": "僕",
+      "grade_level": "Elementary / N4",
+      "lesson": 10,
+      "stroke_count": 14,
+      "radical": "人",
+      "readings": {
+        "onyomi": {
+          "kana": "ボク",
+          "romaji": "boku"
+        },
+        "kunyomi": {
+          "kana": "しもべ",
+          "romaji": "shimobe"
+        }
+      },
+      "meanings": {
+        "english": "I, Me (male)",
+        "sinhala": "මම (පිරිමි අය භාවිත කරන)"
+      },
+      "mnemonic_story_sinhala": "සේවකයෙකු (亻) මෙන් නිහතමානීව ගෞරවයෙන් කතා කරන තරුණයායි.",
+      "audio": {
+        "file_name": "kj_210_shimobe.mp3",
+        "track_id": "KJ-210",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_210_mnemonic.png",
+        "stroke_order_image": "kj_210_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_211",
+      "kanji": "主",
+      "grade_level": "Elementary / N4",
+      "lesson": 10,
+      "stroke_count": 5,
+      "radical": "丶",
+      "readings": {
+        "onyomi": {
+          "kana": "シュ, ス, シュウ",
+          "romaji": "shu, su, shuu"
+        },
+        "kunyomi": {
+          "kana": "ぬし, おも, あるじ",
+          "romaji": "nushi, omo, aruji"
+        }
+      },
+      "meanings": {
+        "english": "Master, Main, Lord",
+        "sinhala": "හිමිකරු, ප්‍රධාන"
+      },
+      "mnemonic_story_sinhala": "පහනක් (王) උඩ දැල්වෙන එකම ගිනි දැල්ල (丶) මෙන් ප්‍රධාන නායකයායි.",
+      "audio": {
+        "file_name": "kj_211_nushi.mp3",
+        "track_id": "KJ-211",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_211_mnemonic.png",
+        "stroke_order_image": "kj_211_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_212",
+      "kanji": "林",
+      "grade_level": "Elementary / N4",
+      "lesson": 11,
+      "stroke_count": 8,
+      "radical": "木",
+      "readings": {
+        "onyomi": {
+          "kana": "リン",
+          "romaji": "rin"
+        },
+        "kunyomi": {
+          "kana": "はやし",
+          "romaji": "hayashi"
+        }
+      },
+      "meanings": {
+        "english": "Grove, Small forest",
+        "sinhala": "ලඳු කැලය, කුඩා වනය"
+      },
+      "mnemonic_story_sinhala": "ගස් (木) දෙකක් එක ළඟ ඇති කුඩා වනාන්තරයයි.",
+      "audio": {
+        "file_name": "kj_212_hayashi.mp3",
+        "track_id": "KJ-212",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_212_mnemonic.png",
+        "stroke_order_image": "kj_212_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_213",
+      "kanji": "森",
+      "grade_level": "Elementary / N4",
+      "lesson": 11,
+      "stroke_count": 12,
+      "radical": "木",
+      "readings": {
+        "onyomi": {
+          "kana": "シン",
+          "romaji": "shin"
+        },
+        "kunyomi": {
+          "kana": "もり",
+          "romaji": "mori"
+        }
+      },
+      "meanings": {
+        "english": "Dense forest",
+        "sinhala": "මහා වනාන්තරය, කැලය"
+      },
+      "mnemonic_story_sinhala": "ගස් තුනක් (木木木) එකට එකතු වූ මහා ඝන වනාන්තරයයි.",
+      "audio": {
+        "file_name": "kj_213_mori.mp3",
+        "track_id": "KJ-213",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_213_mnemonic.png",
+        "stroke_order_image": "kj_213_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_214",
+      "kanji": "海",
+      "grade_level": "Elementary / N4",
+      "lesson": 11,
+      "stroke_count": 9,
+      "radical": "水",
+      "readings": {
+        "onyomi": {
+          "kana": "カイ",
+          "romaji": "kai"
+        },
+        "kunyomi": {
+          "kana": "うみ",
+          "romaji": "umi"
+        }
+      },
+      "meanings": {
+        "english": "Sea, Ocean",
+        "sinhala": "මුහුද, සාගරය"
+      },
+      "mnemonic_story_sinhala": "සෑම මිනිසෙකුටම (毎) ජීවය දෙන මහා දිය කඳ (氵) හෙවත් සාගරයයි.",
+      "audio": {
+        "file_name": "kj_214_umi.mp3",
+        "track_id": "KJ-214",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_214_mnemonic.png",
+        "stroke_order_image": "kj_214_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_215",
+      "kanji": "池",
+      "grade_level": "Elementary / N4",
+      "lesson": 11,
+      "stroke_count": 6,
+      "radical": "水",
+      "readings": {
+        "onyomi": {
+          "kana": "チ",
+          "romaji": "chi"
+        },
+        "kunyomi": {
+          "kana": "いけ",
+          "romaji": "ike"
+        }
+      },
+      "meanings": {
+        "english": "Pond, Reservoir",
+        "sinhala": "පොකුණ, කුඩා විල"
+      },
+      "mnemonic_story_sinhala": "සර්පයෙකුගේ (也) දඟර හැඩයක් ගන්නා වතුර (氵) පිරුණු පොකුණයි.",
+      "audio": {
+        "file_name": "kj_215_ike.mp3",
+        "track_id": "KJ-215",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_215_mnemonic.png",
+        "stroke_order_image": "kj_215_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_216",
+      "kanji": "音",
+      "grade_level": "Elementary / N4",
+      "lesson": 12,
+      "stroke_count": 9,
+      "radical": "音",
+      "readings": {
+        "onyomi": {
+          "kana": "オン, イン",
+          "romaji": "on, in"
+        },
+        "kunyomi": {
+          "kana": "おと, ね",
+          "romaji": "oto, ne"
+        }
+      },
+      "meanings": {
+        "english": "Sound, Noise",
+        "sinhala": "ශබ්දය, නාදය"
+      },
+      "mnemonic_story_sinhala": "නැගී සිට (立) මුඛයෙන් (日) පිටකරන මිහිරි සංගීත නාදයයි.",
+      "audio": {
+        "file_name": "kj_216_oto.mp3",
+        "track_id": "KJ-216",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_216_mnemonic.png",
+        "stroke_order_image": "kj_216_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_217",
+      "kanji": "歌",
+      "grade_level": "Elementary / N4",
+      "lesson": 12,
+      "stroke_count": 14,
+      "radical": "欠",
+      "readings": {
+        "onyomi": {
+          "kana": "カ",
+          "romaji": "ka"
+        },
+        "kunyomi": {
+          "kana": "うた, うた.う",
+          "romaji": "uta, uta.u"
+        }
+      },
+      "meanings": {
+        "english": "Song, Sing",
+        "sinhala": "ගීතය, ගයනවා"
+      },
+      "mnemonic_story_sinhala": "කට පළල් කර හුස්ම ගනිමින් (欠) තාලයකට (哥) ගයන ගීතයයි.",
+      "audio": {
+        "file_name": "kj_217_uta.mp3",
+        "track_id": "KJ-217",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_217_mnemonic.png",
+        "stroke_order_image": "kj_217_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_218",
+      "kanji": "写",
+      "grade_level": "Elementary / N4",
+      "lesson": 12,
+      "stroke_count": 5,
+      "radical": "冖",
+      "readings": {
+        "onyomi": {
+          "kana": "シャ, ジャ",
+          "romaji": "sha, ja"
+        },
+        "kunyomi": {
+          "kana": "うつ.す, うつ.る, うつ-, うつ.し",
+          "romaji": "utsu.su, utsu.ru, utsu-, utsu.shi"
+        }
+      },
+      "meanings": {
+        "english": "Copy, Photograph",
+        "sinhala": "පිටපත් කරනවා, ඡායාරූපය"
+      },
+      "mnemonic_story_sinhala": "වහලක් (冖) යට යමක් තබා එහි හැඩය ඒ ආකාරයෙන්ම පිටපත් කිරීමයි.",
+      "audio": {
+        "file_name": "kj_218_utsusu.mp3",
+        "track_id": "KJ-218",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_218_mnemonic.png",
+        "stroke_order_image": "kj_218_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_219",
+      "kanji": "真",
+      "grade_level": "Elementary / N4",
+      "lesson": 12,
+      "stroke_count": 10,
+      "radical": "目",
+      "readings": {
+        "onyomi": {
+          "kana": "シン",
+          "romaji": "shin"
+        },
+        "kunyomi": {
+          "kana": "ま, ま- まこと",
+          "romaji": "ma, ma-, makoto"
+        }
+      },
+      "meanings": {
+        "english": "True, Reality, Genuine",
+        "sinhala": "සත්‍ය, නියම"
+      },
+      "mnemonic_story_sinhala": "දෑසින් (目) දැක තහවුරු කරගත් පදනමක් (十+具) සහිත සත්‍යයයි.",
+      "audio": {
+        "file_name": "kj_219_ma.mp3",
+        "track_id": "KJ-219",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_219_mnemonic.png",
+        "stroke_order_image": "kj_219_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_220",
+      "kanji": "映",
+      "grade_level": "Elementary / N4",
+      "lesson": 12,
+      "stroke_count": 9,
+      "radical": "日",
+      "readings": {
+        "onyomi": {
+          "kana": "エイ",
+          "romaji": "ei"
+        },
+        "kunyomi": {
+          "kana": "うつ.る, うつ.す, は.える, -ば.え",
+          "romaji": "utsu.ru, utsu.su, ha.eru, -ba.e"
+        }
+      },
+      "meanings": {
+        "english": "Reflect, Project",
+        "sinhala": "පරාවර්තනය, සිනමාව"
+      },
+      "mnemonic_story_sinhala": "ඉර එළිය (日) මැදිකර (央) තිරයක් මතට ප්‍රක්ෂේපණය කිරීමයි.",
+      "audio": {
+        "file_name": "kj_220_utsuru.mp3",
+        "track_id": "KJ-220",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_220_mnemonic.png",
+        "stroke_order_image": "kj_220_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_221",
+      "kanji": "画",
+      "grade_level": "Elementary / N4",
+      "lesson": 12,
+      "stroke_count": 8,
+      "radical": "田",
+      "readings": {
+        "onyomi": {
+          "kana": "ガ, カク, エ, カイ",
+          "romaji": "ga, kaku, e, kai"
+        },
+        "kunyomi": {
+          "kana": "えが.く, かく.する, かぎ.る, はかりごと, はか.る",
+          "romaji": "ega.ku, kaku.suru, kagi.ru, hakarigoto, haka.ru"
+        }
+      },
+      "meanings": {
+        "english": "Picture, Stroke, Movie",
+        "sinhala": "චිත්‍රය, රූපරාමුව"
+      },
+      "mnemonic_story_sinhala": "පෑනක් අතැතිව කුඹුරක (田) සීමා මායිම් අඳින චිත්‍ර සටහනයි.",
+      "audio": {
+        "file_name": "kj_221_egaku.mp3",
+        "track_id": "KJ-221",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_221_mnemonic.png",
+        "stroke_order_image": "kj_221_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_222",
+      "kanji": "工",
+      "grade_level": "Elementary / N4",
+      "lesson": 13,
+      "stroke_count": 3,
+      "radical": "工",
+      "readings": {
+        "onyomi": {
+          "kana": "コウ, ク, グ",
+          "romaji": "kou, ku, gu"
+        },
+        "kunyomi": {
+          "kana": "",
+          "romaji": ""
+        }
+      },
+      "meanings": {
+        "english": "Craft, Construction, Industry",
+        "sinhala": "ඉංජිනේරු ශිල්පය, කර්මාන්තය"
+      },
+      "mnemonic_story_sinhala": "වඩුවෙකුගේ දැව මිනුම් ලී දණ්ඩක සරල හැඩයයි.",
+      "audio": {
+        "file_name": "kj_222_kou.mp3",
+        "track_id": "KJ-222",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_222_mnemonic.png",
+        "stroke_order_image": "kj_222_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_223",
+      "kanji": "場",
+      "grade_level": "Elementary / N4",
+      "lesson": 13,
+      "stroke_count": 12,
+      "radical": "土",
+      "readings": {
+        "onyomi": {
+          "kana": "ジョウ, チョウ",
+          "romaji": "jou, chou"
+        },
+        "kunyomi": {
+          "kana": "ば",
+          "romaji": "ba"
+        }
+      },
+      "meanings": {
+        "english": "Location, Place",
+        "sinhala": "ස්ථානය, වැඩබිම"
+      },
+      "mnemonic_story_sinhala": "හිරු එළිය (日) පතිත වන පස් (土) බිමෙහි විවෘත ස්ථානයයි.",
+      "audio": {
+        "file_name": "kj_223_ba.mp3",
+        "track_id": "KJ-223",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_223_mnemonic.png",
+        "stroke_order_image": "kj_223_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_224",
+      "kanji": "所",
+      "grade_level": "Elementary / N4",
+      "lesson": 13,
+      "stroke_count": 8,
+      "radical": "戶",
+      "readings": {
+        "onyomi": {
+          "kana": "ショ",
+          "romaji": "sho"
+        },
+        "kunyomi": {
+          "kana": "ところ, -ところ, どころ, とこ",
+          "romaji": "tokoro, -tokoro, dokoro, toko"
+        }
+      },
+      "meanings": {
+        "english": "Place, Location",
+        "sinhala": "ස්ථානය, තැන"
+      },
+      "mnemonic_story_sinhala": "දොරක් (戸) අසල පොරවක් (斤) තබා වැඩ කරන ස්ථානයයි.",
+      "audio": {
+        "file_name": "kj_224_tokoro.mp3",
+        "track_id": "KJ-224",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_224_mnemonic.png",
+        "stroke_order_image": "kj_224_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_225",
+      "kanji": "屋",
+      "grade_level": "Elementary / N4",
+      "lesson": 13,
+      "stroke_count": 9,
+      "radical": "尸",
+      "readings": {
+        "onyomi": {
+          "kana": "オク",
+          "romaji": "oku"
+        },
+        "kunyomi": {
+          "kana": "や",
+          "romaji": "ya"
+        }
+      },
+      "meanings": {
+        "english": "Roof, House, Shop",
+        "sinhala": "වහල, කඩය, ගෙය"
+      },
+      "mnemonic_story_sinhala": "මිනිසුන් රැඳෙන (尸) ඊතලයක් මෙන් ළඟා වන (至) වෙළඳසැලයි.",
+      "audio": {
+        "file_name": "kj_225_ya.mp3",
+        "track_id": "KJ-225",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_225_mnemonic.png",
+        "stroke_order_image": "kj_225_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_226",
+      "kanji": "野",
+      "grade_level": "Elementary / N4",
+      "lesson": 14,
+      "stroke_count": 11,
+      "radical": "里",
+      "readings": {
+        "onyomi": {
+          "kana": "ヤ, ショ",
+          "romaji": "ya, sho"
+        },
+        "kunyomi": {
+          "kana": "の, の-",
+          "romaji": "no, no-"
+        }
+      },
+      "meanings": {
+        "english": "Field, Plain, Wild",
+        "sinhala": "තණබිම, එළිමහන"
+      },
+      "mnemonic_story_sinhala": "ගමක් (里) අසල ඊතලයක් (予) විදිය හැකි තරම් විවෘත එළිමහන් පිටියයි.",
+      "audio": {
+        "file_name": "kj_226_no.mp3",
+        "track_id": "KJ-226",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_226_mnemonic.png",
+        "stroke_order_image": "kj_226_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_227",
+      "kanji": "菜",
+      "grade_level": "Elementary / N4",
+      "lesson": 14,
+      "stroke_count": 11,
+      "radical": "艸",
+      "readings": {
+        "onyomi": {
+          "kana": "サイ",
+          "romaji": "sai"
+        },
+        "kunyomi": {
+          "kana": "な",
+          "romaji": "na"
+        }
+      },
+      "meanings": {
+        "english": "Vegetables, Greens",
+        "sinhala": "එළවළු, පලා"
+      },
+      "mnemonic_story_sinhala": "අතින් (爫) ගසකින් (木) නෙලාගන්නා ආහාරයට ගන්නා කොළ පැළෑටියයි (艹).",
+      "audio": {
+        "file_name": "kj_227_na.mp3",
+        "track_id": "KJ-227",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_227_mnemonic.png",
+        "stroke_order_image": "kj_227_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_228",
+      "kanji": "牛",
+      "grade_level": "Elementary / N4",
+      "lesson": 14,
+      "stroke_count": 4,
+      "radical": "牛",
+      "readings": {
+        "onyomi": {
+          "kana": "ギュウ",
+          "romaji": "gyuu"
+        },
+        "kunyomi": {
+          "kana": "うし",
+          "romaji": "ushi"
+        }
+      },
+      "meanings": {
+        "english": "Cow, Cattle",
+        "sinhala": "ගවයා, හරකා"
+      },
+      "mnemonic_story_sinhala": "අං තට්ටුවක් සහිත ගවයෙකුගේ හිසෙහි සිතුවමකි.",
+      "audio": {
+        "file_name": "kj_228_ushi.mp3",
+        "track_id": "KJ-228",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_228_mnemonic.png",
+        "stroke_order_image": "kj_228_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_229",
+      "kanji": "鳥",
+      "grade_level": "Elementary / N4",
+      "lesson": 14,
+      "stroke_count": 11,
+      "radical": "鳥",
+      "readings": {
+        "onyomi": {
+          "kana": "チョウ",
+          "romaji": "chou"
+        },
+        "kunyomi": {
+          "kana": "とり",
+          "romaji": "tori"
+        }
+      },
+      "meanings": {
+        "english": "Bird, Fowl",
+        "sinhala": "කුරුල්ලා"
+      },
+      "mnemonic_story_sinhala": "හොට, ඇස, පිහාටු සහ පාද හතරක් (灬) සහිත පක්ෂියෙකුගේ රුවයි.",
+      "audio": {
+        "file_name": "kj_229_tori.mp3",
+        "track_id": "KJ-229",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_229_mnemonic.png",
+        "stroke_order_image": "kj_229_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_230",
+      "kanji": "馬",
+      "grade_level": "Elementary / N4",
+      "lesson": 14,
+      "stroke_count": 10,
+      "radical": "馬",
+      "readings": {
+        "onyomi": {
+          "kana": "バ",
+          "romaji": "ba"
+        },
+        "kunyomi": {
+          "kana": "うま, うま-, ま",
+          "romaji": "uma, uma-, ma"
+        }
+      },
+      "meanings": {
+        "english": "Horse",
+        "sinhala": "අශ්වයා"
+      },
+      "mnemonic_story_sinhala": "කේසර සහ දිවෙන කකුල් හතරක් (灬) සහිත ජව සම්පන්න අශ්වයායි.",
+      "audio": {
+        "file_name": "kj_230_uma.mp3",
+        "track_id": "KJ-230",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_230_mnemonic.png",
+        "stroke_order_image": "kj_230_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_231",
+      "kanji": "世",
+      "grade_level": "Elementary / N4",
+      "lesson": 15,
+      "stroke_count": 5,
+      "radical": "一",
+      "readings": {
+        "onyomi": {
+          "kana": "セイ, セ, ソウ",
+          "romaji": "sei, se, sou"
+        },
+        "kunyomi": {
+          "kana": "よ",
+          "romaji": "yo"
+        }
+      },
+      "meanings": {
+        "english": "Generation, World, Society",
+        "sinhala": "පරම්පරාව, ලෝකය"
+      },
+      "mnemonic_story_sinhala": "වසර දහය (十) බැගින් පරම්පරා තුනක් එකට එක්වූ වසර තිහක පරපුරයි.",
+      "audio": {
+        "file_name": "kj_231_yo.mp3",
+        "track_id": "KJ-231",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_231_mnemonic.png",
+        "stroke_order_image": "kj_231_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_232",
+      "kanji": "界",
+      "grade_level": "Elementary / N4",
+      "lesson": 15,
+      "stroke_count": 9,
+      "radical": "田",
+      "readings": {
+        "onyomi": {
+          "kana": "カイ",
+          "romaji": "kai"
+        },
+        "kunyomi": {
+          "kana": "",
+          "romaji": ""
+        }
+      },
+      "meanings": {
+        "english": "World, Boundary",
+        "sinhala": "ලෝකය, මායිම"
+      },
+      "mnemonic_story_sinhala": "කුඹුරු (田) දෙකක් අතර මැදිහත්ව (介) වෙන්වන ලෝකයේ දේශසීමාවයි.",
+      "audio": {
+        "file_name": "kj_232_kai.mp3",
+        "track_id": "KJ-232",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_232_mnemonic.png",
+        "stroke_order_image": "kj_232_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_233",
+      "kanji": "方",
+      "grade_level": "Elementary / N4",
+      "lesson": 15,
+      "stroke_count": 4,
+      "radical": "方",
+      "readings": {
+        "onyomi": {
+          "kana": "ホウ",
+          "romaji": "hou"
+        },
+        "kunyomi": {
+          "kana": "かた, -かた, -がた",
+          "romaji": "kata, -kata, -gata"
+        }
+      },
+      "meanings": {
+        "english": "Direction, Person, Way",
+        "sinhala": "දිශාව, පුද්ගලයා, ක්‍රමය"
+      },
+      "mnemonic_story_sinhala": "නගුලක් රැගෙන කෙළින්ම නිශ්චිත දිශාවකට ගමන් කරන ආකාරයයි.",
+      "audio": {
+        "file_name": "kj_233_kata.mp3",
+        "track_id": "KJ-233",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_233_mnemonic.png",
+        "stroke_order_image": "kj_233_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_234",
+      "kanji": "同",
+      "grade_level": "Elementary / N4",
+      "lesson": 15,
+      "stroke_count": 6,
+      "radical": "口",
+      "readings": {
+        "onyomi": {
+          "kana": "ドウ",
+          "romaji": "dou"
+        },
+        "kunyomi": {
+          "kana": "おな.じ",
+          "romaji": "ona.ji"
+        }
+      },
+      "meanings": {
+        "english": "Same, Agree",
+        "sinhala": "එකම, සමාන"
+      },
+      "mnemonic_story_sinhala": "එකම වහලක් (冂) යට එකම කටින් (口) එකඟතාව පළ කිරීමයි.",
+      "audio": {
+        "file_name": "kj_234_onaji.mp3",
+        "track_id": "KJ-234",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_234_mnemonic.png",
+        "stroke_order_image": "kj_234_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_235",
+      "kanji": "員",
+      "grade_level": "Elementary / N4",
+      "lesson": 16,
+      "stroke_count": 10,
+      "radical": "口",
+      "readings": {
+        "onyomi": {
+          "kana": "イン",
+          "romaji": "in"
+        },
+        "kunyomi": {
+          "kana": "",
+          "romaji": ""
+        }
+      },
+      "meanings": {
+        "english": "Member, Employee",
+        "sinhala": "සාමාජිකයා, සේවකයා"
+      },
+      "mnemonic_story_sinhala": "ආයතනයක මුදල් (貝) ගනුදෙනු පරීක්ෂා කරන නිලධාරියාගේ මුඛයයි (口).",
+      "audio": {
+        "file_name": "kj_235_in.mp3",
+        "track_id": "KJ-235",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_235_mnemonic.png",
+        "stroke_order_image": "kj_235_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_236",
+      "kanji": "仕",
+      "grade_level": "Elementary / N4",
+      "lesson": 16,
+      "stroke_count": 5,
+      "radical": "人",
+      "readings": {
+        "onyomi": {
+          "kana": "シ, ジ",
+          "romaji": "shi, ji"
+        },
+        "kunyomi": {
+          "kana": "つか.える",
+          "romaji": "tsuka.eru"
+        }
+      },
+      "meanings": {
+        "english": "Serve, Attend, Do",
+        "sinhala": "සේවය කරනවා, රාජකාරිය"
+      },
+      "mnemonic_story_sinhala": "මිනිසෙකු (亻) විද්වතෙකු හෝ නායකයෙකු (士) වෙනුවෙන් සේවය කිරීමයි.",
+      "audio": {
+        "file_name": "kj_236_tsukaeru.mp3",
+        "track_id": "KJ-236",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_236_mnemonic.png",
+        "stroke_order_image": "kj_236_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_237",
+      "kanji": "事",
+      "grade_level": "Elementary / N4",
+      "lesson": 16,
+      "stroke_count": 8,
+      "radical": "亅",
+      "readings": {
+        "onyomi": {
+          "kana": "ジ, ズ",
+          "romaji": "ji, zu"
+        },
+        "kunyomi": {
+          "kana": "こと, つか.う, つか.える",
+          "romaji": "koto, tsuka.u, tsuka.eru"
+        }
+      },
+      "meanings": {
+        "english": "Matter, Thing, Fact, Affair",
+        "sinhala": "කාරණය, සිද්ධිය, කටයුත්ත"
+      },
+      "mnemonic_story_sinhala": "අතින් පෑනක් හෝ සටහනක් ගෙන ඉටු කරන නිල රාජකාරි කටයුත්තයි.",
+      "audio": {
+        "file_name": "kj_237_koto.mp3",
+        "track_id": "KJ-237",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_237_mnemonic.png",
+        "stroke_order_image": "kj_237_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_238",
+      "kanji": "者",
+      "grade_level": "Elementary / N4",
+      "lesson": 16,
+      "stroke_count": 8,
+      "radical": "老",
+      "readings": {
+        "onyomi": {
+          "kana": "シャ",
+          "romaji": "sha"
+        },
+        "kunyomi": {
+          "kana": "もの",
+          "romaji": "mono"
+        }
+      },
+      "meanings": {
+        "english": "Person, Someone",
+        "sinhala": "පුද්ගලයා, තැනැත්තා"
+      },
+      "mnemonic_story_sinhala": "පොළොවෙහි සුදුසු ස්ථානයක් තෝරාගෙන පදිංචිව සිටින තැනැත්තායි.",
+      "audio": {
+        "file_name": "kj_238_mono.mp3",
+        "track_id": "KJ-238",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_238_mnemonic.png",
+        "stroke_order_image": "kj_238_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_239",
+      "kanji": "業",
+      "grade_level": "Elementary / N4",
+      "lesson": 16,
+      "stroke_count": 13,
+      "radical": "木",
+      "readings": {
+        "onyomi": {
+          "kana": "ギョウ, ゴウ",
+          "romaji": "gyou, gou"
+        },
+        "kunyomi": {
+          "kana": "わざ",
+          "romaji": "waza"
+        }
+      },
+      "meanings": {
+        "english": "Business, Profession, Art",
+        "sinhala": "ව්‍යාපාරය, කර්මාන්තය"
+      },
+      "mnemonic_story_sinhala": "වාද්‍ය භාණ්ඩ රැඳවූ රාක්කයක් මත නිරත වන වෘත්තීය කලා කාර්යයයි.",
+      "audio": {
+        "file_name": "kj_239_waza.mp3",
+        "track_id": "KJ-239",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_239_mnemonic.png",
+        "stroke_order_image": "kj_239_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "kj_240",
+      "kanji": "試",
+      "grade_level": "Elementary / N4",
+      "lesson": 16,
+      "stroke_count": 13,
+      "radical": "言",
+      "readings": {
+        "onyomi": {
+          "kana": "シ",
+          "romaji": "shi"
+        },
+        "kunyomi": {
+          "kana": "こころ.みる, ため.す",
+          "romaji": "kokoro.miru, tame.su"
+        }
+      },
+      "meanings": {
+        "english": "Test, Try, Attempt",
+        "sinhala": "පරීක්ෂණය, උත්සාහ කර බලනවා"
+      },
+      "mnemonic_story_sinhala": "තමාගේ වචන (言) විලාසය හා විලාසිතාව (式) පරීක්ෂා කර බැලීමයි.",
+      "audio": {
+        "file_name": "kj_240_kokoromiru.mp3",
+        "track_id": "KJ-240",
+        "has_audio": true
+      },
+      "illustration": {
+        "mnemonic_image": "kj_240_mnemonic.png",
+        "stroke_order_image": "kj_240_strokes.gif",
+        "category": "kanji",
+        "has_illustration": true
+      }
+    }
+  ]
+}
