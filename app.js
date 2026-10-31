@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
     DATA_BASE_PATH: 'public/data/',
     AUDIO_BASE_URL: 'https://raw.githubusercontent.com/Sihnalahiru/MyJFT/main/public/audio/',
     IMAGE_BASE_URL: 'public/data/images/'
-  }; // local or CDN
- 
+  };
+
   // State
   let currentQuizList = [];
   let currentQuestionIndex = 0;
@@ -58,10 +58,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const filePath = `${CONFIG.DATA_BASE_PATH}${folder}${prefix}${lessonFile}`;
     try {
-      const res = await fetch(filePath);
+      // URL Encoding for folder spaces
+      const res = await fetch(encodeURI(filePath));
       if (!res.ok) throw new Error(`Could not load ${filePath}`);
       const data = await res.json();
-      currentQuizList = data.quizzes || [];
+      
+      // Fix: Supports both 'quizzes' and 'quiz_data' keys
+      currentQuizList = data.quizzes || data.quiz_data || [];
       if (currentQuizList.length === 0) {
         alert('No questions found in this set.');
         return;
@@ -88,8 +91,8 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('quiz-score').textContent = `Score: ${score}`;
 
     // Question Text
-    document.getElementById('question-japanese').textContent = q.question_text.japanese;
-    document.getElementById('question-sinhala').textContent = q.question_text.sinhala;
+    document.getElementById('question-japanese').textContent = (q.question_text && q.question_text.japanese) ? q.question_text.japanese : '';
+    document.getElementById('question-sinhala').textContent = (q.question_text && q.question_text.sinhala) ? q.question_text.sinhala : '';
 
     // Reset feedback and media
     document.getElementById('feedback-container').classList.add('hidden');
@@ -106,9 +109,13 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('audio-track-name').textContent = q.media.audio_track;
       const playBtn = document.getElementById('audio-play-btn');
       playBtn.textContent = '▶ Play Audio';
+      
       playBtn.onclick = () => {
         if (audioEl.paused) {
-          audioEl.play();
+          audioEl.play().catch(e => {
+            console.warn("Audio file not found or couldn't play:", e);
+            alert("Audio file එක තාම GitHub එකට upload කරලා නැත.");
+          });
           playBtn.textContent = '⏸ Pause';
         } else {
           audioEl.pause();
@@ -133,13 +140,15 @@ document.addEventListener('DOMContentLoaded', () => {
     // Options setup
     const optionsGrid = document.getElementById('options-container');
     optionsGrid.innerHTML = '';
-    q.options.forEach(opt => {
-      const btn = document.createElement('button');
-      btn.className = 'option-btn';
-      btn.innerHTML = `<strong>${opt.id}.</strong> ${opt.text}`;
-      btn.onclick = () => handleAnswerSelect(opt.id, q);
-      optionsGrid.appendChild(btn);
-    });
+    if (q.options && Array.isArray(q.options)) {
+      q.options.forEach(opt => {
+        const btn = document.createElement('button');
+        btn.className = 'option-btn';
+        btn.innerHTML = `<strong>${opt.id}.</strong> ${opt.text}`;
+        btn.onclick = () => handleAnswerSelect(opt.id, q);
+        optionsGrid.appendChild(btn);
+      });
+    }
   }
 
   function handleAnswerSelect(selectedId, q) {
@@ -211,8 +220,12 @@ document.addEventListener('DOMContentLoaded', () => {
     modalImg.src = src;
   }
 
-  closeModal.onclick = () => modal.classList.add('hidden');
-  modal.onclick = (e) => { if (e.target === modal) modal.classList.add('hidden'); };
+  if (closeModal) {
+    closeModal.onclick = () => modal.classList.add('hidden');
+  }
+  if (modal) {
+    modal.onclick = (e) => { if (e.target === modal) modal.classList.add('hidden'); };
+  }
 
   // VOCABULARY VIEWER
   const vocabBook = document.getElementById('vocab-book-select');
@@ -222,6 +235,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let currentVocabList = [];
 
   function updateVocabParts() {
+    if (!vocabPart || !vocabBook) return;
     vocabPart.innerHTML = '';
     const book = vocabBook.value;
     let partsCount = (book === 'Book1') ? 6 : 11;
@@ -233,17 +247,20 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  vocabBook.addEventListener('change', () => {
-    updateVocabParts();
-    loadVocabulary();
-  });
-  vocabPart.addEventListener('change', loadVocabulary);
-  vocabSearch.addEventListener('input', filterVocab);
+  if (vocabBook) {
+    vocabBook.addEventListener('change', () => {
+      updateVocabParts();
+      loadVocabulary();
+    });
+  }
+  if (vocabPart) vocabPart.addEventListener('change', loadVocabulary);
+  if (vocabSearch) vocabSearch.addEventListener('input', filterVocab);
 
   async function loadVocabulary() {
-    if (vocabPart.children.length === 0) updateVocabParts();
-    const book = vocabBook.value;
-    const part = vocabPart.value || 1;
+    if (!vocabGrid) return;
+    if (vocabPart && vocabPart.children.length === 0) updateVocabParts();
+    const book = vocabBook ? vocabBook.value : 'Book1';
+    const part = vocabPart ? vocabPart.value || 1 : 1;
     let fileName = '';
 
     if (book === 'Book1') {
@@ -259,7 +276,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     try {
-      const res = await fetch(`${CONFIG.DATA_BASE_PATH}${fileName}`);
+      const res = await fetch(encodeURI(`${CONFIG.DATA_BASE_PATH}${fileName}`));
       const data = await res.json();
       currentVocabList = data.vocabulary || (Array.isArray(data) ? data : []);
       renderVocab(currentVocabList);
@@ -269,6 +286,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function renderVocab(list) {
+    if (!vocabGrid) return;
     vocabGrid.innerHTML = '';
     list.forEach(item => {
       const card = document.createElement('div');
@@ -301,12 +319,13 @@ document.addEventListener('DOMContentLoaded', () => {
   // GRAMMAR VIEWER
   const grammarSelect = document.getElementById('grammar-file-select');
   const grammarGrid = document.getElementById('grammar-grid');
-  grammarSelect.addEventListener('change', loadGrammar);
+  if (grammarSelect) grammarSelect.addEventListener('change', loadGrammar);
 
   async function loadGrammar() {
+    if (!grammarGrid || !grammarSelect) return;
     const file = grammarSelect.value;
     try {
-      const res = await fetch(`${CONFIG.DATA_BASE_PATH}Grammar/${file}`);
+      const res = await fetch(encodeURI(`${CONFIG.DATA_BASE_PATH}Grammar/${file}`));
       const data = await res.json();
       const patterns = data.grammar_patterns || (Array.isArray(data) ? data : []);
       grammarGrid.innerHTML = '';
@@ -328,12 +347,13 @@ document.addEventListener('DOMContentLoaded', () => {
   // KANJI VIEWER
   const kanjiSelect = document.getElementById('kanji-bulk-select');
   const kanjiGrid = document.getElementById('kanji-grid');
-  kanjiSelect.addEventListener('change', loadKanji);
+  if (kanjiSelect) kanjiSelect.addEventListener('change', loadKanji);
 
   async function loadKanji() {
+    if (!kanjiGrid || !kanjiSelect) return;
     const file = kanjiSelect.value;
     try {
-      const res = await fetch(`${CONFIG.DATA_BASE_PATH}Kanji/${file}`);
+      const res = await fetch(encodeURI(`${CONFIG.DATA_BASE_PATH}Kanji/${file}`));
       const data = await res.json();
       const kanjiList = data.kanji_list || (Array.isArray(data) ? data : []);
       kanjiGrid.innerHTML = '';
