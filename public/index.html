@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Irodori Japanese Learning App | 彩り日本語</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Sans+Sinhala:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-container">
+      <div class="logo">
+        <span class="logo-kanji">彩り</span>
+        <span class="logo-text">Irodori JFT & Quiz App</span>
+      </div>
+      <nav class="main-nav">
+        <button class="nav-btn active" data-tab="quizzes">Quizzes (テスト)</button>
+        <button class="nav-btn" data-tab="vocabulary">Vocabulary (単語)</button>
+        <button class="nav-btn" data-tab="grammar">Grammar (文法)</button>
+        <button class="nav-btn" data-tab="kanji">Kanji (漢字)</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <!-- QUIZ TAB -->
+    <section id="quizzes-tab" class="tab-content active">
+      <div class="controls-bar">
+        <div class="filter-group">
+          <label for="book-select">Book Level:</label>
+          <select id="book-select">
+            <option value="book1">Starter (A1) - 入門</option>
+            <option value="book2">Elementary 1 (A2.1) - 初級1</option>
+            <option value="book3">Elementary 2 (A2.2) - 初級2</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="lesson-select">Lessons:</label>
+          <select id="lesson-select">
+            <option value="lessons_1_2.json">Lessons 1 & 2</option>
+            <option value="lessons_3_4.json">Lessons 3 & 4</option>
+            <option value="lessons_5_6.json">Lessons 5 & 6</option>
+            <option value="lessons_7_8.json">Lessons 7 & 8</option>
+            <option value="lessons_9_10.json">Lessons 9 & 10</option>
+            <option value="lessons_11_12.json">Lessons 11 & 12</option>
+            <option value="lessons_13_14.json">Lessons 13 & 14</option>
+            <option value="lessons_15_18.json">Lessons 15 & 18</option>
+          </select>
+        </div>
+        <button id="load-quiz-btn" class="btn btn-primary">Start Quiz (クイズ開始)</button>
+      </div>
+
+      <div id="quiz-container" class="card quiz-card hidden">
+        <div class="quiz-header">
+          <span id="quiz-progress" class="badge">Question 1/24</span>
+          <span id="quiz-can-do" class="badge badge-info">Can-do</span>
+          <span id="quiz-score" class="badge badge-success">Score: 0</span>
+        </div>
+
+        <!-- Media Audio Section -->
+        <div id="audio-container" class="media-box audio-box hidden">
+          <div class="audio-player-custom">
+            <button id="audio-play-btn" class="audio-btn">▶ Play Audio</button>
+            <audio id="quiz-audio" preload="none"></audio>
+            <span id="audio-track-name" class="audio-track-label">Audio Track</span>
+          </div>
+        </div>
+
+        <!-- Media Image Section -->
+        <div id="image-container" class="media-box image-box hidden">
+          <img id="quiz-image" src="" alt="Question Realia" class="realia-img">
+          <small class="caption">🔍 Click image to enlarge (රූපය විශාල කර බැලීමට ක්ලික් කරන්න)</small>
+        </div>
+
+        <div class="question-box">
+          <h2 id="question-japanese" class="question-jp"></h2>
+          <p id="question-sinhala" class="question-si"></p>
+        </div>
+
+        <div id="options-container" class="options-grid"></div>
+
+        <div id="feedback-container" class="feedback-box hidden">
+          <h3 id="feedback-title" class="feedback-title"></h3>
+          <p id="feedback-explanation" class="feedback-exp"></p>
+          <div id="audio-script-box" class="transcript-box hidden">
+            <strong>Audio Transcript:</strong>
+            <p id="transcript-japanese" class="transcript-jp"></p>
+            <p id="transcript-sinhala" class="transcript-si"></p>
+          </div>
+          <button id="next-question-btn" class="btn btn-primary">Next Question (ඊළඟ ප්‍රශ්නය)</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- VOCABULARY TAB -->
+    <section id="vocabulary-tab" class="tab-content">
+      <div class="controls-bar">
+        <select id="vocab-book-select">
+          <option value="Book1">Book 1 (Starter A1)</option>
+          <option value="Book2">Book 2 (Elementary 1 A2.1)</option>
+          <option value="Book 3">Book 3 (Elementary 2 A2.2)</option>
+        </select>
+        <select id="vocab-part-select"></select>
+        <input type="text" id="vocab-search" placeholder="Search Japanese, English or Sinhala...">
+      </div>
+      <div id="vocab-grid" class="cards-grid"></div>
+    </section>
+
+    <!-- GRAMMAR TAB -->
+    <section id="grammar-tab" class="tab-content">
+      <div class="controls-bar">
+        <select id="grammar-file-select">
+          <option value="irodori_starter_grammar_36patterns.json">Starter (A1) Grammar</option>
+          <option value="irodori_elem1_grammar_batch1_18patterns.json">Elementary 1 - Batch 1</option>
+          <option value="irodori_elem1_grammar_batch2_18patterns.json">Elementary 1 - Batch 2</option>
+          <option value="irodori_elem1_grammar_batch3_18patterns.json">Elementary 1 - Batch 3</option>
+          <option value="irodori_elem2_grammar_batch1_20patterns.json">Elementary 2 - Batch 1</option>
+          <option value="irodori_elem2_grammar_batch2_20patterns.json">Elementary 2 - Batch 2</option>
+          <option value="irodori_elem2_grammar_batch3_25patterns.json">Elementary 2 - Batch 3</option>
+        </select>
+      </div>
+      <div id="grammar-grid" class="cards-grid"></div>
+    </section>
+
+    <!-- KANJI TAB -->
+    <section id="kanji-tab" class="tab-content">
+      <div class="controls-bar">
+        <select id="kanji-bulk-select">
+          <option value="irodori_kanji_bulk1_80.json">Kanji 1 - 80</option>
+          <option value="irodori_kanji_bulk2_80.json">Kanji 81 - 160</option>
+          <option value="irodori_kanji_bulk3_80.json">Kanji 161 - 240</option>
+          <option value="irodori_kanji_bulk4_80.json">Kanji 241 - 320</option>
+          <option value="irodori_kanji_bulk5_80.json">Kanji 321 - 400</option>
+        </select>
+      </div>
+      <div id="kanji-grid" class="kanji-grid"></div>
+    </section>
+  </main>
+
+  <!-- Image Modal for zoom preview -->
+  <div id="image-modal" class="modal hidden">
+    <span class="close-modal">&times;</span>
+    <img id="modal-image" class="modal-content" src="" alt="Enlarged Realia">
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
