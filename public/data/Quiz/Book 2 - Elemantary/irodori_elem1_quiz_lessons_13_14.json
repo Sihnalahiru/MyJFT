@@ -1,0 +1,919 @@
+{
+  "book": "Irodori Elementary 1 (A2.1)",
+  "lessons_covered": [
+    13,
+    14
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e1_l13_001",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 13,
+      "can_do_id": "cando_e1_37",
+      "can_do_title_sinhala": "නිවාඩු දිනයේ කරන ක්‍රියාකාරකම් අසා තේරුම් ගැනීම (～たり～たりします)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L13_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは休みの日に何をしていますか。",
+        "furigana": "カルロスさんは[やす]みの[ひ]に[なに]をしていますか。",
+        "sinhala": "කාලෝස් මහතා නිවාඩු දිනවල කරන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "部屋を掃除したり、洗濯したりしています (කාමරය අස් කිරීම, රෙදි සේදීම ආදිය කරයි)"
+        },
+        {
+          "id": "B",
+          "text": "一日中ゲームをしています (දවස පුරා වීඩියෝ ගේම් ගසයි)"
+        },
+        {
+          "id": "C",
+          "text": "旅行に行ったり、山に登ったりしています (සංචාරය කිරීම, කඳු නැගීම ආදිය කරයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、休みの日はいつも何をしていますか。\nB: そうですね。部屋を掃除したり、洗濯したりしています。あとは家でゆっくり映画を見ます。",
+        "sinhala": "A: කාලෝස් මහතා, නිවාඩු දවස්වලට සාමාන්‍යයෙන් මොනවද කරන්නේ?\nB: ම්ම්, කාමරය අස් කරනවා, රෙදි හෝදනවා වගේ දේවල් කරනවා. ඊට අමතරව ගෙදරට වෙලා නිදහසේ චිත්‍රපට නරඹනවා."
+      },
+      "explanation_sinhala": "කාලෝස් පවසන්නේ '部屋を掃除したり、洗濯したりしています' (කාමරය අස් කිරීම, රෙදි සේදීම වැනි දේ කරනවා) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l13_002",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 13,
+      "can_do_id": "cando_e1_38",
+      "can_do_title_sinhala": "කිරීම අනිවාර්ය නොවන බව අසා තේරුම් ගැනීම (～なくてもいいです)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L13_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "防災訓練（ぼうさいくんれん）に靴を持っていく必要がありますか。",
+        "furigana": "[ぼうさいくんれん]に[くつ]を[も]っていく[ひつよう]がありますか。",
+        "sinhala": "ආපදා පෙරහුරුවට සපත්තු රැගෙන යාම අත්‍යවශ්‍යද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "いいえ、室内履きは持ってこなくてもいいです (නැත, ගෘහස්ථ සපත්තු රැගෙන නොආවාට කමක් නැත)"
+        },
+        {
+          "id": "B",
+          "text": "はい、必ず持っていかなければなりません (ඔව්, අනිවාර්යයෙන්ම ගෙන ආ යුතුය)"
+        },
+        {
+          "id": "C",
+          "text": "スリッパを買わなければなりません (සෙරෙප්පු මිලදී ගත යුතුය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 明日の防災訓練ですが、室内用の靴を持っていったほうがいいですか。\nB: 外で行いますから、室内履きは持ってこなくてもいいですよ。動きやすい運動靴で来てください。",
+        "sinhala": "A: හෙට ආපදා පෙරහුරුවට ගෘහස්ථ සපත්තු ගෙනියන එක හොඳද?\nB: එළියේ පවත්වන නිසා ඇතුළට දාන සපත්තු අරගෙන නොආවාට කමක් නෑ (持ってこなくてもいいですよ). පහසු ක්‍රීඩා සපත්තු දාගෙන එන්න."
+      },
+      "explanation_sinhala": "'室内履きは持ってこなくてもいいですよ' (ඇතුළට දාන සපත්තු ගෙන නොආවාට කමක් නැත) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l13_003",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 13,
+      "can_do_id": "cando_e1_37",
+      "can_do_title_sinhala": "මිතුරෙකු සමඟ ගත කරන විනෝද ක්‍රියාකාරකම්",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L13_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは連休中、何をしましたか。",
+        "furigana": "マリアさんは[れんきゅう][ちゅう]、[なに]をしましたか。",
+        "sinhala": "මරියා දීර්ඝ නිවාඩු කාලය තුළ කුමක් කළාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "買い物に行ったり、カフェでおしゃべりしたりした (ෂොපින් යාම, කැෆේවල කතාබස් කිරීම ආදිය කළා)"
+        },
+        {
+          "id": "B",
+          "text": "ずっと勉強していた (දිගටම පාඩම් කරමින් සිටියා)"
+        },
+        {
+          "id": "C",
+          "text": "アルバイトばかりしていた (අර්ධකාලීන රැකියා පමණක් කළා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさん、連休はどうでしたか。\nB: 友達と買い物に行ったり、カフェでおしゃべりしたりして、とてもリフレッシュできました！",
+        "sinhala": "A: මරියා, දිගු නිවාඩුව කොහොමද?\nB: යාළුවෝ එක්ක ෂොපින් ගියා, කැෆේ එකට වෙලා කතාබස් කළා (買い物に行ったり、カフェでおしゃべりしたりして), ඇත්තෙන්ම මනස සැහැල්ලු වුණා!"
+      },
+      "explanation_sinhala": "මරියා '買い物に行ったり、カフェでおしゃべりしたりして' යැයි ක්‍රියා කිහිපයක් උදාහරණ ලෙස පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l13_004",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 13,
+      "can_do_id": "cando_e1_38",
+      "can_do_title_sinhala": "පෝරමයක් පිරවීමේදී ලිවීම අනිවාර්ය නොවන කොටස",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L13_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "アンケートの電話番号は書かなくてもいいですか。（◯ か ✕）",
+        "furigana": "アンケートの[でんわばんごう]は[か]かなくてもいいですか。（◯ か ✕）",
+        "sinhala": "සමීක්ෂණ පත්‍රිකාවේ දුරකථන අංකය නොලිව්වාට කමක් නැද්ද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, නොලිව්වාට කමක් නැත)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, ලිවීම අනිවාර්යයි)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "係員: アンケートにご協力お願いします。お名前とご住所だけ書いてください。電話番号は書かなくてもいいですよ。",
+        "sinhala": "සේවක: සමීක්ෂණයට සහයෝගය දක්වන්න කරුණාකර. නම සහ ලිපිනය පමණක් ලියන්න. දුරකථන අංකය නොලිව්වාට කමක් නෑ (書かなくてもいいですよ)."
+      },
+      "explanation_sinhala": "සේවකයා '電話番号は書かなくてもいいですよ' (නොලිව්වාට කමක් නැත) යැයි පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l13_005",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 13,
+      "can_do_id": "cando_e1_38",
+      "can_do_title_sinhala": "ආපදා පෙරහුරු දැන්වීමක් කියවීම (Disaster Evacuation Drill)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l13_q05_drillnotice.png"
+      },
+      "question_text": {
+        "japanese": "防災訓練のお知らせを見てください。雨が降った場合はどうなりますか：「雨天決行 / 荒天中止」",
+        "furigana": "[ぼうさいくんれん]のお[し]らせを[み]てください。[あめ]が[ふ]った[ばあい]はどうなりますか：「[うてんけっこう] / [こうてんちゅうし]」",
+        "sinhala": "ආපදා පෙරහුරු දැන්වීම බලන්න. සාමාන්‍ය වැස්සක් වැටුණහොත් කුමක් සිදුවේද? ('雨天決行')"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "雨でも訓練を行います (වැසි වැටුණද පෙරහුරුව පවත්වනු ලැබේ)"
+        },
+        {
+          "id": "B",
+          "text": "雨が降ったら中止です (වැස්ස වැටුණහොත් අවලංගු වේ)"
+        },
+        {
+          "id": "C",
+          "text": "来週に延期します (ලබන සතියට කල් යයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'雨天決行' (Uten kekkou) යනු වැසි වැටුණද සැලසුම් කළ පරිදිම වැඩසටහන පවත්වන බවයි. ඉතා දරුණු කුණාටු තත්ත්වයකදී පමණක් අවලංගු වේ (荒天中止)."
+    },
+    {
+      "quiz_id": "qz_e1_l13_006",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 13,
+      "can_do_id": "cando_e1_37",
+      "can_do_title_sinhala": "උත්සවයකදී කළ හැකි විවිධ ක්‍රියාකාරකම් කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l13_q06_eventguide.png"
+      },
+      "question_text": {
+        "japanese": "地域のイベント案内です。会場でどんなことができますか。",
+        "furigana": "[ちいき]のイベント[あんない]です。[かいじょう]でどんなことができますか。",
+        "sinhala": "ප්‍රජා උත්සව පත්‍රිකාව බලන්න. ශාලාවේදී කළ හැක්කේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "屋台の料理を食べたり、日本の伝統遊びを体験したりできます (කෑම කඩවලින් ආහාර ගැනීම, ජපන් සාම්ප්‍රදායික ක්‍රීඩා අත්විඳීම කළ හැක)"
+        },
+        {
+          "id": "B",
+          "text": "映画を見ることだけできます (චිත්‍රපට නැරඹීම පමණක්)"
+        },
+        {
+          "id": "C",
+          "text": "車を買うことができます (කාර් මිලදී ගැනීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ '屋台で食べたり、伝統遊びを体験したりできます' ලෙස සඳහන් වන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l13_007",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 13,
+      "can_do_id": "cando_e1_37",
+      "can_do_title_sinhala": "ක්‍රියා කිහිපයක් උදාහරණ ලෙස දැක්වීම (～たり～たりします)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「本を読む」と「音楽を聴く」を例示して文を作ってください：「休日は本を（　）、音楽を（　）します。」",
+        "furigana": "「[ほん]を[よ]む」と「[おんがく]を[き]く」を[れいじ]して[ぶん]を[つく]ってください：「[きゅうじつ]は[ほん]を（　）、[おんがく]を（　）します。」",
+        "sinhala": "'පොත් කියවීම, සංගීතයට සවන් දීම ආදිය කරනවා' කීමට හිස්තැන්වලට ගැළපෙන නිවැරදි ආකෘති යුගලය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "読んだり / 聴いたり (Yondari / Kiitari)"
+        },
+        {
+          "id": "B",
+          "text": "読んで / 聴いて (Yonde / Kiite)"
+        },
+        {
+          "id": "C",
+          "text": "読みたり / 聴きたり (Yomitari / Kikitari)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාපද Ta-form එකට හැරවූ පසු 'り' එකතු කරයි (読んだ -> 読んだり, 聴いた -> 聴いたり)."
+    },
+    {
+      "quiz_id": "qz_e1_l13_008",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 13,
+      "can_do_id": "cando_e1_38",
+      "can_do_title_sinhala": "නොකළාට කමක් නැත යන ආකෘතිය (～なくてもいいです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「急ぐ必要がない（Don't have to hurry）」を表す正しい文はどれですか。",
+        "furigana": "「[いそ]ぐ[ひつよう]がない（Don't have to hurry）」を[あらわ]す[ただ]しい[ぶん]はどれですか。",
+        "sinhala": "'කලබල විය යුතු නැත / කලබල නොවුණාට කමක් නැත' යන්නෙහි නිවැරදි ජපන් වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "急がなくてもいいですよ (Isoganakutemo ii desu yo)"
+        },
+        {
+          "id": "B",
+          "text": "急がないでください (Isoganaide kudasai - කලබල වෙන්න එපා)"
+        },
+        {
+          "id": "C",
+          "text": "急がなければなりません (Isoganakereba narimasen - කලබල විය යුතුයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යමක් කිරීම අනිවාර්ය නොවන බව (Don't have to) දැක්වීමට 'Nai-form [drop い] + くてもいいです' (急がなくてもいいです) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e1_l13_009",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 13,
+      "can_do_id": "cando_e1_38",
+      "can_do_title_sinhala": "ආරක්ෂිත ස්ථානයකට ඉවත් වීම (避難 / Hinan)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "地震や火事のとき、安全な場所に逃げることを何と言いますか。",
+        "furigana": "[じしん]や[かじ]のとき、[あんぜん]な[ばしょ]に[に]げることを[なん]と[い]いますか。",
+        "sinhala": "භූමිකම්පාවක් හෝ ගින්නක් ඇතිවූ විට ආරක්ෂිත ස්ථානයකට ඉවත් වීම (Evacuate) හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "避難 / ひなん (Hinan)"
+        },
+        {
+          "id": "B",
+          "text": "出発 / しゅっぱつ (Shuppatsu)"
+        },
+        {
+          "id": "C",
+          "text": "集合 / しゅうごう (Shuugou - රැස්වීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ආපදා අවස්ථාවක ආරක්ෂිත තැනකට ඉවත් වීම '避難' (හිනන් - Evacuation) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l13_010",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 13,
+      "can_do_id": "cando_e1_38",
+      "can_do_title_sinhala": "හදිසි ආපදා බෑගය හඳුන්වන වචනය (非常用持ち出し袋)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "災害のときにすぐ持って逃げるための水や食料を入れた袋は何ですか。",
+        "furigana": "[さいがい]のときにすぐ[も]って[に]げるための[みず]や[しょくりょう]を[い]れた[ふくろ]は[なん]ですか。",
+        "sinhala": "ආපදාවකදී රැගෙන යාම සඳහා ආහාර හා වතුර සූදානම් කර ඇති හදිසි බෑගය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "非常持ち出し袋 / 防災リュック (Emergency Bag)"
+        },
+        {
+          "id": "B",
+          "text": "ゴミ袋 (කුණු බෑගය)"
+        },
+        {
+          "id": "C",
+          "text": "レジ袋 (ෂොපින් බෑගය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "හදිසි අවස්ථාවක රැගෙන යන ආපදා මල්ල '非常持ち出し袋' (Hijou mochidashibukuro) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l13_011",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 13,
+      "can_do_id": "cando_e1_37",
+      "can_do_title_sinhala": "නිවාඩුවේ කළ දේ ගැන අසන සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 友達と映画を見たり、買い物したりしました\n2: 週末は何をしましたか\n3: いいですね。私も映画を見たいです\n4: とても楽しかったですよ",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [ともだち]と[えいが]を[み]たり、[か]い[もの]したりしました\n2: [しゅうまつ]は[なに]をしましたか\n3: いいですね。[わたし]も[えいが]を[み]たいです\n4: とても[たの]しかったですよ",
+        "sinhala": "සති අන්තයේ කළ දේ විමසන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 1 -> 4 -> 3"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 3 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "2 -> 4 -> 1 -> 3"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (සති අන්තයේ මොකද කළේ?) -> 1 (යාළුවෙක් එක්ක ෆිල්ම් බැලුවා, ෂොපින් කළා) -> 4 (ගොඩක් විනෝද වුණා) -> 3 (හොඳයිනේ, මමත් ෆිල්ම් එකක් බලන්න ආසයි)."
+    },
+    {
+      "quiz_id": "qz_e1_l14_012",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_39",
+      "can_do_title_sinhala": "කාලගුණයේ වෙනස්වීම අසා තේරුම් ගැනීම (～くなりました)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L14_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "季節が変わって、気候はどうなりましたか。",
+        "furigana": "[きせつ]が[か]わって、[きこう]はどうなりましたか。",
+        "sinhala": "සෘතුව වෙනස්වීමත් සමඟ කාලගුණය කෙසේ වෙනස් වීද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "朝晩、急に寒くなりました (උදේ සහ රාත්‍රිය එකපාරටම සීතල විය)"
+        },
+        {
+          "id": "B",
+          "text": "とても暑くなりました (ඉතා රස්නෙ විය)"
+        },
+        {
+          "id": "C",
+          "text": "毎日雨が多くなりました (දිනපතා වැස්ස වැඩි විය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、おはようございます。最近、朝晩は急に寒くなりましたね。\nB: 本当ですね。もう秋ですね。風邪をひかないように気をつけてくださいね。",
+        "sinhala": "A: කාලෝස් මහතා, සුබ උදෑසනක්. මේ දවස්වල උදේටයි රෑටයි එකපාරටම සීතල වුණා නේද (寒くなりましたね).\nB: ඇත්තෙන්ම. දැන් සරත් සෘතුව ඇවිත්. හෙම්බිරිස්සාව හැදෙන්නේ නැතිව පරිස්සම් වන්න."
+      },
+      "explanation_sinhala": "කථකයා '朝晩は急に寒くなりましたね' (උදෑසන සහ රාත්‍රිය සීතල වුණා) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l14_013",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_40",
+      "can_do_title_sinhala": "වායුසමීකරණ උෂ්ණත්වය වෙනස් කිරීම (～くします)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L14_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "部屋が寒いので、エアコンの設定をどうすることにしましたか。",
+        "furigana": "[へや]が[さむ]いので、エアコンの[せってい]をどうすることにしましたか。",
+        "sinhala": "කාමරය සීතල නිසා වායුසමීකරණයට කරන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "設定温度を少し高くする (උෂ්ණත්වය තව ටිකක් වැඩි කරයි)"
+        },
+        {
+          "id": "B",
+          "text": "エアコンを止める (AC එක ක්‍රියාවිරහිත කරයි)"
+        },
+        {
+          "id": "C",
+          "text": "もっと温度を低くする (උෂ්ණත්වය තවත් අඩු කරයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: すみません、この部屋、少し寒くないですか。\nB: あ、そうですね。エアコンの設定温度を少し高くしましょうか。\nA: はい、お願いします。",
+        "sinhala": "A: සමාවෙන්න, මේ කාමරය පොඩ්ඩක් සීතලයි නේද?\nB: ආ, ඇත්ත තමයි. AC එකේ උෂ්ණත්වය තව ටිකක් වැඩි කරමුද (少し高くしましょうか)?\nA: ඔව්, කරුණාකර එසේ කරන්න."
+      },
+      "explanation_sinhala": "උෂ්ණත්වය තව ටිකක් ඉහළ දැමීමට (高くする) එකඟ වූ බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l14_014",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_39",
+      "can_do_title_sinhala": "අසනීපයෙන් පසු සුවය ලැබූ බව පැවසීම (元気になりました)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L14_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんはまだ風邪が治っていませんか。（◯ か ✕）",
+        "furigana": "スミスさんはまだ[かぜ]が[なお]っていませんか。（◯ か ✕）",
+        "sinhala": "ස්මිත් මහතාගේ හෙම්බිරිස්සාව තවම සුව වී නැද්ද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (නැත, තවම අසනීපය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, සම්පූර්ණයෙන්ම සුව වී ඇත)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: スミスさん、体調はどうですか。先週風邪でしたね。\nB: おかげさまで、薬を飲んでよく寝たら、すっかり元気になりました！ご心配おかけしました。",
+        "sinhala": "A: ස්මිත්, ඇඟට කොහොමද? ගිය සතියේ හෙම්බිරිස්සාව හැදිලා හිටියා නේද?\nB: ඔයාලගේ පිහිටෙන්, බෙහෙත් බීලා හොඳට නිදාගත්තාම සම්පූර්ණයෙන්ම සනීප වුණා (すっかり元気になりました)!"
+      },
+      "explanation_sinhala": "ස්මිත් මහතා 'すっかり元気になりました' (සම්පූර්ණයෙන්ම සනීප වුණා) යැයි පවසන බැවින්, සුව වී නැත යන ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_e1_l14_015",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_40",
+      "can_do_title_sinhala": "ශබ්දය අඩු කරන ලෙස ඉල්ලීම (小さくしてください)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L14_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性は男性に何を頼みましたか。",
+        "furigana": "[じょせい]は[だんせい]に[なに]を[たの]みましたか。",
+        "sinhala": "කාන්තාව පිරිමි පුද්ගලයාගෙන් ඉල්ලා සිටියේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "テレビの音を小さくすること (රූපවාහිනියේ ශබ්දය අඩු කරන ලෙස)"
+        },
+        {
+          "id": "B",
+          "text": "テレビを消すこと (රූපවාහිනිය නිවා දමන ලෙස)"
+        },
+        {
+          "id": "C",
+          "text": "部屋を明るくすること (කාමරය එළිය කරන ලෙස)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: あのう、今電話中なので、テレビの音を少し小さくしてくれませんか。\nB: あ、すみません！すぐ小さくしますね。",
+        "sinhala": "A: සමාවෙන්න, මම දැන් කෝල් එකක ඉන්නේ, ටීවී එකේ සද්දය පොඩ්ඩක් අඩු කරන්න පුළුවන්ද (小さくしてくれませんか)?\nB: ආ, සමාවෙන්න! දැන්ම අඩු කරන්නම්."
+      },
+      "explanation_sinhala": "කාන්තාව 'テレビの音を少し小さくしてくれませんか' (ශබ්දය පොඩ්ඩක් අඩු කරන්න පුළුවන්ද) කියා ඉල්ලා සිටින බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l14_016",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_40",
+      "can_do_title_sinhala": "වායුසමීකරණ දුරස්ථ පාලකයේ බොත්තම් කියවීම (AC Remote)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l14_q16_acremote.png"
+      },
+      "question_text": {
+        "japanese": "エアコンのリモコンを見てください。部屋を暖かくしたいとき、どの運転ボタンを押しますか。",
+        "furigana": "エアコンのリモコンを[み]てください。[へや]を[あたた]かくしたいとき、どの[うんてん]ボタンを[お]しますか。",
+        "sinhala": "AC රිමෝට් එක බලන්න. කාමරය උණුසුම් කිරීමට (Heater) එබිය යුතු බොත්තම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "暖房 / だんぼう (Danbou - හීටරය)"
+        },
+        {
+          "id": "B",
+          "text": "冷房 / れいぼう (Reibou - කූලරය)"
+        },
+        {
+          "id": "C",
+          "text": "除湿 / じょしつ (Joshitsu - වියළි බව)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාමරය උණුසුම් කිරීමට හීටර් ක්‍රමය වන '暖房' (Danbou) බොත්තම එබිය යුතුය."
+    },
+    {
+      "quiz_id": "qz_e1_l14_017",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_39",
+      "can_do_title_sinhala": "ඇඳුම් ඇඳීමේ දර්ශකය කියවීම (Clothing Index / 服装指数)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l14_q17_clothingindex.png"
+      },
+      "question_text": {
+        "japanese": "服装指数（ふくそうしすう）の案内です。明日は夜に寒くなるので、何が推奨されていますか。",
+        "furigana": "[ふくそうしすう]の[あんない]です。[あした]は[よる]に[さむ]くなるので、[なに]が[すいしょう]されていますか。",
+        "sinhala": "ඇඳුම් දර්ශක පුවරුව බලන්න. හෙට රාත්‍රියේ සීතල වන බැවින් නිර්දේශ කර ඇත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "コートや厚手のジャケットが必要 (කෝට් එකක් හෝ ඝන ජැකට් එකක් අවශ්‍යයි)"
+        },
+        {
+          "id": "B",
+          "text": "半袖のシャツで十分 (කොට අත් ෂර්ට් ප්‍රමාණවත්)"
+        },
+        {
+          "id": "C",
+          "text": "傘だけあればいい (කුඩයක් පමණක් ප්‍රමාණවත්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දර්ශකයේ '夜は冷え込みます。コートやジャケットを準備しましょう' ලෙස දක්වා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l14_018",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_39",
+      "can_do_title_sinhala": "ඉ-විශේෂණ ස්වභාවිකව වෙනස් වීම (～くなります)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「暗い（Dark）」が自然に変化した形（It gets dark）はどれですか：「日が暮れて、（　）。」",
+        "furigana": "「[くら]い（Dark）」が[しぜん]に[へんか]した[かたち]（It gets dark）はどれですか：「[ひ]が[く]れて、（　）。」",
+        "sinhala": "'ඉර බැස ගොස් අඳුරු විය' කීමට '暗い' හි නිවැරදි වෙනස්වීමේ ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "暗くなりました (Kuraku narimashita)"
+        },
+        {
+          "id": "B",
+          "text": "暗いになりました (Kurai ni narimashita)"
+        },
+        {
+          "id": "C",
+          "text": "暗くしました (Kuraku shimashita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "い-adjective එකක් ස්වභාවිකව වෙනස් වීමේදී අග ඇති 'い' ඉවත් කර 'くなります' (අතීත නම් くなりました) එකතු කරයි."
+    },
+    {
+      "quiz_id": "qz_e1_l14_019",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_39",
+      "can_do_title_sinhala": "න-විශේෂණ ස්වභාවිකව වෙනස් වීම (～になります)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「薬を飲んだら、元気に（　）。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[くすり]を[の]んだら、[げんき]に（　）。」",
+        "sinhala": "'බෙහෙත් බිව් පසු සනීප වුණා' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "なりました (narimashita)"
+        },
+        {
+          "id": "B",
+          "text": "しました (shimashita)"
+        },
+        {
+          "id": "C",
+          "text": "ありました (arimashita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "な-adjective එකක් (元気) තත්ත්වය වෙනස් වීම දැක්වීමට '～になります' (元気になりました) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e1_l14_020",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_40",
+      "can_do_title_sinhala": "තමන් විසින් වෙනසක් සිදුකිරීම (～くします)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「部屋を暖かくする（Make the room warm）」を表す文はどれですか。",
+        "furigana": "「[へや]を[あたた]かくする（Make the room warm）」を[あらわ]す[ぶん]はどれですか。",
+        "sinhala": "'කාමරය උණුසුම් කරනවා' (තමන් විසින් හීටරය දමා වෙනස් කිරීම) දැක්වෙන නිවැරදි වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "暖房をつけて、部屋を暖かくします (Danbou o tsukete, heya o atatakaku shimasu)"
+        },
+        {
+          "id": "B",
+          "text": "暖房をつけて、部屋が暖かくなります"
+        },
+        {
+          "id": "C",
+          "text": "部屋を暖かいにします"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කෙනෙකු විසින් යම් තත්ත්වයක් වෙනස් කරන විට 'Noun を [い-Adj drop い] + くします' (暖かくします) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e1_l14_021",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_40",
+      "can_do_title_sinhala": "න-විශේෂණ තමන් විසින් වෙනස් කිරීම (～にします)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「掃除をして、部屋を綺麗（　）しました。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[そうじ]をして、[へや]を[きれい]（　）しました。」",
+        "sinhala": "'අස්පස් කර කාමරය පිරිසිදු කළා' කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "に (ni)"
+        },
+        {
+          "id": "B",
+          "text": "く (ku)"
+        },
+        {
+          "id": "C",
+          "text": "で (de)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "な-adjective එකක් (綺麗) තමන් විසින් වෙනස් කරන විට '～にします' (綺麗にしました) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l14_022",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_40",
+      "can_do_title_sinhala": "සිසිලන ක්‍රමය හඳුන්වන වචනය (冷房 / Reibou)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "夏に部屋を涼しくするエアコンの機能は何ですか。",
+        "furigana": "[なつ]に[へや]を[すず]しくするエアコンの[きのう]は[なん]ですか。",
+        "sinhala": "ගිම්හානයේදී කාමරය සිසිල් කරන AC ක්‍රමය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "冷房 / れいぼう (Reibou - Cooling)"
+        },
+        {
+          "id": "B",
+          "text": "暖房 / だんぼう (Danbou - Heating)"
+        },
+        {
+          "id": "C",
+          "text": "換気 / かんき (Kanki - වාතාශ්‍රය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාමරය සිසිල් කිරීමේ ක්‍රමය '冷房' (රෙයිබෝ - Cooling) වේ. උණුසුම් කිරීම '暖房' (දන්බෝ) වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l14_023",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_39",
+      "can_do_title_sinhala": "අසනීපය සුව වීම හඳුන්වන ක්‍රියාපදය (治る / Naoru)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「病気や怪我がよくなる（Recover）」を表す動詞はどれですか。",
+        "furigana": "「[びょうき]や[けが]がよくなる（Recover）」を[あらわ]す[どうし]はどれですか。",
+        "sinhala": "'රෝගයක් සුව වෙනවා' (Recover/Get cured) යන අර්ථය දෙන ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "治ります / なおります (Naorimasu)"
+        },
+        {
+          "id": "B",
+          "text": "直します / なおします (Naoshimasu - අලුත්වැඩියා කරනවා)"
+        },
+        {
+          "id": "C",
+          "text": "壊れます / こわれます (Kowaremasu - කැඩෙනවා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අසනීපයක් සුව වීම '治ります' (නාඔරිමාසු) වේ. භාණ්ඩයක් රෙපයාර් කිරීම '直します' වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l14_024",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 14,
+      "can_do_id": "cando_e1_40",
+      "can_do_title_sinhala": "කාමරයේ පරිසරය වෙනස් කිරීමට ඉල්ලන සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: ありがとうございます。ちょうどよくなりました\n2: 少し寒くなりましたね\n3: エアコンの温度を少し高くしましょうか\n4: はい、お願いします",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: ありがとうございます。ちょうどよくなりました\n2: [すこ]し[さむ]くなりましたね\n3: エアコンの[おんど]を[すこ]し[たか]くしましょうか\n4: はい、お[ねが]いします",
+        "sinhala": "කාමරයේ උෂ්ණත්වය වෙනස් කරන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 3 -> 4 -> 1"
+        },
+        {
+          "id": "B",
+          "text": "3 -> 4 -> 2 -> 1"
+        },
+        {
+          "id": "C",
+          "text": "2 -> 1 -> 3 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (ටිකක් සීතල වුණා නේද) -> 3 (AC එකේ උෂ්ණත්වය තව ටිකක් වැඩි කරමුද?) -> 4 (ඔව්, කරුණාකරලා) -> 1 (බොහොම ස්තුතියි, දැන් ගානට හොඳයි)."
+    }
+  ]
+}
