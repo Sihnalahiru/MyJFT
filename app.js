@@ -6,8 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     AUDIO_BASE_URL: 'https://raw.githubusercontent.com/Sihnalahiru/MyJFT/main/public/audio/',
     IMAGE_BASE_URL: 'public/data/images/'
   }; // local or CDN
-  };
-
+ 
   // State
   let currentQuizList = [];
   let currentQuestionIndex = 0;
