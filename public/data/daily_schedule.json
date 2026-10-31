@@ -1,0 +1,34 @@
+{
+  "routine_title": "Daily 4-Hour JFT-Basic & JLPT Mastery Routine",
+  "total_daily_goal_minutes": 240,
+  "sessions": [
+    {
+      "id": "session_1",
+      "title": "Vocabulary & Kanji Studio",
+      "duration_minutes": 60,
+      "xp_reward": 50,
+      "description": "Flashcards with audio navigation and illustrations."
+    },
+    {
+      "id": "session_2",
+      "title": "Grammar & Sentence Patterns",
+      "duration_minutes": 60,
+      "xp_reward": 50,
+      "description": "Particles and core structure mastery based on Irodori."
+    },
+    {
+      "id": "session_3",
+      "title": "Listening & Reading Comprehension",
+      "duration_minutes": 60,
+      "xp_reward": 50,
+      "description": "Audio scripts and context reading practice."
+    },
+    {
+      "id": "session_4",
+      "title": "Exam Quiz & Drag-and-Drop Practice",
+      "duration_minutes": 60,
+      "xp_reward": 100,
+      "description": "Pure Japanese interactive quiz mode with XP tracking."
+    }
+  ]
+}
