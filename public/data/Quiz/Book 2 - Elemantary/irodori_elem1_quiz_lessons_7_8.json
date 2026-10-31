@@ -1,0 +1,915 @@
+{
+  "book": "Irodori Elementary 1 (A2.1)",
+  "lessons_covered": [
+    7,
+    8
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e1_l07_001",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_19",
+      "can_do_title_sinhala": "උපන්දින තෑග්ගක් දුන් බව අසා තේරුම් ගැනීම (～にあげました)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L07_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは友達の誕生日に何をあげましたか。",
+        "furigana": "カルロスさんは[ともだち]の[たんじょうび]に[なに]をあげましたか。",
+        "sinhala": "කාලෝස් මහතා මිතුරාගේ උපන්දිනයට ලබා දුන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "日本の緑茶とマグカップ (ජපන් කොළ තේ සහ මග් එකක්)"
+        },
+        {
+          "id": "B",
+          "text": "Tシャツ (ටී ෂර්ට් එකක්)"
+        },
+        {
+          "id": "C",
+          "text": "時計 (ඔරලෝසුවක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、先週友達の誕生日でしたね。何をあげましたか。\nB: おいしい日本の緑茶と、きれいなマグカップをあげました。とても喜んでくれました。",
+        "sinhala": "A: කාලෝස් මහතා, ගිය සතියේ මිතුරාගේ උපන්දිනය නේද? මොනවද දුන්නේ?\nB: රසවත් ජපන් කොළ තේ සහ ලස්සන මග් එකක් දුන්නා. එයා ගොඩක් සතුටු වුණා."
+      },
+      "explanation_sinhala": "කාලෝස් '緑茶とマグカップをあげました' (කොළ තේ සහ මග් එකක් දුන්නා) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l07_002",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_19",
+      "can_do_title_sinhala": "සමරු තෑග්ගක් ලැබුණු බව අසා තේරුම් ගැනීම (～にもらいました)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L07_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは誰にお土産をもらいましたか。",
+        "furigana": "マリアさんは[だれ]にお[みやげ]をもらいましたか。",
+        "sinhala": "මරියාට සමරු තෑග්ග ලැබුණේ කාගෙන්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "北海道へ行った会社の先輩 (හොක්කයිඩෝ ගිය සමාගමේ ජ්‍යෙෂ්ඨ සගයාගෙන්)"
+        },
+        {
+          "id": "B",
+          "text": "フィリピンの家族 (පිලිපීනයේ පවුලේ අයගෙන්)"
+        },
+        {
+          "id": "C",
+          "text": "日本語学校の先生 (ජපන් භාෂා පාසලේ ගුරුතුමාගෙන්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさん、そのお菓子、おいしそうですね。\nB: 北海道へ出張に行った会社の先輩にもらいました。有名なチョコレートです。",
+        "sinhala": "A: මරියා, ඒ පැණිරස කෑම එක රස පාටයිනේ.\nB: හොක්කයිඩෝවල නිල සංචාරයක ගිය සමාගමේ ජ්‍යෙෂ්ඨ සගයෙකුගෙන් ලැබුණා. ප්‍රසිද්ධ චොකලට් එකක්."
+      },
+      "explanation_sinhala": "මරියා පවසන්නේ '会社の先輩にもらいました' (සමාගමේ ජ්‍යෙෂ්ඨ සගයෙකුගෙන් ලැබුණා) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l07_003",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_20",
+      "can_do_title_sinhala": "තෑග්ගක් තේරීමේදී උපදෙස් විමසීම සහ දීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L07_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "田中さんは母の日のプレゼントに何を提案しましたか。",
+        "furigana": "[たなか]さんは[はは]の[ひ]のプレゼントに[なに]を[ていあん]しましたか。",
+        "sinhala": "තනකා මහතා මව්වරුන්ගේ දිනය වෙනුවෙන් නිර්දේශ කළ තෑග්ග කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "カーネーションの花やお菓子 (කානේෂන් මල් හෝ පැණිරස කෑම)"
+        },
+        {
+          "id": "B",
+          "text": "化粧品 (ආලේපන වර්ග / Makeup)"
+        },
+        {
+          "id": "C",
+          "text": "商品券 (තෑගි වවුචරයක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 今度、母の日ですね。何をあげたらいいですか。\nB: 日本では赤いカーネーションの花やお菓子をあげる人が多いですよ。お花がいいと思います。",
+        "sinhala": "A: ළඟදීම මව්වරුන්ගේ දිනය නේද. මොනවද දුන්නොත් හොඳ?\nB: ජපානයේ නම් රතු කානේෂන් මල් හෝ පැණිරස කෑම දෙන අය වැඩියි. මල් හොඳයි කියලා හිතනවා."
+      },
+      "explanation_sinhala": "තනකා 'カーネーションの花やお菓子' (කානේෂන් මල් හෝ පැණිරස කෑම) නිර්දේශ කරන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l07_004",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_20",
+      "can_do_title_sinhala": "විවාහ උත්සව සඳහා මුදල් තෑගි දීම (ご祝儀 - Goshuugi)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L07_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "日本の結婚式では、お祝いにお金を包んで持っていきますか。（◯ か ✕）",
+        "furigana": "[にほん]の[けっこんしき]では、お[いわ]いにお[かね]を[つつ]んで[も]っていきますか。（◯ か ✕）",
+        "sinhala": "ජපානයේ විවාහ උත්සව සඳහා තෑග්ගක් ලෙස මුදල් ලියුම් කවරයක බහා රැගෙන යනවාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, විශේෂ කවරයක මුදල් රැගෙන යයි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, මුදල් තෑගි දීම තහනම්ය)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: 同僚の結婚式に招待されました。プレゼントはどうすればいいですか。\nB: 日本の結婚式では、ご祝儀袋に新しいお札を入れてお金を渡すのが普通ですよ。",
+        "sinhala": "A: සගයෙකුගේ වෙඩින් එකකට මට ආරාධනා කළා. තෑග්ගක් විදිහට මොකද කරන්නේ?\nB: ජපානයේ වෙඩින්වලට විශේෂ කවරයක (Goshuugibukuro) අලුත් මුදල් නෝට්ටු දාලා මුදල් තෑගි දෙන එක තමයි සාමාන්‍ය සිරිත."
+      },
+      "explanation_sinhala": "ජපානයේ විවාහ උත්සව සඳහා මුදල් තෑගි දීම (ご祝儀) සාමාන්‍ය සිරිතක් බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l07_005",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_20",
+      "can_do_title_sinhala": "සමරු තෑගි ශ්‍රේණිගත කිරීම් පත්‍රිකාවක් කියවීම (Omiyage Ranking)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l07_q05_ranking.png"
+      },
+      "question_text": {
+        "japanese": "お土産ランキングのチラシを見てください。人気第1位の商品はどれですか。",
+        "furigana": "お[みやげ]ランキングのチラシを[み]てください。[にんき][だいいちい]の[しょうひん]はどれですか。",
+        "sinhala": "සමරු තෑගි ශ්‍රේණිගත කිරීම් පත්‍රිකාව බලන්න. ජනප්‍රියත්වයෙන් 1 වන ස්ථානයේ (第1位) ඇති භාණ්ඩය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "抹茶クッキー (මච්චා කුකීස්)"
+        },
+        {
+          "id": "B",
+          "text": "伝統の扇子 (සාම්ප්‍රදායික පවන්පත්)"
+        },
+        {
+          "id": "C",
+          "text": "日本酒セット (ජපන් සාකේ කට්ටලය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පත්‍රිකාවේ '人気 No.1（第1位）: 京都抹茶ラングドシャ・クッキー 1,200円' ලෙස දක්වා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l07_006",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_19",
+      "can_do_title_sinhala": "තෑග්ගක් සමඟ එවන ලද සුබපැතුම් කාඩ්පතක් කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l07_q06_messagecard.png"
+      },
+      "question_text": {
+        "japanese": "メッセージカードを読んでください。誰から誰へのメッセージですか。",
+        "furigana": "メッセージカードを[よ]んでください。[だれ]から[だれ]へのメッセージですか。",
+        "sinhala": "සුබපැතුම් කාඩ්පත කියවන්න. මෙය කාගෙන් කාට යවන ලද පණිවිඩයක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "田中さんからマリアさんへ (තනකාගෙන් මරියාට)"
+        },
+        {
+          "id": "B",
+          "text": "マリアさんから田中さんへ (මරියාගෙන් තනකාට)"
+        },
+        {
+          "id": "C",
+          "text": "社長から社員へ (සභාපතිගෙන් සේවකයින්ට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාඩ්පතේ ආරම්භයේ 'マリアさんへ' (මරියාට) සහ අවසානයේ '田中より' (තනකාගෙන්) ලෙස සඳහන්ව ඇත."
+    },
+    {
+      "quiz_id": "qz_e1_l07_007",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_19",
+      "can_do_title_sinhala": "කෙනෙකුට යමක් දීම දැක්වීමට 'に' නිපාතය (あげます)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「私は母（　）花をあげました。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「[わたし]は[はは]（　）[はな]をあげました。」",
+        "sinhala": "'මම මවට මල් දුන්නා' යැයි කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "に (ni)"
+        },
+        {
+          "id": "B",
+          "text": "で (de)"
+        },
+        {
+          "id": "C",
+          "text": "を (o)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තෑග්ග හෝ භාණ්ඩය ලබන පාර්ශ්වය දැක්වීමට 'Person + に + Noun + を + あげます' යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e1_l07_008",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_19",
+      "can_do_title_sinhala": "කෙනෙකුගෙන් යමක් ලැබීම (もらいます)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "正しい助詞の組み合わせを選んでください：「先生（　）本（　）もらいました。」",
+        "furigana": "[ただ]しい[じょし]の[く]み[あ]わせを[えら]んでください：「[せんせい]（　）[ほん]（　）もらいました。」",
+        "sinhala": "'ගුරුතුමාගෙන් පොතක් ලැබුණා' යැයි කීමට හිස්තැන්වලට ගැළපෙන නිපාත යුගලය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "に（または から）/ を (ni / o)"
+        },
+        {
+          "id": "B",
+          "text": "を / に (o / ni)"
+        },
+        {
+          "id": "C",
+          "text": "で / は (de / wa)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දෙයක් ලබාදෙන පුද්ගලයාට 'に' (හෝ から) ද, ලැබෙන භාණ්ඩයට 'を' ද යෙදේ (先生に/から 本を もらいました)."
+    },
+    {
+      "quiz_id": "qz_e1_l07_009",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_19",
+      "can_do_title_sinhala": "සමරු තෑග්ග හඳුන්වන වචනය (お土産 / Omiyage)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "旅行や出張先から買って帰る贈り物を何と言いますか。",
+        "furigana": "[りょこう]や[しゅっちょうさき]から[か]って[かえ]る[おく]り[もの]を[なん]と[い]いますか。",
+        "sinhala": "සංචාරයක හෝ ගමනක ගොස් ආපසු එන විට අන් අය වෙනුවෙන් මිලදී ගෙනෙන සමරු තෑග්ග හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "お土産 (Omiyage)"
+        },
+        {
+          "id": "B",
+          "text": "お弁当 (Obentou - කෑම පෙට්ටිය)"
+        },
+        {
+          "id": "C",
+          "text": "お祝い (Oiwai - සුබපැතුම් තෑග්ග)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සංචාරයකදී ගෙනෙන සමරු තෑග්ග 'お土産' (ඔමියාගේ - Souvenir) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l07_010",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_20",
+      "can_do_title_sinhala": "උපන්දිනය හඳුන්වන වචනය (誕生日)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「誕生日」の正しい読み方はどれですか。",
+        "furigana": "「[たんじょうび]」の[ただ]しい[よ]み[かた]はどれですか。",
+        "sinhala": "'誕生日' (උපන්දිනය) කන්ජි වචනයේ නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "たんじょうび (Tanjoubi)"
+        },
+        {
+          "id": "B",
+          "text": "たんしょうび (Tanshoubi)"
+        },
+        {
+          "id": "C",
+          "text": "しょうじょうび (Shoujoubi)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'誕生日' යනු 'たんじょうび' (Tanjoubi - උපන්දිනය) වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l07_011",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_19",
+      "can_do_title_sinhala": "සතුටු වීම හඳුන්වන ක්‍රියාපදය (喜ぶ / Yorokobu)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "プレゼントを渡して「相手がうれしそうにした」を表す動詞はどれですか。",
+        "furigana": "プレゼントを[わた]して「[あいて]がうれしそうにした」を[あらわ]す[どうし]はどれですか。",
+        "sinhala": "තෑග්ගක් දුන් විට අනෙක් පුද්ගලයා සතුටට පත්වීම දැක්වෙන ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "喜びました (Yorokobimashita)"
+        },
+        {
+          "id": "B",
+          "text": "怒りました (Okorimashita - කේන්ති ගත්තා)"
+        },
+        {
+          "id": "C",
+          "text": "驚きました (Odorokimashita - පුදුම වුණා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තෑග්ගක් ලැබුණු විට අනෙකා සතුටු වීම '喜びます' (යොරොකොබිමාසු - Be pleased/glad) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l07_012",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 7,
+      "can_do_id": "cando_e1_19",
+      "can_do_title_sinhala": "තෑග්ගක් ලබාදෙන ස්වභාවික සංවාදයක අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: これ、京都のお土産です。どうぞ\n2: ありがとうございます。いただきます！\n3: わあ、抹茶のお菓子ですね",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: これ、[きょうと]のお[みやげ]です。どうぞ\n2: ありがとうございます。いただきます！\n3: わあ、[まっちゃ]のお[かし]ですね",
+        "sinhala": "තෑග්ගක් දෙන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 -> 3 -> 2"
+        },
+        {
+          "id": "B",
+          "text": "2 -> 1 -> 3"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 1 -> 2"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 1 (මේ කියෝතෝවල සමරු තෑග්ගක්, ගන්න) -> 3 (වාහ්, මච්චා පැණිරස කෑමක්නේ) -> 2 (බොහොම ස්තුතියි, මම කන්නම්!)."
+    },
+    {
+      "quiz_id": "qz_e1_l08_013",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_21",
+      "can_do_title_sinhala": "පොදු පහසුකම් භාවිතයට පෙර කළ යුතු දේ අසා තේරුම් ගැනීම (～なければなりません)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L08_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "ジムを使う前に、何をしなければなりませんか。",
+        "furigana": "ジムを[つか]う[まえ]に、[なに]をしなければなりませんか。",
+        "sinhala": "ජිම් එක (Gym) භාවිත කිරීමට පෙර අනිවාර්යයෙන්ම කළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "利用者登録をして、室内用の靴に履き替える (ලියාපදිංචි වී, ගෘහස්ථ සපත්තු මාරු කිරීම)"
+        },
+        {
+          "id": "B",
+          "text": "シャワーを浴びることだけ (නා ගැනීම පමණක්)"
+        },
+        {
+          "id": "C",
+          "text": "予約電話をかけること (කලින් කෝල් කර වෙන් කිරීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "受付: はじめてですか。利用する前に、まず登録をしなければなりません。それから、必ず室内用のシューズに履き替えてください。",
+        "sinhala": "පිළිගැනීම: පළමු වතාවටද? භාවිත කිරීමට පෙර මුලින්ම ලියාපදිංචි විය යුතුයි (登録しなければなりません). ඊටපස්සේ අනිවාර්යයෙන්ම ගෘහස්ථ සපත්තු මාරු කරගන්න."
+      },
+      "explanation_sinhala": "ලියාපදිංචි වීම සහ ගෘහස්ථ සපත්තු පැළඳීම අනිවාර්ය බව (A) පවසයි."
+    },
+    {
+      "quiz_id": "qz_e1_l08_014",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_22",
+      "can_do_title_sinhala": "පුස්තකාල පහසුකම් අසා තේරුම් ගැනීම (කළ හැකි දේ)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L08_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "この図書館で本を何冊借りることができますか。",
+        "furigana": "この[としょかん]で[ほん]を[なんさつ][か]りることができますか。",
+        "sinhala": "මෙම පුස්තකාලයෙන් පොත් කීයක් ණයට ලබාගත හැකිද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1人5冊まで、2週間 (එක් අයෙකුට පොත් 5ක්, සති 2කට)"
+        },
+        {
+          "id": "B",
+          "text": "1人10冊まで、1か月 (එක් අයෙකුට පොත් 10ක්, මසකට)"
+        },
+        {
+          "id": "C",
+          "text": "1人2冊まで (පොත් 2ක් පමණි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 本は何冊借りることができますか。\nB: 1人5冊まで、2週間借りることができますよ。",
+        "sinhala": "A: පොත් කීයක් ණයට ගන්න පුළුවන්ද?\nB: එක් කෙනෙකුට පොත් 5ක් දක්වා සති 2ක කාලයකට ණයට ගන්න පුළුවන්."
+      },
+      "explanation_sinhala": "කථකයා '1人5冊まで、2週間借りることができます' (පොත් 5ක් දක්වා සති 2කට) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l08_015",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_21",
+      "can_do_title_sinhala": "හැඳුනුම්පත පෙන්වීම අනිවාර්ය බව අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L08_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カードを作るとき、在留カードや身分証明書を見せなければなりませんか。（◯ か ✕）",
+        "furigana": "カードを[つく]るとき、[ざいりゅう]カードや[みぶんしょうめいしょ]を[み]せなければなりませんか。（◯ か ✕）",
+        "sinhala": "කාඩ්පතක් සාදන විට පදිංචි කාඩ්පත (Zairyu Card) හෝ හැඳුනුම්පත පෙන්විය යුතුද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, පෙන්වීම අනිවාර්යයි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, පෙන්වීම අනවශ්‍යයි)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "受付: 利用者カードを作りますので、在留カードか健康保険証を見せてください。住所の確認をしなければなりません。",
+        "sinhala": "පිළිගැනීම: පරිශීලක කාඩ්පත හදන නිසා, පදිංචි කාඩ්පත හෝ සෞඛ්‍ය රක්ෂණ කාඩ්පත පෙන්වන්න. ලිපිනය තහවුරු කළ යුතුයි."
+      },
+      "explanation_sinhala": "ලිපිනය තහවුරු කිරීමට හැඳුනුම්පතක් පෙන්වීම අනිවාර්ය බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l08_016",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_21",
+      "can_do_title_sinhala": "ශාලාව තුළ ආහාර ගැනීම තහනම් බව තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L08_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "トレーニング室の中で飲食することはできますか。",
+        "furigana": "トレーニング[しつ]の[なか]で[いんしょく]することはできますか。",
+        "sinhala": "පුහුණු ශාලාව තුළ ආහාර පාන ගැනීමට හැකිද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "水やスポーツドリンクを飲むことだけできます (වතුර හෝ බීම බීම පමණක් කළ හැක)"
+        },
+        {
+          "id": "B",
+          "text": "お弁当を食べることもできます (කෑම කෑමටද හැක)"
+        },
+        {
+          "id": "C",
+          "text": "水も飲んではいけません (වතුර බීමත් තහනම්ය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "係員: トレーニング室では食事はできません。水分補給の飲み物だけ飲むことができます。",
+        "sinhala": "සේවක: පුහුණු කාමරය ඇතුළේ කෑම කන්න බෑ. වතුර හෝ බීම බීම විතරක් කරන්න පුළුවන්."
+      },
+      "explanation_sinhala": "කෑම කෑම තහනම් බවත් ජලය පානය පමණක් කළ හැකි බවත් පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l08_017",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_23",
+      "can_do_title_sinhala": "ක්‍රීඩා මධ්‍යස්ථාන නීති පත්‍රිකාවක් කියවීම (Sports Center Rules)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l08_q17_gymrules.png"
+      },
+      "question_text": {
+        "japanese": "体育館の利用案内を見てください。何を持ってこなければなりませんか。",
+        "furigana": "[たいいくかん]の[りようあんない]を[み]てください。[なに]を[も]ってこなければなりませんか。",
+        "sinhala": "ක්‍රීඩාගාර නීති බලන්න. අනිවාර්යයෙන්ම රැගෙන ආ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "室内用シューズとタオル (ගෘහස්ථ සපත්තු සහ තුවායක්)"
+        },
+        {
+          "id": "B",
+          "text": "ボールだけ (බෝල පමණක්)"
+        },
+        {
+          "id": "C",
+          "text": "水着 (පිහිනුම් ඇඳුම්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පත්‍රිකාවේ '持ち物: 室内用シューズ、運動着、タオル' ලෙස දක්වා ඇත."
+    },
+    {
+      "quiz_id": "qz_e1_l08_018",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_23",
+      "can_do_title_sinhala": "පුස්තකාල සාමාජික පෝරමයක් කියවීම (Registration)",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l08_q18_libraryform.png"
+      },
+      "question_text": {
+        "japanese": "市外（他の市）に住んでいる人もカードを作ることができますか。（◯ か ✕）",
+        "furigana": "[しがい]（[ほか]の[し]）に[す]んでいる[ひと]もカードを[つく]ることができますか。（◯ か ✕）",
+        "sinhala": "වෙනත් නගරයක පදිංචි අයටද කාඩ්පත සෑදිය හැකිද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, නගරයේ රැකියාව කරන්නේ නම් හැක)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, කිසිසේත්ම නොහැක)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "පෝරමයේ '市内在住・在勤・在学の方（市内でお勤めの方も可）' ලෙස නගරයේ වැඩ කරන අයටද අවසර දී ඇති බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l08_019",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_21",
+      "can_do_title_sinhala": "අනිවාර්යයෙන්ම කළ යුතුයි යන ආකෘතිය (～なければなりません)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「靴を脱ぐ義務（Must take off shoes）」を表す正しい文はどれですか。",
+        "furigana": "「[くつ]を[ぬ]ぐ[ぎむ]（Must take off shoes）」を[あらわ]す[ただ]しい[ぶん]はどれですか。",
+        "sinhala": "'සපත්තු ගැලවිය යුතුයි' (Must take off shoes) යන අනිවාර්ය නීතිය දැක්වෙන නිවැරදි වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "靴を脱がなければなりません (Kutsu o nuganakereba narimasen)"
+        },
+        {
+          "id": "B",
+          "text": "靴を脱いでもいいです (Kutsu o nuide mo ii desu)"
+        },
+        {
+          "id": "C",
+          "text": "靴を脱ぎてください (Kutsu o nugite kudasai)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනිවාර්යයෙන්ම කළ යුතු දෙයක් (Obligation / Must) දැක්වීමට 'Nai-form [drop い] + ければなりません' (脱がなければなりません) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e1_l08_020",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_22",
+      "can_do_title_sinhala": "ස්ථානයක ඇති පහසුකම ප්‍රකාශ කිරීම (～ことができます)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「この部屋でWi-Fiを（　）ことができます。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「この[へや]でWi-Fiを（　）ことができます。」",
+        "sinhala": "'මේ කාමරයේ Wi-Fi භාවිත කළ හැකියි' කීමට හිස්තැනට ගැළපෙන ක්‍රියාපද ආකෘතිය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "使う (Tsukau - Dict form)"
+        },
+        {
+          "id": "B",
+          "text": "使います (Tsukaimasu)"
+        },
+        {
+          "id": "C",
+          "text": "使って (Tsukatte)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'～ことができます' ඉදිරියෙන් ක්‍රියාපදයේ ශබ්දකෝෂ ආකෘතිය (Dictionary form) යෙදිය යුතුය (使うことができます)."
+    },
+    {
+      "quiz_id": "qz_e1_l08_021",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_21",
+      "can_do_title_sinhala": "ක්‍රියාපද 'なければなりません' ආකෘතියට හැරවීම (Nai -> Nakereba)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "動詞「返します（かえします - Return）」の「Must return」の形はどれですか。",
+        "furigana": "[どうし]「[かえ]します（Return）」の「Must return」の[かたち]はどれですか。",
+        "sinhala": "'ආපසු භාරදිය යුතුයි' (Must return) හි නිවැරදි ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "返さなければなりません (Kaesanakereba narimasen)"
+        },
+        {
+          "id": "B",
+          "text": "返しないければなりません"
+        },
+        {
+          "id": "C",
+          "text": "返してなければなりません"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "返します -> 返さない (Nai-form) -> い ඉවත් කර ければなりません එකතු කළ විට '返さなければなりません' වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l08_022",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_21",
+      "can_do_title_sinhala": "ලියාපදිංචි වීම හඳුන්වන වචනය (登録 / Touroku)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "施設を使うために名前や住所を記録（Register）することを何と言いますか。",
+        "furigana": "[しせつ]を[つか]うために[なまえ]や[じゅうしょ]を[きろく]（Register）することを[なん]と[い]いますか。",
+        "sinhala": "පහසුකමක් භාවිත කිරීමට නම සහ ලිපිනය ලියාපදිංචි කිරීම (Registration) හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "登録 (Touroku)"
+        },
+        {
+          "id": "B",
+          "text": "返却 (Henkyaku - ආපසු දීම)"
+        },
+        {
+          "id": "C",
+          "text": "貸出 (Kashidashi - ණයට දීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ලියාපදිංචිය '登録' (තෝරොකු - Registration) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l08_023",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_22",
+      "can_do_title_sinhala": "ආපසු භාරදීම හඳුන්වන ක්‍රියාපදය (返す / Kaesu)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "借りた本を元の場所に戻す（Return）動詞はどれですか。",
+        "furigana": "[か]りた[ほん]を[もと]の[ばしょ]に[もど]す（Return）[どうし]はどれですか。",
+        "sinhala": "ණයට ගත් පොතක් ආපසු භාරදීම (Return) දක්වන ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "返します (Kaeshimasu)"
+        },
+        {
+          "id": "B",
+          "text": "借ります (Karimasu - ණයට ගන්නවා)"
+        },
+        {
+          "id": "C",
+          "text": "貸します (Kashimasu - ණයට දෙනවා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ආපසු දීම '返します' (Kaeshimasu) වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l08_024",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 8,
+      "can_do_id": "cando_e1_21",
+      "can_do_title_sinhala": "පුස්තකාල කවුන්ටරයේ සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: はい、この申込書に書いてください\n2: 初めてなんですが、カードを作りたいです\n3: 身分証を見せなければなりませんか\n4: はい、在留カードを見せてください",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: はい、この[もうしこみしょ]に[か]いてください\n2: [はじ]めてなんですが、カードを[つく]りたいです\n3: [みぶんしょう]を[み]せなければなりませんか\n4: はい、[ざいりゅう]カードを[み]せてください",
+        "sinhala": "පුස්තකාලයේදී සිදුවන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 1 -> 3 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 4 -> 3"
+        },
+        {
+          "id": "C",
+          "text": "2 -> 3 -> 1 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (මම පළමු වතාවට ආවේ, කාඩ් එකක් හදන්න ඕන) -> 1 (හරි, මේ පෝරමය පුරවන්න) -> 3 (හැඳුනුම්පතක් පෙන්වන්න ඕනද?) -> 4 (ඔව්, පදිංචි කාඩ්පත පෙන්වන්න)."
+    }
+  ]
+}

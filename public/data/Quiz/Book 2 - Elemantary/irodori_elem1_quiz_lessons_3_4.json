@@ -1,0 +1,919 @@
+{
+  "book": "Irodori Elementary 1 (A2.1)",
+  "lessons_covered": [
+    3,
+    4
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 5,
+    "grammar_and_vocabulary": 11
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e1_l03_001",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 3,
+      "can_do_id": "cando_e1_07",
+      "can_do_title_sinhala": "සෘතු සංසන්දනය කර කැමැත්ත ප්‍රකාශ කිරීම (～より～のほうが)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L03_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは春と秋とどちらが好きですか。",
+        "furigana": "カルロスさんは[はる]と[あき]とどちらが[す]きですか。",
+        "sinhala": "කාලෝස් මහතා වසන්තයට සහ සරත් සෘතුවට අතුරින් වඩා කැමති කුමකටද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "春より秋のほうが好きです (වසන්තයට වඩා සරත් සෘතුවට කැමතියි)"
+        },
+        {
+          "id": "B",
+          "text": "秋より春のほうが好きです (සරත් සෘතුවට වඩා වසන්තයට කැමතියි)"
+        },
+        {
+          "id": "C",
+          "text": "どちらも好きじゃないです (දෙකටම අකමැතියි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさんは春と秋、どちらが好きですか。\nB: 私は春より秋のほうが好きです。涼しくて過ごしやすいですから。",
+        "sinhala": "A: කාලෝස් මහතා වසන්තයටද සරත් සෘතුවටද වඩා කැමති?\nB: මම වසන්තයට වඩා සරත් සෘතුවට කැමතියි. සිසිල් සහ සුවපහසු නිසා."
+      },
+      "explanation_sinhala": "කාලෝස් '春より秋のほうが好きです' (වසන්තයට වඩා සරත් සෘතුවට කැමතියි) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l03_002",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 3,
+      "can_do_id": "cando_e1_08",
+      "can_do_title_sinhala": "කාලගුණයට ගැළපෙන ඇඳුම් තෝරාගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L03_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性は出かけるとき、何を着ていきますか。",
+        "furigana": "[じょせい]は[で]かけるとき、[なに]を[き]ていきますか。",
+        "sinhala": "කාන්තාව එළියට යන විට ඇඳගෙන යන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "上着・ジャケット (ජැකට් එකක්)"
+        },
+        {
+          "id": "B",
+          "text": "Tシャツ1枚 (ටී ෂර්ට් එකක් පමණක්)"
+        },
+        {
+          "id": "C",
+          "text": "厚いコート (ඝන කෝට් එකක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 今日は外は寒いですか。\nB: ええ、風が冷たいですよ。上着を1枚着ていったほうがいいですよ。\nA: わかりました。ジャケットを着ていきます。",
+        "sinhala": "A: අද එළියේ සීතලද?\nB: ඔව්, හුළඟ සීතලයි. උඩින් අඳින ඇඳුමක් දාගෙන යන එක හොඳයි.\nA: හරි, තේරුණා. ජැකට් එකක් දාගෙන යන්නම්."
+      },
+      "explanation_sinhala": "ඇය 'ジャケットを着ていきます' (ජැකට් එකක් ඇඳගෙන යනවා) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l03_003",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 3,
+      "can_do_id": "cando_e1_07",
+      "can_do_title_sinhala": "ජපානයට පැමිණීමට වඩාත්ම සුදුසු කාලය අසා තේරුම් ගැනීම (一番)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L03_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "日本へ旅行するのに一番いい季節はいつだと言っていますか。",
+        "furigana": "[にほん]へ[りょこう]するのに[いちばん]いい[きせつ]はいつだと[い]っていますか。",
+        "sinhala": "ජපානයේ සංචාරය කිරීමට වඩාත්ම සුදුසු සෘතුව කවදාදැයි පවසන්නේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "春（4月ごろ）- වසන්තය (අප්‍රේල් පමණ)"
+        },
+        {
+          "id": "B",
+          "text": "夏（8月ごろ）- ගිම්හානය (අගෝස්තු පමණ)"
+        },
+        {
+          "id": "C",
+          "text": "冬（1月ごろ）- ශීත සෘතුව (ජනවාරි පමණ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 友達が日本に来たいと言っています。いつが一番いいですか。\nB: 4月の春が一番いいですよ。桜がきれいですし、暑くないですから。",
+        "sinhala": "A: යාළුවෙක් ජපානයට එන්න කැමතියි කියනවා. වඩාත්ම හොඳ කවදාද?\nB: අප්‍රේල් මාසයේ වසන්තය තමයි වඩාත්ම හොඳ. සකුරා ලස්සනයි, රස්නෙත් නෑ."
+      },
+      "explanation_sinhala": "කථකයා '4月の春が一番いいですよ' (අප්‍රේල් වසන්තය තමයි හොඳම) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l03_004",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 3,
+      "can_do_id": "cando_e1_09",
+      "can_do_title_sinhala": "සකුරා මල් නැරඹීමේ විනෝද චාරිකාවට (Hanami) රැගෙන යන දේ",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L03_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "お花見に何を持っていくことになりましたか。",
+        "furigana": "お[はなみ]に[なに]を[も]っていくことになりましたか。",
+        "sinhala": "හනාමි (මල් නැරඹීම) සඳහා රැගෙන යාමට තීරණය වූ ද්‍රව්‍ය මොනවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "お弁当と敷物（シート）- කෑම පෙට්ටි සහ බිම එළන ෂීට්"
+        },
+        {
+          "id": "B",
+          "text": "カメラと傘 - කැමරාව සහ කුඩය"
+        },
+        {
+          "id": "C",
+          "text": "暖かいコートだけ - උණුසුම් කෝට් පමණක්"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 明日のお花見、何を持っていきますか。\nB: 私がお弁当を作っていきます。カルロスさんは座るシートを持ってきてください。\nA: はい、わかりました！",
+        "sinhala": "A: හෙට හනාමි එකට මොනවද ගෙනියන්නේ?\nB: මම කෑම හදාගෙන එන්නම්. කාලෝස් වාඩිවෙන්න ෂීට් එකක් අරගෙන එන්න.\nA: හරි, තේරුණා!"
+      },
+      "explanation_sinhala": "එක් අයෙකු බෙන්ටෝ (කෑම) ද, අනෙක් තැනැත්තා බිම එළන ෂීට් (シート) ද රැගෙන එන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l03_005",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 3,
+      "can_do_id": "cando_e1_09",
+      "can_do_title_sinhala": "සකුරා උත්සව පත්‍රිකාවක් කියවා ස්ථානය සහ වේලාව සෙවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l03_q05_sakura.png"
+      },
+      "question_text": {
+        "japanese": "「さくら祭り」のポスターを見てください。夜のライトアップは何時までですか。",
+        "furigana": "「さくら[まつ]り」のポスターを[み]てください。[よる]のライトアップは[なんじ]までですか。",
+        "sinhala": "සකුරා උත්සව පෝස්ටරය බලන්න. රාත්‍රී ආලෝකකරණය (Light-up) ක්‍රියාත්මක වන්නේ කීය තෙක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "21:00 (රාත්‍රී 9:00 දක්වා)"
+        },
+        {
+          "id": "B",
+          "text": "18:00 (සවස 6:00 දක්වා)"
+        },
+        {
+          "id": "C",
+          "text": "23:00 (රාත්‍රී 11:00 දක්වා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පෝස්ටරයේ '夜桜ライトアップ: 18:00〜21:00' ලෙස දක්වා ඇති බැවින් අවසන් වේලාව 21:00 වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l03_006",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 3,
+      "can_do_id": "cando_e1_08",
+      "can_do_title_sinhala": "ගිම්හාන කාලගුණ අවවාදාත්මක පත්‍රිකාවක් කියවීම (Heatstroke)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l03_q06_heatwave.png"
+      },
+      "question_text": {
+        "japanese": "お知らせに「熱中症に注意してください」とあります。何をすることが勧められていますか。",
+        "furigana": "お[し]らせに「[ねっちゅうしょう]に[ちゅうい]してください」とあります。[なに]をすることが[すす]められていますか。",
+        "sinhala": "දැන්වීමේ 'Heatstroke ගැන අවධානය යොමු කරන්න' යටතේ නිර්දේශ කර ඇත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "水分をこまめにとること (නිතර ජලය පානය කිරීම)"
+        },
+        {
+          "id": "B",
+          "text": "厚い服を着ること (ඝන ඇඳුම් ඇඳීම)"
+        },
+        {
+          "id": "C",
+          "text": "外で激しい運動をすること (එළියේ දැඩි ව්‍යායාම කිරීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පත්‍රිකාවේ 'こまめに水分・塩分を補給しましょう' (නිතර ජලය ලබාගන්න) යැයි සඳහන් වන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l03_007",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 3,
+      "can_do_id": "cando_e1_07",
+      "can_do_title_sinhala": "සංසන්දනය කිරීමේ ව්‍යාකරණ රටාව (A より B のほうが)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「東京は京都より大きいです」と同じ意味の文はどれですか。",
+        "furigana": "「[とうきょう]は[きょうと]より[おお]きいです」と[おな]じ[いみ]の[ぶん]はどれですか。",
+        "sinhala": "'ටෝකියෝ නගරය කියෝතෝවලට වඩා විශාලයි' යන අර්ථයම දෙන වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "京都より東京のほうが大きいです (කියෝතෝවලට වඩා ටෝකියෝ විශාලයි)"
+        },
+        {
+          "id": "B",
+          "text": "東京より京都のほうが大きいです"
+        },
+        {
+          "id": "C",
+          "text": "京都も東京も同じ大きさです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'A より B のほうが [Adj]' යනු A ට වඩා B [විශේෂණය] වේ යන්නයි. එබැවින් කියෝතෝවලට වඩා ටෝකියෝ විශාලයි (A) නිවැරදිය."
+    },
+    {
+      "quiz_id": "qz_e1_l03_008",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 3,
+      "can_do_id": "cando_e1_07",
+      "can_do_title_sinhala": "උත්තම සංසන්දනය (කාණ්ඩයක් අතුරින් වඩාත්ම / 一番)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る適切な助詞を選んでください：「1年の（　）8月が一番暑いです。」",
+        "furigana": "[くうらん]に[はい]る[てきせつ]な[じょし]を[えら]んでください：「1[ねん]の（　）8[がつ]が[いちばん][あつ]いです。」",
+        "sinhala": "'වසරක් අතුරින් අගෝස්තු මාසය වඩාත්ම රස්නෙයි' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "中で (naka de)"
+        },
+        {
+          "id": "B",
+          "text": "から (kara)"
+        },
+        {
+          "id": "C",
+          "text": "まで (made)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාණ්ඩයක් අතුරින් උත්තම (Superlative) සංසන්දනය කිරීමේදී '[කාණ්ඩය] の中で [විෂය] が 一番 [විශේෂණය] です' යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l03_009",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 3,
+      "can_do_id": "cando_e1_08",
+      "can_do_title_sinhala": "ඇඳුම් ඇඳීමේ ක්‍රියාපද (කලිසම්/සපත්තු සඳහා 履く)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「靴（くつ）」や「ズボン」と一緒に使う動詞はどれですか。",
+        "furigana": "「[くつ]」や「ズボン」と[いっしょ]に[つか]う[どうし]はどれですか。",
+        "sinhala": "සපත්තු හෝ කලිසම් ඇඳීම/පැළඳීම සඳහා යොදන ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "履きます / はきます (Hakimasu)"
+        },
+        {
+          "id": "B",
+          "text": "着ます / きます (Kimasu - ෂර්ට්/කෝට් ඇඳීම)"
+        },
+        {
+          "id": "C",
+          "text": "かぶります (Kaburimasu - තොප්පි දැමීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ඉණෙන් පහළ අඳින ඇඳුම් (කලිසම්, සාය, සපත්තු, මේස්) සඳහා '履きます' (Hakimasu) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l03_010",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 3,
+      "can_do_id": "cando_e1_07",
+      "can_do_title_sinhala": "තෙතමනය සහ රස්නය සහිත බව (蒸し暑い / Mushiatsui)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "湿度が高くて温度も高い（Humid and hot）状態を表す言葉はどれですか。",
+        "furigana": "[しつど]が[たか]くて[おんど]も[たか]い[じょうたい]を[あらわ]す[ことば]はどれですか。",
+        "sinhala": "තෙතමනය සහ රස්නය අධික (Humid hot) කාලගුණය හඳුන්වන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "蒸し暑い (Mushiatsui)"
+        },
+        {
+          "id": "B",
+          "text": "涼しい (Suzushii - ප්‍රියජනක සිසිල්)"
+        },
+        {
+          "id": "C",
+          "text": "寒い (Samui - සීතල)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ ගිම්හානයේ දැකිය හැකි දහඩිය දමන අධික තෙතමනය සහිත උණුසුම '蒸し暑い' (මුෂිඅත්සුයි) වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l04_011",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_10",
+      "can_do_title_sinhala": "කසළ වර්ගීකරණය අනුව බැහැර කරන දින අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L04_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「燃えるゴミ」は何曜日の朝に出しますか。",
+        "furigana": "「[も]えるゴミ」は[なんようび]の[あさ]に[だ]しますか。",
+        "sinhala": "දහනය වන කුණු (Burnable trash) දැමිය යුත්තේ කුමන දිනවල උදෑසනද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "火曜日と金曜日 (අඟහරුවාදා සහ සිකුරාදා)"
+        },
+        {
+          "id": "B",
+          "text": "月曜日と木曜日 (සඳුදා සහ බ්‍රහස්පතින්දා)"
+        },
+        {
+          "id": "C",
+          "text": "水曜日だけ (බදාදා පමණි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "管理人: カルロスさん、ゴミのルールはわかりますか。\nカルロス: すみません、まだよくわかりません。\n管理人: 生ゴミなどの「燃えるゴミ」は、火曜日と金曜日の朝8時までに出してくださいね。",
+        "sinhala": "භාරකරු: කාලෝස් මහතා, කුණු දමන නීති දන්නවාද?\nකාලෝස්: සමාවෙන්න, තවම හරියට දන්නේ නෑ.\nභාරකරු: කෑම අපද්‍රව්‍ය වැනි 'දහනය වන කුණු' අඟහරුවාදා සහ සිකුරාදා උදේ 8ට කලින් දමන්න."
+      },
+      "explanation_sinhala": "භාරකරු පවසන්නේ '火曜日と金曜日の朝8時までに出してください' (අඟහරුවාදා සහ සිකුරාදා උදේ 8ට පෙර) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l04_012",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_10",
+      "can_do_title_sinhala": "ප්ලාස්ටික් බෝතල් බැහැර කිරීමේ නීති අසා තේරුම් ගැනීම (PET Bottles)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L04_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "ペットボトルを捨てるとき、最初に何をしなければなりませんか。",
+        "furigana": "ペットボトルを[す]てるとき、[さいしょ]に[なに]をしなければなりませんか。",
+        "sinhala": "ප්ලාස්ටික් (PET) බෝතල් විසි කිරීමේදී මුලින්ම කළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "キャップとラベルを外して、中を洗う (මූඩිය සහ ලේබලය ගලවා ඇතුළ සේදීම)"
+        },
+        {
+          "id": "B",
+          "text": "そのままゴミ袋に入れる (ඒ ආකාරයෙන්ම බෑගයට දැමීම)"
+        },
+        {
+          "id": "C",
+          "text": "細かくハサミで切る (කතුරෙන් කුඩා කැබලිවලට කැපීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: ペットボトルはどうやって捨てますか。\nB: キャップとラベルを外してください。それから水で中を洗って、つぶして出してください。",
+        "sinhala": "A: PET බෝතල් දමන්නේ කොහොමද?\nB: මූඩියයි ලේබලයයි ගලවන්න. ඊටපස්සේ ඇතුළ වතුරෙන් හෝදලා, තලලා දමන්න."
+      },
+      "explanation_sinhala": "මූඩිය සහ ලේබලය ගලවා ඇතුළත සෝදා තලා දැමිය යුතු බව (A) උපදෙස් දෙයි."
+    },
+    {
+      "quiz_id": "qz_e1_l04_013",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_11",
+      "can_do_title_sinhala": "විශාල අපද්‍රව්‍ය බැහැර කිරීමේ ක්‍රියාවලිය (粗大ゴミ)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L04_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "壊れた自転車は普通のゴミ捨て場にそのまま捨てられますか。（◯ か ✕）",
+        "furigana": "[こわ]れた[じてんしゃ]は[ふつう]のゴミ[す]て[ば]にそのまま[す]てられますか。（◯ か ✕）",
+        "sinhala": "කැඩුණු පාපැදියක් සාමාන්‍ය කුණු දමන තැනට නිකම්ම විසි කළ හැකිද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, සාමාන්‍ය ලෙස විසි කළ හැක)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, එයට විශේෂ ස්ටිකරයක් සහ ගාස්තුවක් අවශ්‍යයි)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: 自転車を捨てたいんですが、どうすればいいですか。\nB: それは「粗大ゴミ」ですね。市役所に電話して、コンビニでシールを買って貼ってください。普通には捨てられませんよ。",
+        "sinhala": "A: බයිසිකලයක් අයින් කරන්න ඕන, මොකද කරන්නේ?\nB: ඒක 'විශාල කුණු' (Sodai gomi). නගර සභාවට කතා කරලා, කොන්බිනි එකෙන් ස්ටිකර් එකක් අරන් අලවන්න. සාමාන්‍ය විදිහට දමන්න බෑ."
+      },
+      "explanation_sinhala": "පාපැදි වැනි විශාල ද්‍රව්‍ය (粗大ゴミ) විශේෂ ගාස්තු ගෙවා ස්ටිකර් අලවා බැහැර කළ යුතුය. සාමාන්‍ය ලෙස දැමිය නොහැක (✕)."
+    },
+    {
+      "quiz_id": "qz_e1_l04_014",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_12",
+      "can_do_title_sinhala": "මහල් නිවාසවල ජීවන විනය සහ ශබ්ද පාලනය (Manners)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L04_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "アパートで夜遅い時間に何をしてはいけませんか。",
+        "furigana": "アパートで[よるおそ]い[じかん]に[なに]をしてはいけませんか。",
+        "sinhala": "මහල් නිවාසයක රාත්‍රී ප්‍රමාද වූ වේලාවල නොකළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "洗濯機を使ったり、大声で話したりすること (රෙදි සෝදන යන්ත්‍ර ක්‍රියාත්මක කිරීම සහ මහ හඬින් කතා කිරීම)"
+        },
+        {
+          "id": "B",
+          "text": "部屋の電気をつけること (කාමරයේ විදුලි පහන් දැල්වීම)"
+        },
+        {
+          "id": "C",
+          "text": "お風呂に入ること (නාන කාමරය භාවිත කිරීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "管理人: 夜10時以降は、洗濯機や掃除機を使わないでください。隣の人の迷惑になりますから。静かに過ごしてくださいね。",
+        "sinhala": "භාරකරු: රෑ 10න් පස්සේ රෙදි සෝදන මැෂින්, වැකියුම් ක්ලීනර් පාවිච්චි කරන්න එපා. අල්ලපු ගෙවල්වල අයට කරදර වෙනවා. නිහඬව ඉන්න."
+      },
+      "explanation_sinhala": "අසල්වැසියන්ට බාධාවක් වන බැවින් රාත්‍රී 10න් පසු රෙදි සේදීම, ශබ්ද නැගීම නොකළ යුතුය (A)."
+    },
+    {
+      "quiz_id": "qz_e1_l04_015",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_10",
+      "can_do_title_sinhala": "කසළ වර්ගීකරණ පත්‍රිකාවක් කියවීම (Glass cans vs plastic)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l04_q15_garbageguide.png"
+      },
+      "question_text": {
+        "japanese": "ゴミ分別表を見てください。「空き缶・空き瓶（ビン・カン）」の日は何曜日ですか。",
+        "furigana": "ゴミ[ぶんべつひょう]を[み]てください。「[あ]き[かん]・[あ]き[びん]（ビン・カン）」の[ひ]は[なんようび]ですか。",
+        "sinhala": "වර්ගීකරණ පුවරුව බලන්න. වීදුරු බෝතල් සහ ටින් (Bin/Kan) දමන දිනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "毎週水曜日 (සෑම බදාදා දිනකම)"
+        },
+        {
+          "id": "B",
+          "text": "毎週火曜日 (සෑම අඟහරුවාදා දිනකම)"
+        },
+        {
+          "id": "C",
+          "text": "第1・第3月曜日 (1 වන සහ 3 වන සඳුදා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ '資源ゴミ（ビン・カン・ペットボトル）: 水曜日' ලෙස සටහන්ව ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l04_016",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_12",
+      "can_do_title_sinhala": "නේවාසිකාගාර පාපැදි නැවතුම් නීති දැන්වීමක් කියවීම (駐輪場)",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l04_q16_bicyclesticker.png"
+      },
+      "question_text": {
+        "japanese": "アパートの駐輪場には、許可シールがない自転車を止めてもいいですか。（◯ か ✕）",
+        "furigana": "アパートの[ちゅうりんじょう]には、[きょか]シールがない[じてんしゃ]を[と]めてもいいですか。（◯ か ✕）",
+        "sinhala": "අනුමත ස්ටිකරය නොමැති පාපැදි නේවාසිකාගාර බයිසිකල් නැවතුමේ නැවැත්විය හැකිද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, නැවැත්විය හැක)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, ස්ටිකරය අනිවාර්යයි)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ '登録シールのない自転車は撤去します' (අවසර ස්ටිකරය නැති පාපැදි ඉවත් කරනු ලැබේ) ලෙස දක්වා ඇති බැවින් නැවැත්විය නොහැක (✕)."
+    },
+    {
+      "quiz_id": "qz_e1_l04_017",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_10",
+      "can_do_title_sinhala": "උපදෙස් පිළිපැදීම සඳහා '～てください' යෙදීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "ゴミを分別するように指示する文を作ってください：「ゴミを正しく（　）。」",
+        "furigana": "ゴミを[ぶんべつ]するように[しじ]する[ぶん]を[つく]ってください：「ゴミを[ただ]しく（　）。」",
+        "sinhala": "'කුණු නිවැරදිව වෙන්කරන්න' යැයි උපදෙස් දීමට ගැළපෙන ක්‍රියාපද ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "分けてください (Wakete kudasai)"
+        },
+        {
+          "id": "B",
+          "text": "分けるてください (Wakeru te kudasai)"
+        },
+        {
+          "id": "C",
+          "text": "分けますてください (Wakemasu te kudasai)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාපදයේ Te-form එකට 'ください' එකතු කළ යුතුය (分けます -> 分けて -> 分けてください)."
+    },
+    {
+      "quiz_id": "qz_e1_l04_018",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_12",
+      "can_do_title_sinhala": "නොකළ යුතු නීති දැක්වීමට '～ないでください' යෙදීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「前日の夜にゴミを出してはいけません」を正しく言い換えた文はどれですか。",
+        "furigana": "「[ぜんじつ]の[よる]にゴミを[だ]してはいけません」を[ただ]しく[い]い[か]えた[ぶん]はどれですか。",
+        "sinhala": "'කලින් දවසේ රෑට කුණු දමන්න එපා' යන්න විනීතව පවසන වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "夜にゴミを出さないでください (Yoru ni gomi o dasanaide kudasai)"
+        },
+        {
+          "id": "B",
+          "text": "夜にゴミを出してください (Yoru ni gomi o dashite kudasai)"
+        },
+        {
+          "id": "C",
+          "text": "夜にゴミを出すないでください (Yoru ni gomi o dasu naide kudasai)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාවක් නොකරන ලෙස අවවාද කිරීමට 'Nai-form + でください' (出さないでください) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e1_l04_019",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_10",
+      "can_do_title_sinhala": "එකක් කර අවසන් වූ පසු අනෙක කිරීම (V-て から)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「中を水で（　）から、捨ててください。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[なか]を[みず]で（　）から、[す]ててください。」",
+        "sinhala": "'ඇතුළත වතුරෙන් සේදූ පසුව, විසි කරන්න' කීමට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "洗って (Aratte - Te-form)"
+        },
+        {
+          "id": "B",
+          "text": "洗う (Arau - Dict form)"
+        },
+        {
+          "id": "C",
+          "text": "洗った (Aratta - Ta-form)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යම් ක්‍රියාවක් කළ පසු තව දෙයක් කිරීම (After doing...) දැක්වීමට 'Te-form + から' (洗ってから) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l04_020",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_10",
+      "can_do_title_sinhala": "දහනය නොවන කුණු හඳුන්වන වචනය (燃えないゴミ)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "金属やガラスなど、燃やすことができないゴミは何と言いますか。",
+        "furigana": "[きんぞく]やガラスなど、[も]やすことができないゴミは[なん]と[い]いますか。",
+        "sinhala": "ලෝහ සහ වීදුරු වැනි ගිනිබත් කළ නොහැකි කුණු හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "燃えないゴミ / 不燃ゴミ (Moenai gomi / Funen gomi)"
+        },
+        {
+          "id": "B",
+          "text": "燃えるゴミ (Moeru gomi - දහනය වන කුණු)"
+        },
+        {
+          "id": "C",
+          "text": "生ゴミ (Nama gomi - කෑම අපද්‍රව්‍ය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පිළිස්සිය නොහැකි කුණු '燃えないゴミ' (මොඑනායි ගොමි) හෝ '不燃ごみ' ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l04_021",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_11",
+      "can_do_title_sinhala": "විශාල අපද්‍රව්‍ය හඳුන්වන වචනය (粗大ゴミ / Sodai gomi)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "布団や家具、自転車などの大きなゴミは何ですか。",
+        "furigana": "[ふとん]や[かぐ]、[じてんしゃ]などの[おお]きなゴミは[なん]ですか。",
+        "sinhala": "මෙට්ට, ගෘහ භාණ්ඩ, පාපැදි වැනි විශාල අපද්‍රව්‍ය හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "粗大ゴミ (Sodai gomi)"
+        },
+        {
+          "id": "B",
+          "text": "資源ゴミ (Shigen gomi - ප්‍රතිචක්‍රීකරණය)"
+        },
+        {
+          "id": "C",
+          "text": "有害ゴミ (Yuugai gomi - විෂ සහිත අපද්‍රව්‍ය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "විශාල ගෘහ භාණ්ඩ සහ උපකරණ '粗大ゴミ' (සොදායි ගොමි - Oversized trash) ලෙස වර්ගීකරණය වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l04_022",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_10",
+      "can_do_title_sinhala": "විසි කිරීම හඳුන්වන ක්‍රියාපදය (捨てる / Suteru)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「ゴミ箱にいらない物を入れる（Throw away）」という意味の動詞はどれですか。",
+        "furigana": "「ゴミ[ばこ]にいらない[もの]を[い]れる（Throw away）」という[いみ]の[どうし]はどれですか。",
+        "sinhala": "'අපද්‍රව්‍ය විසි කරනවා' (Throw away) යන අර්ථය දෙන ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "捨てます (Sutemasu)"
+        },
+        {
+          "id": "B",
+          "text": "出します (Dashimasu - බැහැරට දමනවා)"
+        },
+        {
+          "id": "C",
+          "text": "置きます (Okimasu - තබනවා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනවශ්‍ය දේ කුණු කූඩයට විසි කිරීමට '捨てます' (Sutemasu) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l04_023",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_10",
+      "can_do_title_sinhala": "ප්‍රතිචක්‍රීකරණ සංකේත හඳුනාගැනීම (Recycle Marks: プラ vs PET)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l04_q23_recyclemark.png"
+      },
+      "question_text": {
+        "japanese": "商品のマークに「プラ」と書いてあります。これは何のゴミですか。",
+        "furigana": "[しょうひん]のマークに「プラ」と[か]いてあります。これは[なん]のゴミですか。",
+        "sinhala": "භාණ්ඩයක 'プラ' (Pura) ලකුණ මුද්‍රණය කර ඇත. මෙය කුමන වර්ගයේ අපද්‍රව්‍යයක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "プラスチック製容器包装 (ප්ලාස්ටික් දවටන/ඇසුරුම්)"
+        },
+        {
+          "id": "B",
+          "text": "ペットボトル本体 (PET බෝතල් කඳ)"
+        },
+        {
+          "id": "C",
+          "text": "アルミ缶 (ඇලුමිනියම් ටින්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'プラ' සංකේතයෙන් දැක්වෙන්නේ ප්ලාස්ටික් ආවරණ සහ දවටන (Plastic packaging) වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l04_024",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 4,
+      "can_do_id": "cando_e1_10",
+      "can_do_title_sinhala": "කුණු දමන ආකාරය අසල්වැසියෙකුගෙන් විමසන සංවාදයක් පිළිවෙලට සැකසීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 缶は水曜日の朝に出してください\n2: すみません、この空き缶はどこに捨てますか\n3: あちらの黄色いカゴですよ\n4: わかりました。ありがとうございます",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [かん]は[すいようび]の[あさ]に[だ]してください\n2: すみません、この[あ]き[かん]はどこに[す]てますか\n3: あちらの[きいろ]いカゴですよ\n4: わかりました。ありがとうございます",
+        "sinhala": "හිස් ටින් විසි කරන තැන අසන සංවාදයේ නිවැරදි අනුපිළිවෙල කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 1 -> 3 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 4 -> 3"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 1 -> 2 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (හිස් ටින් විසි කරන්නේ කොහේද?) -> 1 (ටින් බදාදා උදේ දමන්න) -> 3 (අර කහ පාට කූඩයට) -> 4 (තේරුණා, බොහොම ස්තුතියි)."
+    }
+  ]
+}
