@@ -1,0 +1,1066 @@
+{
+  "book": "Irodori Starter (A1)",
+  "lessons_covered": [
+    13,
+    14
+  ],
+  "total_questions": 28,
+  "categories": {
+    "listening_comprehension": 9,
+    "reading_comprehension": 5,
+    "grammar_and_vocabulary": 14
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_st_l13_001",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_34",
+      "can_do_title_sinhala": "කාලගුණ අනාවැකිය අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L13_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "明日の天気はどうなりますか。",
+        "furigana": "[あした]の[てんき]はどうなりますか。",
+        "sinhala": "හෙට කාලගුණය කෙබඳු වේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "晴れ (පැහැදිලි / ඉර පායන කාලගුණයක්)"
+        },
+        {
+          "id": "B",
+          "text": "雨 (වැසි සහිත)"
+        },
+        {
+          "id": "C",
+          "text": "曇り (වලාකුළු සහිත)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "テレビ: 明日の天気です。明日は一日中、雨になるでしょう。傘を持ってお出かけください。",
+        "sinhala": "රූපවාහිනිය: හෙට කාලගුණය. හෙට දවස පුරාම වැසි ඇතිවීමට ඉඩ ඇත. කුඩයක් රැගෙන යන්න."
+      },
+      "explanation_sinhala": "අනාවැකියේ '雨になるでしょう' (වැසි ඇති වේවි) යැයි පවසන බැවින් නිවැරදි පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l13_002",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_34",
+      "can_do_title_sinhala": "කාලගුණය වෙනස් වීම අසා තේරුම් ගැනීම (のち)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L13_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "今日の天気は「曇りのち晴れ」です。どういう意味ですか。",
+        "furigana": "[きょう]の[てんき]は「[くも]りのち[は]れ」です。どういう[いみ]ですか。",
+        "sinhala": "අද කාලගුණය 'Kumori nochi hare' වේ. මෙහි තේරුම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "වලාකුළු සහිත වී, පසුව පැහැදිලි වේ (Cloudy, then clear)"
+        },
+        {
+          "id": "B",
+          "text": "වලාකුළු සහිතයි, විටින් විට පැහැදිලි වේ (Cloudy, occasionally clear)"
+        },
+        {
+          "id": "C",
+          "text": "පැහැදිලි වී, පසුව වලාකුළු සහිත වේ (Clear, then cloudy)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "今日の天気は曇りのち晴れでしょう。午後は暖かくなります。",
+        "sinhala": "අද කාලගුණය වලාකුළු සහිත වී පසුව ඉර පායාවි. සවස් කාලය උණුසුම් වේ."
+      },
+      "explanation_sinhala": "ජපන් කාලගුණ විස්තරයේ 'のち' (Nochi) යනු 'ඉන්පසුව' යන්නයි. එබැවින් වලාකුළු සහිත වී පසුව පැහැදිලි වේ."
+    },
+    {
+      "quiz_id": "qz_st_l13_003",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_35",
+      "can_do_title_sinhala": "කැමති සෘතුව අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L13_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは一番好きな季節は何ですか。",
+        "furigana": "マリアさんは[いちばん][す]きな[きせつ]は[なん]ですか。",
+        "sinhala": "මරියා වඩාත්ම කැමති සෘතුව කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "春 (වසන්තය / Spring)"
+        },
+        {
+          "id": "B",
+          "text": "夏 (ගිම්හානය / Summer)"
+        },
+        {
+          "id": "C",
+          "text": "秋 (සරත් සෘතුව / Autumn)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさんはどの季節が好きですか。\nB: 私は春が一番好きです。桜がきれいだからです。",
+        "sinhala": "A: මරියා මොන සෘතුවටද කැමති?\nB: මම වසන්තයට වඩාත්ම කැමතියි. සකුරා මල් ලස්සන නිසා."
+      },
+      "explanation_sinhala": "ඇය '春が一番好きです' (වසන්තයට වඩාත්ම කැමතියි) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l13_004",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_35",
+      "can_do_title_sinhala": "සරත් සෘතුවේ ලක්ෂණ අසා තේරුම් ගැනීම (Kouyou)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L13_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "秋は紅葉がきれいです。（◯ か ✕）",
+        "furigana": "[あき]は[こうよう]がきれいです。（◯ か ✕）",
+        "sinhala": "සරත් සෘතුවේ ගස්වල කොළ හැරීම (Kouyou) ලස්සනයිද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, ලස්සනයි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: スミスさんは秋が好きですか。\nB: はい。秋は涼しいし、紅葉がとてもきれいですね。",
+        "sinhala": "A: ස්මිත් මහතා සරත් සෘතුවට කැමතිද?\nB: ඔව්. සරත් සෘතුව සිසිල්, ඒ වගේම ගස්වල කොළ හැරීම (Autumn leaves) හරිම ලස්සනයි නේද."
+      },
+      "explanation_sinhala": "ඔහු '紅葉がとてもきれいですね' (කොළ හැරීම ලස්සනයි) යැයි පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_st_l13_005",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_34",
+      "can_do_title_sinhala": "උෂ්ණත්වය අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L13_05.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "明日の最高気温は何度ですか。",
+        "furigana": "[あした]の[さいこうきおん]は[なんど]ですか。",
+        "sinhala": "හෙට දින උපරිම උෂ්ණත්වය අංශක කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "30度 (අංශක 30)"
+        },
+        {
+          "id": "B",
+          "text": "35度 (අංශක 35)"
+        },
+        {
+          "id": "C",
+          "text": "25度 (අංශක 25)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "明日はとても暑くなります。最高気温は35度でしょう。熱中症に気をつけてください。",
+        "sinhala": "හෙට ගොඩක් රස්නේ වේවි. උපරිම උෂ්ණත්වය අංශක 35ක් වේවි. හීට් ස්ට්‍රෝක් එක ගැන පරිස්සම් වන්න."
+      },
+      "explanation_sinhala": "අනාවැකියේ '最高気温は35度' (උපරිම උෂ්ණත්වය අංශක 35) යැයි පවසන බැවින් පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l13_006",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_34",
+      "can_do_title_sinhala": "කාලගුණ සිතියමක් බලා තොරතුරු සෙවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l13_q06_weather.png"
+      },
+      "question_text": {
+        "japanese": "天気予報の図を見てください。東京の天気マークは何ですか。",
+        "furigana": "[てんきよほう]の[ず]を[み]てください。[とうきょう]の[てんき]マークは[なん]ですか。",
+        "sinhala": "කාලගුණ සිතියම බලන්න. ටෝකියෝ ප්‍රදේශයට දක්වා ඇති කාලගුණ ලකුණ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "傘のマーク (කුඩයක් - වැස්ස)"
+        },
+        {
+          "id": "B",
+          "text": "太陽のマーク (ඉරක් - පැහැදිලි)"
+        },
+        {
+          "id": "C",
+          "text": "雪だるまのマーク (හිම මිනිසෙක් - හිම)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": null,
+      "explanation_sinhala": "සිතියමේ ටෝකියෝ (東京) අසලින් ☀️ (ඉර / 晴れ) ලකුණ දක්වා ඇති බැවින් පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l13_007",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_34",
+      "can_do_title_sinhala": "උෂ්ණත්ව ප්‍රස්තාරයක් කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l13_q07_temp.png"
+      },
+      "question_text": {
+        "japanese": "気温のグラフを見てください。8月の平均気温は約何度ですか。",
+        "furigana": "[きおん]のグラフを[み]てください。8[がつ]の[へいきんきおん]は[やく][なんど]ですか。",
+        "sinhala": "උෂ්ණත්ව ප්‍රස්තාරය බලන්න. අගෝස්තු මාසයේ (8月) සාමාන්‍ය උෂ්ණත්වය ආසන්න වශයෙන් කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "27度 (අංශක 27)"
+        },
+        {
+          "id": "B",
+          "text": "15度 (අංශක 15)"
+        },
+        {
+          "id": "C",
+          "text": "5度 (අංශක 5)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ප්‍රස්තාරයේ අගෝස්තු (8月) මාසයේ රේඛාව 25 සහ 30 අතර ඉහළින්ම පිහිටා ඇති බැවින් එය 27度 පමණ වේ."
+    },
+    {
+      "quiz_id": "qz_st_l13_008",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_36",
+      "can_do_title_sinhala": "ඉ-විශේෂණවල සෘණාත්මක ස්වරූපය (～くないです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「暑い」の否定の形（Not hot）はどれですか。",
+        "furigana": "「[あつ]い」の[ひてい]の[かたち]（Not hot）はどれですか。",
+        "sinhala": "'暑い' (රස්නෙයි) යන්නෙහි නිවැරදි සෘණාත්මක ස්වරූපය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "暑くないです (Atsukunai desu)"
+        },
+        {
+          "id": "B",
+          "text": "暑いじゃないです (Atsui janai desu)"
+        },
+        {
+          "id": "C",
+          "text": "暑いません (Atsuimasen)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "い-adjective එකක් සෘණාත්මක කිරීමේදී අග ඇති 'い' අකුර ඉවත් කර 'くないです' එකතු කරයි."
+    },
+    {
+      "quiz_id": "qz_st_l13_009",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_36",
+      "can_do_title_sinhala": "න-විශේෂණවල සෘණාත්මක ස්වරූපය (～じゃないです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「静か」の否定の形（Not quiet）はどれですか。",
+        "furigana": "「[しず]か」の[ひてい]の[かたち]（Not quiet）はどれですか。",
+        "sinhala": "'静か' (නිස්කලංකයි) යන්නෙහි නිවැරදි සෘණාත්මක ස්වරූපය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "静かじゃないです (Shizuka janai desu)"
+        },
+        {
+          "id": "B",
+          "text": "静かありません (Shizuka arimasen)"
+        },
+        {
+          "id": "C",
+          "text": "静かくないです (Shizukakunai desu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "な-adjective එකක් සෘණාත්මක කරන්නේ නාමපදයකට මෙන්ම 'じゃないです' (හෝ ではありません) එකතු කිරීමෙනි."
+    },
+    {
+      "quiz_id": "qz_st_l13_010",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_34",
+      "can_do_title_sinhala": "කාලගුණික තත්ත්වයන් (හිම / 雪)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「雪」の読み方はどれですか。",
+        "furigana": "「[ゆき]」の[よ]み[かた]はどれですか。",
+        "sinhala": "'雪' (හිම) කන්ජි අක්ෂරයේ නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ゆき (Yuki)"
+        },
+        {
+          "id": "B",
+          "text": "あめ (Ame - වැස්ස)"
+        },
+        {
+          "id": "C",
+          "text": "はれ (Hare - පැහැදිලි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'雪' යනු හිම (Yuki) වේ. වැස්ස '雨' (Ame) වන අතර වලාකුළු සහිත බව '曇り' (Kumori) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l13_011",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_35",
+      "can_do_title_sinhala": "ගිම්හාන සෘතුව හඳුන්වන වචනය (夏)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "暑い季節「Summer」の日本語はどれですか。",
+        "furigana": "[あつ]い[きせつ]「Summer」の[にほんご]はどれですか。",
+        "sinhala": "උණුසුම් සෘතුව වන 'ගිම්හානය' (Summer) ජපන් බසින් හඳුන්වන්නේ කෙසේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "夏 (Natsu)"
+        },
+        {
+          "id": "B",
+          "text": "冬 (Fuyu - ශීත සෘතුව)"
+        },
+        {
+          "id": "C",
+          "text": "春 (Haru - වසන්තය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ගිම්හානය (Summer) '夏' (Natsu) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_st_l13_012",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_36",
+      "can_do_title_sinhala": "විශේෂණ පද ව්‍යතිරේක (いい -> よくない)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「いい（Good）」の否定の形はどれですか。",
+        "furigana": "「いい（Good）」の[ひてい]の[かたち]はどれですか。",
+        "sinhala": "'いい' (හොඳයි) යන්නෙහි නිවැරදි සෘණාත්මක (Not good) ස්වරූපය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "よくないです (Yokunai desu)"
+        },
+        {
+          "id": "B",
+          "text": "いくないです (Ikunai desu)"
+        },
+        {
+          "id": "C",
+          "text": "いいじゃないです (Ii janai desu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'いい' යනු විශේෂිත පදයකි. එය සෘණාත්මක කිරීමේදී මුල් අක්ෂරය 'よ' (yo) බවට පත්වී 'よくないです' වේ."
+    },
+    {
+      "quiz_id": "qz_st_l14_013",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_37",
+      "can_do_title_sinhala": "සංචාරයක අත්දැකීම අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L14_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんの沖縄旅行はどうでしたか。",
+        "furigana": "スミスさんの[おきなわ][りょこう]はどうでしたか。",
+        "sinhala": "ස්මිත් මහතාගේ ඔකිනාවා සංචාරය කොහොමද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "天気がよくて、楽しかったです (කාලගුණය හොඳයි, විනෝදජනක වුණා)"
+        },
+        {
+          "id": "B",
+          "text": "雨で、寒かったです (වැස්සයි, සීතලයි)"
+        },
+        {
+          "id": "C",
+          "text": "つまらなかったです (එපා වෙනවා/කම්මැලියි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: スミスさん、沖縄はどうでしたか。\nB: 最高でした！天気がよくて、海がきれいで、とても楽しかったです。",
+        "sinhala": "A: ස්මිත්, ඔකිනාවා කොහොමද?\nB: නියමයි! කාලගුණය හොඳයි, මුහුද ලස්සනයි, ගොඩක් විනෝදජනක වුණා."
+      },
+      "explanation_sinhala": "ඔහු '天気がよくて...楽しかったです' (කාලගුණය හොඳයි...විනෝදජනක වුණා) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l14_014",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_37",
+      "can_do_title_sinhala": "අතීත අත්දැකීමක් ගැන න-විශේෂණයකින් ඇසීම (～でした)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L14_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "お祭りはどうでしたか。",
+        "furigana": "お[まつ]りはどうでしたか。",
+        "sinhala": "උත්සවය (Festival) කෙබඳු එකක් වීද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "とてもにぎやかでした (ඉතා කලබලකාරී/ජීවන්ත වුණා)"
+        },
+        {
+          "id": "B",
+          "text": "静かでした (නිස්කලංක වුණා)"
+        },
+        {
+          "id": "C",
+          "text": "あまり人がいませんでした (එතරම් සෙනඟ හිටියේ නෑ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 日曜日のお祭りはどうでしたか。\nB: とてもにぎやかでした。人が多かったです。",
+        "sinhala": "A: ඉරිදා උත්සවය කොහොමද?\nB: හරිම කලබලකාරී වුණා (ජීවන්තයි). සෙනඟ ගොඩක් හිටියා."
+      },
+      "explanation_sinhala": "කථකයා 'とてもにぎやかでした' (හරිම සෙනඟ / ජීවන්තයි) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l14_015",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_38",
+      "can_do_title_sinhala": "හෝටලයක සෘණාත්මක අත්දැකීමක් අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L14_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "泊まったホテルはきれいでしたか。（◯ か ✕）",
+        "furigana": "[と]まったホテルはきれいでしたか。（◯ か ✕）",
+        "sinhala": "නැවතී සිටි හෝටලය පිරිසිදු/ලස්සන එකක් වුණාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: ホテルはどうでしたか。\nB: うーん、古くて、あまりきれいじゃなかったです。",
+        "sinhala": "A: හෝටලය කොහොමද?\nB: ම්ම්, පරණයි, ඒ වගේම එතරම් පිරිසිදු වුණේ නෑ."
+      },
+      "explanation_sinhala": "ඔහු 'あまりきれいじゃなかったです' (එතරම් පිරිසිදු වුණේ නෑ) යැයි පවසන බැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_st_l14_016",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_38",
+      "can_do_title_sinhala": "සිදුවීමක හැඟීම් විස්තර කිරීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L14_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "昨日のコンサートはどうでしたか。",
+        "furigana": "[きのう]のコンサートはどうでしたか。",
+        "sinhala": "ඊයේ පැවති සංගීත ප්‍රසංගය කොහොමද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "楽しかったですが、疲れました (විනෝදජනකයි, නමුත් මහන්සි වුණා)"
+        },
+        {
+          "id": "B",
+          "text": "つまらなかったです (එපා වෙනවා)"
+        },
+        {
+          "id": "C",
+          "text": "静かでした (නිස්කලංක වුණා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 昨日のコンサート、どうでしたか。\nB: すっごく楽しかったです！でも、立ちっぱなしで少し疲れました。",
+        "sinhala": "A: ඊයේ කොන්සර්ට් එක කොහොමද?\nB: ගොඩක් විනෝදයි! හැබැයි හිටගෙනම හිටපු නිසා ටිකක් මහන්සි වුණා."
+      },
+      "explanation_sinhala": "ඇය විනෝද වූ බවත් නමුත් මහන්සි වූ බවත් පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l14_017",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_39",
+      "can_do_title_sinhala": "සංචාරක බ්ලොග් සටහනක් කියවා තේරුම් ගැනීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l14_q17_blog.png"
+      },
+      "question_text": {
+        "japanese": "ブログを読んでください。北海道の食べ物はどうでしたか。",
+        "furigana": "ブログを[よ]んでください。[ほっかいどう]の[た]べ[もの]はどうでしたか。",
+        "sinhala": "බ්ලොග් සටහන කියවන්න. හොක්කයිඩෝවල කෑම කොහොමද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "とてもおいしかった (ඉතා රසවත් වුණා)"
+        },
+        {
+          "id": "B",
+          "text": "おいしくなかった (රසවත් වුණේ නෑ)"
+        },
+        {
+          "id": "C",
+          "text": "高かった (මිල අධික වුණා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සටහනේ '食べ物は全部おいしかったです' (කෑම ඔක්කොම රසවත් වුණා) යැයි සඳහන් වේ."
+    },
+    {
+      "quiz_id": "qz_st_l14_018",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_39",
+      "can_do_title_sinhala": "හෝටල් රිවීව් එකක් කියවා තේරුම් ගැනීම (Hotel Review)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l14_q18_review.png"
+      },
+      "question_text": {
+        "japanese": "ホテルのレビューを読んでください。このホテルはどうでしたか。",
+        "furigana": "ホテルのレビューを[よ]んでください。このホテルはどうでしたか。",
+        "sinhala": "හෝටල් රිවීව් එක කියවන්න. මේ හෝටලය කොහොම එකක් වුණාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "部屋はきれいでしたが、高かったです (කාමරය පිරිසිදුයි, නමුත් ගණන්)"
+        },
+        {
+          "id": "B",
+          "text": "安くて、駅からも近くて便利でした (ලාභයි, ස්ටේෂන් එකටත් ළඟ නිසා පහසු වුණා)"
+        },
+        {
+          "id": "C",
+          "text": "うるさかったです (ඝෝෂාකාරී වුණා)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": null,
+      "explanation_sinhala": "රිවීව් එකේ '安くて、駅からも近くて便利でした' (ලාභයි, ස්ටේෂන් එකටත් ළඟ නිසා පහසු වුණා) ලෙස සඳහන් වේ."
+    },
+    {
+      "quiz_id": "qz_st_l14_019",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_37",
+      "can_do_title_sinhala": "ඉ-විශේෂණවල අතීත කාලය (～かったです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「楽しい」の過去の形（Was fun）はどれですか。",
+        "furigana": "「[たの]しい」の[かこ]の[かたち]（Was fun）はどれですか。",
+        "sinhala": "'楽しい' (විනෝදජනකයි) යන්නෙහි නිවැරදි අතීත කාල ස්වරූපය (විනෝදජනක වුණා) කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "楽しかったです (Tanoshikatta desu)"
+        },
+        {
+          "id": "B",
+          "text": "楽しいでした (Tanoshii deshita)"
+        },
+        {
+          "id": "C",
+          "text": "楽しかっでした (Tanoshikaddeshita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "い-adjectives අතීත කාලයට හැරවීමේදී අග ඇති 'い' ඉවත් කර 'かったです' එකතු කරයි."
+    },
+    {
+      "quiz_id": "qz_st_l14_020",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_37",
+      "can_do_title_sinhala": "න-විශේෂණවල අතීත කාලය (～でした)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「暇（ひま）」の過去の形（Was free）はどれですか。",
+        "furigana": "「[ひま]」の[かこ]の[かたち]（Was free）はどれですか。",
+        "sinhala": "'暇' (නිවාඩු/විවේකයි) යන්නෙහි නිවැරදි අතීත කාල ස්වරූපය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "暇でした (Hima deshita)"
+        },
+        {
+          "id": "B",
+          "text": "暇かったです (Himakatta desu)"
+        },
+        {
+          "id": "C",
+          "text": "暇いでした (Himaideshita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "な-adjectives (හා නාමපද) අතීත කාලයට හරවන්නේ නාමපදයකට මෙන්ම 'でした' එකතු කිරීමෙනි."
+    },
+    {
+      "quiz_id": "qz_st_l14_021",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_38",
+      "can_do_title_sinhala": "ඉ-විශේෂණවල අතීත සෘණාත්මක කාලය (～くなかったです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「おいしい」の過去否定の形（Was not delicious）はどれですか。",
+        "furigana": "「おいしい」の[かこひてい]の[かたち]（Was not delicious）はどれですか。",
+        "sinhala": "'おいしい' (රසවත්) යන්නෙහි අතීත සෘණාත්මක (රසවත් වුණේ නෑ) ස්වරූපය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "おいしくなかったです (Oishikunakatta desu)"
+        },
+        {
+          "id": "B",
+          "text": "おいしいじゃなかったです (Oishii janakatta desu)"
+        },
+        {
+          "id": "C",
+          "text": "おいしいませんでした (Oishiimasen deshita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "い-adjectives අතීත සෘණාත්මක කිරීමට 'い' ඉවත් කර 'くなかったです' එකතු කරයි."
+    },
+    {
+      "quiz_id": "qz_st_l14_022",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_38",
+      "can_do_title_sinhala": "න-විශේෂණවල අතීත සෘණාත්මක කාලය (～じゃなかったです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「きれい」の過去否定の形（Was not clean/beautiful）はどれですか。",
+        "furigana": "「きれい」の[かこひてい]の[かたち]（Was not clean/beautiful）はどれですか。",
+        "sinhala": "'きれい' (පිරිසිදු/ලස්සන) යන්නෙහි අතීත සෘණාත්මක (පිරිසිදු වුණේ නෑ) ස්වරූපය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "きれいじゃなかったです (Kirei janakatta desu)"
+        },
+        {
+          "id": "B",
+          "text": "きれいくなかったです (Kireikunakatta desu)"
+        },
+        {
+          "id": "C",
+          "text": "きれいでした (Kirei deshita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'きれい' යනු な-adjective එකක් බැවින්, එහි අතීත සෘණාත්මකය 'じゃなかったです' (Janakatta desu) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l14_023",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_37",
+      "can_do_title_sinhala": "විශේෂණ පද ව්‍යතිරේක (いい -> よかったです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「いい（Good）」の過去の形はどれですか。",
+        "furigana": "「いい（Good）」の[かこ]の[かたち]はどれですか。",
+        "sinhala": "'いい' (හොඳයි) යන්නෙහි නිවැරදි අතීත කාල (හොඳින් තිබුණා) ස්වරූපය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "よかったです (Yokatta desu)"
+        },
+        {
+          "id": "B",
+          "text": "いかったです (Ikatta desu)"
+        },
+        {
+          "id": "C",
+          "text": "いいでした (Ii deshita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'いい' යන්න අතීතයට හැරවීමේදී එය 'よ' (yo) බවට පත්වී 'よかったです' වේ."
+    },
+    {
+      "quiz_id": "qz_st_l14_024",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_37",
+      "can_do_title_sinhala": "විනෝදජනකයි යන අර්ථය දෙන විශේෂණ පදය (楽しい)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「楽しい」の読み方はどれですか。",
+        "furigana": "「[たの]しい」の[よ]み[かた]はどれですか。",
+        "sinhala": "'楽しい' (විනෝදජනකයි) කන්ජි පදයේ නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "たのしい (Tanoshii)"
+        },
+        {
+          "id": "B",
+          "text": "うれしい (Ureshii - සතුටුයි)"
+        },
+        {
+          "id": "C",
+          "text": "かなしい (Kanashii - දුකයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'楽しい' යනු 'たのしい' (Tanoshii - විනෝදජනකයි/Enjoyable) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l14_025",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_38",
+      "can_do_title_sinhala": "එපා වෙනවා/කම්මැලියි යන අර්ථය (つまらない)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「面白い（Interesting）」の反対の意味の言葉はどれですか。",
+        "furigana": "「[おもしろ]い（Interesting）」の[はんたい]の[いみ]の[ことば]はどれですか。",
+        "sinhala": "'面白い' (රසවත්) යන්නෙහි ප්‍රතිවිරුද්ධ පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "つまらない (Tsumaranai - කම්මැලියි/එපා වෙනවා)"
+        },
+        {
+          "id": "B",
+          "text": "やさしい (Yasashii - ලේසියි/කරුණාවන්තයි)"
+        },
+        {
+          "id": "C",
+          "text": "むずかしい (Muzukashii - අමාරුයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "රසවත් යන්නෙහි ප්‍රතිවිරුද්ධ පදය 'つまらない' (Tsumaranai - Boring) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l14_026",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_39",
+      "can_do_title_sinhala": "රිවීව් එකක තරු ලකුණු අගය කියවීම",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l14_q18_review.png"
+      },
+      "question_text": {
+        "japanese": "このホテルのレビューの星（Star rating）は低いですか。（◯ か ✕）",
+        "furigana": "このホテルのレビューの[ほし]（Star rating）は[ひく]いですか。（◯ か ✕）",
+        "sinhala": "මෙම හෝටල් රිවීව් එකේ තරු අගය (Rating) අඩු අගයක්ද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, අඩුයි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, ඉහළයි)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": null,
+      "explanation_sinhala": "පින්තූරයේ තරු 4ක් (★★★★☆) දක්වා ඇති බැවින් අගය ඉහළය. ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_st_l14_027",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "can_do_id": "cando_st_38",
+      "can_do_title_sinhala": "අතීත සෘණාත්මක වාක්‍යයක් සමඟ 'あまり' යෙදීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「昨日のテストは（　）難しくなかったです。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[きのう]のテストは（　）[むずか]しくなかったです。」",
+        "sinhala": "'ඊයේ විභාගය එතරම් අමාරු වුණේ නෑ' යැයි කීමට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "あまり (Amari - එතරම්)"
+        },
+        {
+          "id": "B",
+          "text": "とても (Totemo - ගොඩක්)"
+        },
+        {
+          "id": "C",
+          "text": "たくさん (Takusan - ගොඩක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සෘණාත්මක අවසානයක් (～なかったです) ඇති බැවින් ඒ සමඟ යෙදෙන්නේ 'あまり' (එතරම්) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l13_028",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "can_do_id": "cando_st_34",
+      "can_do_title_sinhala": "කාලගුණය මත පදනම් වූ සංවාදයක් අනුපිළිවෙලට සැකසීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 明日、海へ行きませんか\n2: ざんねんですね。また今度\n3: 天気予報によると、明日は雨だそうです\n4: えー、雨ですか",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [あした]、[うみ]へ[い]きませんか\n2: ざんねんですね。また[こんど]\n3: [てんきよほう]によると、[あした]は[あめ]だそうです\n4: えー、[あめ]ですか",
+        "sinhala": "කාලගුණය ගැන කතා කරන සංවාදයක නිවැරදි අනුපිළිවෙල කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 -> 3 -> 4 -> 2"
+        },
+        {
+          "id": "B",
+          "text": "3 -> 1 -> 4 -> 2"
+        },
+        {
+          "id": "C",
+          "text": "1 -> 4 -> 3 -> 2"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 1 (හෙට මුහුදට යමුද?) -> 3 (කාලගුණ වාර්තාවට අනුව හෙට වැස්සලු) -> 4 (ඒ, වැස්සද?) -> 2 (අපරාදේ නේද, තව දවසක යමු)."
+    }
+  ]
+}

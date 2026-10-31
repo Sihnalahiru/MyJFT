@@ -1,0 +1,1288 @@
+{
+  "book": "Irodori Starter (A1)",
+  "lessons_covered": [
+    9,
+    10
+  ],
+  "total_questions": 34,
+  "categories": {
+    "listening_comprehension": 9,
+    "reading_comprehension": 9,
+    "grammar_and_vocabulary": 16
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_st_l09_001",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_22",
+      "can_do_title_sinhala": "වැඩට හෝ පාසලට යන ප්‍රවාහන මාධ්‍යය අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L09_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは毎日何で会社へ行きますか。",
+        "furigana": "カルロスさんは[まいにち][なん]で[かいしゃ]へ[い]きますか。",
+        "sinhala": "කාලෝස් මහතා දිනපතා වැඩට යන්නේ කුමන වාහනයෙන්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "自転車 (පාපැදියෙන්)"
+        },
+        {
+          "id": "B",
+          "text": "電車 (දුම්රියෙන්)"
+        },
+        {
+          "id": "C",
+          "text": "バス (බස් රථයෙන්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、毎日どうやって会社へ行きますか。\nB: 自転車で行きます。近いですから。",
+        "sinhala": "A: කාලෝස්, හැමදාම කොහොමද වැඩට යන්නේ?\nB: බයිසිකලයෙන් (පාපැදියෙන්) යනවා. ළඟ නිසා."
+      },
+      "explanation_sinhala": "කාලෝස් '自転車で行きます' (පාපැදියෙන් යනවා) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l09_002",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_22",
+      "can_do_title_sinhala": "පයින් ගමන් කිරීම (歩いて)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L09_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんはどうやって寮へ帰りますか。",
+        "furigana": "マリアさんはどうやって[りょう]へ[かえ]りますか。",
+        "sinhala": "මරියා නේවාසිකාගාරයට ආපසු යන්නේ කෙසේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "歩いて帰ります (පයින් ගමන් කරයි)"
+        },
+        {
+          "id": "B",
+          "text": "タクシーで帰ります (ටැක්සියෙන් යයි)"
+        },
+        {
+          "id": "C",
+          "text": "地下鉄で帰ります (උමං දුම්රියෙන් යයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさんは電車で帰りますか。\nB: いいえ、歩いて帰ります。10分くらいです。",
+        "sinhala": "A: මරියා දුම්රියෙන්ද ගෙදර යන්නේ?\nB: නැහැ, පයින් යන්නේ. විනාඩි 10ක් විතරයි."
+      },
+      "explanation_sinhala": "මරියා '歩いて帰ります' (පයින් ගමන් කරනවා) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l09_003",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_22",
+      "can_do_title_sinhala": "ප්‍රවාහන මාධ්‍ය කිහිපයක් භාවිත කර යාම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L09_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは何と何で通勤していますか。",
+        "furigana": "スミスさんは[なん]と[なん]で[つうきん]していますか。",
+        "sinhala": "ස්මිත් මහතා වැඩට යාමට භාවිත කරන ප්‍රවාහන මාධ්‍ය මොනවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "電車とバス (දුම්රිය සහ බස් රථය)"
+        },
+        {
+          "id": "B",
+          "text": "車と徒歩 (කාර් එක සහ පයින්)"
+        },
+        {
+          "id": "C",
+          "text": "新幹線とタクシー (ෂින්කන්සෙන් සහ ටැක්සි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: スミスさんは車ですか。\nB: いいえ、駅までバスで行って、そこから電車に乗ります。",
+        "sinhala": "A: ස්මිත් මහතා යන්නේ කාර් එකෙන්ද?\nB: නැහැ, ස්ටේෂන් එකට බස් එකෙන් ගිහින්, එතැනින් කෝච්චියට නගිනවා."
+      },
+      "explanation_sinhala": "ඔහු බස් රථය සහ දුම්රිය යන දෙකම භාවිත කරන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l09_004",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_23",
+      "can_do_title_sinhala": "ජපානයට පැමිණි ආකාරය සහ කා සමඟද යන්න",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L09_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "キムさんは誰と日本へ来ましたか。",
+        "furigana": "キムさんは[だれ]と[にほん]へ[き]ましたか。",
+        "sinhala": "කිම් මහත්මිය ජපානයට පැමිණියේ කා සමඟද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "家族と (පවුලේ අය සමඟ)"
+        },
+        {
+          "id": "B",
+          "text": "一人で (තනිවම)"
+        },
+        {
+          "id": "C",
+          "text": "会社の同僚と (සමාගමේ සගයන් සමඟ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: キムさんは一人で日本へ来ましたか。\nB: いいえ、夫と子供と一緒に、家族で来ました。",
+        "sinhala": "A: කිම් මහත්මිය තනියමද ජපානයට ආවේ?\nB: නැහැ, සැමියා සහ දරුවා එක්ක, පවුලේ අයත් එක්ක ආවේ."
+      },
+      "explanation_sinhala": "ඇය සැමියා සහ දරුවා සමඟ (家族と - පවුල සමඟ) පැමිණි බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l09_005",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_23",
+      "can_do_title_sinhala": "නිවාඩු දිනයේ ගිය ස්ථානය සහ ප්‍රවාහනය",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L09_05.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "二人は新幹線で京都へ行きましたか。（◯ か ✕）",
+        "furigana": "[ふたり]は[しんかんせん]で[きょうと]へ[い]きましたか。（◯ か ✕）",
+        "sinhala": "දෙදෙනා කියෝතෝ නගරයට ගියේ ෂින්කන්සෙන් අධිවේගී දුම්රියෙන්ද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, ෂින්කන්සෙන් දුම්රියෙන් ගියහ)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, බස් රථයෙන් ගියහ)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: 先週の旅行、どこへ行きましたか。\nB: 京都へ行きました。東京から新幹線で行きました。とても速かったです。",
+        "sinhala": "A: ගිය සතියේ ට්‍රිප් එක කොහේද ගියේ?\nB: කියෝතෝ ගියා. ටෝකියෝ ඉඳන් ෂින්කන්සෙන් එකෙන් ගියේ. හරිම වේගවත්."
+      },
+      "explanation_sinhala": "ඔවුන් '新幹線で行きました' (ෂින්කන්සෙන් දුම්රියෙන් ගියා) යැයි පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_st_l09_006",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_24",
+      "can_do_title_sinhala": "දුම්රිය ප්‍රවේශපත්‍රයක් කියවා ගමනාන්තය සෙවීම (Train Ticket)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l09_q06_trainticket.png"
+      },
+      "question_text": {
+        "japanese": "切符を見てください。到着駅（行く駅）はどこですか。",
+        "furigana": "[きっぷ]を[み]てください。[とうちゃくえき]（[い]く[えき]）はどこですか。",
+        "sinhala": "දුම්රිය ටිකට්පත බලන්න. ගමනාන්ත දුම්රියපළ (යන ස්ථානය) කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "新宿 (Shinjuku)"
+        },
+        {
+          "id": "B",
+          "text": "渋谷 (Shibuya)"
+        },
+        {
+          "id": "C",
+          "text": "東京 (Tokyo)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ටිකට්පතේ '渋谷 → 新宿' (Shibuya සිට Shinjuku දක්වා) ලෙස ඇති බැවින් බසින ස්ථානය 新宿 (Shinjuku) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l09_007",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_24",
+      "can_do_title_sinhala": "බස් නැවතුම්පළක කාලසටහන කියවීම (Bus Timetable)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l09_q07_bustable.png"
+      },
+      "question_text": {
+        "japanese": "時刻表を見てください。平日（月〜金）の朝8時台のバスは何本ありますか。",
+        "furigana": "[じこくひょう]を[み]てください。[へいじつ]（[げつ]〜[きん]）の[あさ]8[じだい]のバスは[なんぽん]ありますか。",
+        "sinhala": "කාලසටහන බලන්න. සතියේ දිනවල උදෑසන 8:00 පැය තුළ බස් රථ කීයක් ධාවනය වේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3本 (05, 25, 45)"
+        },
+        {
+          "id": "B",
+          "text": "1本"
+        },
+        {
+          "id": "C",
+          "text": "5本"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාලසටහනේ 8 පේළියේ විනාඩි '05, 25, 45' ලෙස බස් රථ 3ක් සටහන්ව ඇත."
+    },
+    {
+      "quiz_id": "qz_st_l09_008",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_24",
+      "can_do_title_sinhala": "දුරකථන ගමන් මාර්ග ඇප් එකක් කියවීම (Transit App Route)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l09_q08_routeapp.png"
+      },
+      "question_text": {
+        "japanese": "乗換案内アプリを見てください。運賃（料金）はいくらですか。",
+        "furigana": "[のりかえあんない]アプリを[み]てください。[うんちん]（[りょうきん]）はいくらですか。",
+        "sinhala": "ගමන් මාර්ග ඇප් එක බලන්න. දුම්රිය ගාස්තුව (Fare) කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "200円"
+        },
+        {
+          "id": "B",
+          "text": "360円"
+        },
+        {
+          "id": "C",
+          "text": "500円"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": null,
+      "explanation_sinhala": "තිරයේ 'IC運賃: 360円' ලෙස ගමන් ගාස්තුව පෙන්වා ඇත."
+    },
+    {
+      "quiz_id": "qz_st_l09_009",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_22",
+      "can_do_title_sinhala": "ප්‍රවාහන මාධ්‍යයක් සමඟ 'で' නිපාතය භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「バス（　）駅へ行きます。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「バス（　）[えき]へ[い]きます。」",
+        "sinhala": "'බස් රථයෙන් දුම්රියපළට යනවා' යැයි කීමට හිස්තැනට ගැළපෙන නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "で (de)"
+        },
+        {
+          "id": "B",
+          "text": "に (ni)"
+        },
+        {
+          "id": "C",
+          "text": "を (o)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ගමන් කිරීමට යොදාගන්නා වාහනය හෝ ප්‍රවාහන මාධ්‍යය දැක්වීමට 'で' (de) නිපාතය යොදයි."
+    },
+    {
+      "quiz_id": "qz_st_l09_010",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_22",
+      "can_do_title_sinhala": "පයින් යන විට 'で' නොයෙදීම (歩いて)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な文を選んでください。",
+        "furigana": "[しぜん]な[ぶん]を[えら]んでください。",
+        "sinhala": "ස්වභාවික නිවැරදි වාක්‍යය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "歩いて駅へ行きます。 (පයින් දුම්රියපළට යමි)"
+        },
+        {
+          "id": "B",
+          "text": "歩いてで行きます。"
+        },
+        {
+          "id": "C",
+          "text": "歩きで行きます。"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පයින් යන බව පැවසීමේදී 'で' නිපාතය නොයොදයි. '歩いて' (Aruite - පයින්) ලෙස කෙළින්ම යොදයි."
+    },
+    {
+      "quiz_id": "qz_st_l09_011",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_23",
+      "can_do_title_sinhala": "කෙනෙකු සමඟ යාම දැක්වීමට 'と' භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「友達（　）日本へ来ました。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「[ともだち]（　）[にほん]へ[き]ました。」",
+        "sinhala": "'මිතුරා සමඟ ජපානයට ආවා' යැයි කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "と (to)"
+        },
+        {
+          "id": "B",
+          "text": "で (de)"
+        },
+        {
+          "id": "C",
+          "text": "へ (e)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාවක් කරන්නේ කා සමඟද යන්න දැක්වීමට 'と' (to - සමඟ) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_st_l09_012",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_22",
+      "can_do_title_sinhala": "ගුවන් යානය හඳුන්වන වචනය (飛行機)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「飛行機」の読み方はどれですか。",
+        "furigana": "「[ひこうき]」の[よ]み[かた]はどれですか。",
+        "sinhala": "'飛行機' (ගුවන් යානය) කන්ජි වචනයේ නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ひこうき (Hikouki)"
+        },
+        {
+          "id": "B",
+          "text": "しんかんせん (Shinkansen)"
+        },
+        {
+          "id": "C",
+          "text": "じてんしゃ (Jitensha)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'飛行機' යනු 'ひこうき' (Hikouki - ගුවන් යානය) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l10_013",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_25",
+      "can_do_title_sinhala": "ගතවන කාලය අසා තේරුම් ගැනීම (Dono kurai / Jikan)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L10_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "家から会社までどのくらいかかりますか。",
+        "furigana": "[いえ]から[かいしゃ]までどのくらいかかりますか。",
+        "sinhala": "නිවසේ සිට කාර්යාලයට යාමට කොපමණ වේලාවක් ගතවේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "電車で30分くらい (දුම්රියෙන් විනාඩි 30ක් පමණ)"
+        },
+        {
+          "id": "B",
+          "text": "バスで1時間くらい (බසයෙන් පැයක් පමණ)"
+        },
+        {
+          "id": "C",
+          "text": "歩いて15分くらい (පයින් විනාඩි 15ක් පමණ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 家から会社までどのくらいですか。\nB: 電車で30分くらいかかります。",
+        "sinhala": "A: ගෙදර ඉඳන් වැඩට කොච්චර වෙලා යනවද?\nB: කෝච්චියෙන් විනාඩි 30ක් විතර යනවා."
+      },
+      "explanation_sinhala": "කථකයා '電車で30分くらいかかります' (දුම්රියෙන් විනාඩි 30ක් පමණ) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l10_014",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_25",
+      "can_do_title_sinhala": "දුම්රියපළට ඇති දුර සහ ගතවන කාලය",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L10_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "アパートから最寄り駅まで歩いて何分ですか。",
+        "furigana": "アパートから[もよ]り[えき]まで[ある]いて[なんぷん]ですか。",
+        "sinhala": "මහල් නිවාසයේ සිට ළඟම දුම්රියපළට පයින් විනාඩි කීයක් ගතවේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "5分 (විනාඩි 5ක්)"
+        },
+        {
+          "id": "B",
+          "text": "10分 (විනාඩි 10ක්)"
+        },
+        {
+          "id": "C",
+          "text": "20分 (විනාඩි 20ක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 駅は近いですか。\nB: はい、とても近いです。アパートから駅まで歩いて5分です。",
+        "sinhala": "A: ස්ටේෂන් එක ළඟද?\nB: ඔව්, හරිම ළඟයි. අපාර්ට්මන්ට් එකේ ඉඳන් ස්ටේෂන් එකට පයින් විනාඩි 5යි."
+      },
+      "explanation_sinhala": "කථකයා '歩いて5分です' (පයින් විනාඩි 5යි) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l10_015",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_26",
+      "can_do_title_sinhala": "දුම්රිය මාරු කිරීමක් අවශ්‍ය දැයි අසා තේරුම් ගැනීම (Norikae)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L10_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "新宿駅で乗り換えが必要ですか。（◯ か ✕）",
+        "furigana": "[しんじゅくえき]で[の]り[か]えが[ひつよう]ですか。（◯ か ✕）",
+        "sinhala": "ෂින්ජුකු දුම්රියපළේදී කෝච්චිය මාරු කළ යුතුද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, මාරු කළ යුතුය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, කෙළින්ම යා හැක)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: すみません、東京駅まで一本で行けますか。\nB: いいえ、新宿駅でJR中央線に乗り換えてください。",
+        "sinhala": "A: සමාවෙන්න, ටෝකියෝ ස්ටේෂන් එකට කෙළින්ම යන්න පුළුවන්ද?\nB: නැහැ, ෂින්ජුකු ස්ටේෂන් එකෙන් JR චූඕ ලයින් එකට මාරු වෙන්න."
+      },
+      "explanation_sinhala": "කථකයා '新宿駅で乗り換えてください' (ෂින්ජුකු වලින් මාරු වෙන්න) යැයි පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_st_l10_016",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_26",
+      "can_do_title_sinhala": "ගුවන් තොටුපළට යාමට වඩාත් පහසු ක්‍රමය",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L10_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空港まで何で行くのが一番便利ですか。",
+        "furigana": "[くうこう]まで[なん]で[い]くのが[いちばん][べんり]ですか。",
+        "sinhala": "ගුවන් තොටුපළට යාමට වඩාත්ම පහසු ප්‍රවාහන මාධ්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "リムジンバス (ලිමොසින් බස් රථය)"
+        },
+        {
+          "id": "B",
+          "text": "タクシー (ටැක්සිය)"
+        },
+        {
+          "id": "C",
+          "text": "普通電車 (සාමාන්‍ය දුම්රිය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 成田空港へはどうやって行きますか。\nB: ホテルの前から出るリムジンバスが便利ですよ。乗り換えがありませんから。",
+        "sinhala": "A: නරීටා ගුවන් තොටුපළට යන්නේ කොහොමද?\nB: හෝටලය ඉස්සරහින් යන ලිමොසින් බස් එක පහසුයි. මාරු වෙන්න ඕන නැති නිසා."
+      },
+      "explanation_sinhala": "හෝටලය ඉදිරිපිටින් යන ලිමොසින් බස් රථය (リムジンバス) පහසු බව පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l10_017",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_27",
+      "can_do_title_sinhala": "දුම්රිය මාර්ග සිතියමක ගතවන කාලය කියවීම (Route Map)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l10_q17_routemap.png"
+      },
+      "question_text": {
+        "japanese": "路線図を見てください。A駅からB駅まで急行で何分かかりますか。",
+        "furigana": "[ろせんず]を[み]てください。A[えき]からB[えき]まで[きゅうこう]で[なんぷん]かかりますか。",
+        "sinhala": "මාර්ග සිතියම බලන්න. A ස්ටේෂන් එකේ සිට B ස්ටේෂන් එකට සීඝ්‍රගාමී දුම්රියෙන් (Express) විනාඩි කීයක් ගතවේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "12分"
+        },
+        {
+          "id": "B",
+          "text": "25分"
+        },
+        {
+          "id": "C",
+          "text": "40分"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සිතියමේ සීඝ්‍රගාමී රේඛාවේ (රතු පැහැති) A සිට B දක්වා '12分' ලෙස දක්වා ඇත."
+    },
+    {
+      "quiz_id": "qz_st_l10_018",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_27",
+      "can_do_title_sinhala": "දුම්රියපළේ පිටවීමේ දොරටු පුවරුව කියවීම (Station Exit / 北口・南口)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l10_q18_stationexit.png"
+      },
+      "question_text": {
+        "japanese": "駅の出口案内を見てください。市役所へ行くにはどの出口を出ますか。",
+        "furigana": "[えき]の[でぐちあんない]を[み]てください。[しやくしょ]へ[い]くにはどの[でぐち]を[で]ますか。",
+        "sinhala": "දුම්රියපළේ පිටවීමේ පුවරුව බලන්න. නගර ශාලාවට (City Hall) යාමට පිටවිය යුත්තේ කුමන දොරටුවෙන්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "東口 (East Exit - නැගෙනහිර දොරටුව)"
+        },
+        {
+          "id": "B",
+          "text": "西口 (West Exit - බටහිර දොරටුව)"
+        },
+        {
+          "id": "C",
+          "text": "南口 (South Exit - දකුණු දොරටුව)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ '西口: 市役所・バスターミナル' (බටහිර දොරටුව: නගර ශාලාව) ලෙස සටහන්ව ඇත."
+    },
+    {
+      "quiz_id": "qz_st_l10_019",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_27",
+      "can_do_title_sinhala": "ෂින්කන්සෙන් පිටත්වීමේ සහ ළඟාවීමේ වේලාව කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l10_q19_shinkansen.png"
+      },
+      "question_text": {
+        "japanese": "時刻表を見てください。「のぞみ15号」の新大阪到着時間は何時ですか。",
+        "furigana": "[じこくひょう]を[み]てください。「のぞみ15[ごう]」の[しんおおさかとうちゃくじかん]は[なんじ]ですか。",
+        "sinhala": "කාලසටහන බලන්න. 'නොසොමි 15' දුම්රිය ෂින්-ඔසාකා වෙත ළඟාවන වේලාව කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "11:30"
+        },
+        {
+          "id": "B",
+          "text": "09:00"
+        },
+        {
+          "id": "C",
+          "text": "12:15"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාලසටහනේ 'のぞみ15号: 東京 09:00発 → 新大阪 11:30着' ලෙස දක්වා ඇති බැවින් 11:30 වේ."
+    },
+    {
+      "quiz_id": "qz_st_l10_020",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_27",
+      "can_do_title_sinhala": "අධිවේගී බස් රථ ගාස්තු පුවරුව කියවීම",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l10_q20_expressbus.png"
+      },
+      "question_text": {
+        "japanese": "高速バスの片道料金は2,500円ですか。（◯ か ✕）",
+        "furigana": "[こうそく]バスの[かたみちりょうきん]は2,500[えん]ですか。（◯ か ✕）",
+        "sinhala": "අධිවේගී බස් රථයේ තනි ගමන් ගාස්තුව (One-way) යෙන් 2,500ක්ද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ '片道: 2,500円 / 往復: 4,500円' ලෙස දක්වා ඇති බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_st_l10_021",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_25",
+      "can_do_title_sinhala": "සිට ... දක්වා පරාසය (から ... まで)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る組み合わせを選んでください：「家（　）駅（　）歩いて行きます。」",
+        "furigana": "[くうらん]に[はい]る[く]み[あ]わせを[えら]んでください：「[いえ]（　）[えき]（　）[ある]いて[い]きます。」",
+        "sinhala": "'නිවසේ සිට දුම්රියපළ දක්වා පයින් යමි' යැයි කීමට හිස්තැන්වලට ගැළපෙන නිපාත යුගලය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "から / まで (kara / made)"
+        },
+        {
+          "id": "B",
+          "text": "まで / から (made / kara)"
+        },
+        {
+          "id": "C",
+          "text": "に / へ (ni / e)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ආරම්භක ලක්ෂ්‍යයට 'から' (සිට) ද අවසාන ලක්ෂ්‍යයට 'まで' (දක්වා) ද යොදයි (家から駅まで)."
+    },
+    {
+      "quiz_id": "qz_st_l10_022",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_25",
+      "can_do_title_sinhala": "කාලය හෝ මුදල ගතවීම දක්වන ක්‍රියාපදය (かかります)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「時間やお金を必要とする」という意味の動詞はどれですか：「30分（　）。」",
+        "furigana": "「[じかん]やお[かね]を[ひつよう]とする」という[いみ]の[どうし]はどれですか：「30[ぷん]（　）。」",
+        "sinhala": "'විනාඩි 30ක් ගතවේ' යැයි පැවසීමට ගැළපෙන ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "かかります (Kakarimasu)"
+        },
+        {
+          "id": "B",
+          "text": "あります (Arimasu)"
+        },
+        {
+          "id": "C",
+          "text": "します (Shimasu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාලයක් හෝ මුදලක් ගතවීම ප්‍රකාශ කරන්නේ 'かかります' (Kakarimasu) ක්‍රියාපදයෙනි."
+    },
+    {
+      "quiz_id": "qz_st_l10_023",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_25",
+      "can_do_title_sinhala": "ගතවන කාලය විමසන ප්‍රශ්නවාචී පදය (どのくらい)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "所要時間を尋ねる言葉を選んでください：「東京まで（　）かかりますか。」",
+        "furigana": "[しょようじかん]を[たず]ねる[ことば]を[えら]んでください：「[とうきょう]まで（　）かかりますか。」",
+        "sinhala": "'ටෝකියෝ දක්වා කොපමණ වේලාවක් ගතවේද?' කියා ඇසීමට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "どのくらい (Dono kurai - කොපමණ පමණ)"
+        },
+        {
+          "id": "B",
+          "text": "何時 (Nan-ji - කීයටද)"
+        },
+        {
+          "id": "C",
+          "text": "どこ (Doko - කොහේද)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ගතවන කාල ප්‍රමාණය විමසීමට 'どのくらい' (දොනො කුරායි - කොපමණ පමණද) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_st_l10_024",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_25",
+      "can_do_title_sinhala": "පැය ගණනක් ගතවීම දැක්වීම (時間 - Jikan)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「1 hour」の時間の長さを表す日本語はどれですか。",
+        "furigana": "「1 hour」の[じかん]の[なが]さを[あらわ]す[にほんご]はどれですか。",
+        "sinhala": "'පැය 1ක කාලයක්' යන්න ජපන් බසින් නිවැරදිව හඳුන්වන්නේ කෙසේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1時間 (Ichi-jikan)"
+        },
+        {
+          "id": "B",
+          "text": "1時 (Ichi-ji - 1:00 වේලාව)"
+        },
+        {
+          "id": "C",
+          "text": "1時分 (Ichi-jifun)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'1時' යනු ඔරලෝසුවේ 1:00 වේලාවයි. '1시간' හෙවත් පැය 1ක කාලය හැඳින්වෙන්නේ '1時間' (Ichi-jikan) ලෙසයි."
+    },
+    {
+      "quiz_id": "qz_st_l10_025",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_25",
+      "can_do_title_sinhala": "විනාඩි 20 කියවීම (20分)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「20分」の正しい読み方はどれですか。",
+        "furigana": "「20[ぷん]」の[ただ]しい[よ]み[かた]はどれですか。",
+        "sinhala": "'20分' (විනාඩි 20) හි නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "にじゅっぷん / にじっぷん (Nijuppun / Nijippun)"
+        },
+        {
+          "id": "B",
+          "text": "にじゅうふん (Nijuufun)"
+        },
+        {
+          "id": "C",
+          "text": "はたちふん (Hatachifun)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "විනාඩි 20 කියවීමේදී නිවැරදි උච්චාරණය වන්නේ 'にじゅっぷん' (Nijuppun) හෝ 'にじっぷん' වේ."
+    },
+    {
+      "quiz_id": "qz_st_l10_026",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_25",
+      "can_do_title_sinhala": "ආසන්න වශයෙන් / පමණ (くらい / ぐらい)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「約、およそ（about）」の意味を表す言葉はどれですか：「15分（　）です。」",
+        "furigana": "「[やく]、およそ（about）」の[いみ]を[あらわ]す[ことば]はどれですか：「15[ふん]（　）です。」",
+        "sinhala": "'විනාඩි 15ක් පමණ' යැයි ආසන්න අගයක් කීමට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "くらい / ぐらい (Kurai / Gurai)"
+        },
+        {
+          "id": "B",
+          "text": "ごろ (Goro)"
+        },
+        {
+          "id": "C",
+          "text": "まで (Made)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාල පරාසයක් ආසන්න වශයෙන් (About 15 minutes) දැක්වීමට 'くらい' යොදයි. 'ごろ' යොදන්නේ ඔරලෝසුවේ නිශ්චිත වේලාවකටය (උදා: 3時ごろ)."
+    },
+    {
+      "quiz_id": "qz_st_l10_027",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_26",
+      "can_do_title_sinhala": "වාහනයක් මාරු කිරීම (乗り換え / Norikae)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "電車やバスを別の線に変えることを何と言いますか。",
+        "furigana": "[でんしゃ]やバスを[べつ]の[せん]に[か]えることを[なん]と[い]いますか。",
+        "sinhala": "කෝච්චියක් හෝ බස් රථයක් වෙනත් මාර්ගයකට මාරු කිරීම (Transfer) හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "乗り換え (Norikae)"
+        },
+        {
+          "id": "B",
+          "text": "出発 (Shuppatsu - පිටත්වීම)"
+        },
+        {
+          "id": "C",
+          "text": "到着 (Touchaku - ළඟාවීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ප්‍රවාහන මාධ්‍යයක් මාරු කිරීම '乗り換え' (නොරිකාඒ) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_st_l10_028",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_26",
+      "can_do_title_sinhala": "සෑම ස්ටේෂන් එකකම නවත්වන සාමාන්‍ය දුම්රිය (各駅停車)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "すべての駅に止まる電車は何ですか。",
+        "furigana": "すべての[えき]に[と]まる[でんしゃ]は[なん]ですか。",
+        "sinhala": "සියලුම දුම්රියපළවල නවත්වමින් ධාවනය වන සාමාන්‍ය දුම්රිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "各駅停車 / 普通 (Kakueki-teisha / Futsuu)"
+        },
+        {
+          "id": "B",
+          "text": "特急 (Tokkyuu - විශේෂ සීඝ්‍රගාමී)"
+        },
+        {
+          "id": "C",
+          "text": "快速 (Kaisoku - සීඝ්‍රගාමී)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සෑම දුම්රියපළකම නවත්වන දුම්රිය '各駅停車' (කකුඑකි තෙයිෂා) හෝ '普通' (ෆුත්සූ) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_st_l09_029",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "can_do_id": "cando_st_22",
+      "can_do_title_sinhala": "වාහනය සඳහා 'で' සහ ගමනාන්තය සඳහා 'へ' නිවැරදිව භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "正しい助詞の組み合わせを選んでください：「電車（　）会社（　）行きます。」",
+        "furigana": "[ただ]しい[じょし]の[く]み[あ]わせを[えら]んでください：「[でんしゃ]（　）[かいしゃ]（　）[い]きます。」",
+        "sinhala": "'දුම්රියෙන් වැඩට යනවා' යැයි කීමට හිස්තැන්වලට ගැළපෙන නිපාත යුගලය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "で / へ (de / e)"
+        },
+        {
+          "id": "B",
+          "text": "へ / で (e / de)"
+        },
+        {
+          "id": "C",
+          "text": "に / を (ni / o)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "වාහනයට 'で' (දුම්රියෙන්) ද, ගමනාන්තයට 'へ' (වැඩට) ද යෙදිය යුතුය."
+    },
+    {
+      "quiz_id": "qz_st_l10_030",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_26",
+      "can_do_title_sinhala": "යන එන දෙපැත්තටම වන ටිකට්පත (往復 / Oufuku)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「往復切符」の「往復」の意味は何ですか。",
+        "furigana": "「[おうふくきっぷ]」の「[おうふく]」の[いみ]は[なん]ですか。",
+        "sinhala": "'往復' (Oufuku) යන්නෙහි තේරුම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "යන එන දෙපැත්තටම (Round trip)"
+        },
+        {
+          "id": "B",
+          "text": "එක් පැත්තකට පමණක් (One-way)"
+        },
+        {
+          "id": "C",
+          "text": "මාසික ප්‍රවේශපත්‍රය (Season pass)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'往復' (Oufuku) යනු ගොස් ආපසු ඒම හෙවත් දෙපැත්තටම (Round trip) වේ. තනි ගමන '片道' (Katamichi) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l10_031",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_27",
+      "can_do_title_sinhala": "බස් රථ ගාස්තු පුවරුවක් කියවීම (Adult vs Child)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l10_q31_busfare.png"
+      },
+      "question_text": {
+        "japanese": "運賃表を見てください。子供（小児）の料金はいくらですか：「大人 220円 / 小人 110円」",
+        "furigana": "[うんちんひょう]を[み]てください。[こども]（[しょうに]）の[りょうきん]はいくらですか：「[おとな] 220[えん] / [こども] 110[えん]」",
+        "sinhala": "ගාස්තු පුවරුව බලන්න. ළමුන් සඳහා බස් ගාස්තුව කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "110円"
+        },
+        {
+          "id": "B",
+          "text": "220円"
+        },
+        {
+          "id": "C",
+          "text": "50円"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ '小人 110円' (ළමා ගාස්තුව යෙන් 110) ලෙස දක්වා ඇත."
+    },
+    {
+      "quiz_id": "qz_st_l10_032",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_26",
+      "can_do_title_sinhala": "ජපානයේ ප්‍රවාහන IC කාඩ්පත් හඳුනාගැනීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "電車やバスに乗るときにタッチして払うカードは何ですか。",
+        "furigana": "[でんしゃ]やバスに[の]るときにタッチして[はら]うカードは[なん]ですか。",
+        "sinhala": "ජපානයේ දුම්රිය සහ බස්වල ගමන් කිරීමට Touch කර ගෙවන කාඩ්පත හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ICカード (IC Card - Suica / Pasmo)"
+        },
+        {
+          "id": "B",
+          "text": "保険証 (Hokenshou - සෞඛ්‍ය රක්ෂණ කාඩ්පත)"
+        },
+        {
+          "id": "C",
+          "text": "免許証 (Menkyoshou - රියදුරු බලපත්‍රය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දුම්රිය හා බස් ගාස්තු ගෙවීමට භාවිත කරන ඉලෙක්ට්‍රොනික කාඩ්පත් 'ICカード' (Suica, Pasmo, Icoca ආදී) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_st_l10_033",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_27",
+      "can_do_title_sinhala": "දුම්රිය ගමන් දිශාව පෙන්වන පුවරුව කියවීම (For Tokyo / 東京方面)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l10_q33_direction.png"
+      },
+      "question_text": {
+        "japanese": "ホームの看板を見てください。2番線はどの方面行きですか：「2番線 東京・上野方面」",
+        "furigana": "ホームの[かんばん]を[み]てください。2[ばんせん]はどの[ほうめん][い]きですか：「2[ばんせん] [とうきょう]・[うえの][ほうめん]」",
+        "sinhala": "වේදිකාවේ (Platform) පුවරුව බලන්න. 2 වන වේදිකාවේ දුම්රිය යන්නේ කුමන දිශාවටද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "東京・上野方面 (ටෝකියෝ / උඑනෝ දෙසට)"
+        },
+        {
+          "id": "B",
+          "text": "横浜方面 (යොකොහාමා දෙසට)"
+        },
+        {
+          "id": "C",
+          "text": "成田空港方面 (නරීටා ගුවන් තොටුපළ දෙසට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ '2番線 東京・上野方面' (ටෝකියෝ සහ උඑනෝ දෙසට) ලෙස සඳහන් වේ."
+    },
+    {
+      "quiz_id": "qz_st_l10_034",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "can_do_id": "cando_st_26",
+      "can_do_title_sinhala": "මඟ විමසීමේ ස්වභාවික සංවාදය අනුපිළිවෙලට සැකසීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "道を聞くときの自然な会話に並べ替えてください：\n1: どういたしまして\n2: すみません、駅はどこですか\n3: ありがとうございます\n4: あそこですよ。歩いて3分です",
+        "furigana": "[みち]を[き]くときの[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: どういたしまして\n2: すみません、[えき]はどこですか\n3: ありがとうございます\n4: あそこですよ。[ある]いて3[ぷん]です",
+        "sinhala": "පාරක් විමසීමේදී සිදුවන ස්වභාවික සංවාදයේ නිවැරදි අනුපිළිවෙල කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 4 -> 3 -> 1"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 4 -> 3"
+        },
+        {
+          "id": "C",
+          "text": "4 -> 2 -> 3 -> 1"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (සමාවෙන්න, ස්ටේෂන් එක කොහේද) -> 4 (අතැන තියෙන්නේ, පයින් විනාඩි 3යි) -> 3 (බොහොම ස්තුතියි) -> 1 (ආයුබෝවන් / කාරුණික පිළිගැනීම)."
+    }
+  ]
+}

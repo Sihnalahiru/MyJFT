@@ -1,0 +1,1291 @@
+{
+  "book": "Irodori Starter (A1)",
+  "lessons_covered": [
+    11,
+    12
+  ],
+  "total_questions": 34,
+  "categories": {
+    "listening_comprehension": 10,
+    "reading_comprehension": 9,
+    "grammar_and_vocabulary": 15
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_st_l11_001",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_28",
+      "can_do_title_sinhala": "ආපනශාලාවකදී ආහාර ඇනවුම් කිරීම අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L11_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "客は何を注文しましたか。",
+        "furigana": "[きゃく]は[なに]を[ちゅうもん]しましたか。",
+        "sinhala": "පාරිභෝගිකයා ඇනවුම් කළ ආහාරය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "チーズバーガーのセット (චීස් බර්ගර් සෙට් එකක්)"
+        },
+        {
+          "id": "B",
+          "text": "チキンバーガー単品 (චිකන් බර්ගර් එකක් පමණක්)"
+        },
+        {
+          "id": "C",
+          "text": "ポテトとコーラ (ෆ්‍රෙන්ච් ෆ්‍රයිස් සහ කෝලා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "店員: ご注文はお決まりですか。\n客: チーズバーガーのセットをひとつください。\n店員: お飲み物は何にしますか。\n客: コーラでお願いします。",
+        "sinhala": "සේවක: ඇනවුම තීරණය කළාද?\nපාරිභෝගිකයා: චීස් බර්ගර් සෙට් එකක් දෙන්න කරුණාකර.\nසේවක: බීමට ගන්නේ කුමක්ද?\nපාරිභෝගිකයා: කෝලා එකක් දෙන්න."
+      },
+      "explanation_sinhala": "පාරිභෝගිකයා 'チーズバーガーのセットをひとつください' (චීස් බර්ගර් සෙට් එකක්) ඇනවුම් කරන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l11_002",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_29",
+      "can_do_title_sinhala": "බීම වර්ග උණුසුම්ද සීතලද යන්න තෝරාගැනීම (Hot/Ice)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L11_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "客はどちらのコーヒーを頼みましたか。",
+        "furigana": "[きゃく]はどちらのコーヒーを[たの]みましたか。",
+        "sinhala": "පාරිභෝගිකයා ඉල්ලා සිටි කෝපි වර්ගය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ホットコーヒー (උණුසුම් කෝපි)"
+        },
+        {
+          "id": "B",
+          "text": "アイスコーヒー (සීතල කෝපි)"
+        },
+        {
+          "id": "C",
+          "text": "アイスティー (සීතල තේ)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "店員: コーヒーはホットですか、アイスですか。\n客: 今日は暑いですね。アイスでお願いします。",
+        "sinhala": "සේවක: කෝපි උණුසුම් එකක්ද, සීතල එකක්ද?\nපාරිභෝගිකයා: අද රස්නෙයි නේද. සීතල (අයිස්) එකක් දෙන්න."
+      },
+      "explanation_sinhala": "පාරිභෝගිකයා 'アイスでお願いします' (අයිස් කෝපි එකක් දෙන්න) යැයි පවසන බැවින් නිවැරදි පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l11_003",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_28",
+      "can_do_title_sinhala": "ප්‍රමාණ ගණන් කරමින් බඩු ඇනවුම් කිරීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L11_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "肉まんとあんまんをそれぞれ何個注文しましたか。",
+        "furigana": "[にくまん]とあんまんをそれぞれ[なんこ][ちゅうもん]しましたか。",
+        "sinhala": "නිකුමන් (මස් බනිස්) සහ අන්මන් (පැණි බනිස්) කීයක් බැගින් ඇනවුම් කළාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "肉まん2個、あんまん1個 (නිකුමන් 2ක්, අන්මන් 1ක්)"
+        },
+        {
+          "id": "B",
+          "text": "肉まん1個、あんまん2個 (නිකුමන් 1ක්, අන්මන් 2ක්)"
+        },
+        {
+          "id": "C",
+          "text": "肉まん3個 (නිකුමන් 3ක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "客: すみません、肉まんをふたつと、あんまんをひとつください。\n店員: はい、肉まん2個とあんまん1個ですね。",
+        "sinhala": "පාරිභෝගිකයා: සමාවෙන්න, නිකුමන් දෙකක් (ふたつ) සහ අන්මන් එකක් (ひとつ) දෙන්න.\nසේවක: හරි, නිකුමන් 2ක් සහ අන්මන් 1ක් නේද."
+      },
+      "explanation_sinhala": "නිකුමන් දෙකක් (ふたつ) සහ අන්මන් එකක් (ひとつ) ඇනවුම් කළ බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l11_004",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_29",
+      "can_do_title_sinhala": "මෙතැනදී කනවාද රැගෙන යනවාද යන්න තෝරාගැනීම (Eat-in / Takeout)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L11_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "客は店内で食べますか、持ち帰りますか。",
+        "furigana": "[きゃく]は[てんない]で[た]べますか、[も]ち[かえ]りますか。",
+        "sinhala": "පාරිභෝගිකයා ආපනශාලාවේදී කනවාද රැගෙන යනවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "持ち帰ります（テイクアウト）- රැගෙන යයි (Takeout)"
+        },
+        {
+          "id": "B",
+          "text": "店内で食べます（イートイン）- මෙහිදී ආහාර ගනී (Eat-in)"
+        },
+        {
+          "id": "C",
+          "text": "注文をキャンセルしました - ඇනවුම අවලංගු කළේය"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "店員: 店内でお召し上がりですか、お持ち帰りですか。\n客: 持ち帰りでお願いします。",
+        "sinhala": "සේවක: මෙහිදී ආහාර ගන්නවාද, රැගෙන යනවාද?\nපාරිභෝගිකයා: රැගෙන යාම (持ち帰り) සඳහා දෙන්න."
+      },
+      "explanation_sinhala": "පාරිභෝගිකයා '持ち帰りでお願いします' (මොචිකායෙරි - Takeout) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l11_005",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_28",
+      "can_do_title_sinhala": "රිසිට්පතක් ලබාගැනීම (Reshiito)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L11_05.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "客はレシートをもらいましたか。（◯ か ✕）",
+        "furigana": "[きゃく]はレシートをもらいましたか。（◯ か ✕）",
+        "sinhala": "පාරිභෝගිකයා රිසිට්පත ලබාගත්තාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, ලබාගත්තේය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, ප්‍රතික්ෂේප කළේය)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "店員: 980円になります。レシートはご利用ですか。\n客: あ、はい、レシートをください。",
+        "sinhala": "සේවක: යෙන් 980ක් වෙනවා. රිසිට්පත අවශ්‍යද?\nපාරිභෝගිකයා: ආ, ඔව්, රිසිට්පත දෙන්න."
+      },
+      "explanation_sinhala": "පාරිභෝගිකයා 'はい、レシートをください' යැයි රිසිට්පත ඉල්ලා ලබාගත් බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_st_l11_006",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_30",
+      "can_do_title_sinhala": "ෆාස්ට්ෆුඩ් මෙනුවක් කියවා මිල සෙවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l11_q06_burgermenu.png"
+      },
+      "question_text": {
+        "japanese": "メニューを見てください。てりやきバーガーのセット価格はいくらですか。",
+        "furigana": "メニューを[み]てください。てりやきバーガーのセット[かかく]はいくらですか。",
+        "sinhala": "මෙනුපත බලන්න. 'තෙරියාකි බර්ගර්' සෙට් එකේ මිල කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "680円"
+        },
+        {
+          "id": "B",
+          "text": "390円 (තනි බර්ගර් එක)"
+        },
+        {
+          "id": "C",
+          "text": "750円"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "මෙනුපතේ තෙරියාකි බර්ගර් තීරුවේ '単品 390円 / セット 680円' ලෙස දක්වා ඇති බැවින් සෙට් එකේ මිල 680円 වේ."
+    },
+    {
+      "quiz_id": "qz_st_l11_007",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_30",
+      "can_do_title_sinhala": "පොයින්ට් කාඩ්පත් දැන්වීමක් හඳුනාගැනීම (Point Card)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l11_q07_pointcard.png"
+      },
+      "question_text": {
+        "japanese": "レジ前の看板に「ポイントカードはお持ちですか」とあります。これは何を尋ねていますか。",
+        "furigana": "レジ[まえ]の[かんばん]に「ポイントカードはお[も]ちですか」とあります。これは[なに]を[たず]ねていますか。",
+        "sinhala": "කවුන්ටරය ඉදිරියේ ඇති පුවරුවේ 'පොයින්ට් කාඩ්පතක් තිබේද' යන්නෙන් අසන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "වෙළඳසැල් ලකුණු එකතු කරන කාඩ්පතක් තිබේදැයි (Store Reward Card)"
+        },
+        {
+          "id": "B",
+          "text": "ක්‍රෙඩිට් කාඩ්පතක් තිබේදැයි"
+        },
+        {
+          "id": "C",
+          "text": "හැඳුනුම්පතක් තිබේදැයි"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'ポイントカード' (Point Card) යනු ජපානයේ වෙළඳසැල්වල ලකුණු එකතු කර වට්ටම් ලබාගන්නා කාඩ්පතයි."
+    },
+    {
+      "quiz_id": "qz_st_l11_008",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_30",
+      "can_do_title_sinhala": "රිසිට්පතක් කියවා ඉතිරි මුදල සොයාගැනීම (Oturi / Change)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l11_q08_receipt.png"
+      },
+      "question_text": {
+        "japanese": "レシートを見てください。おつり（お釣り）はいくらですか。",
+        "furigana": "レシートを[み]てください。おつり（お[つ]り）はいくらですか。",
+        "sinhala": "රිසිට්පත බලන්න. ඉතිරි මුදල (おつり - Oturi) කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "140円"
+        },
+        {
+          "id": "B",
+          "text": "860円 (මුළු මුදල)"
+        },
+        {
+          "id": "C",
+          "text": "1,000円 (දුන් මුදල)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "රිසිට්පතේ '合計 860円 / お預かり 1,000円 / お釣り 140円' ලෙස දක්වා ඇති බැවින් ඉතිරි මුදල 140円 වේ."
+    },
+    {
+      "quiz_id": "qz_st_l11_009",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_28",
+      "can_do_title_sinhala": "භාණ්ඩයක් ඉල්ලා සිටීමේ සම්මත වාක්‍ය රටාව",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「このパン（　）ひとつください。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「このパン（　）ひとつください。」",
+        "sinhala": "'මේ පාන් ගෙඩියෙන් එකක් දෙන්න' යැයි කීමට හිස්තැනට ගැළපෙන නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "を (o)"
+        },
+        {
+          "id": "B",
+          "text": "に (ni)"
+        },
+        {
+          "id": "C",
+          "text": "で (de)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ඉල්ලන භාණ්ඩය කර්මය වන බැවින් 'Noun + を + Counter + ください' (パンを ひとつ ください) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l11_010",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_28",
+      "can_do_title_sinhala": "ද්‍රව්‍ය 3ක් ගණන් කිරීමේ විශේෂ වචනය (みっつ)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「3つ」の正しい読み方はどれですか。",
+        "furigana": "「3つ」の[ただ]しい[よ]み[かた]はどれですか。",
+        "sinhala": "'3つ' (තුනක්) හි නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "みっつ (Mittsu)"
+        },
+        {
+          "id": "B",
+          "text": "ふたつ (Futatsu - 2ක්)"
+        },
+        {
+          "id": "C",
+          "text": "よっつ (Yottsu - 4ක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සාමාන්‍ය ද්‍රව්‍ය ගණන් කිරීමේදී 1: ひとつ, 2: ふたつ, 3: みっつ (Mittsu) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l11_011",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_29",
+      "can_do_title_sinhala": "උණුසුම් බීම වර්ග හැඳින්වීම (ホット)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "温かい飲み物を注文するときの言葉はどれですか。",
+        "furigana": "[あたた]かい[の]み[もの]を[ちゅうもん]するときの[ことば]はどれですか。",
+        "sinhala": "උණුසුම් බීමක් ඇනවුම් කිරීමට භාවිත කරන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ホット (Hotto - Hot)"
+        },
+        {
+          "id": "B",
+          "text": "アイス (Aisu - Ice)"
+        },
+        {
+          "id": "C",
+          "text": "コールド (Koorudo)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ කැෆේවල උණුසුම් කෝපි/තේ සඳහා 'ホット' (Hotto) යැයි පවසයි."
+    },
+    {
+      "quiz_id": "qz_st_l12_012",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_31",
+      "can_do_title_sinhala": "නිවාඩු දිනයේ යාමට කැමති ස්ථානය අසා තේරුම් ගැනීම (～たいです)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L12_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは次の休みにどこへ行きたいですか。",
+        "furigana": "カルロスさんは[つぎ]の[やす]みにどこへ[い]きたいですか。",
+        "sinhala": "කාලෝස් ඊළඟ නිවාඩුවට යන්න ආස කොහේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "温泉 (උණුදිය උල්පත් / Onsen)"
+        },
+        {
+          "id": "B",
+          "text": "東京タワー (ටෝකියෝ කුළුණ)"
+        },
+        {
+          "id": "C",
+          "text": "スキー場 (ස්කී ක්‍රීඩා පිටිය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、今度の休み、どこか行きたいところはありますか。\nB: 日本の温泉に行きたいです。ゆっくり休みたいですね。",
+        "sinhala": "A: කාලෝස්, මේ නිවාඩුවට යන්න ආස තැනක් තියෙනවද?\nB: ජපානයේ ඔන්සෙන් (උණුදිය උල්පත්) එකකට යන්න ආසයි. විවේක ගන්න ඕන."
+      },
+      "explanation_sinhala": "කාලෝස් '温泉に行きたいです' (ඔන්සෙන් යන්න ආසයි) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_013",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_31",
+      "can_do_title_sinhala": "කෑමට ඇති ආශාව අසා තේරුම් ගැනීම (～食べたいです)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L12_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは何を食べたいと言っていますか。",
+        "furigana": "マリアさんは[なに]を[た]べたいと[い]っていますか。",
+        "sinhala": "මරියා කන්න ආසයි කියා පවසන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "本場の寿司 (නියම ජපන් සුෂි)"
+        },
+        {
+          "id": "B",
+          "text": "お好み焼き (ඔකොනොමියාකි)"
+        },
+        {
+          "id": "C",
+          "text": "すき焼き (සුකියාකි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: お昼、何が食べたいですか。\nB: おいしい寿司が食べたいです。回らないお寿司屋さんに行きたいです！",
+        "sinhala": "A: දවල්ට මොනවද කන්න ආස?\nB: රසවත් සුෂි කන්න ආසයි. හොඳ සුෂි කඩේකට යන්න ආසයි."
+      },
+      "explanation_sinhala": "මරියා 'おいしい寿司が食べたいです' (සුෂි කන්න ආසයි) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_014",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_32",
+      "can_do_title_sinhala": "යම් අරමුණක් සඳහා යාම (～に行きます)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L12_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "二人は日曜日に何をしに行きますか。",
+        "furigana": "[ふたり]は[にちようび]に[なに]をしに[い]きますか。",
+        "sinhala": "දෙදෙනා ඉරිදා දින යන්නේ කුමන අරමුණක් වෙනුවෙන්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "映画を見に行きます (චිත්‍රපටයක් නැරඹීමට)"
+        },
+        {
+          "id": "B",
+          "text": "服を買いに行きます (ඇඳුම් මිලදී ගැනීමට)"
+        },
+        {
+          "id": "C",
+          "text": "サッカーの試合をしに行きます (පාපන්දු ක්‍රීඩා කිරීමට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 日曜日、一緒に映画を見に行きませんか。\nB: いいですね。行きましょう！何時に待ち合わせしますか。",
+        "sinhala": "A: ඉරිදා, එකතු වෙලා ෆිල්ම් එකක් බලන්න යමුද (見に行きませんか)?\nB: හොඳයිනේ. යමු! කීයටද හමුවෙන්නේ?"
+      },
+      "explanation_sinhala": "දෙදෙනා යන්නේ චිත්‍රපටයක් නැරඹීමට (映画を見に行きます) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_015",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_32",
+      "can_do_title_sinhala": "බඩු ගැනීමට යන ස්ථානය හඳුනාගැනීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L12_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは秋葉原へカメラを買いに行きます。（◯ か ✕）",
+        "furigana": "スミスさんは[あきはばら]へカメラを[か]いに[い]きます。（◯ か ✕）",
+        "sinhala": "ස්මිත් මහතා අකිහබරා නගරයට යන්නේ කැමරාවක් මිලදී ගැනීමටද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: スミスさん、今週末は秋葉原へ行きますか。\nB: はい、新しいデジタルカメラを買いに行きます。",
+        "sinhala": "A: ස්මිත් මහතා මේ සති අන්තයේ අකිහබරා යනවද?\nB: ඔව්, අලුත් ඩිජිටල් කැමරාවක් මිලදී ගන්න යනවා (買いに行きます)."
+      },
+      "explanation_sinhala": "ඔහු අකිහබරා යන්නේ කැමරාවක් මිලදී ගැනීමට (買いに行きます) බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_st_l12_016",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_31",
+      "can_do_title_sinhala": "අකමැත්ත ප්‍රකාශ කිරීම (～たくないです)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L12_05.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性はなぜ出かけませんか。",
+        "furigana": "[じょせい]はなぜ[で]かけませんか。",
+        "sinhala": "කාන්තාව එළියට නොයන්නේ මන්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "疲れていて、どこへも行きたくないからです (මහන්සි නිසා කොහේවත් යන්න අකමැති බැවින්)"
+        },
+        {
+          "id": "B",
+          "text": "お金がないからです (මුදල් නැති බැවින්)"
+        },
+        {
+          "id": "C",
+          "text": "天気が悪いからです (කාලගුණය අයහපත් බැවින්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 今日の午後、カラオケに行きませんか。\nB: すみません、今週は仕事が大変で疲れました。今日はどこへも行きたくないです。家で寝ます。",
+        "sinhala": "A: අද හවස කැරෝකේ යමුද?\nB: සමාවෙන්න, මේ සතියේ වැඩ අමාරු නිසා මහන්සියි. අද මට කොහේවත් යන්න හිතෙන්නේ නෑ. ගෙදරට වෙලා නිදාගන්නවා."
+      },
+      "explanation_sinhala": "ඇය 'どこへも行きたくないです' (කොහේවත් යන්න හිතෙන්නේ නෑ) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_017",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_33",
+      "can_do_title_sinhala": "සත්වෝද්‍යාන පත්‍රිකාවක් කියවා ප්‍රවේශ ගාස්තු සෙවීම (Zoo Flyer)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l12_q17_zooflyer.png"
+      },
+      "question_text": {
+        "japanese": "動物園のチラシを見てください。大人の入場料はいくらですか。",
+        "furigana": "[どうぶつえん]のチラシを[み]てください。[おとな]の[にゅうじょうりょう]はいくらですか。",
+        "sinhala": "සත්වෝද්‍යාන පත්‍රිකාව බලන්න. වැඩිහිටියෙකුගේ ඇතුළුවීමේ ගාස්තුව කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "600円"
+        },
+        {
+          "id": "B",
+          "text": "300円"
+        },
+        {
+          "id": "C",
+          "text": "無料 (නොමිලේ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පත්‍රිකාවේ '入園料: 大人 600円 / 中学生以下 無料' ලෙස දක්වා ඇති බැවින් වැඩිහිටි ගාස්තුව 600円 වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_018",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_33",
+      "can_do_title_sinhala": "සංස්කෘතික උත්සව පෝස්ටරයක් කියවීම (Festival Poster)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l12_q18_matsuri.png"
+      },
+      "question_text": {
+        "japanese": "お祭りのポスターを見てください。場所はどこですか。",
+        "furigana": "お[まつ]りのポスターを[み]てください。[ばしょ]はどこですか。",
+        "sinhala": "උත්සව පෝස්ටරය බලන්න. උත්සවය පැවැත්වෙන ස්ථානය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "中央公園 (මධ්‍යම උද්‍යානය / Chuuou Kouen)"
+        },
+        {
+          "id": "B",
+          "text": "駅前広場 (දුම්රියපළ ඉදිරිපිට පිටිය)"
+        },
+        {
+          "id": "C",
+          "text": "市民会館 (නගර ශාලාව)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පෝස්ටරයේ '場所: 中央公園（雨天中止）' ලෙස සටහන්ව ඇති බැවින් ස්ථානය 中央公園 වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_019",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_33",
+      "can_do_title_sinhala": "කෞතුකාගාර නිවාඩු දිනයන් හඳුනාගැනීම (Closed days / 休館日)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l12_q19_museum.png"
+      },
+      "question_text": {
+        "japanese": "美術館の案内を見てください。休みは何曜日ですか：「休館日: 毎週月曜日」",
+        "furigana": "[びじゅつかん]の[あんない]を[み]てください。[やす]みは[なんようび]ですか：「[きゅうかんび]: [まいしゅうげつようび]」",
+        "sinhala": "කෞතුකාගාර පුවරුව බලන්න. නිවාඩු දිනය (休館日) කුමන දිනයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "月曜日 (සඳුදා)"
+        },
+        {
+          "id": "B",
+          "text": "日曜日 (ඉරිදා)"
+        },
+        {
+          "id": "C",
+          "text": "水曜日 (බදාදා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'休館日: 毎週月曜日' යනු සෑම සතියකම සඳුදා දින කෞතුකාගාරය වසා ඇති බවයි."
+    },
+    {
+      "quiz_id": "qz_st_l12_020",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_33",
+      "can_do_title_sinhala": "සිනමාහල් කාලසටහනක් කියවීම (Movie schedule)",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l12_q20_movie.png"
+      },
+      "question_text": {
+        "japanese": "映画「アニメ・ヒーロー」の午後の上映は14:30から始まりますか。（◯ か ✕）",
+        "furigana": "[えいが]「アニメ・ヒーロー」の[ごご]の[じょうえい]は14:30から[はじ]まりますか。（◯ か ✕）",
+        "sinhala": "චිත්‍රපටයේ සවස දර්ශනය 14:30ට ආරම්භ වේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "කාලසටහනේ '2回目: 14:30〜16:20' ලෙස පැහැදිලිව දක්වා ඇති බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_st_l12_021",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_31",
+      "can_do_title_sinhala": "ආශාවන් දැක්වීමේ ක්‍රියාපද විකෘතිය (～たいです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "動詞「行きます」の「want to go」の形はどれですか。",
+        "furigana": "[どうし]「[い]きます」の「want to go」の[かたち]はどれですか。",
+        "sinhala": "'යන්න ආසයි' (want to go) යන්නෙහි නිවැරදි ජපන් ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "行きたいです (Ikitai desu)"
+        },
+        {
+          "id": "B",
+          "text": "行きますたいです"
+        },
+        {
+          "id": "C",
+          "text": "行くたいです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාපදයේ 'ます' ඉවත් කර 'たいです' එකතු කරයි (行きます -> 行きたいです)."
+    },
+    {
+      "quiz_id": "qz_st_l12_022",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_31",
+      "can_do_title_sinhala": "ආශාවක් නොමැති බව දැක්වීම (～たくないです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「食べたい」の否定の形（don't want to eat）はどれですか。",
+        "furigana": "「[た]べたい」の[ひてい]の[かたち]（don't want to eat）はどれですか。",
+        "sinhala": "'කන්න අකමැතියි / කන්න හිතෙන්නේ නෑ' හි නිවැරදි සෘණාත්මක ස්වරූපය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "食べたくないです (Tabetakunai desu)"
+        },
+        {
+          "id": "B",
+          "text": "食べたいじゃないです"
+        },
+        {
+          "id": "C",
+          "text": "食べませんたいです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'～たい' යනු い-Adjective එකක් ලෙස විකෘති වන බැවින් එහි සෘණාත්මක ස්වරූපය '～たくないです' වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_023",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_32",
+      "can_do_title_sinhala": "ක්‍රියාවක අරමුණ සඳහා 'に' නිපාතය භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「デパートへ買い物（　）行きます。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「デパートへ[か]い[もの]（　）[い]きます。」",
+        "sinhala": "'බඩු ගැනීමට ඩිපාර්ට්මන්ට් ස්ටෝර් එකට යනවා' යැයි කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "に (ni)"
+        },
+        {
+          "id": "B",
+          "text": "で (de)"
+        },
+        {
+          "id": "C",
+          "text": "を (o)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යම් ස්ථානයකට යන අරමුණ (Purpose of movement) දැක්වීමට 'Noun / Verb Stem + に + 行きます' යොදයි."
+    },
+    {
+      "quiz_id": "qz_st_l12_024",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_32",
+      "can_do_title_sinhala": "ක්‍රියාපදයක් අරමුණක් ලෙස 'に' සමඟ යෙදීම (V-stem + ni)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「映画を（　）に行きます。」空欄に入る正しい動詞の形はどれですか。",
+        "furigana": "「[えいが]を（　）に[い]きます。」[くうらん]に[はい]る[ただ]しい[どうし]の[かたち]はどれですか。",
+        "sinhala": "'චිත්‍රපටයක් නැරඹීමට යමි' යැයි කීමට හිස්තැනට ගැළපෙන ක්‍රියාපද ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "見 (Mi)"
+        },
+        {
+          "id": "B",
+          "text": "見ます (Mimasu)"
+        },
+        {
+          "id": "C",
+          "text": "見る (Miru)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාපදයේ 'ます' ඉවත් කර Stem එක පමණක් 'に' ඉදිරියෙන් තැබිය යුතුය (見ます -> 見に行きます)."
+    },
+    {
+      "quiz_id": "qz_st_l12_025",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_31",
+      "can_do_title_sinhala": "උණුදිය උල්පත් හැඳින්වීමේ වචනය (温泉 / Onsen)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "日本のお風呂の文化で、温かい天然のお湯が出る場所は何ですか。",
+        "furigana": "[にほん]のお[ふろ]の[ぶんか]で、[あたた]かい[てんねん]のお[ゆ]が[で]る[ばしょ]は[なん]ですか。",
+        "sinhala": "ස්වභාවික උණුදියෙන් ස්නානය කරන ජපන් සංස්කෘතික ස්ථානය හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "温泉 (Onsen)"
+        },
+        {
+          "id": "B",
+          "text": "プール (Pool - පිහිනුම් තටාකය)"
+        },
+        {
+          "id": "C",
+          "text": "海 (Umi - මුහුද)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ ස්වභාවික උණුදිය උල්පත් ස්නානාගාර '温泉' (ඔන්සෙන්) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_026",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_33",
+      "can_do_title_sinhala": "සත්වෝද්‍යානය හඳුන්වන වචනය (動物園)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "たくさんの動物を見ることができる場所は何ですか。",
+        "furigana": "たくさんの[どうぶつ]を[み]ることができる[ばしょ]は[なん]ですか。",
+        "sinhala": "සතුන් නැරඹිය හැකි 'සත්වෝද්‍යානය' ජපන් බසින් හඳුන්වන්නේ කෙසේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "動物園 (Doubutsuen)"
+        },
+        {
+          "id": "B",
+          "text": "公園 (Kouen - උද්‍යානය)"
+        },
+        {
+          "id": "C",
+          "text": "遊園地 (Yuuenchi - විනෝද උයන)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සත්වෝද්‍යානය හැඳින්වෙන්නේ '動物園' (දෝබුත්සුඑන්) ලෙසයි."
+    },
+    {
+      "quiz_id": "qz_st_l12_027",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_31",
+      "can_do_title_sinhala": "කිරීමට කැමති දේ විමසීම (何がしたいですか)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「休みに何をしたいですか」に対する適切な答えはどれですか。",
+        "furigana": "「[やす]みに[なに]をしたいですか」に[たい]する[てきせつ]な[こた]えはどれですか。",
+        "sinhala": "'නිවාඩුවට මොනවා කරන්නද ආස?' කියා ඇසූ විට දිය හැකි නිවැරදි පිළිතුර කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "家でゆっくり休みたいです (ගෙදරට වෙලා නිදහසේ විවේක ගන්න ආසයි)"
+        },
+        {
+          "id": "B",
+          "text": "はい、そうです"
+        },
+        {
+          "id": "C",
+          "text": "日曜日に行きました"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'～たいですか' (කරන්න ආසද) කියා ඇසූ විට පිළිතුරද '～たいです' (කරන්න ආසයි) ලෙස දිය යුතුය."
+    },
+    {
+      "quiz_id": "qz_st_l12_028",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_33",
+      "can_do_title_sinhala": "ඇතුළුවීමේ ගාස්තුව හඳුන්වන වචනය (入場料)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "施設やイベントに入るときに払うお金は何ですか。",
+        "furigana": "[しせつ]やイベントに[はい]るときに[はら]うお[かね]は[なん]ですか。",
+        "sinhala": "උත්සවයකට හෝ ස්ථානයකට ඇතුළු වීමේදී ගෙවන ගාස්තුව හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "入場料 (Nyuujouryou - ඇතුළුවීමේ ගාස්තුව)"
+        },
+        {
+          "id": "B",
+          "text": "給料 (Kyuuryou - වැටුප)"
+        },
+        {
+          "id": "C",
+          "text": "運賃 (Unchin - ප්‍රවාහන ගාස්තුව)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ඇතුළුවීමේ ගාස්තුව '入場料' (න්‍යූජෝර්යෝ) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_029",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_33",
+      "can_do_title_sinhala": "නොමිලේ යන්න හඳුන්වන වචනය (無料 / Muryou)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「お金を払わなくていい（Free）」という意味の言葉はどれですか。",
+        "furigana": "「お[かね]を[はら]わなくていい（Free）」という[いみ]の[ことば]はどれですか。",
+        "sinhala": "'නොමිලේ' (Free of charge) යන්න දක්වන නිවැරදි ජපන් වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "無料 (Muryou)"
+        },
+        {
+          "id": "B",
+          "text": "有料 (Yuuryou - ගෙවිය යුතු)"
+        },
+        {
+          "id": "C",
+          "text": "半額 (Hangaku - අඩ මිල)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "මුදල් අය නොකරන නොමිලේ ලබාදෙන දේ '無料' (මුර්යෝ) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_030",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_31",
+      "can_do_title_sinhala": "Tai-form සමඟ 'が' හෝ 'を' නිපාත භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な文を選んでください（複数正解の文法規則）。",
+        "furigana": "[しぜん]な[ぶん]を[えら]んでください（[ふくすうせいかい]の[ぶんぽうきそく]）。",
+        "sinhala": "ස්වභාවික නිවැරදි වාක්‍යය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "水が飲みたいです / 水を飲みたいです (දෙකම නිවැරදියි)"
+        },
+        {
+          "id": "B",
+          "text": "水で飲みたいです"
+        },
+        {
+          "id": "C",
+          "text": "水に飲みたいです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ආශාව දක්වන '～たいです' සමඟ කර්මය සඳහා 'が' මෙන්ම 'を' ද නිවැරදිව භාවිත කළ හැක."
+    },
+    {
+      "quiz_id": "qz_st_l11_031",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_30",
+      "can_do_title_sinhala": "ටිකට් යන්ත්‍රයක 'මිලදී ගන්න' බොත්තම කියවීම (購入)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l11_q31_ticketvending.png"
+      },
+      "question_text": {
+        "japanese": "券売機（チケット機）の画面で、チケットを買うときに押すボタンはどれですか。",
+        "furigana": "[けんばいき]の[がめん]で、チケットを[か]うときに[お]すボタンはどれですか。",
+        "sinhala": "ටිකට් යන්ත්‍රයේ තිරය බලන්න. ටිකට්පත මිලදී ගැනීමට එබිය යුතු බොත්තම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "購入 (Kounyuu - මිලදී ගැනීම)"
+        },
+        {
+          "id": "B",
+          "text": "取消 (Torikeshi - අවලංගු කිරීම)"
+        },
+        {
+          "id": "C",
+          "text": "呼出 (Yobidashi - සේවකයා කැඳවීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'購入' (Kounyuu) යනු මිලදී ගැනීම (Buy/Purchase) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l11_032",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "can_do_id": "cando_st_28",
+      "can_do_title_sinhala": "මුදල් ගෙවීමේ ක්‍රම (Cash / Credit card)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "現金（Cash）を表す日本語はどれですか。",
+        "furigana": "[げんきん]（Cash）を[あらわ]す[にほんご]はどれですか。",
+        "sinhala": "'අතැති මුදල්' (Cash) හඳුන්වන ජපන් වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "現金 (Genkin)"
+        },
+        {
+          "id": "B",
+          "text": "カード (Kaado)"
+        },
+        {
+          "id": "C",
+          "text": "電子マネー (Denshi manee)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "මුදල් නෝට්ටු සහ කාසි මඟින් කරන ගෙවීම් '現金' (Genkin - Cash) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_033",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_33",
+      "can_do_title_sinhala": "ප්‍රදර්ශන දැන්වීමක් කියවා දිනයන් සෙවීම (Exhibition dates)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l12_q33_exhibit.png"
+      },
+      "question_text": {
+        "japanese": "ポスターを見てください。展示の期間は何月何日までですか：「会期: 11月1日〜11月30日」",
+        "furigana": "ポスターを[み]てください。[てんじ]の[きかん]は[なんがつなんにち]までですか：「[かいき]: 11[がつ]1[にち]〜11[がつ]30[にち]」",
+        "sinhala": "පෝස්ටරය බලන්න. ප්‍රදර්ශනය පැවැත්වෙන්නේ කුමන දින දක්වාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "11月30日まで (නොවැම්බර් 30 දක්වා)"
+        },
+        {
+          "id": "B",
+          "text": "11月1日まで"
+        },
+        {
+          "id": "C",
+          "text": "12月1日まで"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'〜11月30日' ලෙස දක්වා ඇති බැවින් අවසන් දිනය නොවැම්බර් 30 වේ."
+    },
+    {
+      "quiz_id": "qz_st_l12_034",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "can_do_id": "cando_st_32",
+      "can_do_title_sinhala": "සති අන්තයේ විනෝද ගමනක් සැලසුම් කරන සංවාදයක් පිළිවෙලට සැකසීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: どこへ行きたいですか\n2: 今度の週末、一緒に出かけませんか\n3: 水族館へ魚を見に行きたいです\n4: いいですね。行きましょう",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: どこへ[い]きたいですか\n2: [こんど]の[しゅうまつ]、[いっしょ]に[で]かけませんか\n3: [すいぞくかん]へ[さかな]を[み]に[い]きたいです\n4: いいですね。[い]きましょう",
+        "sinhala": "සති අන්තයේ ගමනක් සැලසුම් කරන සංවාදයක නිවැරදි අනුපිළිවෙල කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 4 -> 1 -> 3"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 3 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 1 -> 4 -> 2"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (සති අන්තයේ එකට එළියට යමුද?) -> 4 (හොඳයිනේ, යමු!) -> 1 (කොහේද යන්න ආස?) -> 3 (මසුන් බලන්න මින්මැදුරට යන්න ආසයි)."
+    }
+  ]
+}

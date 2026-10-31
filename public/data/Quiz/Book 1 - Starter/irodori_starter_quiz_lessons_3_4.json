@@ -1,0 +1,1297 @@
+{
+  "book": "Irodori Starter (A1)",
+  "lessons_covered": [
+    3,
+    4
+  ],
+  "total_questions": 34,
+  "categories": {
+    "listening_comprehension": 12,
+    "reading_comprehension": 8,
+    "grammar_and_vocabulary": 14
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_st_l03_001",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_06",
+      "can_do_title_sinhala": "භාණ්ඩයක මිල අසා තේරුම් ගැනීම (මිල ගණන්)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L03_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "この傘はいくらですか。",
+        "furigana": "この[かさ]はいくらですか。",
+        "sinhala": "මෙම කුඩයේ මිල කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "500円 (ෙන් 500)"
+        },
+        {
+          "id": "B",
+          "text": "800円 (ෙන් 800)"
+        },
+        {
+          "id": "C",
+          "text": "1,500円 (ෙන් 1,500)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "A: すみません、この傘はいくらですか。\nB: それは800円です。",
+        "sinhala": "A: සමාවෙන්න, මේ කුඩය කීයද?\nB: ඕක යෙන් 800යි."
+      },
+      "explanation_sinhala": "වෙළෙන්දා 'それは800円です' (හප්ප්‍යාකු-එන් - යෙන් 800යි) යැයි පවසන බැවින් නිවැරදි පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l03_002",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_08",
+      "can_do_title_sinhala": "භාණ්ඩයක් පෙන්වා එය කුමක්දැයි විමසීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L03_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "店員が見せたものは何ですか。",
+        "furigana": "[てんいん]が[み]せたものは[なん]ですか。",
+        "sinhala": "වෙළඳසැල් සේවකයා පෙන්වූ භාණ්ඩය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "日本の緑茶 (ජපන් කොළ තේ)"
+        },
+        {
+          "id": "B",
+          "text": "コーヒー (කෝපි)"
+        },
+        {
+          "id": "C",
+          "text": "チョコレート (චොකලට්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: これは日本の何ですか。\nB: それはお茶です。日本の緑茶ですよ。",
+        "sinhala": "A: මේක ජපානයේ මොනවාද?\nB: ඕක තේ. ජපානයේ කොළ තේ (Green tea)."
+      },
+      "explanation_sinhala": "සේවකයා 'それはお茶です。日本の緑茶ですよ' (ජපන් ග්‍රීන් ටී) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l03_003",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_07",
+      "can_do_title_sinhala": "ප්‍රමාණ ගණන් කර ඇනවුම් කිරීම (ひとつ / ふたつ)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L03_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "客はおにぎりを何個注文しましたか。",
+        "furigana": "[きゃく]はおにぎりを[なんこ][ちゅうもん]しましたか。",
+        "sinhala": "පාරිභෝගිකයා ඔනිගිරි කීයක් ඇනවුම් කළාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ひとつ (1ක්)"
+        },
+        {
+          "id": "B",
+          "text": "ふたつ (2ක්)"
+        },
+        {
+          "id": "C",
+          "text": "みっつ (3ක්)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "A: いらっしゃいませ。\nB: これ、鮭のおにぎりをふたつください。",
+        "sinhala": "A: සාදරයෙන් පිළිගනිමු.\nB: මේ සැමන් ඔනිගිරි දෙකක් දෙන්න කරුණාකර."
+      },
+      "explanation_sinhala": "පාරිභෝගිකයා 'ふたつください' (දෙකක් දෙන්න) යැයි පවසන බැවින් නිවැරදි පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l03_004",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_06",
+      "can_do_title_sinhala": "මුළු එකතුව අසා තේරුම් ගැනීම (Total Price)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L03_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "全部でいくらになりましたか。",
+        "furigana": "[ぜんぶ]でいくらになりましたか。",
+        "sinhala": "සියල්ල එකතු වූ විට මුළු මුදල කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "650円 (ෙන් 650)"
+        },
+        {
+          "id": "B",
+          "text": "720円 (ෙන් 720)"
+        },
+        {
+          "id": "C",
+          "text": "1,200円 (ෙන් 1,200)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "店員: お会計ですね。お弁当とお茶で、全部で720円になります。",
+        "sinhala": "වෙළෙන්දා: බිල්පත නේද. බෙන්ටෝ එකයි තේ එකයි ඔක්කොම යෙන් 720ක් වෙනවා."
+      },
+      "explanation_sinhala": "වෙළෙන්දා '全部で720円になります' (නනාහ්යකු නිජූ-එන් - යෙන් 720) යැයි පවසන බැවින් නිවැරදි පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l03_005",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_07",
+      "can_do_title_sinhala": "කෑම රත් කරන්නේදැයි විමසූ විට පිළිතුරු දීම (Atatamemasu ka)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L03_05.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "客はお弁当を温めてもらいましたか。（◯ か ✕）",
+        "furigana": "[きゃく]はお[べんとう]を[あたた]めてもらいましたか。（◯ か ✕）",
+        "sinhala": "පාරිභෝගිකයා බෙන්ටෝ එක රත් කරගත්තාද? (◯ නිවැරදියි / ✕ වැරදියි)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, රත් කරගත්තේය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, රත් කර නොගත්තේය)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "店員: お弁当、温めますか。\n客: はい、お願いします。",
+        "sinhala": "වෙළෙන්දා: කෑම එක රත් කරන්නද?\nපාරිභෝගිකයා: ඔව්, කරුණාකර රත් කරන්න."
+      },
+      "explanation_sinhala": "පාරිභෝගිකයා 'はい、お願いします' (ඔව්, කරුණාකර රත් කරන්න) යැයි පිළිතුරු දුන් බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_st_l03_006",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_07",
+      "can_do_title_sinhala": "ෂොපින් බෑග් අවශ්‍ය දැයි විමසූ විට පිළිතුරු දීම (Fukuro)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L03_06.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "客は袋をもらいましたか。",
+        "furigana": "[きゃく]は[ふくろ]をもらいましたか。",
+        "sinhala": "පාරිභෝගිකයා පොලිතින් බෑගය ලබාගත්තාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "はい、買いました (ඔව්, ලබාගත්තේය)"
+        },
+        {
+          "id": "B",
+          "text": "いいえ、断りました (නැත, ප්‍රතික්ෂේප කළේය)"
+        },
+        {
+          "id": "C",
+          "text": "2枚もらいました (බෑග් 2ක් ගත්තේය)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "店員: 袋はどうされますか。\n客: あ、大丈夫です。袋はいりません。",
+        "sinhala": "වෙළෙන්දා: බෑගයක් අවශ්‍යද?\nපාරිභෝගිකයා: ආ, කමක් නෑ. බෑගයක් අවශ්‍ය නෑ."
+      },
+      "explanation_sinhala": "පාරිභෝගිකයා '袋はいりません' (බෑගයක් අනවශ්‍යයි) යැයි ප්‍රතික්ෂේප කළ බැවින් නිවැරදි පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l03_007",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_06",
+      "can_do_title_sinhala": "මිල ටැගයක් කියවා බදු සහිත මිල හඳුනාගැනීම (Tax Included)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l03_q07_pricetag.png"
+      },
+      "question_text": {
+        "japanese": "値札を見てください。税込み（税込）の価格はいくらですか。",
+        "furigana": "[ねふだ]を[み]てください。[ぜいこ]みの[かかく]はいくらですか。",
+        "sinhala": "මිල ටැගය බලන්න. බදු සහිත (税込 - Zeikomi) මිල කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1,000円"
+        },
+        {
+          "id": "B",
+          "text": "1,100円"
+        },
+        {
+          "id": "C",
+          "text": "900円"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": null,
+      "explanation_sinhala": "මිල ටැගයේ '税込 1,100円' (බදු එකතු වූ පසු) ලෙස මුද්‍රණය කර ඇති බැවින් නිවැරදි පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l03_008",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_06",
+      "can_do_title_sinhala": "සුපිරි වෙළඳසැල් වට්ටම් ස්ටිකරයක් හඳුනාගැනීම (Discount / 半額)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l03_q08_discount.png"
+      },
+      "question_text": {
+        "japanese": "お弁当に貼ってあるシールの意味は何ですか：「半額」",
+        "furigana": "お[べんとう]に[は]ってあるシールの[いみ]は[なん]ですか：「[はんがく]」",
+        "sinhala": "කෑම පැකට්ටුවේ අලවා ඇති '半額' (Hangaku) ස්ටිකරයේ තේරුම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "අඩ මිලකට (50% Off / Half Price)"
+        },
+        {
+          "id": "B",
+          "text": "නොමිලේ (Free)"
+        },
+        {
+          "id": "C",
+          "text": "යෙන් 10ක් අඩුයි (10 Yen Off)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ සුපිරි වෙළඳසැල්වල '半額' (Hangaku) යනු අඩ මිලට හෙවත් 50% ක වට්ටමකි."
+    },
+    {
+      "quiz_id": "qz_st_l03_009",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_06",
+      "can_do_title_sinhala": "කැෆේ මෙනුපතක් බලා මිල සසඳා ගැනීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l03_q09_menu.png"
+      },
+      "question_text": {
+        "japanese": "メニューを見てください。アイスコーヒーの値段はいくらですか。",
+        "furigana": "メニューを[み]てください。アイスコーヒーの[ねだん]はいくらですか。",
+        "sinhala": "මෙනුපත බලන්න. අයිස් කෝපි (Ice coffee) එකක මිල කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "350円"
+        },
+        {
+          "id": "B",
+          "text": "400円"
+        },
+        {
+          "id": "C",
+          "text": "450円"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": null,
+      "explanation_sinhala": "මෙනුපතේ 'アイスコーヒー' (Iced Coffee) ඉදිරියෙන් '400円' ලෙස සඳහන් වේ."
+    },
+    {
+      "quiz_id": "qz_st_l03_010",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_08",
+      "can_do_title_sinhala": "කථකයාට ළඟ ඇති දෙයක් පෙන්වීමට 'これ' භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "話し手の近くにあるものを指す指示詞はどれですか。",
+        "furigana": "[はな]し[て]の[ちか]くにあるものを[さ]す[しじし]はどれですか。",
+        "sinhala": "කතා කරන කෙනාට ළඟින්ම ඇති ද්‍රව්‍යයක් පෙන්වීමට යොදන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "これ (මේක)"
+        },
+        {
+          "id": "B",
+          "text": "それ (ඕක)"
+        },
+        {
+          "id": "C",
+          "text": "あれ (අරක)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තමාට ළඟ දෙයට 'これ', අසන්නාට ළඟ දෙයට 'それ', දෙදෙනාටම ඈත දෙයට 'あれ' යොදයි."
+    },
+    {
+      "quiz_id": "qz_st_l03_011",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_06",
+      "can_do_title_sinhala": "මිල විමසීමේ ප්‍රශ්නවාචී පදය (いくら)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "値段を聞くときの疑問詞を選んでください：「この本は（　）ですか。」",
+        "furigana": "[ねだん]を[き]くときの[ぎもんし]を[えら]んでください：「この[ほん]は（　）ですか。」",
+        "sinhala": "මිල අසන විට හිස්තැනට යෙදිය යුතු ප්‍රශ්නවාචී පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "いくら (Ikura - කීයද)"
+        },
+        {
+          "id": "B",
+          "text": "どこ (Doko - කොහේද)"
+        },
+        {
+          "id": "C",
+          "text": "だれ (Dare - කවුද)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "භාණ්ඩයක මිල විමසීමේදී 'いくらですか' (Ikura desu ka - කීයද?) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l03_012",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_07",
+      "can_do_title_sinhala": "ගණන් කිරීමේ වචනයක් සමඟ 'ください' යෙදීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な文を選んでください。",
+        "furigana": "[しぜん]な[ぶん]を[えら]んでください。",
+        "sinhala": "ස්වභාවික නිවැරදි වාක්‍යය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "りんごを ひとつ ください。"
+        },
+        {
+          "id": "B",
+          "text": "りんごを ひとつを ください。"
+        },
+        {
+          "id": "C",
+          "text": "りんごに ひとつ ください。"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ගණන් කරන වචනයට (ひとつ) පසු නැවත 'を' නිපාතය නොයෙදේ (りんごを ひとつ ください)."
+    },
+    {
+      "quiz_id": "qz_st_l03_013",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_06",
+      "can_do_title_sinhala": "දහසේ සංඛ්‍යා කියවීම (1,000 / Sen)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "数字「3,000」の正しい読み方はどれですか。",
+        "furigana": "[すうじ]「3,000」の[ただ]しい[よ]み[かた]はどれですか。",
+        "sinhala": "'3,000' අංකයේ නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "さんぜん (Sanzen)"
+        },
+        {
+          "id": "B",
+          "text": "さんせん (Sansen)"
+        },
+        {
+          "id": "C",
+          "text": "さんびゃく (Sanbyaku)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "3,000 උච්චාරණය කිරීමේදී ශබ්දය මෘදු වී 'Sanzen' (さんぜん) ලෙස ශබ්ද කෙරේ."
+    },
+    {
+      "quiz_id": "qz_st_l03_014",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_07",
+      "can_do_title_sinhala": "ඉල්ලීමක් කිරීමේ විනීත වචනය (お願いします)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "店で注文するとき、「これ（　）。」と言います。適切な表現はどれですか。",
+        "furigana": "[みせ]で[ちゅうもん]するとき、「これ（　）。」と[い]います。[てきせつ]な[ひょうげん]はどれですか。",
+        "sinhala": "සාප්පුවකදී 'මේක දෙන්න' යැයි ඉල්ලා සිටීමට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "をお願いします (o onegaishimasu)"
+        },
+        {
+          "id": "B",
+          "text": "があります (ga arimasu)"
+        },
+        {
+          "id": "C",
+          "text": "でした (deshita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සාප්පුවකදී හෝ හෝටලයකදී ඇනවුම් කිරීමට 'これをお願いします' (මේක දෙන්න කරුණාකර) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_015",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "වැසිකිළිය පිහිටි ස්ථානය අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L04_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "トイレはどこにありますか。",
+        "furigana": "トイレはどこにありますか。",
+        "sinhala": "වැසිකිළිය පිහිටා ඇත්තේ කොහේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "あそこ（エレベーターの隣）- අතැන (ලිෆ්ට් එක ළඟ)"
+        },
+        {
+          "id": "B",
+          "text": "2階 - දෙවැනි මහලේ"
+        },
+        {
+          "id": "C",
+          "text": "外 - එළියේ"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: すみません、トイレはどこですか。\nB: あそこです。エレベーターの隣ですよ。",
+        "sinhala": "A: සමාවෙන්න, වැසිකිළිය කොහේද?\nB: අතැන තියෙන්නේ. එලිවේටරය (ලිෆ්ට් එක) ළඟමයි."
+      },
+      "explanation_sinhala": "කථකයා 'あそこです。エレベーターの隣ですよ' (අතැන, ලිෆ්ට් එක ළඟ) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_016",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "රැස්වීම් කාමරය පිහිටි මහල අසා තේරුම් ගැනීම (Floors)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L04_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "会議室は何階にありますか。",
+        "furigana": "[かいぎしつ]は[なんかい]にありますか。",
+        "sinhala": "රැස්වීම් කාමරය පිහිටා ඇත්තේ කීවැනි මහලේ ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1階 (1 වැනි මහල)"
+        },
+        {
+          "id": "B",
+          "text": "3階 (3 වැනි මහල)"
+        },
+        {
+          "id": "C",
+          "text": "5階 (5 වැනි මහල)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "A: あのう、会議室はどこですか。\nB: 会議室は3階です。階段で行けますよ。",
+        "sinhala": "A: සමාවෙන්න, රැස්වීම් කාමරය කොහේද?\nB: රැස්වීම් කාමරය 3 වැනි තට්ටුවේ. පඩිපෙළෙන් යන්න පුළුවන්."
+      },
+      "explanation_sinhala": "කථකයා '会議室は3階です' (සංගායි - 3 වැනි මහල) යැයි පවසන බැවින් නිවැරදි පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_017",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "ආපනශාලාවේ ස්ථානය හඳුනාගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L04_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "社員食堂はどこですか。",
+        "furigana": "[しゃいんしょくどう]はどこですか。",
+        "sinhala": "සේවක ආපනශාලාව (Cafeteria) කොහේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "地下1階 (යටි මහලේ - Basement 1)"
+        },
+        {
+          "id": "B",
+          "text": "4階 (4 වැනි මහලේ)"
+        },
+        {
+          "id": "C",
+          "text": "屋上 (වහලය උඩ - Rooftop)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 食堂はどこにありますか。\nB: 地下1階ですよ。あちらのエレベーターでどうぞ。",
+        "sinhala": "A: කැන්ටින් එක කොහෙද තියෙන්නේ?\nB: බිම් මහල යට (B1). අර ලිෆ්ට් එකෙන් යන්න."
+      },
+      "explanation_sinhala": "ආපනශාලාව පිහිටා ඇත්තේ බිම් මහලට පහළින් '地下1階' (චිකා ඉච්චිකායි - B1) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_018",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "දුම්බීමේ කලාපය පවතින තැන අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L04_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "ビルの中でタバコを吸うことができますか。（◯ か ✕）",
+        "furigana": "ビルの中でタバコを[す]うことができますか。（◯ か ✕）",
+        "sinhala": "ගොඩනැගිල්ල ඇතුළත දුම්බීමට අවසර තිබේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, ඇතුළත පුළුවන)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, ඇතුළත තහනම්ය)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: すみません、喫煙所はどこですか。\nB: ビルの中は禁煙です。喫煙所は外の駐車場の隣にあります。",
+        "sinhala": "A: සමාවෙන්න, දුම්බොන තැන කොහේද?\nB: ගොඩනැගිල්ල ඇතුළේ දුම්බීම තහනම්. දුම්බොන තැන තියෙන්නේ එළියේ වාහන නැවතුම ළඟ."
+      },
+      "explanation_sinhala": "ගොඩනැගිල්ල ඇතුළත දුම්බීම තහනම් (ビルの中は禁煙) බවත් එය ඇත්තේ එළියේ බවත් පවසන බැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_st_l04_019",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "පිළිගැනීමේ කවුන්ටරය (受付) විමසීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L04_05.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "受付はどっちですか。",
+        "furigana": "[うけつけ]はどっちですか。",
+        "sinhala": "පිළිගැනීමේ කවුන්ටරය (Reception) පිහිටා ඇත්තේ කුමන දිශාවේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "正面のあちら (ඉදිරියෙන් ඇති අර පැත්තේ)"
+        },
+        {
+          "id": "B",
+          "text": "2階の奥 (2 වන මහලේ කෙළවර)"
+        },
+        {
+          "id": "C",
+          "text": "外の右側 (එළියේ දකුණු පස)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: あのう、受付はどちらですか。\nB: 正面のあちらです。",
+        "sinhala": "A: සමාවෙන්න, පිළිගැනීමේ කවුන්ටරය කොහේද?\nB: කෙළින්ම ඉස්සරහා අර පැත්තේ."
+      },
+      "explanation_sinhala": "කථකයා '正面のあちらです' (ඉදිරියෙන්ම අර පැත්තේ) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_020",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "ලිෆ්ට් එකේදී යා යුතු තට්ටුව පැවසීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L04_06.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性は何階に行きますか。",
+        "furigana": "[じょせい]は[なんかい]に[い]きますか。",
+        "sinhala": "කාන්තාව යාමට බලාපොරොත්තු වන්නේ කීවැනි මහලටද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4階 (4 වැනි මහල)"
+        },
+        {
+          "id": "B",
+          "text": "7階 (7 වැනි මහල)"
+        },
+        {
+          "id": "C",
+          "text": "8階 (8 වැනි මහල)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "A: 何階ですか。\nB: 7階をお願いします。",
+        "sinhala": "A: කීවැනි තට්ටුවටද?\nB: 7 වැනි තට්ටුවට දාන්න කරුණාකර."
+      },
+      "explanation_sinhala": "කාන්තාව '7階をお願いします' (නනා-කායි - 7 වැනි මහල) යැයි ඉල්ලා සිටින බැවින් පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_021",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_10",
+      "can_do_title_sinhala": "ගොඩනැගිලි නාම පුවරුවක් බලා තොරතුරු සෙවීම (Floor Guide)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l04_q21_floorguide.png"
+      },
+      "question_text": {
+        "japanese": "フロア案内を見てください。ATMは何階にありますか。",
+        "furigana": "フロア[あんない]を[み]てください。ATMは[なんかい]にありますか。",
+        "sinhala": "මහල් නාමාවලිය (Floor guide) බලන්න. ATM යන්ත්‍රය ඇත්තේ කීවැනි මහලේ ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1階"
+        },
+        {
+          "id": "B",
+          "text": "2階"
+        },
+        {
+          "id": "C",
+          "text": "地下1階 (B1)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නාම පුවරුවේ '1F: 案内所 / ATM / カフェ' ලෙස සටහන්ව ඇති බැවින් නිවැරදි පිළිතුර 1階 (A) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_022",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_10",
+      "can_do_title_sinhala": "හදිසි පිටවීමේ සංඥා පුවරුව හඳුනාගැනීම (Emergency Exit / 非常口)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l04_q22_exit.png"
+      },
+      "question_text": {
+        "japanese": "この緑色のマークは何を表していますか：「非常口」",
+        "furigana": "この[みどりいろ]のマークは[なに]を[あらわ]していますか：「[ひじょうぐち]」",
+        "sinhala": "කොළ පැහැති මිනිසෙකු දුවන මෙම පුවරුවෙන් දැක්වෙන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "හදිසි පිටවීම (Emergency Exit)"
+        },
+        {
+          "id": "B",
+          "text": "විදුලි සෝපානය (Elevator)"
+        },
+        {
+          "id": "C",
+          "text": "පඩිපෙළ (Stairs)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ '非常口' (Hijouguchi) සංඥා පුවරුවෙන් හදිසි පිටවීම හෙවත් Emergency Exit පෙන්නුම් කරයි."
+    },
+    {
+      "quiz_id": "qz_st_l04_023",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_10",
+      "can_do_title_sinhala": "වැසිකිළි සංඥා පුවරුවක් හඳුනාගැනීම (お手洗い / 化粧室)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l04_q23_toilet.png"
+      },
+      "question_text": {
+        "japanese": "デパートの案内に「お手洗い」と書いてあります。これは何のことですか。",
+        "furigana": "デパートの[あんない]に「お[てあら]い」と[か]いてあります。これは[なん]のことですか。",
+        "sinhala": "වෙළඳසැලක 'お手洗い' (O-tearai) කියා ලියා ඇත්තේ කුමක් සඳහාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "වැසිකිළිය (Restroom / Toilet)"
+        },
+        {
+          "id": "B",
+          "text": "පිටවීමේ දොර (Exit)"
+        },
+        {
+          "id": "C",
+          "text": "දුම්රියපළ (Station)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'お手洗い' (O-tearai) යනු 'トイレ' (Toilet) සඳහා යොදන අතිශය විනීත ජපන් වචනයයි."
+    },
+    {
+      "quiz_id": "qz_st_l04_024",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_10",
+      "can_do_title_sinhala": "දුම්බීම තහනම් පුවරුව හඳුනාගැනීම (禁煙)",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l04_q24_nosmoke.png"
+      },
+      "question_text": {
+        "japanese": "このマークがある場所でタバコを吸ってもいいですか：「禁煙」",
+        "furigana": "このマークがある[ばしょ]でタバコを[す]ってもいいですか：「[きんえん]」",
+        "sinhala": "'禁煙' (Kinen) පුවරුව ඇති තැනක දුම්බීමට අවසර තිබේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, අවසර ඇත)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, තහනම්ය)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": null,
+      "explanation_sinhala": "'禁煙' (Kinen) යන්නෙහි තේරුම 'No Smoking' හෙවත් දුම්බීම තහනම් යන්නයි."
+    },
+    {
+      "quiz_id": "qz_st_l04_025",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "ස්ථාන පෙන්වන සර්වනාම (Koko/Soko/Asoko)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "話し手からも聞き手からも離れた遠い場所を指す言葉はどれですか。",
+        "furigana": "[はな]し[て]からも[き]き[て]からも[はな]れた[とお]い[ばしょ]を[さ]す[ことば]はどれですか。",
+        "sinhala": "දෙදෙනාටම ඈතින් පිහිටි ස්ථානයක් පෙන්වීමට යොදන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "あそこ (අතැන)"
+        },
+        {
+          "id": "B",
+          "text": "ここ (මෙතැන)"
+        },
+        {
+          "id": "C",
+          "text": "そこ (ඔතැන)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කථකයාටත් අසන්නාටත් දෙදෙනාටම ඈත පිහිටි ස්ථානයක් පෙන්වීමට 'あそこ' (අතැන) යොදයි."
+    },
+    {
+      "quiz_id": "qz_st_l04_026",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "ස්ථානයක් විමසන ප්‍රශ්නවාචී පදය (Doko)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "場所をたずねる文を完成させてください：「エレベーターは（　）ですか。」",
+        "furigana": "[ばしょ]をたずねる[ぶん]を[かんせい]させてください：「エレベーターは（　）ですか。」",
+        "sinhala": "'ලිෆ්ට් එක කොහේද?' කියා ඇසීමට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "どこ (Doko - කොහේද)"
+        },
+        {
+          "id": "B",
+          "text": "だれ (Dare - කවුද)"
+        },
+        {
+          "id": "C",
+          "text": "いくら (Ikura - කීයද)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ස්ථානයක් කොහේදැයි විමසීමේදී 'どこ' (දොකො - කොහේද) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_027",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "ස්ථානයක් විනීතව දැක්වීමේ ආකෘතිය (Achira)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「あそこ」の丁寧な言い方はどれですか。",
+        "furigana": "「あそこ」の[ていねい]な[い]い[かた]はどれですか。",
+        "sinhala": "'あそこ' (අතැන) යන්නෙහි වඩා විනීත (Polite) ස්වරූපය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "あちら (Achira)"
+        },
+        {
+          "id": "B",
+          "text": "そちら (Sochira)"
+        },
+        {
+          "id": "C",
+          "text": "どちら (Dochira)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කවුන්ටරවලදී හෝ පාරිභෝගිකයින්ට කතා කරන විට 'あそこ' වෙනුවට විනීතව 'あちら' (අචිරා) භාවිත කරයි."
+    },
+    {
+      "quiz_id": "qz_st_l04_028",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "සේවා ස්ථාන පහසුකම් හඳුනාගැනීම (Shokudou)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "会社や学校でご飯を食べる場所は何と言いますか。",
+        "furigana": "[かいしゃ]や[がっこう]でご[はん]を[た]べる[ばしょ]は[なん]と[い]いますか。",
+        "sinhala": "සමාගමක හෝ පාසලක ආහාර ගන්නා ස්ථානය (Cafeteria) හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "食堂 (Shokudou)"
+        },
+        {
+          "id": "B",
+          "text": "会議室 (Kaigishitsu)"
+        },
+        {
+          "id": "C",
+          "text": "受付 (Uketsuke)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ආපනශාලාව හෙවත් කැන්ටින් එක ජපන් බසින් '食堂' (ෂොකුදෝ) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_029",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "මහල් ගණන් කිරීමේ විශේෂ උච්චාරණය (3階 / Sangai)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「3階」の正しい読み方はどれですか。",
+        "furigana": "「3[かい]」の[ただ]しい[よ]み[かた]はどれですか。",
+        "sinhala": "'3階' (3 වන මහල) හි නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "さんがい (Sangai)"
+        },
+        {
+          "id": "B",
+          "text": "さんかい (Sankai)"
+        },
+        {
+          "id": "C",
+          "text": "さんがいち (Sangaichi)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "3 වැනි තට්ටුව පැවසීමේදී 'かい' ශබ්දය 'がい' (gai) ලෙස ශබ්ද වෙනස් වී 'さんがい' (Sangai) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_030",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "විදුලි සෝපානය සහ විදුලි පඩිපෙළ වෙන්කර හඳුනාගැනීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自動で動く階段（Moving stairs）は何ですか。",
+        "furigana": "[じどう]で[うご]く[かいだん]は[なん]ですか。",
+        "sinhala": "ස්වයංක්‍රීයව ගමන් කරන විදුලි පඩිපෙළ හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "エスカレーター (Escalator)"
+        },
+        {
+          "id": "B",
+          "text": "エレベーター (Elevator)"
+        },
+        {
+          "id": "C",
+          "text": "階段 (Kaidan - පඩිපෙළ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "චලනය වන පඩිපෙළ 'エスカレーター' (Escalator) වන අතර සිරස්ව ගමන් කරන කුටිය 'エレベーター' (Elevator) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_031",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "ස්ථානයක් දැක්වීමට 'に' නිපාතය භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「ATMは1階（　）あります。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「ATMは1[かい]（　）あります。」",
+        "sinhala": "'ATM එක 1 වන මහලේ තිබේ' යැයි කීමට හිස්තැනට ගැළපෙන නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "に (ni)"
+        },
+        {
+          "id": "B",
+          "text": "で (de)"
+        },
+        {
+          "id": "C",
+          "text": "を (o)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යමක් පවතින ස්ථානය (Location of existence) දැක්වීමට 'あります' සමඟ 'に' (ni) නිපාතය යෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_032",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "යටි මහල් හැඳින්වීම (地下 - Chika / B1)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「B1」を表す正しい日本語はどれですか。",
+        "furigana": "「B1」を[あらわ]す[ただ]しい[にほんご]はどれですか。",
+        "sinhala": "'B1' (Basement floor 1) යන්න ජපන් බසින් හඳුන්වන්නේ කෙසේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "地下1階 (Chika ikkai)"
+        },
+        {
+          "id": "B",
+          "text": "地上1階 (Chijou ikkai)"
+        },
+        {
+          "id": "C",
+          "text": "屋上 (Okujou)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'B1' හෙවත් බිම් මට්ටමට පහළ තට්ටුව '地下1階' (චිකා ඉච්චිකායි) ලෙස හඳුන්වයි."
+    },
+    {
+      "quiz_id": "qz_st_l04_033",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_10",
+      "can_do_title_sinhala": "සාප්පුවක විවෘත වේලාවන් පුවරුව කියවීම (Hours)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l04_q33_hours.png"
+      },
+      "question_text": {
+        "japanese": "営業時間の案内を見てください。何時に閉まりますか：「営業時間 10:00 - 21:00」",
+        "furigana": "[えいぎょうじかん]の[あんない]を[み]てください。[なんじ]に[し]まりますか：「[えいぎょうじかん] 10:00 - 21:00」",
+        "sinhala": "විවෘත වේලාවන් පුවරුව බලන්න. සාප්පුව වසන්නේ කීයටද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "午後9時 (21:00 - රාත්‍රී 9:00)"
+        },
+        {
+          "id": "B",
+          "text": "午前10時 (10:00 - පෙරවරු 10:00)"
+        },
+        {
+          "id": "C",
+          "text": "午後10時 (22:00 - රාත්‍රී 10:00)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'10:00 - 21:00' හි අවසන් වේලාව 21:00 හෙවත් රාත්‍රී 9:00 (午後9時) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l04_034",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "ස්ථානයක් පෙන්වා දුන් විට ස්තුති කිරීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "会話を完成させてください：\nA：「すみません、トイレはどこですか。」\nB：「あちらです。」\nA：「（　）。」",
+        "furigana": "[かいわ]を[かんせい]させてください：\nA：「すみません、トイレはどこですか。」\nB：「あちらです。」\nA：「（　）。」",
+        "sinhala": "හිස්තැනට සුදුසු ස්තුති කිරීම තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "どうもありがとうございます (ඉතාමත් ස්තුතියි)"
+        },
+        {
+          "id": "B",
+          "text": "ごめんなさい (සමාවෙන්න)"
+        },
+        {
+          "id": "C",
+          "text": "失礼します (අවසරයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ස්ථානයක් පෙන්වා දුන් පසු ස්තුති කිරීමට 'どうもありがとうございます' හෝ 'ありがとうございます' පවසයි."
+    }
+  ]
+}

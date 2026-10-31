@@ -1,0 +1,1290 @@
+{
+  "book": "Irodori Starter (A1)",
+  "lessons_covered": [
+    7,
+    8
+  ],
+  "total_questions": 34,
+  "categories": {
+    "listening_comprehension": 11,
+    "reading_comprehension": 9,
+    "grammar_and_vocabulary": 14
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_st_l07_001",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_17",
+      "can_do_title_sinhala": "උදෑසන අවදි වන වේලාව අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L07_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは毎朝何時に起きますか。",
+        "furigana": "カルロスさんは[まいあさ][なんじ]に[お]きますか。",
+        "sinhala": "කාලෝස් මහතා සෑමදාම උදෑසන අවදි වන්නේ කීයටද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "6時 (6:00)"
+        },
+        {
+          "id": "B",
+          "text": "6時半 (6:30)"
+        },
+        {
+          "id": "C",
+          "text": "7時 (7:00)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "A: カルロスさん、毎朝何時に起きますか。\nB: 6時半に起きます。",
+        "sinhala": "A: කාලෝස් මහතා, හැමදාම උදේ කීයටද අවදි වෙන්නේ?\nB: 6:30ට අවදි වෙනවා."
+      },
+      "explanation_sinhala": "කාලෝස් '6時半に起きます' (රොකු-ජි හන් - 6:30) යැයි පවසන බැවින් නිවැරදි පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l07_002",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_17",
+      "can_do_title_sinhala": "රාත්‍රියේ නිදාගන්නා වේලාව අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L07_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは夜何時に寝ますか。",
+        "furigana": "マリアさんは[よる][なんじ]に[ね]ますか。",
+        "sinhala": "මරියා රාත්‍රී කීයට නිදාගන්නවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "11時 (11:00)"
+        },
+        {
+          "id": "B",
+          "text": "11時半 (11:30)"
+        },
+        {
+          "id": "C",
+          "text": "12時 (12:00)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさん、夜は何時に寝ますか。\nB: だいたい11時に寝ます。",
+        "sinhala": "A: මරියා, රෑට කීයටද නිදාගන්නේ?\nB: සාමාන්‍යයෙන් 11ට නිදාගන්නවා."
+      },
+      "explanation_sinhala": "මරියා 'だいたい11時に寝ます' (ජූඉචි-ජි - 11:00) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l07_003",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_18",
+      "can_do_title_sinhala": "වැඩ කරන කාල පරාසය අසා තේරුම් ගැනීම (සිට ... දක්වා)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L07_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "仕事は何時から何時までですか。",
+        "furigana": "[しごと]は[なんじ]から[なんじ]までですか。",
+        "sinhala": "රැකියාවේ වේලාව කීයේ සිට කීය දක්වාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "8時半から5時半まで (8:30 - 17:30)"
+        },
+        {
+          "id": "B",
+          "text": "9時から5時まで (9:00 - 17:00)"
+        },
+        {
+          "id": "C",
+          "text": "9時から6時まで (9:00 - 18:00)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 仕事は何時から何時までですか。\nB: 8時半から5時半まで働きます。",
+        "sinhala": "A: වැඩ කීයේ සිට කීය වෙනකන්ද?\nB: 8:30 සිට 5:30 දක්වා වැඩ කරනවා."
+      },
+      "explanation_sinhala": "'8時半から5時半まで' (හචි-ජි හන් කරා ගො-ජි හන් මදේ) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l07_004",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_19",
+      "can_do_title_sinhala": "උදෑසන ආහාර පුරුද්ද අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L07_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは毎朝朝ごはんを食べますか。（◯ か ✕）",
+        "furigana": "スミスさんは[まいあさ][あさ]ごはんを[た]べますか。（◯ か ✕）",
+        "sinhala": "ස්මිත් මහතා හැමදාම උදෑසන ආහාරය ගන්නවාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, උදෑසන ආහාරය ගනී)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, උදෑසන ආහාරය නොගනී)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: スミスさん、朝ごはんは何を食べますか。\nB: 朝ごはんは食べません。コーヒーだけ飲みます。",
+        "sinhala": "A: ස්මිත් මහතා, උදේට මොනවද කන්නේ?\nB: උදේ කෑම කන්නේ නෑ. කෝපි විතරක් බොනවා."
+      },
+      "explanation_sinhala": "ස්මිත් මහතා '朝ごはんは食べません' (උදේ කෑම කන්නේ නෑ) යැයි පවසන බැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_st_l07_005",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_18",
+      "can_do_title_sinhala": "දිවා විවේක වේලාව හඳුනාගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L07_05.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "昼休みは何分間ありますか。",
+        "furigana": "[ひるやす]みは[なんぷんかん]ありますか。",
+        "sinhala": "දිවා විවේකය විනාඩි කීයක් තිබේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "45分間 (විනාඩි 45ක්)"
+        },
+        {
+          "id": "B",
+          "text": "60分間 / 1時間 (විනාඩි 60ක් / පැය 1ක්)"
+        },
+        {
+          "id": "C",
+          "text": "30分間 (විනාඩි 30ක්)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "A: 昼休みは何時からですか。\nB: 12時から1時までです。1時間あります。",
+        "sinhala": "A: දවල් විවේකය කීයේ ඉඳන්ද?\nB: 12 සිට 1 දක්වා. පැයක් තියෙනවා."
+      },
+      "explanation_sinhala": "12 සිට 1 දක්වා යනු පැයක් හෙවත් විනාඩි 60ක් (60分間 / 1時間) බැවින් පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l07_006",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_19",
+      "can_do_title_sinhala": "දිවා ආහාරය ගන්නා ස්ථානය අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L07_06.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんはいつもどこで昼ごはんを食べますか。",
+        "furigana": "カルロスさんはいつもどこで[ひる]ごはんを[た]べますか。",
+        "sinhala": "කාලෝස් සාමාන්‍යයෙන් දවල් කෑම කන්නේ කොහේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "社員食堂で (සේවක ආපනශාලාවේදී)"
+        },
+        {
+          "id": "B",
+          "text": "自分のデスクで (තම මේසයේදී)"
+        },
+        {
+          "id": "C",
+          "text": "近くのレストランで (ළඟ ඇති රෙස්ටුරන්ට් එකේදී)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさんはどこで昼ごはんを食べますか。\nB: 会社の食堂で食べます。安くておいしいですよ。",
+        "sinhala": "A: කාලෝස් දවල් කෑම කන්නේ කොහෙද?\nB: සමාගමේ කැන්ටින් එකේ කනවා. ලාභයි, ඒ වගේම රසයි."
+      },
+      "explanation_sinhala": "'会社の食堂で食べます' (සමාගමේ ආපනශාලාවේදී කනවා) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l07_007",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_18",
+      "can_do_title_sinhala": "කර්මාන්තශාලා දෛනික කාලසටහනක් කියවීම (Timetable)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l07_q07_schedule.png"
+      },
+      "question_text": {
+        "japanese": "工場のスケジュール表を見てください。午前の休憩は何時からですか。",
+        "furigana": "[こうじょう]のスケジュール[ひょう]を[み]てください。[ごぜん]の[きゅうけい]は[なんじ]からですか。",
+        "sinhala": "කාලසටහන බලන්න. උදෑසන කෙටි විවේකය (Morning break) කීයටද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "10:00 - 10:15"
+        },
+        {
+          "id": "B",
+          "text": "12:00 - 13:00"
+        },
+        {
+          "id": "C",
+          "text": "15:00 - 15:15"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාලසටහනේ උදෑසන විවේකය '10:00〜10:15 休憩' ලෙස සටහන්ව ඇත."
+    },
+    {
+      "quiz_id": "qz_st_l07_008",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_18",
+      "can_do_title_sinhala": "සායනයක විවෘත වේලාවන් පුවරුව කියවීම (Clinic Hours)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l07_q08_clinic.png"
+      },
+      "question_text": {
+        "japanese": "病院の診療案内を見てください。午後の診療は何時から何時までですか。",
+        "furigana": "[びょういん]の[しんりょうあんない]を[み]てください。[ごご]の[しんりょう]は[なんじ]から[なんじ]までですか。",
+        "sinhala": "රෝහල් පුවරුව බලන්න. සවස් කාලයේ ප්‍රතිකාර වේලාව කීයේ සිට කීය දක්වාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "14:00 - 18:00"
+        },
+        {
+          "id": "B",
+          "text": "09:00 - 12:30"
+        },
+        {
+          "id": "C",
+          "text": "13:00 - 17:00"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ '午後 14:00〜18:00' ලෙස පැහැදිලිව මුද්‍රණය කර ඇත."
+    },
+    {
+      "quiz_id": "qz_st_l07_009",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_18",
+      "can_do_title_sinhala": "පුස්තකාල විවෘත වේලාවන් පිළිබඳ සත්‍ය/අසත්‍ය තේරීම",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l07_q09_library.png"
+      },
+      "question_text": {
+        "japanese": "図書館は夜8時まで開いていますか。（◯ か ✕）",
+        "furigana": "[としょかん]は[よる]8[じ]まで[あ]いていますか。（◯ か ✕）",
+        "sinhala": "පුස්තකාලය රාත්‍රී 8:00 දක්වා විවෘතව තිබේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ '開館時間 09:30〜20:00' (20:00 යනු රාත්‍රී 8:00) ලෙස ඇති බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_st_l07_010",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_17",
+      "can_do_title_sinhala": "දෛනික දිනපොත් සටහනක් කියවා නිදාගත් වේලාව සෙවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l07_q10_diary.png"
+      },
+      "question_text": {
+        "japanese": "日記を見てください。何時に寝ましたか：「23:30 就寝」",
+        "furigana": "[にっき]を[み]てください。[なんじ]に[ね]ましたか：「23:30 [しゅうしん]」",
+        "sinhala": "දිනපොත බලන්න. නිදාගෙන ඇත්තේ කීයටද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "11時半 (23:30)"
+        },
+        {
+          "id": "B",
+          "text": "11時 (23:00)"
+        },
+        {
+          "id": "C",
+          "text": "12時半 (00:30)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'23:30 就寝' (නිදාගැනීම) යනු රාත්‍රී 11:30 (11時半) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l07_011",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_17",
+      "can_do_title_sinhala": "නිශ්චිත වේලාවක් සමඟ 'に' නිපාතය භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「毎朝7時（　）起きます。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「[まいあさ]7[じ]（　）[お]きます。」",
+        "sinhala": "'හැමදාම උදේ 7ට අවදි වෙනවා' යැයි කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "に (ni)"
+        },
+        {
+          "id": "B",
+          "text": "で (de)"
+        },
+        {
+          "id": "C",
+          "text": "を (o)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ඉලක්කම් සහිත නිශ්චිත වේලාවක් සමඟ ක්‍රියාවක් කිරීම දැක්වීමට 'に' (ni) නිපාතය යෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l07_012",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_17",
+      "can_do_title_sinhala": "සාපේක්ෂ කාල පද සමඟ 'に' නොයෙදීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "助詞「に」がつかない言葉はどれですか。",
+        "furigana": "[じょし]「に」がつかない[ことば]はどれですか。",
+        "sinhala": "'に' (ni) නිපාතය නොයෙදෙන කාල පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "あした (හෙට)"
+        },
+        {
+          "id": "B",
+          "text": "7時 (7:00)"
+        },
+        {
+          "id": "C",
+          "text": "月曜日 (සඳුදා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "きょう (අද), あした (හෙට), まいにち (දිනපතා) වැනි සාපේක්ෂ කාල පද පිටුපසට 'に' නිපාතය නොයෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l07_013",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_19",
+      "can_do_title_sinhala": "ක්‍රියාවක් කරන ස්ථානය දැක්වීමට 'で' භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「家（　）テレビを見ます。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「[いえ]（　）テレビを[み]ます。」",
+        "sinhala": "'නිවසේදී රූපවාහිනිය බලනවා' යැයි කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "で (de)"
+        },
+        {
+          "id": "B",
+          "text": "に (ni)"
+        },
+        {
+          "id": "C",
+          "text": "へ (e)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාකාරකමක් සිදුවන ස්ථානය (Action location) දැක්වීමට 'で' (de) නිපාතය යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_st_l07_014",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "can_do_id": "cando_st_17",
+      "can_do_title_sinhala": "විනාඩි 30 හැඳින්වීමේ විශේෂ වචනය (半 - Han)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「7:30」の別の言い方はどれですか。",
+        "furigana": "「7:30」の[べつ]の[い]い[かた]はどれですか。",
+        "sinhala": "'7:30' යන්න පැවසීමට යොදන තවත් නිවැරදි වචනයක් කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "7時半 (Shichi-ji han)"
+        },
+        {
+          "id": "B",
+          "text": "7時前 (Shichi-ji mae)"
+        },
+        {
+          "id": "C",
+          "text": "7時分 (Shichi-ji fun)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපන් බසින් විනාඩි 30 සඳහා '30分' (Sanjuppun) මෙන්ම '半' (Han - භාගය/හමාර) ද භාවිත කරයි."
+    },
+    {
+      "quiz_id": "qz_st_l08_015",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "ඊයේ කළ ක්‍රියාකාරකම් අසා තේරුම් ගැනීම (Past tense)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L08_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは昨日何をしましたか。",
+        "furigana": "カルロスさんは[きのう][なに]をしましたか。",
+        "sinhala": "කාලෝස් මහතා ඊයේ කුමක් කළාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "部屋を掃除して、洗濯しました (කාමරය අස් කර, රෙදි සේදුවා)"
+        },
+        {
+          "id": "B",
+          "text": "映画を見に行きました (චිත්‍රපටයක් බලන්න ගියා)"
+        },
+        {
+          "id": "C",
+          "text": "一日中寝ました (දවස පුරා නිදාගත්තා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、昨日の休みは何をしましたか。\nB: 部屋の掃除と洗濯をしました。どこへも行きませんでした。",
+        "sinhala": "A: කාලෝස්, ඊයේ නිවාඩුවට මොකද කළේ?\nB: කාමරය අස්පස් කරලා රෙදි සේදුවා. කොහේවත් ගියේ නෑ."
+      },
+      "explanation_sinhala": "කාලෝස් '掃除と洗濯をしました' (පිරිසිදු කර රෙදි සේදුවා) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l08_016",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "සති අන්තයේ ගිය ස්ථානය හඳුනාගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L08_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは日曜日どこへ行きましたか。",
+        "furigana": "マリアさんは[にちようび]どこへ[い]きましたか。",
+        "sinhala": "මරියා ඉරිදා දින ගියේ කොහේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "友達とデパートへ買い物に行きました (මිතුරිය සමඟ සාප්පු සවාරි)"
+        },
+        {
+          "id": "B",
+          "text": "病院へ行きました (රෝහලට ගියා)"
+        },
+        {
+          "id": "C",
+          "text": "図書館で勉強しました (පුස්තකාලයේ පාඩම් කළා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさん、日曜日は何をしましたか。\nB: 友達とデパートへ行って、買い物をしました。",
+        "sinhala": "A: මරියා, ඉරිදා මොකද කළේ?\nB: යාළුවෙක් එක්ක ඩිපාර්ට්මන්ට් ස්ටෝර් එකට ගිහින් ෂොපින් කළා."
+      },
+      "explanation_sinhala": "මරියා 'デパートへ行って、買い物をしました' (සාප්පු සවාරි ගියා) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l08_017",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "කිසිවක් නොකළ බව අසා තේරුම් ගැනීම (～ませんでした)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L08_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは先週の土曜日に出かけましたか。（◯ か ✕）",
+        "furigana": "スミスさんは[せんしゅう]の[どようび]に[で]かけましたか。（◯ か ✕）",
+        "sinhala": "ස්මිත් මහතා ගිය සෙනසුරාදා එළියට ගියාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, පිටතට ගියේය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, නිවසේ රැඳී සිටියේය)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: スミスさん、土曜日はどこかへ行きましたか。\nB: いいえ、疲れていたので、どこへも行きませんでした。家でずっと寝ていました。",
+        "sinhala": "A: ස්මිත් මහතා, සෙනසුරාදා කොහේ හරි ගියාද?\nB: නැහැ, මහන්සි නිසා කොහේවත් ගියේ නෑ. ගෙදරම නිදාගත්තා."
+      },
+      "explanation_sinhala": "ඔහු 'どこへも行きませんでした' (කොහේවත් ගියේ නෑ) යැයි පවසන බැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_st_l08_018",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_21",
+      "can_do_title_sinhala": "සතියේ දිනයන් අසා හඳුනාගැනීම (Days of the week)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L08_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "日本語のテストは何曜日ですか。",
+        "furigana": "[にほんご]のテストは[なんようび]ですか。",
+        "sinhala": "ජපන් භාෂා පරීක්ෂණය ඇත්තේ සතියේ කුමන දිනයේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "水曜日 (බදාදා)"
+        },
+        {
+          "id": "B",
+          "text": "金曜日 (සිකුරාදා)"
+        },
+        {
+          "id": "C",
+          "text": "月曜日 (සඳුදා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 先生、テストは何曜日ですか。\nB: 今週の水曜日ですよ。忘れないでくださいね。",
+        "sinhala": "A: ගුරුතුමනි, විභාගය තියෙන්නේ මොන දවසේද?\nB: මේ සතියේ බදාදා. අමතක කරන්න එපා."
+      },
+      "explanation_sinhala": "ගුරුවරයා '水曜日ですよ' (සුයෝබි - බදාදා) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l08_019",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "අතීත අත්දැකීමක් ගැන අදහස අසා තේරුම් ගැනීම (Past Adjective)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L08_05.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "映画はどうでしたか。",
+        "furigana": "[えいが]はどうでしたか。",
+        "sinhala": "චිත්‍රපටය කෙබඳු එකක් වීද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "とても面白かったです (ඉතා රසවත් වුණා)"
+        },
+        {
+          "id": "B",
+          "text": "あまり面白くなかったです (එතරම් රසවත් වුණේ නෑ)"
+        },
+        {
+          "id": "C",
+          "text": "難しかったです (අමාරු වුණා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 昨日見た映画はどうでしたか。\nB: とても面白かったですよ！また見たいです。",
+        "sinhala": "A: ඊයේ බලපු චිත්‍රපටය කොහොමද?\nB: හරිම රසවත් වුණා! ආයෙත් බලන්න ආසයි."
+      },
+      "explanation_sinhala": "කථකයා 'とても面白かったですよ' (ඉතා රසවත් වුණා) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l08_020",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_21",
+      "can_do_title_sinhala": "දින දර්ශනයක් කියවා නිවාඩු දිනයන් සෙවීම (Calendar)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l08_q20_calendar.png"
+      },
+      "question_text": {
+        "japanese": "カレンダーを見てください。会社の定休日は何曜日ですか。",
+        "furigana": "カレンダーを[み]てください。[かいしゃ]の[ていきゅうび]は[なんようび]ですか。",
+        "sinhala": "දින දර්ශනය බලන්න. සමාගමේ සතිපතා නිවාඩු දිනය (Closed day) කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "日曜日と月曜日 (ඉරිදා සහ සඳුදා)"
+        },
+        {
+          "id": "B",
+          "text": "土曜日と日曜日 (සෙනසුරාදා සහ ඉරිදා)"
+        },
+        {
+          "id": "C",
+          "text": "水曜日 (බදාදා)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": null,
+      "explanation_sinhala": "දින දර්ශනයේ සෙනසුරාදා (土) නිල් පාටින්ද ඉරිදා (日) රතු පාටින්ද නිවාඩු ලෙස සටහන්ව ඇත."
+    },
+    {
+      "quiz_id": "qz_st_l08_021",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_21",
+      "can_do_title_sinhala": "රැකියා මුර ලැයිස්තුවක් කියවීම (Shift Schedule)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l08_q21_shift.png"
+      },
+      "question_text": {
+        "japanese": "シフト表を見てください。カルロスさんの次の休みは何日ですか。",
+        "furigana": "シフト[ひょう]を[み]てください。カルロスさんの[つぎ]の[やす]みは[なんにち]ですか。",
+        "sinhala": "රැකියා මුර සටහන බලන්න. කාලෝස්ගේ ඊළඟ නිවාඩු දිනය කවදාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "15日 (15 වැනිදා)"
+        },
+        {
+          "id": "B",
+          "text": "16日 (16 වැනිදා)"
+        },
+        {
+          "id": "C",
+          "text": "18日 (18 වැනිදා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "මුර ලැයිස්තුවේ කාලෝස්ගේ නම ඉදිරියෙන් 15 වන දින '休' (Yasumi - නිවාඩු) ලෙස ලකුණු කර ඇත."
+    },
+    {
+      "quiz_id": "qz_st_l08_022",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_21",
+      "can_do_title_sinhala": "කසළ බැහැර කරන දින දර්ශනයක් කියවීම (Garbage days)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l08_q22_trashday.png"
+      },
+      "question_text": {
+        "japanese": "ゴミカレンダーを見てください。「もえるゴミ」の日は何曜日ですか。",
+        "furigana": "ゴミカレンダーを[み]てください。「もえるゴミ」の[ひ]は[なんようび]ですか。",
+        "sinhala": "කසළ දින දර්ශනය බලන්න. දහනය වන කුණු (Burnable trash) දමන දින මොනවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "火曜日と金曜日 (අඟහරුවාදා සහ සිකුරාදා)"
+        },
+        {
+          "id": "B",
+          "text": "月曜日と木曜日 (සඳුදා සහ බ්‍රහස්පතින්දා)"
+        },
+        {
+          "id": "C",
+          "text": "水曜日のみ (බදාදා පමණි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දින දර්ශනයේ '燃えるゴミ: 火・金' (අඟහරුවාදා සහ සිකුරාදා) ලෙස දක්වා ඇත."
+    },
+    {
+      "quiz_id": "qz_st_l08_023",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "මිතුරෙකුගේ කෙටි පණිවිඩයක් කියවා තේරුම් ගැනීම (SNS post)",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "SNSの投稿を読んでください：「昨日は友達と京都へ行きました。天気がよくて、楽しかったです！」友達と東京へ行きましたか。（◯ か ✕）",
+        "furigana": "SNSの[とうこう]を[よ]んでください：「[きのう]は[ともだち]と[きょうと]へ[い]きました。[てんき]がよくて、[たの]しかったです！」[ともだち]と[とうきょう]へ[い]きましたか。（◯ か ✕）",
+        "sinhala": "සටහන කියවන්න: 'ඊයේ යාළුවා එක්ක කියෝතෝ ගියා. කාලගුණය හොඳයි, හරිම විනෝදයි!' ඔවුන් ගියේ ටෝකියෝවලටද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": null,
+      "explanation_sinhala": "ඔවුන් ගොස් ඇත්තේ කියෝතෝ නගරයට (京都へ行きました) මිස ටෝකියෝවලට නොවන බැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_st_l08_024",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "අතීත කාල ක්‍රියාපද (V-ました)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "過去の文を作ってください：「昨日、日本語を（　）。」",
+        "furigana": "[かこ]の[ぶん]を[つく]ってください：「[きのう]、[にほんご]を（　）。」",
+        "sinhala": "'ඊයේ මම ජපන් පාඩම් කළා' යැයි පැවසීමට ගැළපෙන අතීත ක්‍රියාපදය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "勉強しました (Benkyou shimashita)"
+        },
+        {
+          "id": "B",
+          "text": "勉強します (Benkyou shimasu)"
+        },
+        {
+          "id": "C",
+          "text": "勉強でした (Benkyou deshita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අතීතයේ සිදුවූ ක්‍රියාවක් විනීතව දැක්වීමට 'V-ました' (mashita) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l08_025",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "අතීත සෘණාත්මක ක්‍රියාපද (V-ませんでした)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「今朝は何も食べませんでした」の「食べませんでした」の意味は何ですか。",
+        "furigana": "「[けさ]は[なに]も[た]べませんでした」の「[た]べませんでした」の[いみ]は[なん]ですか。",
+        "sinhala": "'Tabemasen deshita' යන්නෙන් අදහස් වන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "කෑවේ නැත (Did not eat)"
+        },
+        {
+          "id": "B",
+          "text": "කන්නේ නැත (Do not eat)"
+        },
+        {
+          "id": "C",
+          "text": "කෑවේය (Ate)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'～ませんでした' යනු ක්‍රියාපදයක අතීත කාල සෘණාත්මක (Past Negative) ස්වරූපයයි."
+    },
+    {
+      "quiz_id": "qz_st_l08_026",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "අතීත අත්දැකීමක් කොහොමදැයි විමසීම (どうでしたか)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "過去の感想をたずねる表現を選んでください：「旅行は（　）。」",
+        "furigana": "[かこ]の[かんそう]をたずねる[ひょうげん]を[えら]んでください：「[りょこう]は（　）。」",
+        "sinhala": "'සංචාරය කොහොම තිබුණාද?' කියා අතීත අත්දැකීමක් විමසීමට ගැළපෙන පදය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "どうでしたか (Dou deshita ka)"
+        },
+        {
+          "id": "B",
+          "text": "どうですか (Dou desu ka)"
+        },
+        {
+          "id": "C",
+          "text": "何ですか (Nan desu ka)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අතීතයේ සිදුවූ දෙයක් කොහොමද කියා විමසීමට 'どうでしたか' (Dou deshita ka) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_st_l08_027",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "ගමන් කළ දිශාව දැක්වීමට 'へ' නිපාතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「日曜日、デパート（　）行きました。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「[にちようび]、デパート（　）[い]きました。」",
+        "sinhala": "'ඉරිදා මම ඩිපාර්ට්මන්ට් ස්ටෝර් එකට ගියා' යැයි කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "へ (e)"
+        },
+        {
+          "id": "B",
+          "text": "で (de)"
+        },
+        {
+          "id": "C",
+          "text": "を (o)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ගමන් කරන දිශාව හෝ ගමනාන්තය දැක්වීමට 'へ' (e ලෙස ශබ්ද වන) හෝ 'に' යොදයි."
+    },
+    {
+      "quiz_id": "qz_st_l08_028",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_21",
+      "can_do_title_sinhala": "සඳුදා දිනය හඳුන්වන කන්ජි අක්ෂරය (月曜日)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「月曜日」の読み方はどれですか。",
+        "furigana": "「[げつようび]」の[よ]み[かた]はどれですか。",
+        "sinhala": "'月曜日' (සඳුදා) හි නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "げつようび (Getsuyoubi)"
+        },
+        {
+          "id": "B",
+          "text": "かようび (Kayoubi)"
+        },
+        {
+          "id": "C",
+          "text": "すいようび (Suiyoubi)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'月曜日' යනු සඳුදා (Getsuyoubi) වේ. '火曜日' අඟහරුවාදා වන අතර '水曜日' බදාදා වේ."
+    },
+    {
+      "quiz_id": "qz_st_l08_029",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "'ඊයේ' යන අර්ථය දෙන වචනය (昨日)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「昨日」の正しい読み方はどれですか。",
+        "furigana": "「[きのう]」の[ただ]しい[よ]み[かた]はどれですか。",
+        "sinhala": "'昨日' (ඊයේ) කන්ජි පදයේ නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "きのう (Kinou)"
+        },
+        {
+          "id": "B",
+          "text": "きょう (Kyou)"
+        },
+        {
+          "id": "C",
+          "text": "あした (Ashita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'昨日' යනු 'きのう' (Kinou - ඊයේ) වේ. '今日' අද (Kyou) වන අතර '明日' හෙට (Ashita) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l08_030",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "සති අන්තය හැඳින්වීම (週末 / Shuumatsu)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "土曜日と日曜日を表す言葉は何ですか。",
+        "furigana": "[どようび]と[にちようび]を[あらわ]す[ことば]は[なん]ですか。",
+        "sinhala": "සෙනසුරාදා සහ ඉරිදා හෙවත් 'සති අන්තය' (Weekend) හඳුන්වන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "週末 (Shuumatsu)"
+        },
+        {
+          "id": "B",
+          "text": "平日 (Heijitsu - සතියේ දින)"
+        },
+        {
+          "id": "C",
+          "text": "祝日 (Shukujitsu - රජයේ නිවාඩු)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සති අන්තය ජපන් බසින් '週末' (Shuumatsu) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_st_l08_031",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "තනිවම කළ බව දැක්වීම (ひとりで)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「一人（　）映画を見に行きました。」に入る正しい助詞はどれですか。",
+        "furigana": "「[ひとり]（　）[えいが]を[み]に[い]きました。」に[はい]る[ただ]しい[じょし]はどれですか。",
+        "sinhala": "'තනිවම චිත්‍රපටයක් බලන්න ගියා' යැයි කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "で (de)"
+        },
+        {
+          "id": "B",
+          "text": "と (to)"
+        },
+        {
+          "id": "C",
+          "text": "に (ni)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තනිවම ක්‍රියාවක් කළ බව දැක්වීමේදී 'と' නොයෙදේ, 'ひとりで' (Hitori de - තනියම) ලෙස 'で' නිපාතය යෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l08_032",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "ගෙදර දොර වැඩ හඳුනාගැනීම (රෙදි සේදීම / 洗濯)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "服を洗うことを何と言いますか。",
+        "furigana": "[ふく]を[あら]うことを[なん]と[い]いますか。",
+        "sinhala": "ඇඳුම් පැළඳුම් සේදීම හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "洗濯 (Sentaku)"
+        },
+        {
+          "id": "B",
+          "text": "掃除 (Souji - අස්පස් කිරීම)"
+        },
+        {
+          "id": "C",
+          "text": "料理 (Ryouri - ඉවුම් පිහුම්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "රෙදි සේදීම '洗濯' (සෙන්තකු) වන අතර කාමර පිරිසිදු කිරීම '掃除' (සෝජි) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l08_033",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_21",
+      "can_do_title_sinhala": "දින කෙටි කර ලියා ඇති ආකාරය කියවීම ((金) = Siku)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l08_q33_event.png"
+      },
+      "question_text": {
+        "japanese": "イベント案内に「10月23日（金）」とあります。「（金）」は何曜日ですか。",
+        "furigana": "イベント[あんない]に「10[がつ]23[にち]（[きん]）」とあります。「（[きん]）」は[なんようび]ですか。",
+        "sinhala": "දැන්වීමේ '10月23日（金）' ලෙස දක්වා ඇති විට '（金）' යනු සතියේ කුමන දිනයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "金曜日 (සිකුරාදා)"
+        },
+        {
+          "id": "B",
+          "text": "木曜日 (බ්‍රහස්පතින්දා)"
+        },
+        {
+          "id": "C",
+          "text": "土曜日 (සෙනසුරාදා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ දින කෙටි කර දැක්වීමේදී වරහන් තුළ තනි අකුරක් යොදයි. '（金）' යනු 金曜日 (සිකුරාදා) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l08_034",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "can_do_id": "cando_st_20",
+      "can_do_title_sinhala": "සඳුදා උදෑසන නිවාඩුව ගැන අසන සංවාදයක් පිළිවෙලට සැකසීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "月曜日の朝の自然な会話に並べ替えてください：\n1: 週末はどうでしたか\n2: おはようございます\n3: 楽しかったです。友達と映画を見ました\n4: おはようございます",
+        "furigana": "[げつようび]の[あさ]の[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [しゅうまつ]はどうでしたか\n2: おはようございます\n3: [たの]しかったです。[ともだち]と[えいが]を[み]ました\n4: おはようございます",
+        "sinhala": "සඳුදා උදෑසන සගයන් දෙදෙනෙකු අතර වන සංවාදයේ නිවැරදි අනුපිළිවෙල කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 4 -> 1 -> 3"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 3 -> 2 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 1 -> 4 -> 2"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "මුලින් සුබ උදෑසනක් කියා ආචාර කරයි (2 -> 4). ඉන්පසු 'සති අන්තය කොහොමද?' කියා අසයි (1), පසුව ඊට පිළිතුරු දෙයි (3)."
+    }
+  ]
+}
