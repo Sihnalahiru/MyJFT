@@ -1,0 +1,915 @@
+{
+  "book": "Irodori Elementary 2 (A2.2)",
+  "lessons_covered": [
+    7,
+    8
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e2_l07_001",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_21",
+      "can_do_title_sinhala": "නගරයේ අලුතින් සිදුවන දේ පිළිබඳ ආරංචි අසා තේරුම් ගැනීම (～そうです)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L07_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "駅前に何ができると聞いていますか。",
+        "furigana": "[えきまえ]に[なに]ができると[き]いていますか。",
+        "sinhala": "දුම්රියපළ ඉදිරිපිට අලුතින් ඉදිවීමට නියමිත බවට ආරංචි වී ඇත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "大きなショッピングモール (විශාල සාප්පු සංකීර්ණයක්)"
+        },
+        {
+          "id": "B",
+          "text": "新しい市役所 (නව නගර ශාලාවක්)"
+        },
+        {
+          "id": "C",
+          "text": "総合病院 (මහ රෝහලක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、聞きましたか。駅の北口に大きなショッピングモールができるそうですよ。\nB: へえ、本当ですか！映画館やレストランも入るんですか。\nA: ええ、来年の春オープンの予定だそうです。便利になりますね。",
+        "sinhala": "A: කාලෝස් මහතා, ආරංචි වුණාද? ස්ටේෂන් එකේ උතුරු දොරටුව ඉදිරිපිට ලොකු ෂොපින් මෝල් එකක් හැදෙනවලු (できるそうですよ).\nB: ආ, ඇත්තටමද! සිනමාහල් සහ රෙස්ටුරන්ට් එහෙමත් එනවද?\nA: ඔව්, ලබන වසරේ වසන්තයේ විවෘත කරන්න නියමිතයිලු. පහසු වේවි නේද."
+      },
+      "explanation_sinhala": "කථකයා '大きなショッピングモールができるそうですよ' (ලොකු සාප්පු සංකීර්ණයක් හැදෙනවලු) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l07_002",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_21",
+      "can_do_title_sinhala": "පෙනුම අනුව සිදුවෙන්න ළඟ බව අනුමාන කිරීම (～そう)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L07_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "外の様子を見て、二人は何と言っていますか。",
+        "furigana": "[そと]の[ようす]を[み]て、[ふたり]は[なん]と[い]っていますか。",
+        "sinhala": "එළියේ තත්ත්වය බලා දෙදෙනා පවසන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "今にも雨が降りそうだ (දැන්ම වැස්ස වහින්න ළඟයි වගේ)"
+        },
+        {
+          "id": "B",
+          "text": "雪が積もりそうだ (හිම පිරෙන්න ළඟයි වගේ)"
+        },
+        {
+          "id": "C",
+          "text": "台風が来そうだ (ටයිෆූන් කුණාටුවක් එන්න ළඟයි වගේ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 急に空が暗くなってきましたね。\nB: 本当ですね。黒い雲がたくさんあります。今にも雨が降りそうですよ。\nA: 洗濯物を取り込んで、窓を閉めましょう。",
+        "sinhala": "A: එකපාරටම අහස අඳුරු වුණා නේද.\nB: ඇත්තෙන්ම. කළු වලාකුළු පිරිලා. දැන්ම වැස්ස වහින්න ළඟයි වගේ (今にも雨が降りそうですよ).\nA: වේලෙන්න දාපු රෙදි අරගෙන ජනෙල් වහමු."
+      },
+      "explanation_sinhala": "කථකයා '今にも雨が降りそうですよ' (දැන්ම වැස්ස වහින්න ළඟයි වගේ) යැයි අනුමාන කරන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l07_003",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_22",
+      "can_do_title_sinhala": "ඓතිහාසික ගොඩනැගිල්ලක් ගැන ප්‍රවෘත්තියක් අසා තේරුම් ගැනීම (අක්‍රිය කාරකය / Passive)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L07_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "町のお寺について、どんなニュースがありましたか。",
+        "furigana": "[まち]のお[てら]について、どんなニュースがありましたか。",
+        "sinhala": "නගරයේ පන්සල පිළිබඳව අසන්නට ලැබුණු පුවත කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "400年前に建てられた本堂が修復された (වසර 400කට පෙර ඉදිකළ ප්‍රධාන ශාලාව ප්‍රතිසංස්කරණය කරන ලදී)"
+        },
+        {
+          "id": "B",
+          "text": "火事で焼けてしまった (ගින්නෙන් විනාශ විය)"
+        },
+        {
+          "id": "C",
+          "text": "新しいお寺が建設された (නව පන්සලක් ඉදිකරන ලදී)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "ニュース: この寺の本堂は、約400年前に有名な大工によって建てられました。この度、5年間の大規模な修復工事が無事に完了し、一般公開されました。",
+        "sinhala": "පුවත්: මෙම විහාරයේ ප්‍රධාන ශාලාව මීට වසර 400කට පමණ පෙර ප්‍රසිද්ධ වඩුවෙකු විසින් ඉදිකරන ලදී (建てられました). වසර 5ක් පුරා පැවති මහා ප්‍රතිසංස්කරණ කටයුතු සාර්ථකව අවසන් වී දැන් මහජනතාවට විවෘත කර ඇත."
+      },
+      "explanation_sinhala": "ප්‍රවෘත්තියේ '400年前に...建てられました' (වසර 400කට පෙර ඉදිකරන ලදී) සහ ප්‍රතිසංස්කරණය කළ බව පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l07_004",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_21",
+      "can_do_title_sinhala": "තත්ත්වය අනුව පෙනෙන විදිහ විස්තර කිරීම (～みたい)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L07_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "駅の前の通りで事故があったようです。（◯ か ✕）",
+        "furigana": "[えき]の[まえ]の[とお]りで[じこ]があったようです。（◯ か ✕）",
+        "sinhala": "දුම්රියපළ ඉදිරිපිට පාරේ අනතුරක් සිදුවී ඇති බවක් පෙනේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, අනතුරක් සිදුවී ඇති බවක් පෙනේ)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, සාමාන්‍ය තදබදයකි)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: バスが全然進みませんね。パトカーや救急車のサイレンが聞こえますよ。\nB: 前のほうで車がぶつかったみたいですね。事故があったようです。",
+        "sinhala": "A: බස් එක කොහෙත්ම ඉස්සරහට යන්නේ නෑනේ. පොලිස් සහ ගිලන් රථ සයිරන් ශබ්දත් ඇහෙනවා.\nB: ඉස්සරහින් වාහන හැපිලා වගේ (ぶつかったみたい). අනතුරක් වෙලා වගේ පේනවා (事故があったようです)."
+      },
+      "explanation_sinhala": "සයිරන් ශබ්ද සහ වාහන අනතුරක් සිදුවී ඇති බව '事故があったようです' යැයි පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l07_005",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_23",
+      "can_do_title_sinhala": "නාගරික පුවත් පත්‍රිකාවක් කියවීම (Town Newsletter)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l07_q05_newsletter.png"
+      },
+      "question_text": {
+        "japanese": "「広報ひがし」の記事を読んでください。新しい市民プールはいつオープンしますか。",
+        "furigana": "「[こうほう]ひがし」の[きじ]を[よ]んでください。[あたら]しい[しみん]プールはいつオープンしますか。",
+        "sinhala": "ප්‍රජා පුවත්පත කියවන්න. අලුත් නාගරික පිහිනුම් තටාකය විවෘත වන්නේ කවදාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "7月1日（金）オープン予定 (ජූලි 1 වන සිකුරාදා)"
+        },
+        {
+          "id": "B",
+          "text": "8月31日まで (අගෝස්තු 31 දක්වා)"
+        },
+        {
+          "id": "C",
+          "text": "来年の夏 (ලබන වසරේ ගිම්හානයේ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ලිපියේ '市民温水プールが完成！7月1日（金）より一般利用開始' ලෙස සඳහන් වන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l07_006",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_23",
+      "can_do_title_sinhala": "උත්සවයක් කල් දැමීමේ නිවේදනයක් කියවීම (Postponement Notice)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l07_q06_postpone.png"
+      },
+      "question_text": {
+        "japanese": "張り紙を見てください。花火大会（はなびたいかい）はどうなりましたか。",
+        "furigana": "[は]り[がみ]を[み]てください。[はなびたいかい]はどうなりましたか。",
+        "sinhala": "දැන්වීම බලන්න. ගිනිකෙළි සංදර්ශනයට (Hanabi Taikai) සිදුවූයේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "台風のため、翌週の日曜日に延期された (ටයිෆූන් කුණාටුව නිසා ඊළඟ සතියේ ඉරිදාට කල් දමන ලදී)"
+        },
+        {
+          "id": "B",
+          "text": "完全に中止になった (සම්පූර්ණයෙන්ම අවලංගු විය)"
+        },
+        {
+          "id": "C",
+          "text": "予定通り実施された (නියමිත පරිදි පවත්වන ලදී)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ '台風接近に伴い、花火大会は来週日曜日に延期いたします' (කල් දමන ලදී) ලෙස දක්වා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l07_007",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_21",
+      "can_do_title_sinhala": "අසන්නට ලැබුණු ආරංචි ප්‍රකාශ කිරීමේ වාක්‍ය රටාව (～そうです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「天気予報で明日は雨だと言っていた」を伝える正しい文はどれですか。",
+        "furigana": "「[てんきよほう]で[あした]は[あめ]だと[い]っていた」を[つた]える[ただ]しい[ぶん]はどれですか。",
+        "sinhala": "'හෙට වැස්සලු' (ආරංචියි) යන අර්ථය දෙන නිවැරදි වාක්‍යය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "明日は雨だそうです (Ashita wa ame da sou desu)"
+        },
+        {
+          "id": "B",
+          "text": "明日は雨そうです (Ashita wa ame sou desu)"
+        },
+        {
+          "id": "C",
+          "text": "明日は雨でしょうそうです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නාමපදයක් සමඟ ආරංචි දැක්වීමේදී (Hearsay) 'Noun + だ + そうです' (雨だそうです) යෙදිය යුතුය."
+    },
+    {
+      "quiz_id": "qz_e2_l07_008",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_21",
+      "can_do_title_sinhala": "පෙනුම අනුව අනුමාන කිරීම (Oishisou desu)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "料理を見て「おいしそうに見える（It looks delicious）」ときの正しい表現はどれですか。",
+        "furigana": "[りょうり]を[み]て「おいしそうに[み]える」ときの[ただ]しい[ひょうげん]はどれですか。",
+        "sinhala": "කෑමක් දෙස බලා 'රස පාටයි / රසවත් බවක් පෙනෙනවා' යැයි පවසන නිවැරදි ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "おいしそうです (Oishisou desu)"
+        },
+        {
+          "id": "B",
+          "text": "おいしいそうです (Oishii sou desu - රසවත්ලු / ආරංචියි)"
+        },
+        {
+          "id": "C",
+          "text": "おいしくだそうです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පෙනුම අනුව අනුමාන කිරීමේදී (Visual impression) 'い' අකුර ඉවත් කර 'そうです' එකතු කරයි (おいしそうです). 'おいしいそうです' යනු ආරංචියි යන්නයි."
+    },
+    {
+      "quiz_id": "qz_e2_l07_009",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_22",
+      "can_do_title_sinhala": "අනුන් විසින් කරන ලද නිමැවුම් දැක්වීමට 'によって' භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「この絵は有名な画家（　）描かれました。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「この[え]は[ゆうめい]な[がか]（　）[か]かれました。」",
+        "sinhala": "'මෙම චිත්‍රය ප්‍රසිද්ධ චිත්‍ර ශිල්පියෙකු විසින් අඳින ලදී' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "によって (ni yotte - විසින්)"
+        },
+        {
+          "id": "B",
+          "text": "について (ni tsuite - ගැන)"
+        },
+        {
+          "id": "C",
+          "text": "にとって (ni totte - අනුව)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නිර්මාණයක්, ගොඩනැගිල්ලක් යම් නිර්මාණකරුවෙකු විසින් කරන ලද බව දැක්වීමට අක්‍රිය කාරකයේදී 'によって' (ni yotte - By) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l07_010",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_23",
+      "can_do_title_sinhala": "කල් දැමීම හඳුන්වන වචනය (延期 / Enki)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "イベントの日程を後の日に変えること（Postpone）は何と言いますか。",
+        "furigana": "イベントの[にってい]を[あと]の[ひ]に[か]えること（Postpone）は[なん]と[い]いますか。",
+        "sinhala": "උත්සවයක දිනය පසුවට දැමීම හෙවත් 'කල් දැමීම' (Postpone) හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "延期（えんき）- Enki"
+        },
+        {
+          "id": "B",
+          "text": "中止（ちゅうし）- Chuushi (අවලංගු කිරීම)"
+        },
+        {
+          "id": "C",
+          "text": "終了（しゅうりょう）- Shuuryou (අවසන් වීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දිනය පසුවට කල් දැමීම '延期' (එන්කි - Postpone) වේ. සම්පූර්ණයෙන්ම නතර කිරීම '中止' (චූෂි - Cancel) වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l07_011",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_21",
+      "can_do_title_sinhala": "මාතෘකාව හෝ කතාබහට ලක්වන පුවත (話題 / Wadai)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "町の人々の間で注目されているニュースや話のテーマを何と言いますか。",
+        "furigana": "[まち]の[ひとびと]の[あいだ]で[ちゅうもく]されているニュースや[はなし]のテーマを[なん]と[い]いますか。",
+        "sinhala": "මිනිසුන් අතර වැඩි අවධානයට ලක්වන මාතෘකාව හෝ පුවත හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "話題（わだい）- Topic / Hot topic"
+        },
+        {
+          "id": "B",
+          "text": "問題（もんだい）- ප්‍රශ්නය / ගැටලුව"
+        },
+        {
+          "id": "C",
+          "text": "宿題（しゅくだい）- ගෙදර වැඩ"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කතාබහට ලක්වන ප්‍රධාන මාතෘකාව හෙවත් Hot topic '話題' (වදායි) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l07_012",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "can_do_id": "cando_e2_21",
+      "can_do_title_sinhala": "නගරයේ අලුත් පුවතක් බෙදාගන්නා සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: え、本当ですか！いつオープンするんですか\n2: 駅の近くに新しい図書館ができるそうですよ\n3: 来年の4月だそうですよ。楽しみですね\n4: 聞きましたか",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: え、[ほんとう]ですか！いつオープンするんですか\n2: [えき]の[ちか]くに[あたら]しい[としょかん]ができるそうですよ\n3: [らいねん]の4[がつ]だそうですよ。[たの]しみですね\n4: [き]きましたか",
+        "sinhala": "පුවතක් පවසන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4 -> 2 -> 1 -> 3"
+        },
+        {
+          "id": "B",
+          "text": "2 -> 1 -> 4 -> 3"
+        },
+        {
+          "id": "C",
+          "text": "4 -> 1 -> 2 -> 3"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 4 (ආරංචි වුණාද?) -> 2 (ස්ටේෂන් එක ළඟ අලුත් පුස්තකාලයක් හැදෙනවලු) -> 1 (ඇත්තටමද, කවද්ද ඕපන් කරන්නේ?) -> 3 (ලබන අවුරුද්දේ අප්‍රේල්වලලු. ආසාවෙන් බලා ඉමු)."
+    },
+    {
+      "quiz_id": "qz_e2_l08_013",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_24",
+      "can_do_title_sinhala": "උදව්වක් කිරීමට ඉදිරිපත්වීම අසා තේරුම් ගැනීම (～てあげましょうか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L08_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんはおばあさんに何をしてあげましたか。",
+        "furigana": "カルロスさんはおばあさんに[なに]をしてあげましたか。",
+        "sinhala": "කාලෝස් මහතා වැඩිහිටි කාන්තාවට කර දුන් උපකාරය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "重い荷物を持って、階段を上がってあげた (බර බෑගය උසුලා පඩිපෙළ නැගීමට උදව් කළා)"
+        },
+        {
+          "id": "B",
+          "text": "タクシーを呼んであげた (ටැක්සියක් කතා කර දුන්නා)"
+        },
+        {
+          "id": "C",
+          "text": "道を教えてあげた (පාර කියා දුන්නා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "カルロス: おばあさん、その荷物、重そうですね。階段の上まで持ってあげましょうか。\nおばあさん: あら、親切にありがとう。助かります。",
+        "sinhala": "කාලෝස්: ආච්චි අම්මා, ඒ බඩු බෑග් එක බර පාටයි. මම පඩිපෙළ උඩටම අරන් ගිහින් දෙන්නද (持ってあげましょうか)?\nවැඩිහිටි කාන්තාව: අනේ, ඔබේ කරුණාවට බොහොම ස්තුතියි. ලොකු උදව්වක්."
+      },
+      "explanation_sinhala": "කාලෝස් පවසන්නේ '荷物...持ってあげましょうか' (බඩු බෑගය අරන් ගිහින් දෙන්නද) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l08_014",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_24",
+      "can_do_title_sinhala": "අසල්වැසියෙකු තමාට කරදුන් උපකාරය අසා තේරුම් ගැනීම (～てくれました)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L08_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "隣の人はマリアさんに何をしてくれましたか。",
+        "furigana": "[となり]の[ひと]はマリアさんに[なに]をしてくれましたか。",
+        "sinhala": "අසල්වැසියා මරියාට කර දුන් උපකාරය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "野菜をたくさん分けてくれた (එළවළු ගොඩක් බෙදා දුන්නා)"
+        },
+        {
+          "id": "B",
+          "text": "自転車を直してくれた (පාපැදිය සාදා දුන්නා)"
+        },
+        {
+          "id": "C",
+          "text": "病院へ連れて行ってくれた (රෝහලට රැගෙන ගියා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "マリア: 昨日、隣の部屋の方が実家から届いた新鮮な野菜をたくさん分けてくれたんです。とても親切な方です。",
+        "sinhala": "මරියා: ඊයේ අල්ලපු කාමරේ කෙනා එයාගේ ගමෙන් ආපු නැවුම් එළවළු ගොඩක් මට බෙදලා දුන්නා (分けてくれたんです). හරිම කරුණාවන්ත කෙනෙක්."
+      },
+      "explanation_sinhala": "අසල්වැසියා එළවළු බෙදාදුන් බව '野菜をたくさん分けてくれた' යන්නෙන් පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l08_015",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_25",
+      "can_do_title_sinhala": "මේ දැන් කරන්නට සූදානම් වන මොහොත අසා තේරුම් ගැනීම (～ところです)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L08_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは今、どんな状況ですか。",
+        "furigana": "スミスさんは[いま]、どんな[じょうきょう]ですか。",
+        "sinhala": "ස්මිත් මහතා මේ මොහොතේ පසුවන තත්ත්වය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "今から出かけるところ (මේ දැන් එළියට යන්න හදන වෙලාව)"
+        },
+        {
+          "id": "B",
+          "text": "ご飯を食べているところ (කෑම කමින් සිටින වෙලාව)"
+        },
+        {
+          "id": "C",
+          "text": "ちょうど帰ってきたところ (මේ දැන් ආපසු ආ වෙලාව)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: もしもし、スミスさん。今話せますか。\nスミス: すみません、今ちょうど家を出るところなんです。駅に着いたら掛け直してもいいですか。",
+        "sinhala": "A: හෙලෝ ස්මිත්, දැන් කතා කරන්න පුළුවන්ද?\nස්මිත්: සමාවෙන්න, මම මේ දැන් ගෙදරින් එළියට බහින්න හදන වෙලාව (出るところなんです). ස්ටේෂන් එකට ගිහින් ආපසු කෝල් කරන්නද?"
+      },
+      "explanation_sinhala": "ස්මිත් පවසන්නේ '今ちょうど家を出るところ' (මේ දැන් ගෙදරින් එළියට යන්න හදන මොහොත) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l08_016",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_25",
+      "can_do_title_sinhala": "දැන් ටිකකට කලින් කළා පමණක් බව අසා තේරුම් ගැනීම (～たばかり)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L08_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性はお腹がすいていますか。（◯ か ✕）",
+        "furigana": "[じょせい]はお[なか]がすいていますか。（◯ か ✕）",
+        "sinhala": "කාන්තාවට බඩගිනිද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, බඩගිනියි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, දැන් ටිකකට කලින් කෑවා පමණි)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: 一緒にお昼ご飯を食べに行きませんか。\nB: ありがとうございます。でも、さっきサンドイッチを食べたばかりなので、お腹がいっぱいです。",
+        "sinhala": "A: එකතු වෙලා දවල් කෑම කන්න යමුද?\nB: බොහොම ස්තුතියි. ඒත් මම දැන් ටිකකට කලින් සෑන්ඩ්විච් එකක් කෑවා විතරයි (食べたばかりなので), බඩ පිරිලා තියෙන්නේ."
+      },
+      "explanation_sinhala": "ඇය '食べたばかりなので、お腹がいっぱいです' (දැන් කෑවා පමණයි, බඩ පිරිලා) යැයි පවසන බැවින්, බඩගිනියි යන්න අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_e2_l08_017",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_26",
+      "can_do_title_sinhala": "ප්‍රජා පිරිසිදු කිරීමේ ස්වේච්ඡා දැන්වීමක් කියවීම (Volunteer Cleanup)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l08_q17_volunteer.png"
+      },
+      "question_text": {
+        "japanese": "公園清掃ボランティアのお知らせです。参加者には何が配られますか。",
+        "furigana": "[こうえんせいそう]ボランティアのお[し]らせです。[さんかしゃ]には[なに]が[くば]られますか。",
+        "sinhala": "උද්‍යානය පිරිසිදු කිරීමේ දැන්වීම බලන්න. සහභාගී වන්නන්ට ලබා දෙන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ゴミ袋、軍手、お茶 (කුණු බෑග්, අත්වැසුම් සහ තේ)"
+        },
+        {
+          "id": "B",
+          "text": "お金 (මුදල්)"
+        },
+        {
+          "id": "C",
+          "text": "お弁当 (කෑම පෙට්ටි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ '支給品: ゴミ袋、軍手、飲み物（お茶）' ලෙස දක්වා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l08_018",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_26",
+      "can_do_title_sinhala": "ගමේ නිල චක්‍රලේඛ පුවරුවක් කියවීම (回覧板 - Kairanban)",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l08_q18_kairanban.png"
+      },
+      "question_text": {
+        "japanese": "回覧板を読んだら、印鑑（サイン）を押して隣の家に回さなければなりませんか。（◯ か ✕）",
+        "furigana": "[かいらんばん]を[よ]んだら、[いんかん]（サイン）を[お]して[となり]の[いえ]に[まわ]さなければなりませんか。（◯ か ✕）",
+        "sinhala": "චක්‍රලේඛය (Kairanban) කියවූ පසු අත්සන/මුද්‍රාව තබා ඊළඟ නිවසට භාරදිය යුතුද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, අත්සන් කර ඊළඟ නිවසට දිය යුතුය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, තමන් ළඟ තබාගත යුතුය)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ '回覧板' (චක්‍රලේඛ පුවරුව) කියවා මුද්‍රාව (印) තබා අසල්වැසියාට භාරදීම සාමාන්‍ය සිරිතක් බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l08_019",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_24",
+      "can_do_title_sinhala": "අනුන් මට උපකාරයක් කරදීම (～てくれます)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「日本の友達が引っ越しを（　）。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[にほん]の[ともだち]が[ひ]っ[こ]しを（　）。」",
+        "sinhala": "'ජපන් මිතුරා මට ගෙවල් මාරු කිරීමට උදව් කර දුන්නා' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "手伝ってくれました (Tetsudatte kuremashita)"
+        },
+        {
+          "id": "B",
+          "text": "手伝ってあげました (Tetsudatte agemashita - මම උදව් කළා)"
+        },
+        {
+          "id": "C",
+          "text": "手伝ってやりました"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අන් අය තමන්ට කරදෙන උපකාරයක් දැක්වීමට '～てくれました' (Tetsudatte kuremashita) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l08_020",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_24",
+      "can_do_title_sinhala": "අනුන්ගෙන් උපකාරයක් ලබාගැනීම (～てもらいました)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「私は先生に日本語を直して（　）。」空欄に入る言葉はどれですか。",
+        "furigana": "「[わたし]は[せんせい]に[にほんご]を[なお]して（　）。」[くうらん]に[はい]る[ことば]はどれですか。",
+        "sinhala": "'මම ගුරුතුමා ලවා ජපන් වැරදි හදාගත්තා' (ගුරුතුමාගෙන් උදව්වක් කරවාගත්තා) කීමට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "もらいました (moraimashita)"
+        },
+        {
+          "id": "B",
+          "text": "くれました (kuremashita)"
+        },
+        {
+          "id": "C",
+          "text": "あげました (agemashita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "වාක්‍යයේ කර්තෘ '私' (මම) වී අනෙකාගෙන් උපකාරය ලබාගන්නා විට '私は [කෙනෙකු] に V-て もらいました' යොදයි."
+    },
+    {
+      "quiz_id": "qz_e2_l08_021",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_25",
+      "can_do_title_sinhala": "හරියටම මේ වෙලාවේ කරමින් සිටින මොහොත (～ているところです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「今まさに食事の最中である」を表す最も強調された文はどれですか。",
+        "furigana": "「[いま]まさに[しょくじ]の[さいちゅう]である」を[あらわ]す[もっと]も[きょうちょう]された[ぶん]はどれですか。",
+        "sinhala": "'හරියටම මේ වෙලාවේ කෑම කමින් සිටින මොහොතක්' නිරූපණය වන නිවැරදි වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "今、ご飯を食べているところです (Tabete iru tokoro desu)"
+        },
+        {
+          "id": "B",
+          "text": "今、ご飯を食べるところです (කන්න හදන වෙලාව)"
+        },
+        {
+          "id": "C",
+          "text": "今、ご飯を食べたところです (කාලා ඉවර වුණා විතරයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාවක් මධ්‍යයේ සිදුවෙමින් පවතින හරියටම එම මොහොත දැක්වීමට 'V-ている ところです' යොදයි."
+    },
+    {
+      "quiz_id": "qz_e2_l08_022",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_26",
+      "can_do_title_sinhala": "ගමේ ප්‍රජා සමිතිය (町内会 / Chounaikai)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "同じ地域に住む人々で作る自治組織（Neighborhood association）は何と言いますか。",
+        "furigana": "[おな]じ[ちいき]に[す]む[ひとびと]で[つく]る[じちそしき]（Neighborhood association）は[なん]と[い]いますか。",
+        "sinhala": "එකම ප්‍රදේශයේ වෙසෙන අසල්වැසියන් එක්ව සාදන ප්‍රජා සංවිධානය හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "町内会 / ちょうないかい (Chounaikai)"
+        },
+        {
+          "id": "B",
+          "text": "展覧会 / てんらんかい (ප්‍රදර්ශනය)"
+        },
+        {
+          "id": "C",
+          "text": "説明会 / せつめいかい (පැහැදිලි කිරීමේ හමුව)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ගමේ හෝ නගරයේ ප්‍රජා සමිතිය '町内会' (චෝනයිකායි - Neighborhood association) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l08_023",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_25",
+      "can_do_title_sinhala": "'දැන් ටිකකට කලින්' (さっき / Sakki)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「少し前の時間（A little while ago）」を表す言葉はどれですか。",
+        "furigana": "「[すこ]し[まえ]の[じかん]（A little while ago）」を[あらわ]す[ことば]はどれですか。",
+        "sinhala": "'මීට ස්වල්ප වේලාවකට පෙර / දැන් ටිකකට කලින්' යන අර්ථය දෙන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "さっき (Sakki)"
+        },
+        {
+          "id": "B",
+          "text": "ずっと (Zutto - බොහෝ වේලාවක්)"
+        },
+        {
+          "id": "C",
+          "text": "これから (Korekara - මෙතැන් සිට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'දැන් ටිකකට කලින්' යන්න කථන භාෂාවේදී 'さっき' (සක්කි - A little while ago) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l08_024",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "can_do_id": "cando_e2_24",
+      "can_do_title_sinhala": "අසල්වැසියෙකුට උදව් කරන සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 重そうですね。車まで持ってあげましょうか\n2: こんにちは、田中さん。お買い物ですか\n3: あら、親切にありがとう！お願いします\n4: ええ、ちょっと買いすぎてしまいました",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [おも]そうですね。[くるま]まで[も]ってあげましょうか\n2: こんにちは、[たなか]さん。お[か]い[もの]ですか\n3: あら、[しんせつ]にありがとう！お[ねが]いします\n4: ええ、ちょっと[か]いすぎてしまいました",
+        "sinhala": "උදව් ඉදිරිපත් කරන සංවාදයක නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 4 -> 1 -> 3"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 3 -> 2 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "2 -> 1 -> 4 -> 3"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (කොහොමද තනකා මහත්මිය, ෂොපින් කළාද?) -> 4 (ඔව්, ටිකක් වැඩියෙන් බඩු මිලදී ගැනුණා) -> 1 (බර පාටයි, මම කාර් එක ළඟටම උස්සන් ගිහින් දෙන්නද?) -> 3 (අනේ, ඔබේ කරුණාවට ස්තුතියි, කරුණාකරලා!)."
+    }
+  ]
+}

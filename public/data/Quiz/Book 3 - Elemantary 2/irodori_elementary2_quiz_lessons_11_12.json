@@ -1,0 +1,915 @@
+{
+  "book": "Irodori Elementary 2 (A2.2)",
+  "lessons_covered": [
+    11,
+    12
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e2_l11_001",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_33",
+      "can_do_title_sinhala": "සංචාරය කිරීමට සුදුසු ස්ථානයක් නිර්දේශ කිරීම අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L11_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは先輩にどこへ行くことを勧められましたか。",
+        "furigana": "カルロスさんは[せんぱい]にどこへ[い]くことを[すす]められましたか。",
+        "sinhala": "ජ්‍යෙෂ්ඨ සගයා විසින් කාලෝස් මහතාට සංචාරය කිරීමට නිර්දේශ කළ ස්ථානය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "箱根（はこね）- 東京から近くて温泉や富士山が見える (හකොනේ - ටෝකියෝවට ළඟයි, උණුදිය උල්පත් සහ ෆුජි කන්ද පෙනේ)"
+        },
+        {
+          "id": "B",
+          "text": "京都（きょうと）- 古いお寺がたくさんある (කියෝතෝ - පැරණි විහාර රැසක් ඇත)"
+        },
+        {
+          "id": "C",
+          "text": "沖縄（おきなわ）- 海がきれい (ඔකිනාවා - මුහුද ලස්සනයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "カルロス: 先輩、今度の3連休に旅行に行きたいんですが、どこかおすすめの場所はありませんか。\n先輩: 1泊2日なら、箱根がいいですよ。東京からロマンスカーで1時間半だし、温泉に入りながら富士山も見えますよ。\nカルロス: へえ、いいですね！箱根について調べてみます。",
+        "sinhala": "කාලෝස්: ජ්‍යෙෂ්ඨයා, මේ එන දින 3 නිවාඩුවට ට්‍රිප් එකක් යන්න ආසයි, නිර්දේශ කරන්න හොඳ තැනක් තියෙනවද?\nජ්‍යෙෂ්ඨයා: දවස් දෙකක ගමනක් නම් (1泊2日なら), හකොනේ හොඳයි. ටෝකියෝ ඉඳන් Romancecar එකෙන් පැය එකහමාරයි, අනික ඔන්සෙන් නාන ගමන් ෆුජි කන්දත් බලන්න පුළුවන්.\nකාලෝස්: ආ නියමයිනේ! මම හකොනේ ගැන හොයලා බලන්නම්."
+      },
+      "explanation_sinhala": "ජ්‍යෙෂ්ඨයා නිර්දේශ කරන්නේ '1泊2日なら、箱根がいいですよ' (දින 2කට හකොනේ හොඳයි) කියාය. පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l11_002",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_34",
+      "can_do_title_sinhala": "ගමන් මාර්ගය සහ ගතවන කාලය අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L11_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "新幹線で行くと、東京から京都までどのくらいかかりますか。",
+        "furigana": "[しんかんせん]で[い]くと、[とうきょう]から[きょうと]までどのくらいかかりますか。",
+        "sinhala": "ෂින්කන්සෙන් අධිවේගී දුම්රියෙන් ගියහොත් ටෝකියෝ සිට කියෝතෝ දක්වා කොපමණ වේලාවක් ගතවේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "約2時間20分 (පැය 2යි විනාඩි 20ක් පමණ)"
+        },
+        {
+          "id": "B",
+          "text": "約5時間 (පැය 5ක් පමණ)"
+        },
+        {
+          "id": "C",
+          "text": "約8時間 (පැය 8ක් පමණ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 京都まではどうやって行くのが一番早いですか。\nB: 新幹線の「のぞみ」ですね。東京駅から約2時間20分で着きますよ。夜行バスなら8時間くらいかかりますが、安いです。",
+        "sinhala": "A: කියෝතෝවලට ඉක්මනින්ම යන්න පුළුවන් කොහොමද?\nB: ෂින්කන්සෙන් 'නොසොමි' එකෙන්. ටෝකියෝ ස්ටේෂන් එකේ ඉඳන් පැය 2යි විනාඩි 20ක් විතර යන්නේ (約2時間20分). රෑ බස් එකෙන් නම් පැය 8ක් විතර යනවා, හැබැයි ලාභයි."
+      },
+      "explanation_sinhala": "ෂින්කන්සෙන් මඟින් ගතවන කාලය පැය 2යි විනාඩි 20ක් (約2時間20分) බව පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l11_003",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_34",
+      "can_do_title_sinhala": "හෝටල් කලින් වෙන්කරවා ගැනීමේ උපදෙස (予約しておいたほうがいい)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L11_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "連休中のホテルは、今すぐ予約しておいたほうがいいですか。（◯ か ✕）",
+        "furigana": "[れんきゅうちゅう]のホテルは、[いま]すぐ[よやく]しておいたほうがいいですか。（◯ か ✕）",
+        "sinhala": "දීර්ඝ නිවාඩු කාලයේ හෝටල් දැන්ම කලින් වෙන් කරවා තැබීම හොඳද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, දැන්ම වෙන් කර තැබිය යුතුය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, එදිනට ගොස් වෙන් කරගත හැක)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: 来月の連休に金沢へ行こうと思っているんです。\nB: 連休はどこも観光客でいっぱいですから、ホテルは今すぐ予約しておいたほうがいいですよ。直前だと満室になりますから。",
+        "sinhala": "A: මම ලබන මාසේ නිවාඩුවට කනසාවා (Kanazawa) යන්න හිතාගෙන ඉන්නවා.\nB: නිවාඩු කාලෙට හැමතැනම සංචාරකයින්ගෙන් පිරෙනවා, ඒ නිසා හෝටල් දැන්ම බුක් කරලා තියන එක හොඳයි (予約しておいたほうがいいですよ). ළං වුණාම කාමර ඔක්කොම ෆුල් වෙනවා."
+      },
+      "explanation_sinhala": "කථකයා 'ホテルは今すぐ予約しておいたほうがいいですよ' (හෝටල් දැන්ම බුක් කර තැබීම හොඳයි) යැයි පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l11_004",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_34",
+      "can_do_title_sinhala": "වෙන්කළ ආසන සහ සාමාන්‍ය ආසන (指定席 / 自由席)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L11_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "客は新幹線のどちらの座席を選びましたか。",
+        "furigana": "[きゃく]は[しんかんせん]のどちらの[ざせき]を[えら]びましたか。",
+        "sinhala": "පාරිභෝගිකයා තෝරාගත් ෂින්කන්සෙන් දුම්රිය ආසන වර්ගය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "指定席（していせき）- Reserved seat"
+        },
+        {
+          "id": "B",
+          "text": "自由席（じゆうせき）- Non-reserved seat"
+        },
+        {
+          "id": "C",
+          "text": "グリーン席 - First class Green seat"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "駅員: 京都までの切符ですね。自由席と指定席、どちらになさいますか。\n客: 祝日なので座れないと困りますから、指定席でお願いします。",
+        "sinhala": "දුම්රිය නිලධාරියා: කියෝතෝ දක්වා ටිකට්පත නේද. සාමාන්‍ය ආසනද (自由席) වෙන්කළ ආසනද (指定席), තෝරාගන්නේ කුමක්ද?\nපාරිභෝගිකයා: නිවාඩු දවසක් නිසා වාඩිවෙන්න නැති වුණොත් අමාරුයි, ඒ නිසා වෙන්කළ ආසන (指定席) දෙන්න."
+      },
+      "explanation_sinhala": "පාරිභෝගිකයා වාඩිවීමට ආසනයක් තහවුරු කරගැනීමට '指定席でお願いします' (වෙන්කළ ආසනයක් දෙන්න) යැයි පැවසූ බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l11_005",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_33",
+      "can_do_title_sinhala": "සංචාරක ෆ්‍රී පාස් පත්‍රිකාවක් කියවීම (Hakone Free Pass)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l11_q05_freepass.png"
+      },
+      "question_text": {
+        "japanese": "「箱根フリーパス」の案内を見てください。このパスでできることは何ですか。",
+        "furigana": "「[はこね]フリーパス」の[あんない]を[み]てください。このパスでできることは[なん]ですか。",
+        "sinhala": "හකොනේ ෆ්‍රී පාස් (Free Pass) පත්‍රිකාව බලන්න. මෙම ප්‍රවේශපත්‍රයෙන් කළ හැක්කේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "指定の電車、バス、ロープウェイ、船に期間中何度でも乗れる (අදාළ කාලය තුළ දුම්රිය, බස්, රෝප්වේ සහ බෝට්ටුවල ඕනෑම වාර ගණනක් ගමන් කළ හැක)"
+        },
+        {
+          "id": "B",
+          "text": "旅館に無料で宿泊できる (නවාතැන්පොළවල නොමිලේ නවාතැන් ගත හැක)"
+        },
+        {
+          "id": "C",
+          "text": "すべてのレストランが半額になる (සියලුම ආපනශාලා අඩ මිල වේ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පත්‍රිකාවේ '乗り降り自由！箱根エリアの登山鉄道、バス、ロープウェイ、海賊船が乗り放題' (ඕනෑම වාර ගණනක් ගමන් කළ හැක) ලෙස සඳහන් වන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l11_006",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_34",
+      "can_do_title_sinhala": "හෝටල් වෙන්කිරීමේ තහවුරු කිරීමේ තිරය කියවීම (Booking Confirmation)",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l11_q06_hotelbooking.png"
+      },
+      "question_text": {
+        "japanese": "予約内容によると、朝食（Breakfast）はプランに含まれていますか。（◯ か ✕）",
+        "furigana": "[よやくないよう]によると、[ちょうしょく]（Breakfast）はプランに[ふく]まれていますか。（◯ か ✕）",
+        "sinhala": "වෙන්කිරීමේ විස්තර අනුව, උදෑසන ආහාරය (朝食) මෙම පැකේජයට ඇතුළත්ද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, උදෑසන ආහාරය ඇතුළත් වේ)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, උදෑසන ආහාරය නොමැත)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "තිරයේ 'プラン名: 【朝食バイキング付き】和洋室ステイ' (උදෑසන ආහාර බුෆේ සහිතයි) ලෙස සඳහන්ව ඇති බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l11_007",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_33",
+      "can_do_title_sinhala": "යෝජනා හෝ නිර්දේශ සඳහා '～なら' භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る適切な言葉を選んでください：「紅葉を見に（　）、京都が一番おすすめですよ。」",
+        "furigana": "[くうらん]に[はい]る[てきせつ]な[ことば]を[えら]んでください：「[こうよう]を[み]に（　）、[きょうと]が[いちばん]おすすめですよ。」",
+        "sinhala": "'සරත් සෘතුවේ කොළ හැරීම බලන්න යනවා නම් (If you're going to see...), කියෝතෝ තමයි හොඳම' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "行くなら (Iku nara)"
+        },
+        {
+          "id": "B",
+          "text": "行ったら (Ittara)"
+        },
+        {
+          "id": "C",
+          "text": "行くと (Iku to)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනෙකාගේ සැලසුම හෝ මාතෘකාව පදනම් කරගෙන උපදෙසක්/නිර්දේශයක් දීමේදී 'V-dict + なら' (行くなら - යනවා නම්) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l11_008",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_34",
+      "can_do_title_sinhala": "සංචාරයට පෙර සූදානම් කර තැබීම (～ておきます)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「旅行の前に、電車の時間を調べて（　）。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[りょこう]の[まえ]に、[でんしゃ]の[じかん]を[しら]べて（　）。」",
+        "sinhala": "'ගමනට කලින්, කෝච්චියේ වේලාවන් සොයා බලා සූදානම් කර තබමි' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "おきます (okimasu)"
+        },
+        {
+          "id": "B",
+          "text": "しまいます (shimaimasu)"
+        },
+        {
+          "id": "C",
+          "text": "みます (mimasu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනාගත පහසුව සඳහා කලින්ම දෙයක් සූදානම් කර තැබීම 'V-て おきます' (調べる -> 調べておきます) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e2_l11_009",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_33",
+      "can_do_title_sinhala": "නිර්දේශ කිරීමට හේතු කිහිපයක් එකට දැක්වීම (～し、～し)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る接続詞を選んでください：「北海道は食べ物もおいしい（　）、温泉もある（　）、最高です。」",
+        "furigana": "[くうらん]に[はい]る[せつぞくし]を[えら]んでください：「[ほっかいどう]は[た]べ[もの]もおいしい（　）、[おんせん]もある（　）、[さいこう]です。」",
+        "sinhala": "'හොක්කයිඩෝවල කෑමත් රසයි, උණුදිය උල්පත්ද තියෙනවා, ඒ නිසා නියමයි' කීමට හිස්තැන්වලට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "し / し (shi / shi)"
+        },
+        {
+          "id": "B",
+          "text": "から / から (kara / kara)"
+        },
+        {
+          "id": "C",
+          "text": "のに / のに (noni / noni)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "හේතු හෝ සාධක කිහිපයක් එක පෙළට ලැයිස්තුගත කිරීමට 'Plain form + し' (おいしいし、あるし) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e2_l11_010",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_34",
+      "can_do_title_sinhala": "වෙන්කළ ආසනය හඳුන්වන වචනය (指定席 / Shiteiseki)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "新幹線や特急で、事前に予約して自分の場所が決まっている席は何ですか。",
+        "furigana": "[しんかんせん]や[とっきゅう]で、[じぜん]に[よやく]して[じぶん]の[ばしょ]が[き]まっている[せき]は[なん]ですか。",
+        "sinhala": "කලින් වෙන් කරවා ගත්, අංකයක් නියමිත ආසනය (Reserved Seat) හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "指定席（していせき）- Reserved seat"
+        },
+        {
+          "id": "B",
+          "text": "自由席（じゆうせき）- Non-reserved seat"
+        },
+        {
+          "id": "C",
+          "text": "優先席（ゆうせんせき）- Priority seat"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අංකයක් නියමිත ආසනය '指定席' (ෂිතෙයිසෙකි - Reserved seat) වන අතර, හිස් ඕනෑම ආසනයක වාඩිවිය හැකි ටිකට්පත '自由席' (ජියූසෙකි) වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l11_011",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_33",
+      "can_do_title_sinhala": "සංචාරක ආකර්ෂණීය ස්ථානය හඳුන්වන වචනය (観光地)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "旅行客がたくさん訪れる有名な名所や地域を何と言いますか。",
+        "furigana": "[りょこうきゃく]がたくさん[おとず]れる[ゆうめい]な[めいしょ]や[ちいき]を[なん]と[い]いますか。",
+        "sinhala": "සංචාරකයින් විශාල වශයෙන් පැමිණෙන ප්‍රසිද්ධ ස්ථානය හෙවත් 'සංචාරක ප්‍රදේශය' (Tourist attraction) හඳුන්වන්නේ කෙසේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "観光地（かんこうち）- Kankouchi"
+        },
+        {
+          "id": "B",
+          "text": "工業地（こうぎょうち）- Industrial area"
+        },
+        {
+          "id": "C",
+          "text": "住宅地（じゅうたくち）- Residential area"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සංචාරක ප්‍රදේශය '観光地' (කන්කෝචි - Sightseeing spot/tourist area) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l11_012",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "can_do_id": "cando_e2_33",
+      "can_do_title_sinhala": "සංචාරක උපදෙස් ඉල්ලන සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 温泉なら、箱根が近くておすすめですよ\n2: 来週の連休、どこか旅行に行きたいんですが……\n3: 箱根ですね！ロマンスカーの切符を予約しておきます\n4: 富士山も見えますし、とてもいい所ですよ",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [おんせん]なら、[はこね]が[ちか]くておすすめですよ\n2: [らいしゅう]の[れんきゅう]、どこか[りょこう]に[い]きたいんですが……\n3: [はこね]ですね！ロマンスカーの[きっぷ]を[よやく]しておきます\n4: [ふじさん]も[み]えますし、とてもいい[ところ]ですよ",
+        "sinhala": "සංචාරයක් සැලසුම් කරන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 1 -> 4 -> 3"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 3 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "2 -> 4 -> 1 -> 3"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (ලබන සතියේ නිවාඩුවට කොහේ හරි ට්‍රිප් එකක් යන්න ආසයි...) -> 1 (උණුදිය උල්පත් ගැන නම්, හකොනේ ළඟයි වගේම හොඳයි) -> 4 (ෆුජි කන්දත් පෙනෙනවා, හරිම හොඳ තැනක්) -> 3 (හකොනේ නේද! මම Romancecar ටිකට් බුක් කරලා තියන්නම්)."
+    },
+    {
+      "quiz_id": "qz_e2_l12_013",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_35",
+      "can_do_title_sinhala": "උණුදිය උල්පත් ස්නානයේ මූලික නීති අසා තේරුම් ගැනීම (体を洗ってから入る)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L12_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "温泉の湯船（お風呂）に入る前に、何をしなければなりませんか。",
+        "furigana": "[おんせん]の[ゆぶね]（お[ふろ]）に[はい]る[まえ]に、[なに]をしなければなりませんか。",
+        "sinhala": "උණුදිය තටාකයට (湯船 - Yubune) බැසීමට පෙර අනිවාර්යයෙන්ම කළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "洗い場で体をきれいに洗う (නාන ස්ථානයේදී ඇඟ හොඳින් සෝදා පිරිසිදු කරගැනීම)"
+        },
+        {
+          "id": "B",
+          "text": "水着を着る (පිහිනුම් ඇඳුම් ඇඳීම)"
+        },
+        {
+          "id": "C",
+          "text": "大きなタオルを巻いて入る (ලොකු තුවායක් ඔතාගෙන බැසීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "旅館のスタッフ: お客様、温泉は初めてですか。湯船に入る前に、必ず洗い場で体を洗ってからお湯に入ってくださいね。お湯を汚さないためのマナーです。\n客: はい、わかりました！",
+        "sinhala": "හෝටල් සේවකයා: පාරිභෝගික මහත්මයා, ඔන්සෙන්වලට ආවේ පළමු වතාවටද? තටාකයට බහින්න කලින් අනිවාර්යයෙන්ම සෝදන තැනින් ඇඟ හෝදගෙන ඉන්න (体を洗ってからお湯に入ってください). වතුර අපිරිසිදු නොවී තබාගන්නා ආචාර ධර්මයක්.\nපාරිභෝගිකයා: හරි, තේරුණා!"
+      },
+      "explanation_sinhala": "සේවකයා පවසන්නේ '必ず洗い場で体を洗ってからお湯に入ってください' (ඇඟ සෝදාගෙන බැසීම) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l12_014",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_36",
+      "can_do_title_sinhala": "සංස්කෘතික ඇඳුමක් ඇඳීමේ අත්දැකීම අසා තේරුම් ගැනීම (浴衣 - Yukata)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L12_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは旅館で浴衣（ゆかた）を着て、どう感じましたか。",
+        "furigana": "マリアさんは[りょかん]で[ゆかた]を[き]て、どう[かん]じましたか。",
+        "sinhala": "නේවාසිකාගාරයේදී යුකතා (Yukata) ඇඳුම ඇඳීමෙන් පසු මරියාට හැඟුණේ කෙසේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "帯を締めるのが難しかったが、日本らしくて楽しかった (පටිය ගැටගැසීම අමාරු වුණත්, සැබෑ ජපන් අත්දැකීමක් නිසා විනෝදජනක වුණා)"
+        },
+        {
+          "id": "B",
+          "text": "とても寒くて着られなかった (ඉතා සීතල නිසා ඇඳීමට නොහැකි විය)"
+        },
+        {
+          "id": "C",
+          "text": "サイズが小さすぎて着られなかった (සයිස් එක පොඩි වැඩි නිසා අඳින්න බැරි වුණා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさん、温泉旅館はどうでしたか。\nB: 浴衣を着て温泉街を散歩しました。帯を締めるのが少し難しかったですが、日本文化を体験できてとても楽しかったです！",
+        "sinhala": "A: මරියා, ඔන්සෙන් හෝටලය කොහොමද?\nB: යුකතා ඇඳුම ඇඳගෙන නගරයේ ඇවිදින්න ගියා. පටිය ගැටගහන එක (帯を締めるの) පොඩ්ඩක් අමාරු වුණාට, ජපන් සංස්කෘතිය අත්විඳින්න ලැබුණු නිසා ගොඩක් විනෝද වුණා!"
+      },
+      "explanation_sinhala": "මරියා පවසන්නේ පටිය ගැටගැසීම අමාරු වුවත් ඉතා විනෝදජනක අත්දැකීමක් වූ බව (A) ය."
+    },
+    {
+      "quiz_id": "qz_e2_l12_015",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_36",
+      "can_do_title_sinhala": "ජපන් දේවාලවල වැඳුම් පිදුම් කිරීමට පෙර අත් සහ මුඛය පිරිසිදු කිරීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L12_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "神社でお参りする前に、手水舎（てみずや）で手や口を洗いますか。（◯ か ✕）",
+        "furigana": "[じんじゃ]でお[まい]りする[まえ]に、[てみずや]で[て]や[くち]を[あら]いますか。（◯ か ✕）",
+        "sinhala": "දේවාලයේ වැඳුම් පිදුම් කිරීමට පෙර, තෙමිසුයා (Temizuya) ජල මණ්ඩපයෙන් අත් සහ මුඛය පිරිසිදු කරගන්නවාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, අත් සහ මුඛය පිරිසිදු කරයි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, කිසිවක් නොකර කෙළින්ම යයි)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "先輩: 神社でお参りする前に、あそこの手水舎で手と口を清めましょう。まず柄杓（ひしゃく）で左手を洗って、次に右手ですよ。\nカルロス: はい、やってみます。",
+        "sinhala": "ජ්‍යෙෂ්ඨයා: දේවාලයේ වඳින්න කලින්, අර තෙමිසුයා එකෙන් අත් සහ කට පිරිසිදු කරගමු. මුලින්ම වතුර හැන්දෙන් වම් අත හෝදලා, ඊළඟට දකුණු අත.\nකාලෝස්: හරි, මම කරලා බලන්නම්."
+      },
+      "explanation_sinhala": "දේවාලයට ඇතුළු වීමට පෙර අත් සහ මුඛය සෝදා පිරිසිදු කරගැනීම (手と口を清める) සාම්ප්‍රදායික චාරිත්‍රය බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l12_016",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_35",
+      "can_do_title_sinhala": "ටැටූ (Tattoo) සහිත අයට ඔන්සෙන් ස්නානය කිරීමේ නීති",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L12_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "タトゥーがある客はどうすれば温泉に入ることができますか。",
+        "furigana": "タトゥーがある[きゃく]はどうすれば[おんせん]に[はい]ることができますか。",
+        "sinhala": "ටැටූ (පච්ච) ඇති පාරිභෝගිකයෙකුට ඔන්සෙන් ස්නානය කිරීමට ලබාදුන් විසඳුම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "貸切風呂（プライベート温泉）を利用する (පෞද්ගලික පවුලේ ඔන්සෙන් තටාකයක් වෙන් කරවා ගැනීම)"
+        },
+        {
+          "id": "B",
+          "text": "大浴場にそのまま入る (පොදු විශාල තටාකයට නිකම්ම බැසීම)"
+        },
+        {
+          "id": "C",
+          "text": "温泉には一切入れない (කිසිසේත්ම ඔන්සෙන් භාවිත කළ නොහැක)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "客: すみません、腕にタトゥーが入っているんですが、温泉に入れますか。\nフロント: 大浴場へのご入場はお断りしておりますが、予約制の「貸切家族風呂」でしたら気兼ねなくご利用いただけますよ。",
+        "sinhala": "පාරිභෝගිකයා: සමාවෙන්න, මගේ අතේ ටැටූ එකක් තියෙනවා, මට ඔන්සෙන් නාන්න පුළුවන්ද?\nපිළිගැනීම: පොදු නාන තටාකයට ඇතුළුවීම තහනම් කර ඇත, නමුත් කලින් වෙන්කරවා ගන්නා 'පෞද්ගලික පවුලේ තටාකයක්' (貸切家族風呂) නම් ඔබට නිදහසේ භාවිත කළ හැක."
+      },
+      "explanation_sinhala": "පොදු තටාකය තහනම් වුවද පෞද්ගලික වෙන්කරන තටාකය (貸切風呂) භාවිත කළ හැකි බව පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l12_017",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_35",
+      "can_do_title_sinhala": "ඔන්සෙන් නීති රීති පුවරුවක් කියවීම (Onsen Etiquette Pictograms)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l12_q17_onsen_manners.png"
+      },
+      "question_text": {
+        "japanese": "温泉のマナーポスターを見てください。湯船（お風呂のお湯の中）に入れてはいけないものは何ですか。",
+        "furigana": "[おんせん]のマナーポスターを[み]てください。[ゆぶね]（お[ふろ]のお[ゆ]の[なか]）に[い]れてはいけないものは[なん]ですか。",
+        "sinhala": "ඔන්සෙන් නීති පෝස්ටරය බලන්න. උණුදිය තටාකයේ ජලය තුළට නොදැමිය යුතු ද්‍රව්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "タオル (තුවාය)"
+        },
+        {
+          "id": "B",
+          "text": "体 (ශරීරය)"
+        },
+        {
+          "id": "C",
+          "text": "石けんの泡 (සබන් පෙන)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පෝස්ටරයේ 'タオルを湯船の中に入れないでください（頭の上にのせましょう）' (තුවාය තටාකයේ වතුරට නොදමන්න) ලෙස සඳහන් වන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l12_018",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_36",
+      "can_do_title_sinhala": "දේවාලයක වැඳුම් පිදුම් කරන චාරිත්‍ර ක්‍රමය කියවීම (二礼二拍手一礼)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l12_q18_shrine_etiquette.png"
+      },
+      "question_text": {
+        "japanese": "神社のお参り作法を見てください。手をたたく（拍手する）回数は何回ですか：「二礼 二拍手 一礼」",
+        "furigana": "[じんじゃ]のお[まい]り[さほう]を[み]てください。[て]をたたく（[はくしゅ]する）[かいすう]は[なんかい]ですか：「[にれい] [にはくしゅ] [いちれい]」",
+        "sinhala": "දේවාල වැඳුම් පිදුම් පිළිවෙත බලන්න. අත්පුඩි ගැසිය යුතු (二拍手) වාර ගණන කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2回 (දෙවරක්)"
+        },
+        {
+          "id": "B",
+          "text": "1回 (එක්වරක්)"
+        },
+        {
+          "id": "C",
+          "text": "3回 (තුන්වරක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'二拍手' (Nihakushu) යනු අත්පුඩි දෙවරක් ගැසීමයි (二礼 = හිස නැමීම් 2යි, 二拍手 = අත්පුඩි 2යි, 一礼 = හිස නැමීම 1යි)."
+    },
+    {
+      "quiz_id": "qz_e2_l12_019",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_35",
+      "can_do_title_sinhala": "තහනම් නීතිය ප්‍රකාශ කිරීම (～てはいけません)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「温泉の湯船の中で（　）はいけません。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[おんせん]の[ゆぶね]の[なか]で（　）はいけません。」",
+        "sinhala": "'උණුදිය තටාකය තුළ පිහිනීම නොකළ යුතුය / තහනම්ය' කීමට හිස්තැනට ගැළපෙන ක්‍රියාපද ආකෘතිය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "泳いで (Oyoide - Te-form)"
+        },
+        {
+          "id": "B",
+          "text": "泳ぐ (Oyogu)"
+        },
+        {
+          "id": "C",
+          "text": "泳ぎ (Oyogi)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නොකළ යුතු තහනමක් ප්‍රකාශ කිරීමට 'Te-form + は いけません' (泳いではいけません) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l12_020",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_35",
+      "can_do_title_sinhala": "ක්‍රියාවක් කර අවසන් වූ පසු අනෙක කිරීම (V-て から)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「体を（　）から、湯船に入ってください。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[からだ]を（　）から、[ゆぶね]に[はい]ってください。」",
+        "sinhala": "'ශරීරය සෝදා පිරිසිදු කරගත් පසුව, තටාකයට බසින්න' කීමට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "洗って (Aratte - Te-form)"
+        },
+        {
+          "id": "B",
+          "text": "洗う (Arau)"
+        },
+        {
+          "id": "C",
+          "text": "洗った (Aratta)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "එකක් කර අවසන් වූ පසු ඊළඟ ක්‍රියාව කිරීම (After doing...) දැක්වීමට 'Te-form + から' (洗ってから) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e2_l12_021",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_36",
+      "can_do_title_sinhala": "සංස්කෘතික අත්දැකීමක් විමසීම (～たことがありますか)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「日本の伝統的な旅館に（　）ことがありますか。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[にほん]の[でんとうてき]な[りょかん]に（　）ことがありますか。」",
+        "sinhala": "'ජපානයේ සාම්ප්‍රදායික රියෝකන් නවාතැනක නවාතැන් ගෙන තිබේද?' කියා අත්දැකීමක් විමසීමට ගැළපෙන ක්‍රියාපද ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "泊まった (Tomatta - Ta-form)"
+        },
+        {
+          "id": "B",
+          "text": "泊まる (Tomaru)"
+        },
+        {
+          "id": "C",
+          "text": "泊まり (Tomari)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අත්දැකීම් විමසීමට 'Ta-form + ことがありますか' (泊まったことがありますか) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e2_l12_022",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_35",
+      "can_do_title_sinhala": "ඇඳුම් මාරු කරන කාමරය හඳුන්වන වචනය (脱衣所)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "温泉や銭湯で、服を脱いだり着たりする場所は何と言いますか。",
+        "furigana": "[おんせん]や[せんとう]で、[ふく]を[ぬ]いだり[き]たりする[ばしょ]は[なん]と[い]いますか。",
+        "sinhala": "උණුදිය උල්පත් හෝ නාන පොළවල ඇඳුම් ගලවන සහ අඳින කාමරය (Dressing room) හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "脱衣所 / だついじょ (Datsuijo)"
+        },
+        {
+          "id": "B",
+          "text": "湯船 / ゆぶね (Yubune - නාන තටාකය)"
+        },
+        {
+          "id": "C",
+          "text": "洗い場 / あらいば (Araiba - සෝදන ස්ථානය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ඇඳුම් මාරු කරන කාමරය '脱衣所' (දත්සුයිජෝ - Dressing room) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l12_023",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_36",
+      "can_do_title_sinhala": "දේවාලයක හෝ විහාරයක වැඳුම් පිදුම් කිරීම (お参り / O-mairi)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "神社やお寺に行って神様や仏様に祈ること（Worship/Visit）は何と言いますか。",
+        "furigana": "[じんじゃ]やお[てら]に[い]って[かみさま]や[ほとけさま]に[いの]ること（Worship/Visit）は[なん]と[い]いますか。",
+        "sinhala": "දේවාලයකට හෝ පන්සලකට ගොස් වැඳුම් පිදුම් කර ප්‍රාර්ථනා කිරීම හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "お参り / おまいり (O-mairi)"
+        },
+        {
+          "id": "B",
+          "text": "お祝い / おいわい (O-iwai - සුබපැතුම්)"
+        },
+        {
+          "id": "C",
+          "text": "お祭り / おまつり (O-matsuri - උත්සවය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දේවාලවල හෝ විහාරවල වැඳුම් පිදුම් කිරීම 'お参り' (ඔමයිරි) හෝ '参拝' (Sanpai) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l12_024",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "can_do_id": "cando_e2_35",
+      "can_do_title_sinhala": "ඔන්සෙන් නවාතැනක නීති පහදා දෙන සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 湯船に入る前に、必ず体を洗ってくださいね\n2: 温泉の入り方を教えてもらえませんか\n3: はい、マナーを守ってゆっくり温まってきます\n4: それから、タオルをお湯の中に入れてはいけませんよ",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [ゆぶね]に[はい]る[まえ]に、[かなら]ず[からだ]を[あら]ってくださいね\n2: [おんせん]の[はい]り[かた]を[おし]えてもらえませんか\n3: はい、マナーを[まも]ってゆっくり[あたた]まってきます\n4: それから、タオルをお[ゆ]の[なか]に[い]れてはいけませんよ",
+        "sinhala": "ඔන්සෙන් භාවිතය පිළිබඳ සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 1 -> 4 -> 3"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 3 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "2 -> 4 -> 1 -> 3"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (ඔන්සෙන් නාන හැටි කියාදෙන්න පුළුවන්ද?) -> 1 (තටාකයට බහින්න කලින් ඇඟ හෝදන්න) -> 4 (ඒ වගේම තුවාය වතුරට දමන්න එපා) -> 3 (හරි, නීති පිළිපැදලා සනීපෙට නාගෙන එන්නම්)."
+    }
+  ]
+}

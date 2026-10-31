@@ -1,0 +1,915 @@
+{
+  "book": "Irodori Elementary 2 (A2.2)",
+  "lessons_covered": [
+    5,
+    6
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e2_l05_001",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_15",
+      "can_do_title_sinhala": "සේවා ස්ථානයේ නීති රීති අසා තේරුම් ගැනීම (～ことになっています)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L05_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "工場に入るとき、何を着ることになっていますか。",
+        "furigana": "[こうじょう]に[はい]るとき、[なに]を[き]ることになっていますか。",
+        "sinhala": "කර්මාන්තශාලාවට ඇතුළු වන විට පැළඳිය යුතු බවට නීතියක් ඇත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ヘルメットと安全靴 (ආරක්ෂිත හිස්වැස්ම සහ ආරක්ෂිත සපත්තු)"
+        },
+        {
+          "id": "B",
+          "text": "マスクと手袋だけ (මුඛ ආවරණ සහ අත්වැසුම් පමණක්)"
+        },
+        {
+          "id": "C",
+          "text": "運動靴 (ක්‍රීඩා සපත්තු)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "指導員: カルロスさん、このエリアに入るときは、必ずヘルメットをかぶって、安全靴を履くことになっています。事故を防ぐためのルールですから守ってくださいね。\nカルロス: はい、わかりました！",
+        "sinhala": "උපදේශක: කාලෝස් මහතා, මේ ප්‍රදේශයට ඇතුළු වන විට අනිවාර්යයෙන්ම හෙල්මට් දමා, ආරක්ෂිත සපත්තු පැළඳිය යුතු බවට නීතියක් තියෙනවා (履くことになっています). අනතුරු වළක්වා ගැනීමේ නීතියක් නිසා පිළිපදින්න.\nකාලෝස්: හරි, තේරුණා!"
+      },
+      "explanation_sinhala": "උපදේශකයා පවසන්නේ හෙල්මට් සහ ආරක්ෂිත සපත්තු පැළඳිය යුතු බව (ヘルメットをかぶって、安全靴を履くことになっています) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l05_002",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_16",
+      "can_do_title_sinhala": "හදිසි තහනම් නියෝගයක් අසා තේරුම් ගැනීම (～るな)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L05_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "先輩はなぜ「動かすな！」と叫びましたか。",
+        "furigana": "[せんぱい]はなぜ「[うご]かすな！」と[さけ]びましたか。",
+        "sinhala": "ජ්‍යෙෂ්ඨයා 'ක්‍රියාත්මක කරන්න එපා!' (動かすな) කියා කෑගැසුවේ ඇයි?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "機械の中に物が挟まっていたから (යන්ත්‍රය තුළ යමක් හිරවී තිබූ බැවින්)"
+        },
+        {
+          "id": "B",
+          "text": "作業が終わったから (වැඩ අවසන් වූ බැවින්)"
+        },
+        {
+          "id": "C",
+          "text": "停電したから (විදුලිය විසන්ධි වූ බැවින්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "先輩: 危ない！まだ動かすな！ベルトに材料が挟まっているぞ！\n後輩: え、すみません！すぐ止めます！",
+        "sinhala": "ජ්‍යෙෂ්ඨයා: අනතුරක්! තවම ක්‍රියාත්මක කරන්න එපා (動かすな)! බෙල්ට් එකේ බඩු හිරවෙලා තියෙන්නේ!\nකණිෂ්ඨයා: ආ, සමාවෙන්න! දැන්ම නවත්වන්නම්!"
+      },
+      "explanation_sinhala": "යන්ත්‍රයේ යමක් හිරවී අනතුරුදායක තත්ත්වයක් තිබූ නිසා හදිසි තහනමක් ලෙස '動かすな' (Don't move/start) කී බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l05_003",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_17",
+      "can_do_title_sinhala": "තත්ත්වය තහවුරු කරගැනීම අසා තේරුම් ගැනීම (～かどうか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L05_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性は男性に何を確かめるように頼みましたか。",
+        "furigana": "[じょせい]は[だんせい]に[なに]を[たし]かめるように[たの]みましたか。",
+        "sinhala": "කාන්තාව පිරිමි පුද්ගලයාගෙන් සොයා බලන ලෙස ඉල්ලා සිටියේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "明日の会議室が空いているかどうか (හෙට රැස්වීම් කාමරය හිස්ව ඇත්ද නැද්ද යන්න)"
+        },
+        {
+          "id": "B",
+          "text": "資料を何枚コピーしたか (ලේඛන කීයක් කොපි කළාද යන්න)"
+        },
+        {
+          "id": "C",
+          "text": "部長が何時に来るか (අධ්‍යක්ෂකවරයා කීයට පැමිණේද යන්න)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "女性: スミスさん、明日の午後、第2会議室が空いているかどうか、予約表を確認してもらえませんか。\nスミス: はい、今すぐ見ておきますね。",
+        "sinhala": "කාන්තාව: ස්මිත්, හෙට සවස 2 වන රැස්වීම් කාමරය නිදහස්ද නැද්ද කියා (空いているかどうか) බුකින් ෂීට් එකෙන් බලලා දෙන්න පුළුවන්ද?\nස්මිත්: හරි, මම දැන්ම බලලා තබන්නම්."
+      },
+      "explanation_sinhala": "ඇය '第2会議室が空いているかどうか' (රැස්වීම් කාමරය හිස්ව ඇත්ද නැද්ද කියා) තහවුරු කරගැනීමට ඉල්ලා සිටින බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l05_004",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_17",
+      "can_do_title_sinhala": "යමක් තිබෙන තැන දන්නවාදැයි විමසීම (Question Word + か)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L05_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "男性は新しい在庫の段ボールがどこにあるか知っていますか。（◯ か ✕）",
+        "furigana": "[だんせい]は[あたら]しい[ざいこ]の[だんぼーる]がどこにあるか[し]っていますか。（◯ か ✕）",
+        "sinhala": "පිරිමි පුද්ගලයා අලුත් තොග පෙට්ටි ඇති තැන දන්නවාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, දනී)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, නොදනී)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "女性: すみません、新しい段ボールがどこにあるか知っていますか。\n男性: あ、さっき倉庫の棚の奥に置きましたよ。一緒に行きましょうか。",
+        "sinhala": "කාන්තාව: සමාවෙන්න, අලුත් කාඩ්බෝඩ් පෙට්ටි තියෙන්නේ කොහේද කියලා දන්නවද (どこにあるか知っていますか)?\nපිරිමියා: ආ, මම ටිකකට කලින් ගබඩාවේ රාක්කයේ කෙළවරින් තිබ්බා. මමත් එන්නද පෙන්නන්න."
+      },
+      "explanation_sinhala": "ඔහු '倉庫の棚の奥に置きましたよ' (ගබඩාවේ තිබ්බා) යැයි ඇති තැන දන්නා බව පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l05_005",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_16",
+      "can_do_title_sinhala": "ආරක්ෂක සංඥා පුවරුවක් කියවීම (立ち入り禁止 / 触るな)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l05_q05_signs.png"
+      },
+      "question_text": {
+        "japanese": "標識に「関係者以外 立ち入るな」とあります。どういう意味ですか。",
+        "furigana": "[ひょうしき]に「[かんけいしゃいがい] [た]ち[い]るな」とあります。どういう[いみ]ですか。",
+        "sinhala": "පුවරුවේ '関係者以外 立ち入るな' (Tachi iru na) කියා ලියා ඇත. මෙහි තේරුම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "අදාළ සේවකයින් හැර අනෙක් අය ඇතුළු නොවන්න (Do not enter)"
+        },
+        {
+          "id": "B",
+          "text": "කරුණාකර සියලු දෙනා ඇතුළු වන්න"
+        },
+        {
+          "id": "C",
+          "text": "සෙමින් ධාවනය කරන්න"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'立ち入るな' යනු '立ち入る' (ඇතුළුවීම) හි තහනම් නියෝග ස්වරූපය (Prohibitive) වන අතර අදාළ නොවන අය ඇතුළු නොවන්න යන්නයි."
+    },
+    {
+      "quiz_id": "qz_e2_l05_006",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_15",
+      "can_do_title_sinhala": "සේවා නියමයන් පත්‍රිකාවක් කියවීම (Company Rule: koto ni natte iru)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l05_q06_workrules.png"
+      },
+      "question_text": {
+        "japanese": "社内規定です。遅刻しそうなときはどうすることになっていますか。",
+        "furigana": "[しゃないきてい]です。[ちこく]しそうなときはどうすることになっていますか。",
+        "sinhala": "ආයතන නීති බලන්න. ප්‍රමාද වන බව දැනගත් විට කළ යුතු බවට නීතියක් ඇත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "始業10分前までに電話で連絡することになっている (වැඩ පටන් ගැනීමට විනාඩි 10කට පෙර දුරකථනයෙන් දැනුම් දිය යුතුයි)"
+        },
+        {
+          "id": "B",
+          "text": "連絡しないでそのまま出社することになっている (දැනුම් නොදී නිකම්ම පැමිණිය යුතුයි)"
+        },
+        {
+          "id": "C",
+          "text": "翌日メールを送ることになっている (පසුදා ඊමේල් යැවිය යුතුයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නීති පත්‍රිකාවේ '遅刻・欠勤の際は、始業10分前までに必ず電話連絡することになっています' ලෙස සටහන්ව ඇත."
+    },
+    {
+      "quiz_id": "qz_e2_l05_007",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_15",
+      "can_do_title_sinhala": "නීතියක් පවතින බව දැක්වීම (～ことになっています)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「社内では禁煙なので、タバコを吸わ（　）ことになっています。」",
+        "furigana": "[しゃない]では[きんえん]なので、タバコを[す]わ（　）ことになっています。」",
+        "sinhala": "'කාර්යාලය තුළ දුම්බීම තහනම් නිසා දුම් නොබිය යුතු බවට නීතියක් පවතී' කීමට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ない (nai - Nai-form)"
+        },
+        {
+          "id": "B",
+          "text": "なかった (nakatta)"
+        },
+        {
+          "id": "C",
+          "text": "なくて (nakute)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යමක් නොකිරීමට නීතියක් පවතින බව දැක්වීමට 'V-nai + ことになっています' (吸わないことになっています) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e2_l05_008",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_16",
+      "can_do_title_sinhala": "තහනම් නියෝග ආකෘතිය (V-る な)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "動詞「触る（さわる - Touch）」の禁止（Prohibitive）の命令形はどれですか。",
+        "furigana": "[どうし]「[さわ]る（Touch）」の[きんし]の[めいれいけい]はどれですか。",
+        "sinhala": "'අල්ලනවා' (触る) යන්නෙහි 'අල්ලන්න එපා!' යන තහනම් නියෝග ආකෘතිය (Prohibitive) කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "触るな (Sawaru na)"
+        },
+        {
+          "id": "B",
+          "text": "触れ (Saware)"
+        },
+        {
+          "id": "C",
+          "text": "触らない (Sawaranai)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ඕනෑම ක්‍රියාපදයක ශබ්දකෝෂ ආකෘතිය (Dictionary form) අගට 'な' (na) එකතු කිරීමෙන් තහනම් නියෝගය (Don't touch! - 触るな) සෑදේ."
+    },
+    {
+      "quiz_id": "qz_e2_l05_009",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_17",
+      "can_do_title_sinhala": "ද නැද්ද කියා වාක්‍යයක් තුළ සම්බන්ධ කිරීම (～かどうか)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「サイズが合う（　）、着てみてください。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「サイズが[あ]う（　）、[き]てみてください。」",
+        "sinhala": "'සයිස් එක හරිද නැද්ද කියා ඇඳලා බලන්න' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "かどうか (ka dou ka)"
+        },
+        {
+          "id": "B",
+          "text": "から (kara)"
+        },
+        {
+          "id": "C",
+          "text": "ので (node)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යමක් නිවැරදිද නැද්ද / ගැළපේද නැද්ද යන්න දැක්වීමට 'Plain form + かどうか' (合うかどうか) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l05_010",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_16",
+      "can_do_title_sinhala": "නතර වනු යන නියෝග සලකුණ (止まれ / Tomare)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "道路の赤い三角の標識にある「止まれ」の読み方はどれですか。",
+        "furigana": "[どうろ]の[あか]い[さんかく]の[ひょうしき]にある「[と]まれ」の[よ]み[かた]はどれですか。",
+        "sinhala": "මාර්ගයේ රතු ත්‍රිකෝණාකාර පුවරුවේ ඇති '止まれ' (Stop) හි නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "とまれ (Tomare)"
+        },
+        {
+          "id": "B",
+          "text": "とまるな (Tomaru na)"
+        },
+        {
+          "id": "C",
+          "text": "とまり (Tomari)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "මාර්ග නීතිවල 'Stop' හෙවත් නතර වනු යන්න දැක්වෙන්නේ '止まれ' (තොමරෙ) ලෙසයි."
+    },
+    {
+      "quiz_id": "qz_e2_l05_011",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_15",
+      "can_do_title_sinhala": "ආරක්ෂිත සපත්තු (安全靴 / Anzen-gutsu)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "工場などで重い物が落ちても足を守る靴は何と言いますか。",
+        "furigana": "[こうじょう]などで[おも]いものが[お]ちても[あし]を[まも]る[くつ]は[なん]と[い]いますか。",
+        "sinhala": "කර්මාන්තශාලාවල බර ද්‍රව්‍ය වැටුණද පාදය ආරක්ෂා කරදෙන පාවහන් හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "安全靴（あんぜんぐつ）- Safety shoes"
+        },
+        {
+          "id": "B",
+          "text": "長靴（ながぐつ）- Rain boots"
+        },
+        {
+          "id": "C",
+          "text": "上履き（うわばき）- Indoor shoes"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යකඩ ආවරණ සහිත ආරක්ෂිත සපත්තු '安全靴' (අන්සෙන්ගුත්සු) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l05_012",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "can_do_id": "cando_e2_15",
+      "can_do_title_sinhala": "සේවා ස්ථානයේ නීති පැහැදිලි කරන සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: はい、安全のために必ずかぶるルールになっています\n2: 工場の中では、全員ヘルメットをかぶることになっていますか\n3: 分かりました。忘れないようにします\n4: ここに置いてありますから、どうぞ",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: はい、[あんぜん]のために[かなら]ずかぶるルールになっています\n2: [こうじょう]の[なか]では、[ぜんいん]ヘルメットをかぶることになっていますか\n3: [わ]かりました。[わす]れないようにします\n4: ここに[お]いてありますから、どうぞ",
+        "sinhala": "නීති විමසන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 1 -> 4 -> 3"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 3 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "2 -> 4 -> 1 -> 3"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (කර්මාන්තශාලාවේ හැමෝම හෙල්මට් දාන්න නීතියක් තියෙනවද?) -> 1 (ඔව්, ආරක්ෂාවට අනිවාර්ය නීතියක් තියෙනවා) -> 4 (මෙතැන තියෙනවා, ගන්න) -> 3 (තේරුණා, අමතක නොකර දාන්නම්)."
+    },
+    {
+      "quiz_id": "qz_e2_l06_013",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_18",
+      "can_do_title_sinhala": "ගැටලුවකදී උපදෙස් ඉල්ලීම අසා තේරුම් ගැනීම (どうしたらいいですか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L06_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんはアパートの更新（こうしん）について誰に相談しましたか。",
+        "furigana": "カルロスさんはアパートの[こうしん]について[だれ]に[そうだん]しましたか。",
+        "sinhala": "කාලෝස් මහතා මහල් නිවාසයේ කොන්ත්‍රාත්තුව අලුත් කිරීම ගැන උපදෙස් ඇසුවේ කාගෙන්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "会社の先輩 (සමාගමේ ජ්‍යෙෂ්ඨ සගයාගෙන්)"
+        },
+        {
+          "id": "B",
+          "text": "不動産屋 (දේපළ වෙළඳ නියෝජිතයාගෙන්)"
+        },
+        {
+          "id": "C",
+          "text": "市役所の窓口 (නගර සභා කවුන්ටරයෙන්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "カルロス: 先輩、ちょっと相談があるんですが……。アパートの更新の手紙が届いたんですが、手続きはどうしたらいいですか。\n先輩: あ、それなら不動産屋に電話して聞いてみるといいですよ。",
+        "sinhala": "කාලෝස්: ජ්‍යෙෂ්ඨයා, මට පොඩි උපදෙසක් ගන්න තියෙනවා... අපාර්ට්මන්ට් එක අලුත් කිරීමේ ලියුමක් ආවා, ලියකියවිලි වැඩ කොහොමද කරන්න ඕන (どうしたらいいですか)?\nජ්‍යෙෂ්ඨයා: ආ, එහෙමනම් දේපළ වෙළෙන්දාට (Estate agent) කතා කරලා ඇහුවොත් හොඳයි."
+      },
+      "explanation_sinhala": "කාලෝස් තම සේවා ස්ථානයේ ජ්‍යෙෂ්ඨ සගයාගෙන් උපදෙස් ඉල්ලූ බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l06_014",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_19",
+      "can_do_title_sinhala": "යම් දෙයක් ගැන නම් හොඳම විකල්පය යෝජනා කිරීම (～なら)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L06_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "日本のSIMカードやスマホを買うなら、どこがいいと言っていますか。",
+        "furigana": "[にほん]のSIMカードやスマホを[か]うなら、どこがいいと[い]っていますか。",
+        "sinhala": "ජපානයේ සිම් කාඩ්පතක් හෝ ස්මාර්ට්ෆෝනයක් මිලදී ගන්නවා නම් හොඳ කොහේදැයි පවසන්නේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "駅前の大型家電量販店 (ස්ටේෂන් එක ඉදිරිපිට විශාල විදුලි උපකරණ වෙළඳසැල)"
+        },
+        {
+          "id": "B",
+          "text": "空港のショップ (ගුවන් තොටුපළ සාප්පුව)"
+        },
+        {
+          "id": "C",
+          "text": "コンビニ (කොන්බිනි එක)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "マリア: 安いSIMカードを買いたいんですが、どこで買えますか。\n同僚: 格安SIMなら、駅前の家電量販店が一番安いし、外国語が話せるスタッフもいますよ。",
+        "sinhala": "මරියා: ලාභ සිම් කාඩ් එකක් ගන්න ඕන, කොහෙන්ද ගන්න පුළුවන්?\nසගයා: ලාභ සිම් ගැන නම් (格安SIMなら), ස්ටේෂන් එක ඉස්සරහා ඉලෙක්ට්‍රොනික් ෂොප් එක තමයි ලාභම, අනික විදේශ භාෂා කතා කරන අයත් ඉන්නවා."
+      },
+      "explanation_sinhala": "සගයා පවසන්නේ '格安SIMなら、駅前の家電量販店が一番安い' (සිම් ගැන නම් ස්ටේෂන් එක ඉදිරිපිට ෂොප් එක හොඳයි) කියාය. පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l06_015",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_20",
+      "can_do_title_sinhala": "සිදුවිය යුතු ස්ථිර බලාපොරොත්තුව අසා තේරුම් ගැනීම (～はずです)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L06_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "注文した書類は今日届くはずですか。（◯ か ✕）",
+        "furigana": "[ちゅうもん]した[しょるい]は[きょう][とど]くはずですか。（◯ か ✕）",
+        "sinhala": "ඇනවුම් කළ ලේඛනය අද ළඟා විය යුතුද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, අද ළඟා විය යුතුය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, හෙටට පෙර නොලැබේ)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: 本社からの書類はまだ来ませんか。\nB: おととい速達で送ったと言っていましたから、今日の午後には届くはずですよ。",
+        "sinhala": "A: ප්‍රධාන කාර්යාලයෙන් එවන ලේඛන තවම ආවේ නැද්ද?\nB: පෙරේදා Express තැපෑලෙන් දැම්මා කිව්වා, ඒ නිසා අද හවස වෙද්දී අනිවාර්යයෙන්ම ලැබිය යුතුයි (届くはずですよ)."
+      },
+      "explanation_sinhala": "පෙරේදා එක්ස්ප්‍රස් තැපෑලෙන් යැවූ බැවින් අද හවස ළඟා විය යුතු බව (届くはずですよ) පවසයි. පිළිතුර ◯ වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l06_016",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_20",
+      "can_do_title_sinhala": "එසේ විය නොහැකි බව අසා තේරුම් ගැනීම (～はずがありません)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L06_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "田中さんは鍵が見つからない同僚に何と言いましたか。",
+        "furigana": "[たなか]さんは[かぎ]が[み]つからない[どうりょう]に[なん]と[い]いましたか。",
+        "sinhala": "යතුර සොයාගත නොහැකි සගයාට තනකා මහතා පැවසුවේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "さっき机の上に置いたから、ないはずがない (ටිකකට කලින් මේසය උඩින් තිබ්බ නිසා, නැති වෙන්න විදිහක් නෑ)"
+        },
+        {
+          "id": "B",
+          "text": "家で忘れたはずだ (ගෙදර අමතක වෙන්න ඇති)"
+        },
+        {
+          "id": "C",
+          "text": "新しい鍵を作ったほうがいい (අලුත් යතුරක් හදන එක හොඳයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "同僚: あれ？ロッカーの鍵がありません！\n田中: さっきあなたが机の上に置いたのを見ましたよ。探してみて。ないはずがありませんよ。",
+        "sinhala": "සගයා: ඒයි? ලොකර් එකේ යතුර නෑනේ!\nතනකා: ටිකකට කලින් ඔබ මේසය උඩින් තියනවා මම දැක්කා. හොයලා බලන්න. එතැන නැති වෙන්න විදිහක් නෑ (ないはずがありませんよ)."
+      },
+      "explanation_sinhala": "තනකා මහතා පවසන්නේ මේසය උඩින් තබනවා දුටු බැවින් 'ないはずがありません' (නැති වෙන්න විදිහක් නෑ / Definitely must be there) කියාය. පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l06_017",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_18",
+      "can_do_title_sinhala": "විදේශිකයින් සඳහා නගර සභා උපදෙස් කවුන්ටර පත්‍රිකාවක් කියවීම (Consultation Desk)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l06_q17_consultation.png"
+      },
+      "question_text": {
+        "japanese": "チラシを見てください。ビザや生活の相談をしたいとき、何曜日に相談窓口へ行きますか。",
+        "furigana": "チラシを[み]てください。ビザや[せいかつ]の[そうだん]をしたいとき、[なんようび]に[そうだんまどぐち]へ[い]きますか。",
+        "sinhala": "දැන්වීම බලන්න. වීසා සහ ජීවන ගැටලු සාකච්ඡා කිරීමට උපදෙස් කවුන්ටරයට යා යුත්තේ කුමන දිනයේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "毎週水曜日（外国語相談日）- සෑම බදාදා දිනකම"
+        },
+        {
+          "id": "B",
+          "text": "土曜日と日曜日 - සෙනසුරාදා සහ ඉරිදා"
+        },
+        {
+          "id": "C",
+          "text": "毎日いつでも - ඕනෑම දිනක"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ '外国人生活相談窓口: 毎週水曜日 13:00〜16:00（通訳あり・無料）' ලෙස දක්වා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l06_018",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_19",
+      "can_do_title_sinhala": "ප්‍රශ්නෝත්තර (Q&A) පත්‍රිකාවක් කියවා විසඳුම් සෙවීම",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l06_q18_faq.png"
+      },
+      "question_text": {
+        "japanese": "Q&Aによると、壊れた電球を捨てるときは紙に包まなければなりませんか。（◯ か ✕）",
+        "furigana": "Q&Aによると、[こわ]れた[でんきゅう]を[す]てるときは[かみ]に[つつ]まなければなりませんか。（◯ か ✕）",
+        "sinhala": "Q&A පත්‍රිකාවට අනුව කැඩුණු විදුලි බල්බ විසි කිරීමේදී කොළයක එතීම අනිවාර්යද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, අනතුරු වැළැක්වීමට කඩදාසියක එතිය යුතුය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, එසේ අනවශ්‍යයි)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "පත්‍රිකාවේ '割れた電球やガラスは厚紙に包んで「危険」と書いて出してください' ලෙස සඳහන් බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l06_019",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_18",
+      "can_do_title_sinhala": "උපදෙස් පැතීමේ වාක්‍ය රටාව (～たらいいですか)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "やり方を相談する正しい表現を選んでください：「定期券を買いたいんですが、どう（　）。」",
+        "furigana": "やり[かた]を[そうだん]する[ただ]しい[ひょうげん]を[えら]んでください：「[ていきけん]を[か]いたいんですが、どう（　）。」",
+        "sinhala": "'වාර ප්‍රවේශපත්‍රයක් ගැනීමට අවශ්‍යයි, මම කුමක් කළ යුතුද?' කියා උපදෙස් අසන නිවැරදි ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "したらいいですか (shitara ii desu ka)"
+        },
+        {
+          "id": "B",
+          "text": "するといいですか (suru to ii desu ka)"
+        },
+        {
+          "id": "C",
+          "text": "すればいいです (sureba ii desu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කළ යුතු දේ පිළිබඳව අන් අයගෙන් මඟපෙන්වීමක් ඉල්ලීමට 'Question word + V-tara ii desu ka' (どうしたらいいですか) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l06_020",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_19",
+      "can_do_title_sinhala": "මාතෘකාවට අදාළව යෝජනා කිරීම (Noun なら)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る適切な言葉を選んでください：「おいしい寿司（　）、駅前の店が一番ですよ。」",
+        "furigana": "[くうらん]に[はい]る[てきせつ]な[ことば]を[えら]んでください：「おいしい[すし]（　）、[えきまえ]の[みせ]が[いちばん]ですよ。」",
+        "sinhala": "'රසවත් සුෂි ගැන නම්, ස්ටේෂන් එක ඉදිරිපිට කඩේ තමයි හොඳම' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "なら (nara)"
+        },
+        {
+          "id": "B",
+          "text": "たら (tara)"
+        },
+        {
+          "id": "C",
+          "text": "ば (ba)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කෙනෙකු ඉදිරිපත් කළ මාතෘකාවක් සම්බන්ධයෙන් යෝජනාවක් හෝ විකල්පයක් ඉදිරිපත් කිරීමට 'Noun + なら' (寿司なら) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e2_l06_021",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_20",
+      "can_do_title_sinhala": "ස්ථිර බලාපොරොත්තුව දැක්වීමේ ආකෘතිය (～はずです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る正しい形を選んでください：「田中さんは昨日薬を飲んだから、今日はもう（　）はずです。」",
+        "furigana": "[くうらん]に[はい]る[ただ]しい[かたち]を[えら]んでください：「[たなか]さんは[きのう][くすり]を[の]んだから、[きょう]はもう（　）はずです。」",
+        "sinhala": "'තනකා ඊයේ බෙහෙත් බිව් නිසා, අද සනීප වී තිබිය යුතුයි' කීමට හිස්තැනට ගැළපෙන ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "元気な (Genki na - Na-adj with na)"
+        },
+        {
+          "id": "B",
+          "text": "元気 (Genki)"
+        },
+        {
+          "id": "C",
+          "text": "元気に (Genki ni)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'～はずです' ඉදිරියෙන් な-adjective එකක් යෙදෙන විට 'な' සම්බන්ධ වේ (元気なはずです)."
+    },
+    {
+      "quiz_id": "qz_e2_l06_022",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_18",
+      "can_do_title_sinhala": "උපදෙස් හෝ උපකාර ලබාදෙන සේවා කවුන්ටරය (窓口 / Madoguchi)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "役所や銀行などで、相談や手続きをする受付カウンターを何と言いますか。",
+        "furigana": "[やくしょ]や[ぎんこう]などで、[そうだん]や[てつづ]きをする[うけつけ]カウンターを[なん]と[い]いますか。",
+        "sinhala": "රාජ්‍ය ආයතන හෝ බැංකුවල උපදෙස් ලබාදෙන සහ ලියාපදිංචි කරන සේවා කවුන්ටරය හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "窓口 / まどぐち (Madoguchi)"
+        },
+        {
+          "id": "B",
+          "text": "出口 / でぐち (Deguchi - පිටවීම)"
+        },
+        {
+          "id": "C",
+          "text": "改札口 / かいさつぐち (Kaisatsuguchi - දුම්රිය ගේට්ටුව)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සේවා කවුන්ටරය හෙවත් Service Counter ජපන් බසින් '窓口' (මදෝගුචි) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l06_023",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_18",
+      "can_do_title_sinhala": "නීත්‍යානුකූල පියවර හෝ ලියකියවිලි කටයුතු (手続き / Tetsuzuki)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「ビザや保険に必要な書類をそろえて行う作業（Procedures）」は何ですか。",
+        "furigana": "「ビザや[ほけん]に[ひつよう]な[しょるい]をそろえて[おこな]う[さぎょう]（Procedures）」は[なん]ですか。",
+        "sinhala": "වීසා හෝ රක්ෂණ සඳහා අවශ්‍ය ලියකියවිලි සම්පූර්ණ කිරීමේ නිල ක්‍රියාවලිය (Procedures) හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "手続き / てつづき (Tetsuzuki)"
+        },
+        {
+          "id": "B",
+          "text": "契約 / けいやく (Keiyaku - කොන්ත්‍රාත්තුව)"
+        },
+        {
+          "id": "C",
+          "text": "更新 / こうしん (Koushin - අලුත් කිරීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ලියකියවිලි කාර්ය පටිපාටිය හෙවත් Procedure '手続き' (තෙත්සුසුකි) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l06_024",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "can_do_id": "cando_e2_18",
+      "can_do_title_sinhala": "මිතුරෙකුගෙන් උපදෙස් ඉල්ලන සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: スマホを買いたいんですが、どこで買ったらいいですか\n2: 安いスマホなら、駅前の量販店がいいですよ\n3: ちょっと教えてほしいことがあるんですが……\n4: ありがとうございます。行ってみます！",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: スマホを[か]いたいんですが、どこで[か]ったらいいですか\n2: [やす]いスマホなら、[えきまえ]の[りょうはんてん]がいいですよ\n3: ちょっと[おし]えてほしいことがあるんですが……\n4: ありがとうございます。[い]ってみます！",
+        "sinhala": "උපදෙස් අසන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3 -> 1 -> 2 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 3 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 2 -> 1 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 3 (පොඩි දෙයක් දැනගන්න තියෙනවා...) -> 1 (ස්මාර්ට්ෆෝන් එකක් ගන්න ඕන, කොහෙන් ගත්තොත්ද හොඳ?) -> 2 (ලාභ ස්මාර්ට්ෆෝන් ගැන නම් ස්ටේෂන් එක ඉදිරිපිට ෂොප් එක හොඳයි) -> 4 (බොහොම ස්තුතියි, මම ගිහින් බලන්නම්!)."
+    }
+  ]
+}
