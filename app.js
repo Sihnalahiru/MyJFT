@@ -2,9 +2,10 @@
 document.addEventListener('DOMContentLoaded', () => {
   // Configuration
   const CONFIG = {
-    DATA_BASE_PATH: 'data/',
-    AUDIO_BASE_URL: 'https://raw.githubusercontent.com/your-username/MyJFT/main/public/audio/', // fallback or local
-    IMAGE_BASE_URL: 'data/images/' // local or CDN
+    DATA_BASE_PATH: 'public/data/',
+    AUDIO_BASE_URL: 'https://raw.githubusercontent.com/Sihnalahiru/MyJFT/main/public/audio/',
+    IMAGE_BASE_URL: 'public/data/images/'
+  }; // local or CDN
   };
 
   // State
