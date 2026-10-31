@@ -1,0 +1,23 @@
+{
+  "mode": "pure_japanese_drag_drop",
+  "questions": [
+    {
+      "id": "quiz_01",
+      "audio_prompt": "assets/audio/q1.mp3",
+      "target_japanese": "私は会社に行きます。",
+      "chips": ["会社に", "行きます", "私は"],
+      "correct_order": ["私は", "会社に", "行きます"],
+      "image_hint": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=400&q=80",
+      "xp_reward": 15
+    },
+    {
+      "id": "quiz_02",
+      "audio_prompt": "assets/audio/q2.mp3",
+      "target_japanese": "10時に起きます。",
+      "chips": ["起きます", "10時に"],
+      "correct_order": ["10時に", "起きます"],
+      "image_hint": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=400&q=80",
+      "xp_reward": 15
+    }
+  ]
+}
