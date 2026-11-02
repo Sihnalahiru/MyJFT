@@ -1,0 +1,917 @@
+{
+  "book": "Irodori Elementary 2 (A2.2)",
+  "lessons_covered": [
+    3,
+    4
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 10,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 10
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e2_l03_001",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_10",
+      "can_do_title_sinhala": "වැඩ මුරය මාරු කිරීමේ ඉල්ලීමක් අසා තේරුම් ගැනීම (代わってもらえませんか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L03_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは誰に、何を頼みましたか。",
+        "furigana": "カルロスさんは[だれ]に、[なに]を[たの]みましたか。",
+        "sinhala": "කාලෝස් මහතා කාගෙන්, කුමක් ඉල්ලා සිටියේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "鈴木さんに、来週のシフトを代わってもらうこと (සුසුකි මහත්මියගෙන් ලබන සතියේ වැඩ මුරය මාරු කරදෙන ලෙස)"
+        },
+        {
+          "id": "B",
+          "text": "店長に、休みをもらうこと (මැනේජර්ගෙන් නිවාඩුවක් ඉල්ලීම)"
+        },
+        {
+          "id": "C",
+          "text": "鈴木さんに、残業（ざんぎょう）を頼むこと (සුසුකි මහත්මියගෙන් අතිකාල වැඩ කරන ලෙස ඉල්ලීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "カルロス: 鈴木さん、今ちょっといいですか。\n鈴木: はい、何ですか。\nカルロス: 実は、来週の火曜日のシフトなんですが、代わっていただけませんか。どうしても外せない用事があって……。\n鈴木: 火曜日ですね。いいですよ。",
+        "sinhala": "කාලෝස්: සුසුකි මහත්මිය, දැන් කතා කළාට කමක් නැද්ද?\nසුසුකි: ඔව්, මොකක්ද?\nකාලෝස්: ඇත්තටම, ලබන සතියේ අඟහරුවාදා ෂිෆ්ට් එක මට මාරු කරලා දෙන්න පුළුවන්ද (代わっていただけませんか). මට මඟහරින්න බැරි වැඩක් තියෙනවා...\nසුසුකි: අඟහරුවාදා නේද. කමක් නෑ පුළුවන්."
+      },
+      "explanation_sinhala": "කාලෝස් සුසුකි මහත්මියගෙන් '来週の火曜日のシフト...代わっていただけませんか' (ලබන සතියේ ෂිෆ්ට් එක මාරු කරදෙන්න පුළුවන්ද) කියා අසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l03_002",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_11",
+      "can_do_title_sinhala": "ප්‍රධානියාගෙන් නිවාඩුවක් ඉල්ලීම අසා තේරුම් ගැනීම (休ませていただけませんか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L03_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは店長に何をお願いしましたか。",
+        "furigana": "マリアさんは[てんちょう]に[なに]をお[ねが]いしましたか。",
+        "sinhala": "මරියා මැනේජර්ගෙන් ඉල්ලා සිටියේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "来月の3日に休ませてほしい (ලබන මාසයේ 3 වැනිදා නිවාඩු ලබාදෙන ලෙස)"
+        },
+        {
+          "id": "B",
+          "text": "今日の午後、早退させてほしい (අද සවස කලින් යාමට අවසර දෙන ලෙස)"
+        },
+        {
+          "id": "C",
+          "text": "来週からアルバイトを辞めたい (ලබන සතියේ සිට රැකියාවෙන් අස්වීමට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "マリア: 店長、来月のシフトのことなんですが……。\n店長: はい、どうしましたか。\nマリア: 3日なんですが、休ませていただけませんか。国から家族が来るんです。\n店長: わかりました。いいですよ。",
+        "sinhala": "මරියා: මැනේජර්, ලබන මාසයේ ෂිෆ්ට් එක ගැනයි කතා කරන්න ආවේ...\nමැනේජර්: ඔව්, මොකද වුණේ?\nමරියා: 3 වැනිදා මට නිවාඩුවක් ලබාදෙන්න පුළුවන්ද (休ませていただけませんか)? මගේ රටේ ඉඳන් පවුලේ අය එනවා.\nමැනේජර්: තේරුණා. කමක් නෑ."
+      },
+      "explanation_sinhala": "ඇය '3日なんですが、休ませていただけませんか' (3 වැනිදා නිවාඩු දෙන්න පුළුවන්ද) කියා ඉල්ලා සිටින බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l03_003",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_10",
+      "can_do_title_sinhala": "ඉල්ලීමට හේතුව පැහැදිලි කිරීම අසා තේරුම් ගැනීම (～ので)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L03_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "キムさんは、子どもが熱を出したので、シフトを代わってほしいと頼みましたか。（◯ か ✕）",
+        "furigana": "キムさんは、[こども]が[ねつ]を[だ]したので、シフトを[か]わってほしいと[たの]みましたか。（◯ か ✕）",
+        "sinhala": "කිම් මහත්මිය ෂිෆ්ට් එක මාරු කරදෙන ලෙස ඉල්ලුවේ දරුවාට උණ ගැනී ඇති නිසාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, දරුවාට උණ බැවින්)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, තමාට අසනීප බැවින්)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "キム: すみません、今日の夕方のシフト、代わってもらえませんか。子どもが急に熱を出したので、病院へ連れて行きたいんです。\n同僚: それは大変ですね。いいですよ。お大事に。",
+        "sinhala": "කිම්: සමාවෙන්න, අද හවස ෂිෆ්ට් එක මට මාරු කරලා දෙන්න පුළුවන්ද? දරුවාට එකපාරටම උණ ගත්ත නිසා (子どもが熱を出したので), රෝහලට අරන් යන්න ඕන වෙලා.\nසගයා: ඒක හරිම අමාරු අවස්ථාවක්නේ. කමක් නෑ මම කරන්නම්. ඉක්මන් සුවය පතනවා."
+      },
+      "explanation_sinhala": "ඇය '子どもが熱を出したので' (දරුවාට උණ ගැනුණු නිසා) යැයි හේතුව පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l03_004",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_11",
+      "can_do_title_sinhala": "නිවාඩු අයදුම්පතක් (休暇届 - Kyuukatodoke) කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l03_q04_leaveform.png"
+      },
+      "question_text": {
+        "japanese": "休暇届を見てください。休む理由（Reason）は何と書いてありますか。",
+        "furigana": "[きゅうかとどけ]を[み]てください。[やす]む[りゆう]（Reason）は[なん]と[か]いてありますか。",
+        "sinhala": "නිවාඩු අයදුම්පත බලන්න. නිවාඩු ගැනීමේ හේතුව (理由 - Riyuu) ලෙස දක්වා ඇත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "私用のため (පුද්ගලික හේතුවක් මත / Personal reasons)"
+        },
+        {
+          "id": "B",
+          "text": "病気のため (අසනීපයක් නිසා)"
+        },
+        {
+          "id": "C",
+          "text": "家族旅行のため (පවුලේ සංචාරයක් නිසා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අයදුම්පතේ '理由: 私用のため' (පුද්ගලික කාරණයක් නිසා) ලෙස සටහන්ව ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l03_005",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_10",
+      "can_do_title_sinhala": "උදව්වක් ඉල්ලීමේ වාක්‍ය රටාව (～てくれませんか / ～てもらえませんか)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "同僚に代わりをお願いする正しい表現はどれですか：「明日のシフト、（　）。」",
+        "furigana": "[どうりょう]に[か]わりをお[ねが]いする[ただ]しい[ひょうげん]はどれですか：「[あした]のシフト、（　）。」",
+        "sinhala": "සගයෙකුගෙන් ෂිෆ්ට් එක මාරු කරදෙන ලෙස ඉල්ලීමට ගැළපෙන නිවැරදි ප්‍රකාශය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "代わってもらえませんか (Kawatte moraemasen ka)"
+        },
+        {
+          "id": "B",
+          "text": "代わっていいですか (Kawatte ii desu ka)"
+        },
+        {
+          "id": "C",
+          "text": "代わってくださいませんか (Kawatte kudasaimasen ka)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සගයෙකුගෙන් හෝ මිතුරෙකුගෙන් උදව්වක්/කැපකිරීමක් ඉල්ලීමට 'Te-form + もらえませんか' හෝ 'くれませんか' යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l03_006",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_11",
+      "can_do_title_sinhala": "ප්‍රධානියාගෙන් තමාට නිවාඩුවක් ගැනීමට අවසර ඉල්ලීම (～させていただけませんか)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "店長に休みをお願いする一番丁寧な表現はどれですか：「来週の金曜日、（　）。」",
+        "furigana": "[てんちょう]に[やす]みをお[ねが]いする[いちばん][ていねい]な[ひょうげん]はどれですか：「[らいしゅう]の[きんようび]、（　）。」",
+        "sinhala": "මැනේජර්ගෙන් නිවාඩුවක් ගැනීමට අවසර ඉල්ලන වඩාත්ම විනීත (Polite) ප්‍රකාශය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "休ませていただけませんか (Yasumasete itadakemasen ka)"
+        },
+        {
+          "id": "B",
+          "text": "休んでもらえませんか (Yasunde moraemasen ka)"
+        },
+        {
+          "id": "C",
+          "text": "休んでもいいですか (Yasunde mo ii desu ka)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තමාට යමක් කිරීමට (උදා: නිවාඩු ගැනීමට) උසස් අයෙකුගෙන් අවසර ඉල්ලීමට Causative Te-form + いただけませんか (මට නිවාඩු ගන්න අවසර දෙන්න පුළුවන්ද) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e2_l03_007",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_10",
+      "can_do_title_sinhala": "විනීතව හේතුව පැහැදිලි කිරීම (～ので)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「用事が（　）、お休みをいただけませんか。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[ようじ]が（　）、お[やす]みをいただけませんか。」",
+        "sinhala": "'වැඩක් යෙදී ඇති නිසා (Since I have an errand), නිවාඩුවක් ලබාදෙන්න පුළුවන්ද' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "あるので (arunode)"
+        },
+        {
+          "id": "B",
+          "text": "あるのに (arunoni)"
+        },
+        {
+          "id": "C",
+          "text": "あるけど (arukedo)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ඉල්ලීමක් කිරීමට පෙර හේතුව දැක්වීමේදී 'から' වලට වඩා මෘදු/විනීත 'ので' (Plain form + node) භාවිත කරයි."
+    },
+    {
+      "quiz_id": "qz_e2_l04_008",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 4,
+      "can_do_id": "cando_e2_12",
+      "can_do_title_sinhala": "කලින් ගෙදර යාමට සිදුවී ඇති බව අසා තේරුම් ගැනීම (～ないと いけません)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L04_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性はどうして早く帰らなければなりませんか。",
+        "furigana": "[じょせい]はどうして[はや]く[かえ]らなければなりませんか。",
+        "sinhala": "කාන්තාව ඉක්මනින් ගෙදර යා යුත්තේ ඇයි?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "市役所に行かなければならないから (නගර සභා කාර්යාලයට යා යුතු බැවින්)"
+        },
+        {
+          "id": "B",
+          "text": "体調が悪いから (අසනීප බැවින්)"
+        },
+        {
+          "id": "C",
+          "text": "子どもを迎えに行くから (දරුවා රැගෙන යාමට ඇති බැවින්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "女性: 課長、すみません。今日は少し早く帰らないといけないんですが……。\n課長: どうしたの？\n女性: 実は、市役所の手続きに行かないといけなくて。5時までに行きたいんです。\n課長: わかりました。いいですよ。",
+        "sinhala": "කාන්තාව: කචෝ (ප්‍රධානියා), සමාවෙන්න. මට අද ටිකක් කලින් ගෙදර යන්න සිද්ධ වෙලා තියෙනවා...\nප්‍රධානියා: ඒ ඇයි?\nකාන්තාව: ඇත්තටම, නගර සභාවේ ලියකියවිලි වැඩකට යන්න තියෙනවා. 5ට කලින් යන්න ඕන.\nප්‍රධානියා: තේරුණා. කමක් නෑ යන්න."
+      },
+      "explanation_sinhala": "ඇය '市役所の手続きに行かないといけなくて' (නගර සභාවේ වැඩකට යන්න සිද්ධ වෙලා) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l04_009",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 4,
+      "can_do_id": "cando_e2_13",
+      "can_do_title_sinhala": "කණගාටුවෙන් ආරාධනාවක් ප්‍රතික්ෂේප කිරීම (～のに)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L04_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "男性は今日の飲み会に参加しますか。（◯ か ✕）",
+        "furigana": "[だんせい]は[きょう]の[の]み[かい]に[さんか]しますか。（◯ か ✕）",
+        "sinhala": "පිරිමි පුද්ගලයා අද සාදයට සහභාගී වේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, සහභාගී වේ)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, සහභාගී නොවේ)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: 今日の仕事の後、みんなで飲みに行きませんか。\nB: すみません、行きたいのに、今日は妻の誕生日なので早く帰らないといけないんです。\nA: ああ、そうですか。それは残念ですね。",
+        "sinhala": "A: අද වැඩ ඉවර වුණාම ඔක්කොම එකතු වෙලා ඩ්‍රින්ක් එකක් දාන්න යමුද?\nB: සමාවෙන්න, යන්න ආස වුණත් (行きたいのに), අද බිරිඳගේ උපන්දිනය නිසා මට ඉක්මනින් ගෙදර යන්න සිද්ධ වෙලා තියෙනවා.\nA: ආ එහෙමද. ඒක නම් අපරාදේ."
+      },
+      "explanation_sinhala": "ඔහු '早く帰らないといけないんです' (ඉක්මනින් ගෙදර යා යුතුයි) යැයි පවසමින් ආරාධනාව ප්‍රතික්ෂේප කරන බැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_e2_l04_010",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 4,
+      "can_do_id": "cando_e2_14",
+      "can_do_title_sinhala": "ප්‍රමාද වීම පිළිබඳ සමාව ඉල්ලීමේ පණිවිඩයක් කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l04_q10_delaymsg.png"
+      },
+      "question_text": {
+        "japanese": "メッセージを読んでください。送信者はどうして遅れますか。",
+        "furigana": "メッセージを[よ]んでください。[そうしんしゃ]はどうして[おく]れますか。",
+        "sinhala": "කෙටි පණිවිඩය කියවන්න. යවන්නා ප්‍රමාද වීමට හේතුව කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "電車が止まっているから (දුම්රිය නතර වී ඇති බැවින්)"
+        },
+        {
+          "id": "B",
+          "text": "道が混んでいるから (පාරේ වාහන තදබදයක් ඇති බැවින්)"
+        },
+        {
+          "id": "C",
+          "text": "寝坊したから (අවදි වීමට ප්‍රමාද වූ බැවින්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පණිවිඩයේ '事故で電車が止まっていて、15分くらい遅れそうです' (අනතුරක් නිසා කෝච්චිය නැවතිලා, විනාඩි 15ක් විතර පරක්කු වෙයි) ලෙස ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l04_011",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 4,
+      "can_do_id": "cando_e2_12",
+      "can_do_title_sinhala": "එදිනෙදා කථනයේදී 'කළ යුතුයි' කීම (～ないと いけません)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「帰らなければなりません」の会話でよく使う短い形はどれですか。",
+        "furigana": "「[かえ]らなければなりません」の[かいわ]でよく[つか]う[みじか]い[かたち]はどれですか。",
+        "sinhala": "'ගෙදර යා යුතුයි' (Kaeranakereba narimasen) යන්න කථන භාෂාවේදී කෙටියෙන් පවසන නිවැරදි ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "帰らないと（いけません）(Kaeranai to (ikemasen))"
+        },
+        {
+          "id": "B",
+          "text": "帰らなくては（なりません）"
+        },
+        {
+          "id": "C",
+          "text": "帰るべきです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කථන භාෂාවේදී 'Nai-form + といけません' (Kaeranai to ikemasen) යොදාගැනීම සුලභය."
+    },
+    {
+      "quiz_id": "qz_e2_l04_012",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 4,
+      "can_do_id": "cando_e2_13",
+      "can_do_title_sinhala": "කණගාටුව සමඟ පරස්පරතාව දැක්වීම (～のに)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「とても楽しみにしていた（　）、行けなくなってしまいました。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「とても[たの]しみにしていた（　）、[い]けなくなってしまいました。」",
+        "sinhala": "'මම ගොඩක් ආසාවෙන් බලාගෙන හිටියා, ඒත් / වුණත් යන්න බැරි වුණා' යැයි කණගාටුවෙන් පවසන විට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "のに (noni)"
+        },
+        {
+          "id": "B",
+          "text": "ので (node)"
+        },
+        {
+          "id": "C",
+          "text": "から (kara)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "බලාපොරොත්තු වූ දෙයට ප්‍රතිවිරුද්ධ දෙයක් සිදුවූ විට කණගාටුව ප්‍රකාශ කිරීමට 'Plain form + のに' යොදයි (～していたのに)."
+    },
+    {
+      "quiz_id": "qz_e2_l03_001",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_10",
+      "can_do_title_sinhala": "වැඩ මුරය මාරු කිරීමේ ඉල්ලීමක් අසා තේරුම් ගැනීම (代わってもらえませんか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L03_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは誰に、何を頼みましたか。",
+        "furigana": "カルロスさんは[だれ]に、[なに]を[たの]みましたか。",
+        "sinhala": "කාලෝස් මහතා කාගෙන්, කුමක් ඉල්ලා සිටියේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "鈴木さんに、来週のシフトを代わってもらうこと (සුසුකි මහත්මියගෙන් ලබන සතියේ වැඩ මුරය මාරු කරදෙන ලෙස)"
+        },
+        {
+          "id": "B",
+          "text": "店長に、休みをもらうこと (මැනේජර්ගෙන් නිවාඩුවක් ඉල්ලීම)"
+        },
+        {
+          "id": "C",
+          "text": "鈴木さんに、残業（ざんぎょう）を頼むこと (සුසුකි මහත්මියගෙන් අතිකාල වැඩ කරන ලෙස ඉල්ලීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "カルロス: 鈴木さん、今ちょっといいですか。\n鈴木: はい、何ですか。\nカルロス: 実は、来週の火曜日のシフトなんですが、代わっていただけませんか。どうしても外せない用事があって……。\n鈴木: 火曜日ですね。いいですよ。",
+        "sinhala": "කාලෝස්: සුසුකි මහත්මිය, දැන් කතා කළාට කමක් නැද්ද?\nසුසුකි: ඔව්, මොකක්ද?\nකාලෝස්: ඇත්තටම, ලබන සතියේ අඟහරුවාදා ෂිෆ්ට් එක මට මාරු කරලා දෙන්න පුළුවන්ද (代わっていただけませんか). මට මඟහරින්න බැරි වැඩක් තියෙනවා...\nසුසුකි: අඟහරුවාදා නේද. කමක් නෑ පුළුවන්."
+      },
+      "explanation_sinhala": "කාලෝස් සුසුකි මහත්මියගෙන් '来週の火曜日のシフト...代わっていただけませんか' (ලබන සතියේ ෂිෆ්ට් එක මාරු කරදෙන්න පුළුවන්ද) කියා අසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l03_002",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_11",
+      "can_do_title_sinhala": "ප්‍රධානියාගෙන් නිවාඩුවක් ඉල්ලීම අසා තේරුම් ගැනීම (休ませていただけませんか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L03_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは店長に何をお願いしましたか。",
+        "furigana": "マリアさんは[てんちょう]に[なに]をお[ねが]いしましたか。",
+        "sinhala": "මරියා මැනේජර්ගෙන් ඉල්ලා සිටියේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "来月の3日に休ませてほしい (ලබන මාසයේ 3 වැනිදා නිවාඩු ලබාදෙන ලෙස)"
+        },
+        {
+          "id": "B",
+          "text": "今日の午後、早退させてほしい (අද සවස කලින් යාමට අවසර දෙන ලෙස)"
+        },
+        {
+          "id": "C",
+          "text": "来週からアルバイトを辞めたい (ලබන සතියේ සිට රැකියාවෙන් අස්වීමට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "マリア: 店長、来月のシフトのことなんですが……。\n店長: はい、どうしましたか。\nマリア: 3日なんですが、休ませていただけませんか。国から家族が来るんです。\n店長: わかりました。いいですよ。",
+        "sinhala": "මරියා: මැනේජර්, ලබන මාසයේ ෂිෆ්ට් එක ගැනයි කතා කරන්න ආවේ...\nමැනේජර්: ඔව්, මොකද වුණේ?\nමරියා: 3 වැනිදා මට නිවාඩුවක් ලබාදෙන්න පුළුවන්ද (休ませていただけませんか)? මගේ රටේ ඉඳන් පවුලේ අය එනවා.\nමැනේජර්: තේරුණා. කමක් නෑ."
+      },
+      "explanation_sinhala": "ඇය '3日なんですが、休ませていただけませんか' (3 වැනිදා නිවාඩු දෙන්න පුළුවන්ද) කියා ඉල්ලා සිටින බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l03_003",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_10",
+      "can_do_title_sinhala": "ඉල්ලීමට හේතුව පැහැදිලි කිරීම අසා තේරුම් ගැනීම (～ので)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L03_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "キムさんは、子どもが熱を出したので、シフトを代わってほしいと頼みましたか。（◯ か ✕）",
+        "furigana": "キムさんは、[こども]が[ねつ]を[だ]したので、シフトを[か]わってほしいと[たの]みましたか。（◯ か ✕）",
+        "sinhala": "කිම් මහත්මිය ෂිෆ්ට් එක මාරු කරදෙන ලෙස ඉල්ලුවේ දරුවාට උණ ගැනී ඇති නිසාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, දරුවාට උණ බැවින්)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, තමාට අසනීප බැවින්)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "キム: すみません、今日の夕方のシフト、代わってもらえませんか。子どもが急に熱を出したので、病院へ連れて行きたいんです。\n同僚: それは大変ですね。いいですよ。お大事に。",
+        "sinhala": "කිම්: සමාවෙන්න, අද හවස ෂිෆ්ට් එක මට මාරු කරලා දෙන්න පුළුවන්ද? දරුවාට එකපාරටම උණ ගත්ත නිසා (子どもが熱を出したので), රෝහලට අරන් යන්න ඕන වෙලා.\nසගයා: ඒක හරිම අමාරු අවස්ථාවක්නේ. කමක් නෑ මම කරන්නම්. ඉක්මන් සුවය පතනවා."
+      },
+      "explanation_sinhala": "ඇය '子どもが熱を出したので' (දරුවාට උණ ගැනුණු නිසා) යැයි හේතුව පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l03_004",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_11",
+      "can_do_title_sinhala": "නිවාඩු අයදුම්පතක් (休暇届 - Kyuukatodoke) කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l03_q04_leaveform.png"
+      },
+      "question_text": {
+        "japanese": "休暇届を見てください。休む理由（Reason）は何と書いてありますか。",
+        "furigana": "[きゅうかとどけ]を[み]てください。[やす]む[りゆう]（Reason）は[なん]と[か]いてありますか。",
+        "sinhala": "නිවාඩු අයදුම්පත බලන්න. නිවාඩු ගැනීමේ හේතුව (理由 - Riyuu) ලෙස දක්වා ඇත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "私用のため (පුද්ගලික හේතුවක් මත / Personal reasons)"
+        },
+        {
+          "id": "B",
+          "text": "病気のため (අසනීපයක් නිසා)"
+        },
+        {
+          "id": "C",
+          "text": "家族旅行のため (පවුලේ සංචාරයක් නිසා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අයදුම්පතේ '理由: 私用のため' (පුද්ගලික කාරණයක් නිසා) ලෙස සටහන්ව ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l03_005",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_10",
+      "can_do_title_sinhala": "උදව්වක් ඉල්ලීමේ වාක්‍ය රටාව (～てくれませんか / ～てもらえませんか)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "同僚に代わりをお願いする正しい表現はどれですか：「明日のシフト、（　）。」",
+        "furigana": "[どうりょう]に[か]わりをお[ねが]いする[ただ]しい[ひょうげん]はどれですか：「[あした]のシフト、（　）。」",
+        "sinhala": "සගයෙකුගෙන් ෂිෆ්ට් එක මාරු කරදෙන ලෙස ඉල්ලීමට ගැළපෙන නිවැරදි ප්‍රකාශය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "代わってもらえませんか (Kawatte moraemasen ka)"
+        },
+        {
+          "id": "B",
+          "text": "代わっていいですか (Kawatte ii desu ka)"
+        },
+        {
+          "id": "C",
+          "text": "代わってくださいませんか (Kawatte kudasaimasen ka)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සගයෙකුගෙන් හෝ මිතුරෙකුගෙන් උදව්වක්/කැපකිරීමක් ඉල්ලීමට 'Te-form + もらえませんか' හෝ 'くれませんか' යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l03_006",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_11",
+      "can_do_title_sinhala": "ප්‍රධානියාගෙන් තමාට නිවාඩුවක් ගැනීමට අවසර ඉල්ලීම (～させていただけませんか)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "店長に休みをお願いする一番丁寧な表現はどれですか：「来週の金曜日、（　）。」",
+        "furigana": "[てんちょう]に[やす]みをお[ねが]いする[いちばん][ていねい]な[ひょうげん]はどれですか：「[らいしゅう]の[きんようび]、（　）。」",
+        "sinhala": "මැනේජර්ගෙන් නිවාඩුවක් ගැනීමට අවසර ඉල්ලන වඩාත්ම විනීත (Polite) ප්‍රකාශය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "休ませていただけませんか (Yasumasete itadakemasen ka)"
+        },
+        {
+          "id": "B",
+          "text": "休んでもらえませんか (Yasunde moraemasen ka)"
+        },
+        {
+          "id": "C",
+          "text": "休んでもいいですか (Yasunde mo ii desu ka)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තමාට යමක් කිරීමට (උදා: නිවාඩු ගැනීමට) උසස් අයෙකුගෙන් අවසර ඉල්ලීමට Causative Te-form + いただけませんか (මට නිවාඩු ගන්න අවසර දෙන්න පුළුවන්ද) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e2_l03_007",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "can_do_id": "cando_e2_10",
+      "can_do_title_sinhala": "විනීතව හේතුව පැහැදිලි කිරීම (～ので)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「用事が（　）、お休みをいただけませんか。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[ようじ]が（　）、お[やす]みをいただけませんか。」",
+        "sinhala": "'වැඩක් යෙදී ඇති නිසා (Since I have an errand), නිවාඩුවක් ලබාදෙන්න පුළුවන්ද' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "あるので (arunode)"
+        },
+        {
+          "id": "B",
+          "text": "あるのに (arunoni)"
+        },
+        {
+          "id": "C",
+          "text": "あるけど (arukedo)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ඉල්ලීමක් කිරීමට පෙර හේතුව දැක්වීමේදී 'から' වලට වඩා මෘදු/විනීත 'ので' (Plain form + node) භාවිත කරයි."
+    },
+    {
+      "quiz_id": "qz_e2_l04_008",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 4,
+      "can_do_id": "cando_e2_12",
+      "can_do_title_sinhala": "කලින් ගෙදර යාමට සිදුවී ඇති බව අසා තේරුම් ගැනීම (～ないと いけません)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L04_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性はどうして早く帰らなければなりませんか。",
+        "furigana": "[じょせい]はどうして[はや]く[かえ]らなければなりませんか。",
+        "sinhala": "කාන්තාව ඉක්මනින් ගෙදර යා යුත්තේ ඇයි?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "市役所に行かなければならないから (නගර සභා කාර්යාලයට යා යුතු බැවින්)"
+        },
+        {
+          "id": "B",
+          "text": "体調が悪いから (අසනීප බැවින්)"
+        },
+        {
+          "id": "C",
+          "text": "子どもを迎えに行くから (දරුවා රැගෙන යාමට ඇති බැවින්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "女性: 課長、すみません。今日は少し早く帰らないといけないんですが……。\n課長: どうしたの？\n女性: 実は、市役所の手続きに行かないといけなくて。5時までに行きたいんです。\n課長: わかりました。いいですよ。",
+        "sinhala": "කාන්තාව: කචෝ (ප්‍රධානියා), සමාවෙන්න. මට අද ටිකක් කලින් ගෙදර යන්න සිද්ධ වෙලා තියෙනවා...\nප්‍රධානියා: ඒ ඇයි?\nකාන්තාව: ඇත්තටම, නගර සභාවේ ලියකියවිලි වැඩකට යන්න තියෙනවා. 5ට කලින් යන්න ඕන.\nප්‍රධානියා: තේරුණා. කමක් නෑ යන්න."
+      },
+      "explanation_sinhala": "ඇය '市役所の手続きに行かないといけなくて' (නගර සභාවේ වැඩකට යන්න සිද්ධ වෙලා) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l04_009",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 4,
+      "can_do_id": "cando_e2_13",
+      "can_do_title_sinhala": "කණගාටුවෙන් ආරාධනාවක් ප්‍රතික්ෂේප කිරීම (～のに)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L04_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "男性は今日の飲み会に参加しますか。（◯ か ✕）",
+        "furigana": "[だんせい]は[きょう]の[の]み[かい]に[さんか]しますか。（◯ か ✕）",
+        "sinhala": "පිරිමි පුද්ගලයා අද සාදයට සහභාගී වේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, සහභාගී වේ)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, සහභාගී නොවේ)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: 今日の仕事の後、みんなで飲みに行きませんか。\nB: すみません、行きたいのに、今日は妻の誕生日なので早く帰らないといけないんです。\nA: ああ、そうですか。それは残念ですね。",
+        "sinhala": "A: අද වැඩ ඉවර වුණාම ඔක්කොම එකතු වෙලා ඩ්‍රින්ක් එකක් දාන්න යමුද?\nB: සමාවෙන්න, යන්න ආස වුණත් (行きたいのに), අද බිරිඳගේ උපන්දිනය නිසා මට ඉක්මනින් ගෙදර යන්න සිද්ධ වෙලා තියෙනවා.\nA: ආ එහෙමද. ඒක නම් අපරාදේ."
+      },
+      "explanation_sinhala": "ඔහු '早く帰らないといけないんです' (ඉක්මනින් ගෙදර යා යුතුයි) යැයි පවසමින් ආරාධනාව ප්‍රතික්ෂේප කරන බැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_e2_l04_010",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 4,
+      "can_do_id": "cando_e2_14",
+      "can_do_title_sinhala": "ප්‍රමාද වීම පිළිබඳ සමාව ඉල්ලීමේ පණිවිඩයක් කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l04_q10_delaymsg.png"
+      },
+      "question_text": {
+        "japanese": "メッセージを読んでください。送信者はどうして遅れますか。",
+        "furigana": "メッセージを[よ]んでください。[そうしんしゃ]はどうして[おく]れますか。",
+        "sinhala": "කෙටි පණිවිඩය කියවන්න. යවන්නා ප්‍රමාද වීමට හේතුව කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "電車が止まっているから (දුම්රිය නතර වී ඇති බැවින්)"
+        },
+        {
+          "id": "B",
+          "text": "道が混んでいるから (පාරේ වාහන තදබදයක් ඇති බැවින්)"
+        },
+        {
+          "id": "C",
+          "text": "寝坊したから (අවදි වීමට ප්‍රමාද වූ බැවින්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පණිවිඩයේ '事故で電車が止まっていて、15分くらい遅れそうです' (අනතුරක් නිසා කෝච්චිය නැවතිලා, විනාඩි 15ක් විතර පරක්කු වෙයි) ලෙස ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l04_011",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 4,
+      "can_do_id": "cando_e2_12",
+      "can_do_title_sinhala": "එදිනෙදා කථනයේදී 'කළ යුතුයි' කීම (～ないと いけません)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「帰らなければなりません」の会話でよく使う短い形はどれですか。",
+        "furigana": "「[かえ]らなければなりません」の[かいわ]でよく[つか]う[みじか]い[かたち]はどれですか。",
+        "sinhala": "'ගෙදර යා යුතුයි' (Kaeranakereba narimasen) යන්න කථන භාෂාවේදී කෙටියෙන් පවසන නිවැරදි ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "帰らないと（いけません）(Kaeranai to (ikemasen))"
+        },
+        {
+          "id": "B",
+          "text": "帰らなくては（なりません）"
+        },
+        {
+          "id": "C",
+          "text": "帰るべきです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කථන භාෂාවේදී 'Nai-form + といけません' (Kaeranai to ikemasen) යොදාගැනීම සුලභය."
+    },
+    {
+      "quiz_id": "qz_e2_l04_012",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 4,
+      "can_do_id": "cando_e2_13",
+      "can_do_title_sinhala": "කණගාටුව සමඟ පරස්පරතාව දැක්වීම (～のに)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「とても楽しみにしていた（　）、行けなくなってしまいました。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「とても[たの]しみにしていた（　）、[い]けなくなってしまいました。」",
+        "sinhala": "'මම ගොඩක් ආසාවෙන් බලාගෙන හිටියා, ඒත් / වුණත් යන්න බැරි වුණා' යැයි කණගාටුවෙන් පවසන විට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "のに (noni)"
+        },
+        {
+          "id": "B",
+          "text": "ので (node)"
+        },
+        {
+          "id": "C",
+          "text": "から (kara)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "බලාපොරොත්තු වූ දෙයට ප්‍රතිවිරුද්ධ දෙයක් සිදුවූ විට කණගාටුව ප්‍රකාශ කිරීමට 'Plain form + のに' යොදයි (～していたのに)."
+    }
+  ]
+}

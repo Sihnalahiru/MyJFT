@@ -1,0 +1,919 @@
+{
+  "book": "Irodori Elementary 1 (A2.1)",
+  "lessons_covered": [
+    9,
+    10
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e1_l09_001",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_25",
+      "can_do_title_sinhala": "විදුලි උපකරණ දෙකක් සංසන්දනය කිරීම අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L09_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "店員はどちらのパソコンをおすすめしましたか。",
+        "furigana": "[てんいん]はどちらのパソコンをおすすめしましたか。",
+        "sinhala": "වෙළඳසැල් සේවකයා නිර්දේශ කළ ලැප්ටොප් පරිගණකය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "こちらの黒いパソコン（軽くて持ち運びに便利）- කළු පරිගණකය (සැහැල්ලුයි, රැගෙන යාමට පහසුයි)"
+        },
+        {
+          "id": "B",
+          "text": "あちらの白いパソコン（画面が大きい）- සුදු පරිගණකය (තිරය විශාලයි)"
+        },
+        {
+          "id": "C",
+          "text": "一番安いパソコン - ලාභම පරිගණකය"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "客: すみません、この黒いパソコンと白いパソコン、どちらがいいですか。\n店員: 毎日持ち歩くなら、黒いパソコンのほうが軽くてバッテリーも長持ちするので、おすすめですよ。",
+        "sinhala": "පාරිභෝගිකයා: සමාවෙන්න, මේ කළු පරිගණකය සහ සුදු පරිගණකය අතුරින් වඩා හොඳ කුමක්ද?\nසේවක: දිනපතා රැගෙන යනවා නම් කළු එක වඩා සැහැල්ලුයි, බැටරියත් ගොඩක් වෙලා තියෙනවා, ඒ නිසා ඒක නිර්දේශ කරනවා."
+      },
+      "explanation_sinhala": "සේවකයා පවසන්නේ කළු පරිගණකය වඩා සැහැල්ලු බැවින් '黒いパソコンのほうが軽くておすすめ' කියාය. පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l09_002",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_25",
+      "can_do_title_sinhala": "කාණ්ඩයක් අතුරින් වඩාත්ම ජනප්‍රිය භාණ්ඩය විමසීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L09_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "炊飯器（すいはんき）の中で一番人気があるのはどれですか。",
+        "furigana": "[すいはんき]の[なか]で[いちばん][にんき]があるのはどれですか。",
+        "sinhala": "රයිස් කුකර් (炊飯器) අතුරින් වඩාත්ම ජනප්‍රිය වන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "このA社の炊飯器（ご飯がおいしく炊ける）- A සමාගමේ කුකරය (බත් රසවත්ව පිසෙයි)"
+        },
+        {
+          "id": "B",
+          "text": "一番小さい炊飯器 - කුඩාම කුකරය"
+        },
+        {
+          "id": "C",
+          "text": "B社の安い炊飯器 - B සමාගමේ ලාභ කුකරය"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "客: 炊飯器を探しているんですが、この中でどれが一番人気ですか。\n店員: このA社の炊飯器が一番人気ですね。ご飯がふっくら炊けますよ。",
+        "sinhala": "පාරිභෝගිකයා: මම රයිස් කුකර් එකක් හොයනවා, මේ අතරින් මොකක්ද වඩාත්ම ජනප්‍රිය?\nසේවක: මේ A සමාගමේ කුකරය තමයි වඩාත්ම ජනප්‍රිය (一番人気). බත් හරිම මෘදුව රසවත්ව පිසෙනවා."
+      },
+      "explanation_sinhala": "වෙළෙන්දා පවසන්නේ 'A社の炊飯器が一番人気' (A සමාගමේ කුකරය වඩාත්ම ජනප්‍රියයි) කියාය. පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l09_003",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_26",
+      "can_do_title_sinhala": "වගකීම් සහතිකය (Warranty) පිළිබඳ තොරතුරු අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L09_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "この掃除機の保証期間（ほしょうきかん）は何年間ですか。",
+        "furigana": "この[そうじき]の[ほしょうきかん]は[なんねんかん]ですか。",
+        "sinhala": "මෙම වැකියුම් ක්ලීනරයේ වගකීම් කාලය (Warranty) වසර කීයක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "メーカー保証1年、店の延長保証で合計3年 (නිෂ්පාදකයාගේ වසර 1යි, කඩේ දිගුව සමඟ වසර 3යි)"
+        },
+        {
+          "id": "B",
+          "text": "5年間 (වසර 5ක්)"
+        },
+        {
+          "id": "C",
+          "text": "半年間 (මාස 6ක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "客: これ、保証はついていますか。\n店員: はい、メーカーの保証が1年ついています。ポイントカードがあれば無料で3年保証になりますよ。",
+        "sinhala": "පාරිභෝගිකයා: මේකට වොරන්ටි තියෙනවද?\nසේවක: ඔව්, කම්පැනි වොරන්ටි අවුරුද්දක් තියෙනවා. පොයින්ට් කාඩ් එකක් තියෙනවා නම් නොමිලේම අවුරුදු 3ක් වෙනවා."
+      },
+      "explanation_sinhala": "මූලික වසර 1ට අමතරව අවුරුදු 3ක් දක්වා වගකීම් සහතිකය දීර්ඝ කරගත හැකි බව (A) දක්වයි."
+    },
+    {
+      "quiz_id": "qz_e1_l09_004",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_26",
+      "can_do_title_sinhala": "මිල අඩු කරගත හැකිදැයි විමසීම (Sukoshi yasukunari masuka)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L09_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "店員はテレビの値段を少し安くしてくれましたか。（◯ か ✕）",
+        "furigana": "[てんいん]はテレビの[ねだん]を[すこ]し[やす]くしてくれましたか。（◯ か ✕）",
+        "sinhala": "වෙළඳසැල් සේවකයා ටීවී එකේ මිල සුළු වශයෙන් අඩු කර දුන්නේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, මිල අඩු කර දුන්නේය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, මිල අඩු කළ නොහැකි විය)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "客: このテレビ、もう少し安くなりませんか。\n店員: うーん、そうですね……今日決めていただけるなら、特別に2,000円引きにいたします！",
+        "sinhala": "පාරිභෝගිකයා: මේ ටීවී එක තව ටිකක් අඩු කරන්න බැරිද?\nසේවක: ම්ම්, එහෙමනම්... අදම ගන්නවා නම් විශේෂයෙන් යෙන් 2,000ක් අඩු කරලා දෙන්නම්!"
+      },
+      "explanation_sinhala": "සේවකයා යෙන් 2,000ක වට්ටමක් ලබාදුන් බැවින් (2,000円引き) ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l09_005",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_27",
+      "can_do_title_sinhala": "ස්මාර්ට්ෆෝන් පිරිවිතර සංසන්දනාත්මක පත්‍රිකාවක් කියවීම (Spec Sheet)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l09_q05_phonespecs.png"
+      },
+      "question_text": {
+        "japanese": "スペック表を見てください。重さが一番軽いスマートフォンはどれですか。",
+        "furigana": "スペック[ひょう]を[み]てください。[おも]さが[いちばん][かる]いスマートフォンはどれですか。",
+        "sinhala": "විස්තර සටහන බලන්න. බරින් වඩාත්ම සැහැල්ලු (一番軽い) ස්මාර්ට්ෆෝනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "モデルA (150g)"
+        },
+        {
+          "id": "B",
+          "text": "モデルB (185g)"
+        },
+        {
+          "id": "C",
+          "text": "モデルC (210g)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සටහනේ බර (重さ) තීරුවේ මොඩල් A සඳහා '150g' ලෙස අවම අගය සඳහන් වන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l09_006",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_27",
+      "can_do_title_sinhala": "විදුලි උපකරණ සාප්පුවක පොයින්ට් වට්ටම් දැන්වීමක් කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l09_q06_pointevent.png"
+      },
+      "question_text": {
+        "japanese": "チラシを見てください。週末の「ポイント還元（かんげん）」は何パーセントですか。",
+        "furigana": "チラシを[み]てください。[しゅうまつ]の「ポイント[かんげん]」は[なん]パーセントですか。",
+        "sinhala": "දැන්වීම් පත්‍රිකාව බලන්න. සති අන්තයේ ලැබෙන පොයින්ට් ප්‍රතිශතය (Point return) කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "10%還元 (10%ක් පොයින්ට් ලෙස ආපසු ලැබේ)"
+        },
+        {
+          "id": "B",
+          "text": "5%還元 (5%ක්)"
+        },
+        {
+          "id": "C",
+          "text": "20%還元 (20%ක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පත්‍රිකාවේ '週末特別！全品 10%ポイント還元' ලෙස සඳහන් වන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l09_007",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_25",
+      "can_do_title_sinhala": "දෙකක් අතුරින් විමසීමේ සම්මත ආකෘතිය (どちらが～)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "2つのものを比べるときに使う疑問詞はどれですか：「バスと電車と（　）が速いですか。」",
+        "furigana": "2つのものを[くら]べるときに[つか]う[ぎもんし]はどれですか：「バスと[でんしゃ]と（　）が[はや]いですか。」",
+        "sinhala": "'බස් රථය සහ දුම්රිය අතුරින් කුමක් වේගවත්ද?' කියා ඇසීමට හිස්තැනට ගැළපෙන ප්‍රශ්නවාචී පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "どちら / どっち (Dochira / Docchi - කුමක්/කොයි එක)"
+        },
+        {
+          "id": "B",
+          "text": "どれ (Dore)"
+        },
+        {
+          "id": "C",
+          "text": "どこ (Doko)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "විකල්ප දෙකක් අතරින් සංසන්දනය කිරීමේදී 'どれ' නොව 'どちら' (හෝ කථන බසින් どっち) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e1_l09_008",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_25",
+      "can_do_title_sinhala": "එකක් වඩාත් [විශේෂණය] බව පැවසීම (～のほうが)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「電車のほうが速いです」の「ほう」は何を表していますか。",
+        "furigana": "「[でんしゃ]のほうが[はや]いです」の「ほう」は[なに]を[あらわ]していますか。",
+        "sinhala": "'Densha no hou ga hayai desu' හි 'ほう' මඟින් අදහස් කරන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "එම පාර්ශ්වය/පැත්ත වඩාත් (The side that is more...)"
+        },
+        {
+          "id": "B",
+          "text": "දිශාව (Direction)"
+        },
+        {
+          "id": "C",
+          "text": "ක්‍රමවේදය (Method)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සංසන්දනයකදී 'Noun + のほうが [Adj]' යෙදෙන්නේ සංසන්දනය වන දෙකෙන් වඩාත් එම ගුණය පවතින පැත්ත දැක්වීමටයි."
+    },
+    {
+      "quiz_id": "qz_e1_l09_009",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_25",
+      "can_do_title_sinhala": "වඩාත්ම/උපරිමයෙන් යන්න දැක්වීම (一番 / Ichiban)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「スポーツの中でサッカーが（　）好きです。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「スポーツの[なか]でサッカーが（　）[す]きです。」",
+        "sinhala": "'ක්‍රීඩා අතුරින් මම පාපන්දු ක්‍රීඩාවට වඩාත්ම කැමතියි' කීමට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "一番 / いちばん (Ichiban - Most/Best)"
+        },
+        {
+          "id": "B",
+          "text": "もっと (Motto - තව)"
+        },
+        {
+          "id": "C",
+          "text": "とても (Totemo - ගොඩක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාණ්ඩයකින් වඩාත්ම/අංක එක ලෙස කැමති බව (Superlative) දැක්වීමට '一番' (Ichiban) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l09_010",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_25",
+      "can_do_title_sinhala": "සැහැල්ලු බව සහ බර බව (軽い / 重い)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「重い（Heavy）」の反対の意味の言葉はどれですか。",
+        "furigana": "「[おも]い（Heavy）」の[はんたい]の[いみ]の[ことば]はどれですか。",
+        "sinhala": "'重い' (බරයි) යන්නෙහි ප්‍රතිවිරුද්ධ පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "軽い (Karui - සැහැල්ලුයි)"
+        },
+        {
+          "id": "B",
+          "text": "薄い (Usui - තුනීයි)"
+        },
+        {
+          "id": "C",
+          "text": "速い (Hayai - වේගවත්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'重い' (Omoi - බර) හි ප්‍රතිවිරුද්ධ වචනය '軽い' (Karui - සැහැල්ලු) වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l09_011",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_26",
+      "can_do_title_sinhala": "වගකීම් සහතිකය හඳුන්වන වචනය (保証 / Hoshou)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "家電が壊れたときに無料で直してもらえる約束（Warranty）を何と言いますか。",
+        "furigana": "[かでん]が[こわ]れたときに[むりょう]で[なお]してもらえる[やくそく]（Warranty）を[なん]と[い]いますか。",
+        "sinhala": "විදුලි උපකරණයක් කැඩුනහොත් නොමිලේ සාදා දීමට දෙන වගකීම් සහතිකය හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "保証 (Hoshou)"
+        },
+        {
+          "id": "B",
+          "text": "割引 (Waribiki - වට්ටම්)"
+        },
+        {
+          "id": "C",
+          "text": "領収書 (Ryoushuusho - රිසිට්පත)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "වගකීම් සහතිකය ජපන් බසින් '保証' (හොෂෝ - Warranty) හෝ '保証書' (Hoshousho) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l09_012",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 9,
+      "can_do_id": "cando_e1_25",
+      "can_do_title_sinhala": "විදුලි උපකරණ කඩයක සිදුවන සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: どちらがおすすめですか\n2: カメラを探しているんですが……\n3: こちらのほうが軽くて使いやすいですよ\n4: じゃあ、これにします！",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: どちらがおすすめですか\n2: カメラを[さが]しているんですが……\n3: こちらのほうが[かる]くて[つか]いやすいですよ\n4: じゃあ、これにします！",
+        "sinhala": "කැමරාවක් මිලදී ගන්නා සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 1 -> 3 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 3 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 1 -> 2 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (කැමරාවක් හොයනවා...) -> 1 (කොයි එකද වඩාත් හොඳ?) -> 3 (මේක වඩා සැහැල්ලුයි සහ පාවිච්චිය ලේසියි) -> 4 (එහෙනම් මම මේක ගන්නවා!)."
+    },
+    {
+      "quiz_id": "qz_e1_l10_013",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_28",
+      "can_do_title_sinhala": "රැකියාව සහ සේවා ස්ථානය අසා තේරුම් ගැනීම (～で働いています)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L10_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんはどこでどんな仕事をしていますか。",
+        "furigana": "カルロスさんはどこでどんな[しごと]をしていますか。",
+        "sinhala": "කාලෝස් මහතා කොහේද, මොන වගේ රැකියාවක් කරනවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "自動車の部品工場で働いています (මෝටර් රථ අමතර කොටස් කර්මාන්තශාලාවක වැඩ කරයි)"
+        },
+        {
+          "id": "B",
+          "text": "IT企業でプログラマーをしています (IT සමාගමක වැඩසටහන් සම්පාදකයෙකි)"
+        },
+        {
+          "id": "C",
+          "text": "スーパーでレジをしています (සුපිරි වෙළඳසැලක කැෂියර් කෙනෙකි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさんはどんな仕事をしているんですか。\nB: 自動車の部品を作る工場で働いています。毎日機械を操作しています。",
+        "sinhala": "A: කාලෝස් මහතා මොන වගේ රැකියාවක්ද කරන්නේ?\nB: මෝටර් රථ අමතර කොටස් හදන කර්මාන්තශාලාවක වැඩ කරනවා (工場で働いています). හැමදාම මැෂින් ක්‍රියාත්මක කරනවා."
+      },
+      "explanation_sinhala": "කාලෝස් '自動車の部品を作る工場で働いています' (වාහන අමතර කොටස් කර්මාන්තශාලාවක වැඩ කරනවා) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l10_014",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_29",
+      "can_do_title_sinhala": "විවාහක තත්ත්වය අසා තේරුම් ගැනීම (結婚しています)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L10_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは結婚していますか。",
+        "furigana": "スミスさんは[けっこん]していますか。",
+        "sinhala": "ස්මිත් මහතා විවාහකද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "はい、結婚していて、子どもが2人います (ඔව්, විවාහකයි, දරුවන් දෙදෙනෙක් සිටී)"
+        },
+        {
+          "id": "B",
+          "text": "いいえ、独身です (නැත, තනිකඩයි)"
+        },
+        {
+          "id": "C",
+          "text": "結婚していません (විවාහ වී නැත)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: スミスさんはご結婚されていますか。\nB: はい、結婚しています。妻と子どもが2人います。家族はアメリカに住んでいます。",
+        "sinhala": "A: ස්මිත් මහතා විවාහ වෙලාද ඉන්නේ?\nB: ඔව්, විවාහකයි (結婚しています). බිරිඳ සහ දරුවන් දෙන්නෙක් ඉන්නවා. පවුලේ අය ඉන්නේ ඇමරිකාවේ."
+      },
+      "explanation_sinhala": "ස්මිත් මහතා 'はい、結婚しています。子どもが2人います' යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l10_015",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_29",
+      "can_do_title_sinhala": "පවුලේ අය ජීවත් වන ස්ථානය අසා තේරුම් ගැනීම (住んでいます)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L10_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんの両親は今、日本に住んでいますか。（◯ か ✕）",
+        "furigana": "マリアさんの[りょうしん]は[いま]、[にほん]に[す]んでいますか。（◯ か ✕）",
+        "sinhala": "මරියාගේ දෙමව්පියන් දැනට ජීවත් වන්නේ ජපානයේ ද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, ජපානයේ ජීවත් වෙති)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, පිලිපීනයේ ජීවත් වෙති)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: マリアさんのご家族はどこにいらっしゃいますか。\nB: 両親はフィリピンのマニラに住んでいます。私は日本で一人暮らしです。",
+        "sinhala": "A: මරියාගේ පවුලේ අය ඉන්නේ කොහේද?\nB: දෙමව්පියන් ඉන්නේ පිලිපීනයේ මැනිලා නුවර (フィリピンに住んでいます). මම ජපානයේ තනියම ඉන්නේ."
+      },
+      "explanation_sinhala": "ඇයගේ දෙමව්පියන් ජීවත් වන්නේ පිලිපීනයේ (フィリピンに住んでいます) බැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_e1_l10_016",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_30",
+      "can_do_title_sinhala": "කෙනෙකු හෝ දෙයක් දන්නවාදැයි විමසීම (知っていますか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L10_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "キムさんは新しい工場長を知っていますか。",
+        "furigana": "キムさんは[あたら]しい[こうじょうちょう]を[し]っていますか。",
+        "sinhala": "කිම් මහත්මිය අලුත් කර්මාන්තශාලා ප්‍රධානියාව දන්නවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "いいえ、知りません (නැත, නොදනී)"
+        },
+        {
+          "id": "B",
+          "text": "はい、よく知っています (ඔව්, හොඳින් දනී)"
+        },
+        {
+          "id": "C",
+          "text": "昨日会いました (ඊයේ හමුවුණා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: キムさん、来月来る新しい工場長を知っていますか。\nB: いいえ、まだ知りません。どんな方ですか。",
+        "sinhala": "A: කිම්, ලබන මාසේ එන අලුත් කර්මාන්තශාලා ප්‍රධානියාව දන්නවද?\nB: නැහැ, තවම දන්නේ නෑ (いいえ、知りません). මොන වගේ කෙනෙක්ද?"
+      },
+      "explanation_sinhala": "දැනුමක් නොමැති බව පැවසීමේදී 'いいえ、知りません' (නැත, දන්නේ නැත) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l10_017",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_28",
+      "can_do_title_sinhala": "සමාගමේ සේවක හඳුන්වාදීමේ පුවරුවක් කියවීම (Staff Profile)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l10_q17_staffcard.png"
+      },
+      "question_text": {
+        "japanese": "社員紹介カードを見てください。カルロスさんの担当部署（仕事）は何ですか。",
+        "furigana": "[しゃいんしょうかい]カードを[み]てください。カルロスさんの[たんとうぶしょ]（[しごと]）は[なん]ですか。",
+        "sinhala": "සේවක කාඩ්පත බලන්න. කාලෝස් මහතාගේ අංශය/කාර්යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "製造部（ライン作業）- නිෂ්පාදන අංශය"
+        },
+        {
+          "id": "B",
+          "text": "営業部 (වෙළඳ අංශය)"
+        },
+        {
+          "id": "C",
+          "text": "総務部 (පරිපාලන අංශය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාඩ්පතේ '部署: 製造第1課（組立ライン）' ලෙස නිෂ්පාදන අංශය සඳහන් වන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l10_018",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_29",
+      "can_do_title_sinhala": "පවුලේ ඡායාරූපයක විස්තර කියවා වයස සහ තොරතුරු සෙවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l10_q18_familyphoto.png"
+      },
+      "question_text": {
+        "japanese": "写真の説明を読んでください。スミスさんの息子さんは何歳ですか：「息子は今年5歳になりました」",
+        "furigana": "[しゃしん]の[せつめい]を[よ]んでください。スミスさんの[むすこ]さんは[なんさい]ですか：「[むすこ]は[ことし]5[さい]になりました」",
+        "sinhala": "ඡායාරූප විස්තරය කියවන්න. ස්මිත් මහතාගේ පුතාට වයස කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "5歳 (අවුරුදු 5යි)"
+        },
+        {
+          "id": "B",
+          "text": "3歳 (අවුරුදු 3යි)"
+        },
+        {
+          "id": "C",
+          "text": "7歳 (අවුරුදු 7යි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "විස්තරයේ '息子は今年5歳になりました' (පුතාට මේ අවුරුද්දේ වයස 5ක් වුණා) ලෙස දක්වා ඇත."
+    },
+    {
+      "quiz_id": "qz_e1_l10_019",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_29",
+      "can_do_title_sinhala": "විවාහක බව දැක්වෙන තත්ත්වය (結婚しています)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「現在、結婚している状態」を表す正しい文はどれですか。",
+        "furigana": "「[げんざい]、[けっこん]している[じょうたい]」を[あらわ]す[ただ]しい[ぶん]はどれですか。",
+        "sinhala": "'දැනට විවාහක තත්ත්වයේ සිටින බව' දැක්වෙන නිවැරදි වාක්‍යය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "結婚しています (Kekkon shite imasu)"
+        },
+        {
+          "id": "B",
+          "text": "結婚します (Kekkon shimasu - විවාහ වෙනවා)"
+        },
+        {
+          "id": "C",
+          "text": "結婚しました (Kekkon shimashita - විවාහ වුණා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අතීතයේ සිදුවූ ක්‍රියාවක ප්‍රතිඵලයක් ලෙස වර්තමානයේ පවතින තත්ත්වයක් (Resultant State) දැක්වීමට '結婚しています' යොදයි."
+    },
+    {
+      "quiz_id": "qz_e1_l10_020",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_30",
+      "can_do_title_sinhala": "'知っています' හි සෘණාත්මක ස්වරූපය (知りません)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「田中さんの電話番号を知っていますか」に対する「No」の答えはどれですか。",
+        "furigana": "「[たなか]さんの[でんわばんごう]を[し]っていますか」に[たい]する「No」の[こた]えはどれですか。",
+        "sinhala": "'තනකාගේ දුරකථන අංකය දන්නවාද?' කියා ඇසූ විට 'නැත, නොදනිමි' යන්නෙහි නිවැරදි ජපන් ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "いいえ、知りません (Iie, shirimasen)"
+        },
+        {
+          "id": "B",
+          "text": "いいえ、知っていません (Iie, shitte imasen)"
+        },
+        {
+          "id": "C",
+          "text": "いいえ、知りませんでした (Iie, shirimasen deshita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'知っています' (දන්නවා) හි සෘණාත්මක පිළිතුර සැමවිටම '知っていません' නොව '知りません' (Shirimasen - නොදනී) වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l10_021",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_29",
+      "can_do_title_sinhala": "පදිංචි ස්ථානය දැක්වීමට 'に' නිපාතය (～に住んでいます)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「私は大阪（　）住んでいます。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「[わたし]は[おおさか]（　）[す]んでいます。」",
+        "sinhala": "'මම ඔසාකාවල පදිංචිව සිටිමි' කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "に (ni)"
+        },
+        {
+          "id": "B",
+          "text": "で (de)"
+        },
+        {
+          "id": "C",
+          "text": "を (o)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පදිංචිව සිටින ස්ථානය දැක්වීමට '住んでいます' සමඟ සැමවිටම 'に' (ni) නිපාතය යෙදේ (大阪に住んでいます)."
+    },
+    {
+      "quiz_id": "qz_e1_l10_022",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_29",
+      "can_do_title_sinhala": "තම පියා සහ අනුන්ගේ පියා හඳුන්වන වචන",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "他人に「自分の父親」を紹介するときに使う正しい言葉はどれですか。",
+        "furigana": "[たにん]に「[じぶん]の[ちちおや]」を[しょうかい]するときに[つか]う[ただ]しい[ことば]はどれですか。",
+        "sinhala": "අන් අයට 'තම පියා' හඳුන්වා දීමේදී පවසන නිවැරදි වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "父 / ちち (Chichi)"
+        },
+        {
+          "id": "B",
+          "text": "お父さん / おとうさん (Otousan)"
+        },
+        {
+          "id": "C",
+          "text": "パパさん (Papasan)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තම පවුලේ පියා ගැන අන් අයට කියන විට '父' (Chichi) ද, අනුන්ගේ පියාට ගෞරවයෙන් කියන විට 'お父さん' (Otousan) ද යොදයි."
+    },
+    {
+      "quiz_id": "qz_e1_l10_023",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_29",
+      "can_do_title_sinhala": "තම බිරිඳ හඳුන්වන නිහතමානී වචනය (妻 / Tsuma)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「自分の配偶者（女性）」を表す言葉はどれですか。",
+        "furigana": "「[じぶん]の[はいぐうしゃ]（[じょせい]）」を[あらわ]す[ことば]はどれですか。",
+        "sinhala": "'තම බිරිඳ' හඳුන්වන නිවැරදි වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "妻 / つま (Tsuma)"
+        },
+        {
+          "id": "B",
+          "text": "奥さん / おくさん (Okusan - අනුන්ගේ බිරිඳ)"
+        },
+        {
+          "id": "C",
+          "text": "夫 / おっと (Otto - තම සැමියා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තම බිරිඳ '妻' (Tsuma) හෝ '家内' වන අතර, අනුන්ගේ බිරිඳ '奥さん' (Okusan) වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l10_024",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 10,
+      "can_do_id": "cando_e1_28",
+      "can_do_title_sinhala": "පවුල සහ රැකියාව ගැන අසන ස්වභාවික සංවාදයක අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 自動車の工場で働いています\n2: どんなお仕事をされているんですか\n3: ご家族は日本にいらっしゃいますか\n4: いいえ、家族はブラジルに住んでいます",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [じどうしゃ]の[こうじょう]で[はたら]いています\n2: どんなお[しごと]をされているんですか\n3: ご[かぞく]は[にほん]にいらっしゃいますか\n4: いいえ、[かぞく]はブラジルに[す]んでいます",
+        "sinhala": "රැකියාව සහ පවුල විමසන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 1 -> 3 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "3 -> 4 -> 2 -> 1"
+        },
+        {
+          "id": "C",
+          "text": "1 -> 2 -> 4 -> 3"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (මොන වගේ රැකියාවක්ද කරන්නේ?) -> 1 (මෝටර් රථ කර්මාන්තශාලාවක වැඩ කරනවා) -> 3 (පවුලේ අය ජපානයේ ඉන්නවද?) -> 4 (නැහැ, පවුලේ අය බ්‍රසීලයේ ජීවත් වෙනවා)."
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "book": "Irodori Elementary 1 (A2.1)",
+  "lessons_covered": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 9,
+    "reading_comprehension": 5,
+    "grammar_and_vocabulary": 10
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e1_l15_001",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 15,
+      "can_do_id": "cando_e1_41",
+      "can_do_title_sinhala": "ජපානයේ ජීවිතය පිළිබඳ අදහස අසා තේරුම් ගැනීම (～と思います)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L15_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは日本の生活についてどう思っていますか。",
+        "furigana": "カルロスさんは[にほん]の[せいかつ]についてどう[おも]っていますか。",
+        "sinhala": "කාලෝස් මහතා ජපානයේ ජීවිතය ගැන සිතන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "便利で安全だと思います (පහසුයි සහ ආරක්ෂිතයි කියා සිතයි)"
+        },
+        {
+          "id": "B",
+          "text": "物価が高くて大変だと思います (බඩු මිල අධික නිසා අමාරුයි කියා සිතයි)"
+        },
+        {
+          "id": "C",
+          "text": "人が少なくて静かだと思います (සෙනඟ අඩුයි, නිස්කලංකයි කියා සිතයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、日本に来て半年ですね。日本の生活はどうですか。\nB: 交通が便利で、夜もとても安全だと思います。住みやすいです。",
+        "sinhala": "A: කාලෝස් මහතා, ජපානයට ඇවිත් මාස හයක් නේද. ජපානයේ ජීවිතය කොහොමද?\nB: ප්‍රවාහනය පහසුයි, රෑටත් හරිම ආරක්ෂිතයි කියලා මම හිතනවා (安全だと思います). ජීවත් වෙන්න හරිම පහසුයි."
+      },
+      "explanation_sinhala": "කාලෝස් පවසන්නේ '便利で、夜もとても安全だと思います' (පහසුයි සහ ආරක්ෂිතයි කියා හිතනවා) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l15_002",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 15,
+      "can_do_id": "cando_e1_42",
+      "can_do_title_sinhala": "අනුන් පැවසූ දේ වාර්තා කිරීම අසා තේරුම් ගැනීම (～と言っていました)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L15_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは明日の会議について何と言っていましたか。",
+        "furigana": "マリアさんは[あした]の[かいぎ]について[なん]と[い]っていましたか。",
+        "sinhala": "මරියා හෙට රැස්වීම ගැන පැවසුවේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "少し遅れると言っていました (ටිකක් ප්‍රමාද වන බව පැවසුවාය)"
+        },
+        {
+          "id": "B",
+          "text": "欠席すると言っていました (සහභාගී නොවන බව පැවසුවාය)"
+        },
+        {
+          "id": "C",
+          "text": "10時に始まると言っていました (10ට පටන් ගන්නා බව පැවසුවාය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさんから連絡はありましたか。\nB: はい。電車が遅れているので、明日の朝の会議に少し遅れると言っていました。",
+        "sinhala": "A: මරියාගෙන් පණිවිඩයක් ආවද?\nB: ඔව්. කෝච්චිය පරක්කු වෙන නිසා, හෙට උදෑසන රැස්වීමට ටිකක් ප්‍රමාද වන බව කිව්වා (少し遅れると言っていました)."
+      },
+      "explanation_sinhala": "මරියා ප්‍රමාද වන බව පැවසූ බව '少し遅れると言っていました' යන්නෙන් පැහැදිලි වන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l15_003",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 15,
+      "can_do_id": "cando_e1_41",
+      "can_do_title_sinhala": "චිත්‍රපට විචාරයක් කියවා අදහස් තේරුම් ගැනීම (Reviews)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l15_q03_moviereview.png"
+      },
+      "question_text": {
+        "japanese": "映画の感想を読んでください。投稿者はこの映画をどう評価していますか。",
+        "furigana": "[えいが]の[かんそう]を[よ]んでください。[とうこうしゃ]はこの[えいが]をどう[ひょうか]していますか。",
+        "sinhala": "චිත්‍රපට විචාරය කියවන්න. ලේඛකයා මෙම චිත්‍රපටය අගය කරන්නේ කෙසේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "映像が美しくて、見る価値があると思う (දර්ශන ලස්සනයි, නැරඹීමට වටිනවා කියා සිතයි)"
+        },
+        {
+          "id": "B",
+          "text": "長すぎて退屈だったと思う (දිග වැඩියි, කම්මැලියි කියා සිතයි)"
+        },
+        {
+          "id": "C",
+          "text": "音楽がよくないと思う (සංගීතය හොඳ නෑ කියා සිතයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "විචාරයේ '映像がとてもきれいで、劇場で見る価値があると思います' ලෙස අගය කර ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l15_004",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 15,
+      "can_do_id": "cando_e1_41",
+      "can_do_title_sinhala": "අදහස් ප්‍රකාශ කිරීමේ වාක්‍ය රටාව (Plain form + と思います)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る正しい形を選んでください：「明日は天気が（　）と思います。」",
+        "furigana": "[くうらん]に[はい]る[ただ]しい[かたち]を[えら]んでください：「[あした]は[てんき]が（　）と[おも]います。」",
+        "sinhala": "'හෙට කාලගුණය හොඳ වේවි කියා මම හිතනවා' යැයි පැවසීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "いい (Ii - Plain form)"
+        },
+        {
+          "id": "B",
+          "text": "いいです (Ii desu)"
+        },
+        {
+          "id": "C",
+          "text": "よく (Yoku)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'～と思います' ඉදිරියෙන් සැමවිටම යෙදිය යුත්තේ සරල ස්වරූපයයි (Plain form). එබැවින් 'いいと思います' නිවැරදිය."
+    },
+    {
+      "quiz_id": "qz_e1_l16_005",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 16,
+      "can_do_id": "cando_e1_43",
+      "can_do_title_sinhala": "අනාගත බලාපොරොත්තුව හෝ තීරණය අසා තේරුම් ගැනීම (～つもりです)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L16_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは契約が終わったら、どうするつもりですか。",
+        "furigana": "スミスさんは[けいやく]が[お]わったら、どうするつもりですか。",
+        "sinhala": "කොන්ත්‍රාත්තුව අවසන් වූ පසු ස්මිත් මහතා කිරීමට අදහස් කරගෙන ඉන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "アメリカへ帰国するつもり (ඇමරිකාවට ආපසු යාමට අදහස් කරයි)"
+        },
+        {
+          "id": "B",
+          "text": "日本で別の会社に転職するつもり (ජපානයේ වෙනත් රැකියාවකට මාරු වීමට අදහස් කරයි)"
+        },
+        {
+          "id": "C",
+          "text": "大学院に進学するつもり (පශ්චාත් උපාධියට යාමට අදහස් කරයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: スミスさん、来年3月で契約が終了ですね。そのあとはどうしますか。\nB: 一度国へ帰るつもりです。家族と一緒に暮らしたいですから。",
+        "sinhala": "A: ස්මිත් මහතා, ලබන අවුරුද්දේ මාර්තු මාසයෙන් කොන්ත්‍රාත්තුව ඉවරයි නේද. ඊටපස්සේ මොකද කරන්නේ?\nB: මම රට බලා ආපසු යන්න අදහස් කරගෙන ඉන්නවා (国へ帰るつもりです). පවුලේ අයත් එක්ක ඉන්න ඕන නිසා."
+      },
+      "explanation_sinhala": "ස්මිත් මහතා '国へ帰るつもりです' (රට බලා ආපසු යාමට අදහස් කරයි) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l16_006",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 16,
+      "can_do_id": "cando_e1_44",
+      "can_do_title_sinhala": "කාලසටහන්ගත සැලසුමක් අසා තේරුම් ගැනීම (～予定です)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L16_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "新工場の見学は何時に始まる予定ですか。",
+        "furigana": "[しんこうじょう]の[けんがく]は[なんじ]に[はじ]まる[よてい]ですか。",
+        "sinhala": "නව කර්මාන්තශාලාවේ නිරීක්ෂණ චාරිකාව ආරම්භ වීමට නියමිතව ඇත්තේ කීයටද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "午後2時 (සවස 2:00ට)"
+        },
+        {
+          "id": "B",
+          "text": "午前10時 (පෙරවරු 10:00ට)"
+        },
+        {
+          "id": "C",
+          "text": "午後3時半 (සවස 3:30ට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 明日の工場見学のスケジュールはどうなっていますか。\nB: 午後2時に新工場に到着して、見学を始める予定です。",
+        "sinhala": "A: හෙට කර්මාන්තශාලා නිරීක්ෂණයේ කාලසටහන කොහොමද?\nB: සවස 2:00ට අලුත් කර්මාන්තශාලාවට ගොස් නිරීක්ෂණය ආරම්භ කිරීමට නියමිතයි (始める予定です)."
+      },
+      "explanation_sinhala": "'午後2時に...始める予定です' (සවස 2:00ට ආරම්භ වීමට නියමිතයි) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l16_007",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 16,
+      "can_do_id": "cando_e1_44",
+      "can_do_title_sinhala": "ගුවන් ගමන් විස්තර පත්‍රිකාවක් කියවීම (Flight Confirmation)",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l16_q07_flight.png"
+      },
+      "question_text": {
+        "japanese": "成田空港を出発する予定日は12月25日ですか。（◯ か ✕）",
+        "furigana": "[なりたくうこう]を[しゅっぱつ]する[よていび]は12[がつ]25[にち]ですか。（◯ か ✕）",
+        "sinhala": "නරීටා ගුවන් තොටුපළෙන් පිටත්වීමට නියමිත දිනය දෙසැම්බර් 25ද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, දෙසැම්බර් 25 වේ)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, වෙනත් දිනයකි)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "පත්‍රිකාවේ '出発: 12月25日 11:00 成田発' ලෙස සඳහන් වන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l16_008",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 16,
+      "can_do_id": "cando_e1_43",
+      "can_do_title_sinhala": "නොකිරීමට අදහස් කරගෙන සිටීම (V-ない つもりです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「お酒を飲まない決意（Plan not to drink）」を表す文はどれですか。",
+        "furigana": "「お[さけ]を[の]まない[けつい]（Plan not to drink）」を[あらわ]す[ぶん]はどれですか。",
+        "sinhala": "'මත්පැන් නොබීමට අදහස් කරමි' යන තීරණය දැක්වෙන නිවැරදි වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "今日はお酒を飲まないつもりです (Nomanai tsumori desu)"
+        },
+        {
+          "id": "B",
+          "text": "今日はお酒を飲むないつもりです"
+        },
+        {
+          "id": "C",
+          "text": "今日はお酒を飲まない予定です"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යමක් නොකිරීමට තමන් තීරණය කර ඇති විට 'V-nai + つもりです' (飲まないつもりです) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e1_l17_009",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 17,
+      "can_do_id": "cando_e1_45",
+      "can_do_title_sinhala": "සේවා ස්ථානයේදී විනීතව උදව් ඉල්ලීම (～ていただけませんか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L17_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは先輩に何をお願いしましたか。",
+        "furigana": "カルロスさんは[せんぱい]に[なに]をお[ねが]いしましたか。",
+        "sinhala": "කාලෝස් මහතා ජ්‍යෙෂ්ඨ සගයාගෙන් කාරුණිකව ඉල්ලා සිටියේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "コピー機の使い方を教えてもらうこと (ෆොටෝකොපි මැෂිම භාවිත කරන ආකාරය කියාදෙන ලෙස)"
+        },
+        {
+          "id": "B",
+          "text": "書類を代わりに書いてもらうこと (ලේඛනය වෙනුවට ලියා දෙන ලෙස)"
+        },
+        {
+          "id": "C",
+          "text": "電話をかけてもらうこと (දුරකථන ඇමතුමක් ලබා දෙන ලෙස)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "カルロス: すみません、このコピー機の使い方がよくわからないんですが、ちょっと教えていただけませんか。\n先輩: あ、いいですよ。まずここに紙をセットしてください。",
+        "sinhala": "කාලෝස්: සමාවෙන්න, මේ කොපි මැෂින් එක පාවිච්චි කරන හැටි හරියට තේරෙන්නේ නෑ, කරුණාකරලා පොඩ්ඩක් කියා දෙන්න පුළුවන්ද (教えていただけませんか)?\nජ්‍යෙෂ්ඨයා: ආ, කමක් නෑ. මුලින්ම මෙතැනට කොළ දමන්න."
+      },
+      "explanation_sinhala": "කාලෝස් ඉල්ලා සිටින්නේ 'コピー機の使い方を教えていただけませんか' (කොපි මැෂිම පාවිච්චි කරන හැටි කියාදෙන්න) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l17_010",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 17,
+      "can_do_id": "cando_e1_46",
+      "can_do_title_sinhala": "ගැටලුවකට මෘදු යෝජනාවක් ලබාදීම (～たらどうですか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L17_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "パソコンが動かないとき、同僚は何を提案しましたか。",
+        "furigana": "パソコンが[うご]かないとき、[どうりょう]は[なに]を[ていあん]しましたか。",
+        "sinhala": "පරිගණකය ක්‍රියා නොකරන විට සගයා යෝජනා කළේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "一度再起動（さいきどう）してみたらどうか (වරක් Restart කර බැලුවොත් කොහොමද?)"
+        },
+        {
+          "id": "B",
+          "text": "新しいパソコンを買ったらどうか (අලුත් පරිගණකයක් ගත්තොත් කොහොමද?)"
+        },
+        {
+          "id": "C",
+          "text": "ITサポートに電話したらどうか (IT අංශයට කතා කළොත් කොහොමද?)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: パソコンが急に固まって動かないんです。\nB: あら、電源を切って、一度再起動してみたらどうですか。",
+        "sinhala": "A: කොම්පියුටරය එකපාරටම හිරවෙලා වැඩ කරන්නේ නෑ.\nB: අපොයි, ඕෆ් කරලා, එකපාරක් රීස්ටාර්ට් කරලා බැලුවොත් කොහොමද (再起動してみたらどうですか)?"
+      },
+      "explanation_sinhala": "සගයා යෝජනා කරන්නේ '一度再起動してみたらどうですか' (රීස්ටාර්ට් කර බැලුවොත් කොහොමද) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l17_011",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 17,
+      "can_do_id": "cando_e1_47",
+      "can_do_title_sinhala": "කාර්මික උපකරණ අනතුරු ඇඟවීමේ පුවරුවක් කියවීම (Troubleshooting)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l17_q11_warning.png"
+      },
+      "question_text": {
+        "japanese": "機械の注意書きです。エラーランプが赤く点滅したときはどうしますか。",
+        "furigana": "[きかい]の[ちゅういが]きです。エラーランプが[あか]く[てんめつ]したときはどうしますか。",
+        "sinhala": "යන්ත්‍රයේ අනතුරු ඇඟවීම බලන්න. රතු ලයිට් එක දැල්වෙමින් නිවෙන විට කළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "直ちに停止ボタンを押し、管理者を呼ぶ (වහාම Stop බොත්තම ඔබා භාරකරු කැඳවීම)"
+        },
+        {
+          "id": "B",
+          "text": "そのまま作業を続ける (එසේම වැඩ කරගෙන යාම)"
+        },
+        {
+          "id": "C",
+          "text": "機械を叩く (මැෂිමට තට්ටු කිරීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ '赤点滅時: 直ちに非常停止ボタンを押し、責任者に連絡してください' ලෙස දක්වා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l17_012",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 17,
+      "can_do_id": "cando_e1_45",
+      "can_do_title_sinhala": "පසුබිම විස්තර කර ඉල්ලීමක් ඇරඹීම (～んですが)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "依頼や相談の前置きとして最も自然な表現はどれですか：「頭が痛い（　）、早退してもいいですか。」",
+        "furigana": "[いらい]や[そうだん]の[まえお]きとして[もっと]も[しぜん]な[ひょうげん]はどれですか：「[あたま]が[いた]い（　）、[そうたい]してもいいですか。」",
+        "sinhala": "'හිස රිදෙන නිසා, මට කලින් ගෙදර ගියාට කමක් නැද්ද?' කියා අවසර ඉල්ලීමට වඩාත්ම ගැළපෙන පසුබිම් පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "んですが (ndesu ga)"
+        },
+        {
+          "id": "B",
+          "text": "だから (da kara)"
+        },
+        {
+          "id": "C",
+          "text": "ですが (desu ga)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "හේතුවක් හෝ පසුබිමක් පවසා ඉල්ලීමක් ආරම්භ කිරීමේදී වඩාත් ස්වභාවික වන්නේ '～んですが' (Headache ndesu ga...) යෙදීමයි."
+    },
+    {
+      "quiz_id": "qz_e1_l17_013",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 17,
+      "can_do_id": "cando_e1_47",
+      "can_do_title_sinhala": "කිරීම පහසුයි සහ අපහසුයි (～やすい / ～にくい)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「このペンはとても（書きやすい）です」の「書きやすい」の意味は何ですか。",
+        "furigana": "「このペンはとても（[か]きやすい）です」の「[か]きやすい」の[いみ]は[なん]ですか。",
+        "sinhala": "'Kakiyasui' යන්නෙන් අදහස් වන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ලිවීම පහසුයි (Easy to write)"
+        },
+        {
+          "id": "B",
+          "text": "ලිවීම අපහසුයි (Hard to write)"
+        },
+        {
+          "id": "C",
+          "text": "ලිවීමට අවශ්‍යයි (Want to write)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'Verb stem + やすい' යනු යමක් කිරීම පහසු බවයි (Easy to do). 'にくい' යනු කිරීම අපහසු බවයි."
+    },
+    {
+      "quiz_id": "qz_e1_l18_014",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 18,
+      "can_do_id": "cando_e1_48",
+      "can_do_title_sinhala": "එකවර සිදුවන ක්‍රියා දෙකක් අසා තේරුම් ගැනීම (～ながら)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L18_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "田中さんは通勤中、何をしていますか。",
+        "furigana": "[たなか]さんは[つうきん][ちゅう]、[なに]をしていますか。",
+        "sinhala": "තනකා මහතා වැඩට යන අතරතුර කරන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "音楽を聴きながら、本を読んでいる (සංගීතයට සවන් දෙමින්, පොත් කියවයි)"
+        },
+        {
+          "id": "B",
+          "text": "歩きながら、電話をしている (ඇවිදින ගමන් කෝල් ගනියි)"
+        },
+        {
+          "id": "C",
+          "text": "寝ながら、ラジオを聞いている (නිදාගන්න ගමන් රේඩියෝ අසයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 田中さんは電車の中でいつも何をしていますか。\nB: 好きな音楽を聴きながら、本を読んでいます。通勤時間が有効に使えますよ。",
+        "sinhala": "A: තනකා මහතා කෝච්චිය ඇතුළේ නිතරම මොකද කරන්නේ?\nB: කැමති සංගීතයට සවන් දෙන ගමන් පොත් කියවනවා (音楽を聴きながら、本を読んでいます). ගමන් කාලය ප්‍රයෝජනවත් වෙනවා."
+      },
+      "explanation_sinhala": "'音楽を聴きながら、本を読んでいます' (සංගීතය අසමින් පොත් කියවනවා) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l18_015",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 18,
+      "can_do_id": "cando_e1_49",
+      "can_do_title_sinhala": "අත්වැරැද්දක් පිළිබඳ කණගාටුව අසා තේරුම් ගැනීම (～てしまいました)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L18_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんはどんな失敗をしてしまいましたか。",
+        "furigana": "カルロスさんはどんな[しっぱい]をしてしまいましたか。",
+        "sinhala": "කාලෝස් මහතා අතින් සිදුවූ අත්වැරැද්ද කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "電車の中に傘を忘れてしまった (කෝච්චිය ඇතුළේ කුඩය අමතක වී දමා ආවා)"
+        },
+        {
+          "id": "B",
+          "text": "財布を落としてしまった (පසුම්බිය නැති කරගත්තා)"
+        },
+        {
+          "id": "C",
+          "text": "遅刻してしまった (ප්‍රමාද වී පැමිණියා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、どうしたんですか。元気がありませんね。\nB: ああ、電車の中に買ったばかりの傘を忘れてしまいました……。",
+        "sinhala": "A: කාලෝස් මහතා, මොකද වුණේ? මූණත් හොඳ නෑනේ.\nB: අයියෝ, අර අලුතින්ම ගත්ත කුඩය කෝච්චිය ඇතුළේ අමතක වෙලා දාලා ආවා (忘れてしまいました)..."
+      },
+      "explanation_sinhala": "කාලෝස් පවසන්නේ '傘を忘れてしまいました' (කුඩය අමතක වෙලා දාලා ආවා) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l18_016",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 18,
+      "can_do_id": "cando_e1_50",
+      "can_do_title_sinhala": "කලින්ම සූදානම් කර තැබීම (～ておきます)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L18_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "会議の前に資料をコピーしておく必要がありますか。（◯ か ✕）",
+        "furigana": "[かいぎ]の[まえ]に[しりょう]をコピーしておく[ひつよう]がありますか。（◯ か ✕）",
+        "sinhala": "රැස්වීමට පෙර ලේඛන කොපි කර සූදානම් කර තැබිය යුතුද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, කලින් කොපි කර තැබිය යුතුය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, රැස්වීම පටන් ගත් පසු කළ හැක)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "先輩: カルロスさん、明日の会議の資料を20部コピーしておいてくださいね。\nカルロス: はい、今日の夕方までにコピーしておきます！",
+        "sinhala": "ජ්‍යෙෂ්ඨයා: කාලෝස්, හෙට රැස්වීමේ ලේඛන කොපි 20ක් කොපි කරලා සූදානම් කරලා තියන්න.\nකාලෝස්: හරි, මම අද හවස වෙන්න කලින් කොපි කරලා සූදානම් කරලා තියන්නම් (コピーしておきます)!"
+      },
+      "explanation_sinhala": "කාලෝස් 'コピーしておきます' (කලින් කොපි කර සූදානම් කර තබනවා) යැයි පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l18_017",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 18,
+      "can_do_id": "cando_e1_50",
+      "can_do_title_sinhala": "වසර අවසාන මහා පිරිසිදු කිරීමේ නිවේදනය කියවීම (大掃除)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l18_q17_oosouji.png"
+      },
+      "question_text": {
+        "japanese": "大掃除のお知らせです。各自デスク周りはどうしなければなりませんか。",
+        "furigana": "[おおそうじ]のお[し]らせです。[かくじ]デスク[まわ]りはどうしなければなりませんか。",
+        "sinhala": "මහා පිරිසිදු කිරීමේ දැන්වීම බලන්න. එක් එක්කෙනා තම මේසය අවට කළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "不要な書類を捨てて、整理整頓しておく (අනවශ්‍ය ලේඛන විසි කර, අස්පස් කර තැබීම)"
+        },
+        {
+          "id": "B",
+          "text": "何も触らなくていい (කිසිවක් නොකර සිටීම)"
+        },
+        {
+          "id": "C",
+          "text": "新しいパソコンを買う (අලුත් පරිගණක මිලදී ගැනීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ '各自、デスク上の不要書類を廃棄し、整理整頓しておいてください' ලෙස සඳහන්ව ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l18_018",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 18,
+      "can_do_id": "cando_e1_49",
+      "can_do_title_sinhala": "සමහරවිට විය හැක යන සම්භාවිතාව (～かもしれません)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「午後から雨が降る可能性がある（Might rain）」を表す正しい文はどれですか。",
+        "furigana": "「[ごご]から[あめ]が[ふ]る[かのうせい]がある（Might rain）」を[あらわ]す[ただ]しい[ぶん]はどれですか。",
+        "sinhala": "'සවස් කාලයේ වැසි වැටෙන්න පුළුවන්' (Might rain) යන සම්භාවිතාව දක්වන නිවැරදි වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "午後から雨が降るかもしれません (Ame ga furu kamoshiremasen)"
+        },
+        {
+          "id": "B",
+          "text": "午後から雨が降るつもりです"
+        },
+        {
+          "id": "C",
+          "text": "午後から雨が降りたいです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යම් දෙයක් සිදුවීමට 50%ක පමණ සම්භාවිතාවක් ඇති බව (Might / Maybe) දැක්වීමට 'Plain form + かもしれません' යොදයි."
+    },
+    {
+      "quiz_id": "qz_e1_l18_019",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 18,
+      "can_do_id": "cando_e1_49",
+      "can_do_title_sinhala": "හේතු කිහිපයක් එකට දැක්වීම (～し、～し)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「このアパートは駅に近い（　）、家賃も安い（　）、とてもいいです。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「このアパートは[えき]に[ちか]い（　）、[やちん]も[やす]い（　）、とてもいいです。」",
+        "sinhala": "'මේ අපාර්ට්මන්ට් එක ස්ටේෂන් එකට ළඟයි, කුලියත් අඩුයි, ඒ නිසා හරිම හොඳයි' කීමට හිස්තැන්වලට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "し / し (shi / shi)"
+        },
+        {
+          "id": "B",
+          "text": "から / から (kara / kara)"
+        },
+        {
+          "id": "C",
+          "text": "けど / けど (kedo / kedo)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "වාසි හෝ හේතු කිහිපයක් එක දිගට ලැයිස්තුගත කිරීමට 'Plain form + し' (近いですし、安いですし / 近いし、安いし) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e1_l18_020",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 18,
+      "can_do_id": "cando_e1_50",
+      "can_do_title_sinhala": "අනාගත සැලසුම් සහ සුබපැතුම් සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 国へ帰って、日本語を使う仕事をするつもりです\n2: これからも頑張ってくださいね\n3: 来月、国へ帰るそうですね。帰国したら何をしますか\n4: はい、ありがとうございます！",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [くに]へ[かえ]って、[にほんご]を[つか]う[しごと]をするつもりです\n2: これからも[がんば]ってくださいね\n3: [らいげつ]、[くに]へ[かえ]るそうですね。[きこく]したら[なに]をしますか\n4: はい、ありがとうございます！",
+        "sinhala": "අනාගතය පිළිබඳ සංවාදයක නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3 -> 1 -> 2 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 3 -> 2 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 2 -> 1 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 3 (ලබන මාසේ රට යනවාලු නේද, රට ගිහින් මොකද කරන්නේ?) -> 1 (රට ගිහින් ජපන් බස භාවිත වන රස්සාවක් කරන්න අදහස් කරගෙන ඉන්නවා) -> 2 (ඉදිරියටත් උනන්දුවෙන් වැඩ කරන්න!) -> 4 (ඔව්, බොහොම ස්තුතියි!)."
+    },
+    {
+      "quiz_id": "qz_e1_l17_021",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 17,
+      "can_do_id": "cando_e1_47",
+      "can_do_title_sinhala": "සීමාව ඉක්මවා වැඩි බව දැක්වීම (～すぎます)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「ご飯を食べすぎて、お腹が痛い」の「食べすぎ」の意味は何ですか。",
+        "furigana": "「ご[はん]を[た]べすぎて、お[なか]が[いた]い」の「[た]べすぎ」の[いみ]は[なん]ですか。",
+        "sinhala": "'Tabesugite' යන්නෙන් අදහස් වන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ඕනවට වඩා වැඩියෙන් කෑවා (Ate too much)"
+        },
+        {
+          "id": "B",
+          "text": "නොකා සිටියා (Didn't eat)"
+        },
+        {
+          "id": "C",
+          "text": "කෑමට කැමතියි (Like to eat)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'Verb Stem + すぎます' යනු යමක් සීමාව ඉක්මවා ඕනවට වඩා කිරීමයි (Ate too much)."
+    },
+    {
+      "quiz_id": "qz_e1_l18_022",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 18,
+      "can_do_id": "cando_e1_49",
+      "can_do_title_sinhala": "තවමත් කර අවසන් නැති බව දැක්වීම (まだ～ていません)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「昼ご飯はもう食べましたか」に対する「まだ」の正しい答えはどれですか。",
+        "furigana": "「[ひる]ごはんはもう[た]べましたか」に[たい]する「まだ」の[ただ]しい[こた]えはどれですか。",
+        "sinhala": "'දවල් කෑම කාලා ඉවරද?' කියා ඇසූ විට 'නැත, තවම කෑවේ නෑ' යන්නෙහි නිවැරදි ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "いいえ、まだ食べていません (Iie, mada tabete imasen)"
+        },
+        {
+          "id": "B",
+          "text": "いいえ、まだ食べませんでした (Iie, mada tabemasen deshita)"
+        },
+        {
+          "id": "C",
+          "text": "いいえ、食べないです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යමක් තවමත් සිදුවී නොමැති බව පැවසීමේදී සැමවිටම 'まだ V-て いません' (තවම කර නැත) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e1_l17_023",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 17,
+      "can_do_id": "cando_e1_45",
+      "can_do_title_sinhala": "සේවා ස්ථානයෙන් කලින් පිටවීමේදී පවසන ආචාරය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "仕事が終わって、同僚より先に帰るときに言う挨拶は何ですか。",
+        "furigana": "[しごと]が[お]わって、[どうりょう]より[さき]に[かえ]るときに[い]う[あいさつ]は[なん]ですか。",
+        "sinhala": "වැඩ අවසන් වී අනෙක් සගයන්ට පෙර පිටවීමේදී පවසන නිල ආචාරය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "お先に失礼します (Osaki ni shitsurei shimasu)"
+        },
+        {
+          "id": "B",
+          "text": "いってきます (Ittekimasu)"
+        },
+        {
+          "id": "C",
+          "text": "ごめんください (Gomen kudasai)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාර්යාලයෙන් අනෙක් අයට පෙර පිටවීමේදී 'මම කලින් පිටත් වෙනවාට අවසරයි' යන අර්ථයෙන් 'お先に失礼します' යැයි පවසයි."
+    },
+    {
+      "quiz_id": "qz_e1_l18_024",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 18,
+      "can_do_id": "cando_e1_50",
+      "can_do_title_sinhala": "වසර අවසාන සාද ආරාධනා පත්‍රිකාවක් කියවීම (忘年会 - Bounenkai)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l18_q24_bounenkai.png"
+      },
+      "question_text": {
+        "japanese": "忘年会（ぼうねんかい）のお知らせを見てください。出欠（参加・不参加）の返事はいつまでですか。",
+        "furigana": "[ぼうねんかい]のお[し]らせを[み]てください。[しゅっけつ]（[さんか]・[ふさんか]）の[へんじ]はいつまでですか。",
+        "sinhala": "සාද දැන්වීම බලන්න. සහභාගී වනවාද නැද්ද යන්න පිළිබඳ පිළිතුර දිය යුතු අවසන් දිනය කවදාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "12月10日（金）まで (දෙසැම්බර් 10 වන සිකුරාදා දක්වා)"
+        },
+        {
+          "id": "B",
+          "text": "12月20日（パーティー当日）- පාටිය දවසේදී"
+        },
+        {
+          "id": "C",
+          "text": "返事は不要 (පිළිතුරු දීම අනවශ්‍යයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ '出欠締め切り: 12月10日（金）幹事まで' ලෙස දක්වා ඇති බැවින් පිළිතුර A වේ."
+    }
+  ]
+}

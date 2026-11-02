@@ -1,0 +1,887 @@
+{
+  "curriculum": "Irodori (Starter, Elementary 1, Elementary 2) & JFT-Basic A2",
+  "total_particles": 10,
+  "examples_per_particle": 10,
+  "particles": [
+    {
+      "particle": "は (wa)",
+      "name_sinhala": "මාතෘකාව දැක්වීමේ Particle එක",
+      "book_reference": "Irodori Starter - Unit 1",
+      "description": "වාක්‍යයේ කතා කරන ප්‍රධාන මාතෘකාව (Topic) හඳුන්වා දීමට යොදා ගනී.",
+      "examples": [
+        {
+          "id": "wa_01",
+          "japanese": "わたし[は]スリランカ人です。",
+          "hiragana_kanji": "私はスリランカ人です。",
+          "english": "I am Sri Lankan.",
+          "sinhala": "මම ශ්‍රී ලංකිකයෙක් වෙමි.",
+          "image_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wa_02",
+          "japanese": "きょう[は]月曜日です。",
+          "hiragana_kanji": "今日は月曜日です。",
+          "english": "Today is Monday.",
+          "sinhala": "අද සඳුදා දිනයකි.",
+          "image_url": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wa_03",
+          "japanese": "これ[は]ペンです。",
+          "hiragana_kanji": "これはペンです。",
+          "english": "This is a pen.",
+          "sinhala": "මෙය පෑනකි.",
+          "image_url": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wa_04",
+          "japanese": "あそこ[は]スーパーです。",
+          "hiragana_kanji": "あそこはスーパーです。",
+          "english": "Over there is a supermarket.",
+          "sinhala": "අර පැත්තේ සුපිරි වෙළඳසැලක් ඇත.",
+          "image_url": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wa_05",
+          "japanese": "わたしのしごと[は]事務です。",
+          "hiragana_kanji": "私の仕事は事務です。",
+          "english": "My job is clerical work.",
+          "sinhala": "මගේ රැකියාව කාර්යාලීය (Clerical) කටයුතු වේ.",
+          "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wa_06",
+          "japanese": "このラーメン[は]おいしいです。",
+          "hiragana_kanji": "このラーメンはおいしいです。",
+          "english": "This ramen is delicious.",
+          "sinhala": "මෙම රැමන් (Ramen) කෑම රසවත්ය.",
+          "image_url": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wa_07",
+          "japanese": "やまださん[は]会社員です。",
+          "hiragana_kanji": "山田さんは会社員です。",
+          "english": "Mr. Yamada is a company employee.",
+          "sinhala": "යමදා මහතා ආයතනික සේවකයෙකි.",
+          "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wa_08",
+          "japanese": "きょうの天気[は]雨です。",
+          "hiragana_kanji": "今日の天気は雨です。",
+          "english": "Today's weather is rain.",
+          "sinhala": "අද කාලගුණය වැසි සහිතය.",
+          "image_url": "https://images.unsplash.com/photo-1519692933481-e162a57d6721?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wa_09",
+          "japanese": "にほんご[は]おもしろいです。",
+          "hiragana_kanji": "日本語はおもしろいです。",
+          "english": "Japanese language is interesting.",
+          "sinhala": "ජපන් භාෂාව ඉතා රසවත් / කුතුහලය උපදවන සුළුය.",
+          "image_url": "https://images.unsplash.com/photo-1528164344705-475426879c0d?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wa_10",
+          "japanese": "わたしのしゅみ[は]音楽です。",
+          "hiragana_kanji": "私の趣味は音楽です。",
+          "english": "My hobby is music.",
+          "sinhala": "මගේ විනෝದಾංශය සංගීතයයි.",
+          "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80"
+        }
+      ]
+    },
+    {
+      "particle": "を (o/wo)",
+      "name_sinhala": "ක්‍රියාපදයේ කර්මය (Object) දැක්වීමේ Particle එක",
+      "book_reference": "Irodori Starter - Unit 2",
+      "description": "ක්‍රියාවට මුහුණපාන වස්තුව හෝ කරන දෙය නම් කිරීමට යොදා ගනී.",
+      "examples": [
+        {
+          "id": "wo_01",
+          "japanese": "ごはん[を]食べます。",
+          "hiragana_kanji": "ご飯を和食べます。",
+          "english": "I eat rice / a meal.",
+          "sinhala": "මම බත් කනවා.",
+          "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wo_02",
+          "japanese": "みず[を]飲みます。",
+          "hiragana_kanji": "水を飲みます。",
+          "english": "I drink water.",
+          "sinhala": "මම වතුර බොනවා.",
+          "image_url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wo_03",
+          "japanese": "ほん[を]読みます。",
+          "hiragana_kanji": "本を読みます。",
+          "english": "I read a book.",
+          "sinhala": "මම පොතක් කියවනවා.",
+          "image_url": "https://images.unsplash.com/photo-1495640388908-05fa85288e61?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wo_04",
+          "japanese": "しんぶん[を]買います。",
+          "hiragana_kanji": "新聞を買います。",
+          "english": "I buy a newspaper.",
+          "sinhala": "මම පුවත්පතක් මිලදී ගන්නවා.",
+          "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wo_05",
+          "japanese": "しゃしん[を]撮ります。",
+          "hiragana_kanji": "写真を撮ります。",
+          "english": "I take a photo.",
+          "sinhala": "මම ඡායාරූපයක් ගන්නවා (Nikon කැමරාවෙන් වගේ).",
+          "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wo_06",
+          "japanese": "日本語[を]勉強します。",
+          "hiragana_kanji": "日本語を勉強します。",
+          "english": "I study Japanese.",
+          "sinhala": "මම ජපන් භාෂාව හදාරනවා.",
+          "image_url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wo_07",
+          "japanese": "音楽[を]聞きます。",
+          "hiragana_kanji": "音楽を聞きます。",
+          "english": "I listen to music.",
+          "sinhala": "මම සංගීතයට සවන් දෙනවා.",
+          "image_url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wo_08",
+          "japanese": "メール[を]送ります。",
+          "hiragana_kanji": "メールを送ります。",
+          "english": "I send an email.",
+          "sinhala": "මම විද්‍යුත් තැපැල් පණිවිඩයක් (Email) යවනවා.",
+          "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wo_09",
+          "japanese": "きっぷ[を]買います。",
+          "hiragana_kanji": "切符を買います。",
+          "english": "I buy a ticket.",
+          "sinhala": "මම ප්‍රවේශපත්‍රයක් (Ticket) මිලදී ගන්නවා.",
+          "image_url": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "wo_10",
+          "japanese": "くるま[を]運転します。",
+          "hiragana_kanji": "車を運転します。",
+          "english": "I drive a car.",
+          "sinhala": "මම වාහනයක් පදවනවා.",
+          "image_url": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=600&q=80"
+        }
+      ]
+    },
+    {
+      "particle": "に (ni)",
+      "name_sinhala": "කාලය, ස්ථානය සහ දිශාව දැක්වීමේ Particle එක",
+      "book_reference": "Irodori Starter - Unit 3",
+      "description": "නිශ්චිත වේලාවක්, දිනයක් හෝ ගමන් කරන ගමනාන්තයක් දැක්වීමට යොදා ගනී.",
+      "examples": [
+        {
+          "id": "ni_01",
+          "japanese": "7時[に]起きます。",
+          "hiragana_kanji": "7時に起きます。",
+          "english": "I wake up at 7 o'clock.",
+          "sinhala": "මම උදෑසන 7ට නැගිටිනවා.",
+          "image_url": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ni_02",
+          "japanese": "会社[に]行きます。",
+          "hiragana_kanji": "会社に行きます。",
+          "english": "I go to the office/company.",
+          "sinhala": "මම ආයතනයට (ഓफିස් එකට) යනවා.",
+          "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ni_03",
+          "japanese": "日本[に]行きます。",
+          "hiragana_kanji": "日本に行きます。",
+          "english": "I go to Japan.",
+          "sinhala": "මම ජපානයට යනවා.",
+          "image_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ni_04",
+          "japanese": "げつ曜日[に]休みます。",
+          "hiragana_kanji": "月曜日に休みます。",
+          "english": "I take a rest on Monday.",
+          "sinhala": "සඳුදා දිනයේ නිවාඩු ගන්නවා.",
+          "image_url": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ni_05",
+          "japanese": "へや[に]つくえがあります。",
+          "hiragana_kanji": "部屋に机があります。",
+          "english": "There is a desk in the room.",
+          "sinhala": "කාමරය තුළ මේසයක් තිබේ.",
+          "image_url": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ni_06",
+          "japanese": "つくえの上[に]本があります。",
+          "hiragana_kanji": "机の上に本があります。",
+          "english": "There is a book on the desk.",
+          "sinhala": "මේසය උඩ පොතක් තිබේ.",
+          "image_url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ni_07",
+          "japanese": "まいにち 8時間[に]働きます…あ、8時間働きます。",
+          "hiragana_kanji": "8時に会社に着きます。",
+          "english": "I arrive at the company at 8 o'clock.",
+          "sinhala": "මම උදේ 8ට ආයතනයට ළඟා වෙනවා.",
+          "image_url": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ni_08",
+          "japanese": "スーパー[に]よります。",
+          "hiragana_kanji": "スーパーによります。",
+          "english": "I drop by the supermarket.",
+          "sinhala": "සුපිරි වෙළඳසැලට ගොඩ වැදෙනවා.",
+          "image_url": "https://images.unsplash.com/photo-1534723452862-4c874018d66d?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ni_09",
+          "japanese": "ともだち[に]会います。",
+          "hiragana_kanji": "友達に会います。",
+          "english": "I meet a friend.",
+          "sinhala": "මම මිතුරෙකු මුණගැසෙනවා.",
+          "image_url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ni_10",
+          "japanese": "10月[に]うまれました。",
+          "hiragana_kanji": "10月に生まれました。",
+          "english": "I was born in October.",
+          "sinhala": "මම උපත ලැබුවේ ඔක්තෝබර් මාසයේය.",
+          "image_url": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=600&q=80"
+        }
+      ]
+    },
+    {
+      "particle": "で (de)",
+      "name_sinhala": "ಸ್ಥಾನය සහ මෙවලම දැක්වීමේ Particle එක",
+      "book_reference": "Irodori Starter - Unit 4",
+      "description": "ක්‍රියාකාරකමක් සිදුවන ස්ථානය (Place of action) හෝ භාවිත කරන මෙවලම/භාෂාව දැක්වීමට යොදා ගනී.",
+      "examples": [
+        {
+          "id": "de_01",
+          "japanese": "レストラン[で]ごはんをたべます。",
+          "hiragana_kanji": "レストランでご飯を食べます。",
+          "english": "I eat a meal at a restaurant.",
+          "sinhala": "මම ආපන ශාලාවකදී (Restaurant) බත් කනවා.",
+          "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "de_02",
+          "japanese": "ペン[で]書きます。",
+          "hiragana_kanji": "ペンで書きます。",
+          "english": "I write with a pen.",
+          "sinhala": "මම පෑනකින් ලියනවා.",
+          "image_url": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "de_03",
+          "japanese": "日本語[で]話します。",
+          "hiragana_kanji": "日本語で話します。",
+          "english": "I speak in Japanese.",
+          "sinhala": "මම ජපන් බසින් කතා කරමි.",
+          "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "de_04",
+          "japanese": "バス[で]会社に行きます。",
+          "hiragana_kanji": "バスで会社に行きます。",
+          "english": "I go to the office by bus.",
+          "sinhala": "මම බස් රථයෙන් ආයතනයට යමි.",
+          "image_url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "de_05",
+          "japanese": "家[で]テレビを見ます。",
+          "hiragana_kanji": "家でテレビを見ます。",
+          "english": "I watch TV at home.",
+          "sinhala": "මම නිවසේ සිට රූපවාහිනිය නරඹමි.",
+          "image_url": "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "de_06",
+          "japanese": "スーパー[で]買い物をします。",
+          "hiragana_kanji": "スーパーで買い物をします。",
+          "english": "I do shopping at the supermarket.",
+          "sinhala": "මම සුපිරි වෙළඳසැලෙන් බඩු මිලදී ගන්නවා.",
+          "image_url": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "de_07",
+          "japanese": "スマホ[で]写真を撮ります。",
+          "hiragana_kanji": "スマホで写真を撮ります。",
+          "english": "I take photos with a smartphone.",
+          "sinhala": "මම ස්මාර්ට් ජංගම දුරකථනයෙන් පින්තූර ගන්නවා.",
+          "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "de_08",
+          "japanese": "こうじょう[で]働きます。",
+          "hiragana_kanji": "工場で働きます。",
+          "english": "I work at a factory.",
+          "sinhala": "මම කර්මාන්ත ශාලාවක වැඩ කරමි.",
+          "image_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "de_09",
+          "japanese": "カード[で]払います。",
+          "hiragana_kanji": "カードで払います。",
+          "english": "I pay by card.",
+          "sinhala": "මම කාඩ්පත මඟින් මුදල් ගෙවමි.",
+          "image_url": "https://images.unsplash.com/photo-1556742049-0a67d553c245?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "de_10",
+          "japanese": "りょかん[で]休みます。",
+          "hiragana_kanji": "旅館で休みます。",
+          "english": "I rest at a Japanese inn.",
+          "sinhala": "මම සාම්ප්‍රදායික ජපන් නවාතැන්පොළක (Ryokan) විවේක ගන්නවා.",
+          "image_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80"
+        }
+      ]
+    },
+    {
+      "particle": "が (ga)",
+      "name_sinhala": "පැවැත්ම, කැමැත්ත සහ විශේෂ අවධාරණ Particle එක",
+      "book_reference": "Irodori Elementary 1 - Unit 1",
+      "description": "යමක් පැවතීම (Exists), හැකියාව හෝ කැමැත්ත දැක්වීමේදී ප්‍රධාන වස්තුව ඉදිරියෙන් යෙදේ.",
+      "examples": [
+        {
+          "id": "ga_01",
+          "japanese": "へや[が]あります。",
+          "hiragana_kanji": "部屋があります。",
+          "english": "There is a room.",
+          "sinhala": "කාමරයක් තිබේ.",
+          "image_url": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ga_02",
+          "japanese": "わたし[が]行きます。",
+          "hiragana_kanji": "私が行きます。",
+          "english": "I will go. (Emphasis on 'I')",
+          "sinhala": "මමම යන්නම් / යන්නේ මමයි.",
+          "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ga_03",
+          "japanese": "にく[が]好きです。",
+          "hiragana_kanji": "肉が好きです。",
+          "english": "I like meat.",
+          "sinhala": "මම මස්වලට කැමතියි.",
+          "image_url": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ga_04",
+          "japanese": "日本語[が]できます。",
+          "hiragana_kanji": "日本語ができます。",
+          "english": "I can speak Japanese.",
+          "sinhala": "මට ජපන් භාෂාව පුළුවන් (හැකියාව ඇත).",
+          "image_url": "https://images.unsplash.com/photo-1528164344705-475426879c0d?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ga_05",
+          "japanese": "くるま[が]あります。",
+          "hiragana_kanji": "車があります。",
+          "english": "There is a car.",
+          "sinhala": "වාහනයක් තිබේ.",
+          "image_url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ga_06",
+          "japanese": "3人[が]います。",
+          "hiragana_kanji": "3人がいます。",
+          "english": "There are three people.",
+          "sinhala": "දෙනෙක් (ප්‍රාණවාචී) සිටිති.",
+          "image_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ga_07",
+          "japanese": "おかね[が]ありません。",
+          "hiragana_kanji": "お金がありません。",
+          "english": "I don't have money.",
+          "sinhala": "මුදල් නැත.",
+          "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ga_08",
+          "japanese": "げんき[が]ありません。",
+          "hiragana_kanji": "元気ングありません…元気ありません。",
+          "english": "I have no energy / feeling down.",
+          "sinhala": "ශක්තියක්/ප්‍රාණවත් බවක් නැත.",
+          "image_url": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ga_09",
+          "japanese": "すし[が]食べたいです。",
+          "hiragana_kanji": "寿司が食べたいです。",
+          "english": "I want to eat sushi.",
+          "sinhala": "මට සුෂි කෑමට අවශ්‍යයි.",
+          "image_url": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ga_10",
+          "japanese": "しつもん[が]あります。",
+          "hiragana_kanji": "質問があります。",
+          "english": "I have a question.",
+          "sinhala": "මට ප්‍රශ්නයක් තිබේ.",
+          "image_url": "https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?auto=format&fit=crop&w=600&q=80"
+        }
+      ]
+    },
+    {
+      "particle": "と (to)",
+      "name_sinhala": "\"සමඟ\" හෝ \"සහ\" (And / With) දැක්වීමේ Particle එක",
+      "book_reference": "Irodori Elementary 1 - Unit 2",
+      "description": "නාමපද එකිනෙක සම්බන්ධ කිරීමට (සහ) හෝ යමෙකු සමඟ යමක් කිරීමට (සමඟ) යොදා ගනී.",
+      "examples": [
+        {
+          "id": "to_01",
+          "japanese": "りんご[と]バナナを買います。",
+          "hiragana_kanji": "りんごとバナナを買います。",
+          "english": "I buy apples and bananas.",
+          "sinhala": "මම ඇපල් සහ කෙසෙල් මිලදී ගන්නවා.",
+          "image_url": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "to_02",
+          "japanese": "ともだち[と]日本に行きます。",
+          "hiragana_kanji": "友達と日本に行きます。",
+          "english": "I go to Japan with a friend.",
+          "sinhala": "මම මිතුරෙකු සමඟ ජපානයට යනවා.",
+          "image_url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "to_03",
+          "japanese": "かぞく[と]話します。",
+          "hiragana_kanji": "家族と話します。",
+          "english": "I talk with my family.",
+          "sinhala": "මම පවුලේ අය සමඟ කතා කරනවා.",
+          "image_url": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "to_04",
+          "japanese": "しゃちょう[と]相談します。",
+          "hiragana_kanji": "社長と相談します。",
+          "english": "I consult with the company president/boss.",
+          "sinhala": "මම ආයතන ප්‍රධානියා සමඟ සාකච්ඡා කරමි.",
+          "image_url": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "to_05",
+          "japanese": "ペン[と]ノート。",
+          "hiragana_kanji": "ペンとノート。",
+          "english": "Pen and notebook.",
+          "sinhala": "පෑන සහ නෝට්පොත.",
+          "image_url": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "to_06",
+          "japanese": "同僚[と]ランチを食べます。",
+          "hiragana_kanji": "同僚とランチを食べます。",
+          "english": "I eat lunch with a colleague.",
+          "sinhala": "මම සගයා සමඟ දවල් ආහාරය ගන්නවා.",
+          "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "to_07",
+          "japanese": "先生[と]勉強します。",
+          "hiragana_kanji": "先生と勉強します。",
+          "english": "I study with the teacher.",
+          "sinhala": "මම ගුරුවරයා සමඟ අධ්‍යයනය කරනවා.",
+          "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "to_08",
+          "japanese": "彼女[と]映画を見ます。",
+          "hiragana_kanji": "彼女と映画を見ます。",
+          "english": "I watch a movie with my girlfriend.",
+          "sinhala": "මම පෙම්වතිය සමඟ චිත්‍රපටයක් නරඹමි.",
+          "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "to_09",
+          "japanese": "ビール[と]おつまみ。",
+          "hiragana_kanji": "ビールとおつまみ。",
+          "english": "Beer and snacks.",
+          "sinhala": "බියර් සහ කෑම වර්ග.",
+          "image_url": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "to_10",
+          "japanese": "日本の文化[と]習慣。",
+          "hiragana_kanji": "日本の文化と習慣。",
+          "english": "Japanese culture and customs.",
+          "sinhala": "ජපානයේ සංස්කෘතිය සහ චාරිත්‍ර.",
+          "image_url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=600&q=80"
+        }
+      ]
+    },
+    {
+      "particle": "も (mo)",
+      "name_sinhala": "\"～。ත්\" (Also / Too) ප්‍රකාශ කරන Particle එක",
+      "book_reference": "Irodori Elementary 1 - Unit 3",
+      "description": "පෙර කී කාරණයට සමාන බවක් හෝ අතිරේක බවක් පෙන්වීමට යොදා ගනී.",
+      "examples": [
+        {
+          "id": "mo_01",
+          "japanese": "わたし[も]スリランカ人です。",
+          "hiragana_kanji": "私もスリランカ人です。",
+          "english": "I am also Sri Lankan.",
+          "sinhala": "මමත් ශ්‍රී ලංකිකයෙක් වෙමි.",
+          "image_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "mo_02",
+          "japanese": "これ[も]おいしいです。",
+          "hiragana_kanji": "これもおいしいです。",
+          "english": "This is also delicious.",
+          "sinhala": "මෙයත් රසවත්ය.",
+          "image_url": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "mo_03",
+          "japanese": "コーヒー[も]飲みます。",
+          "hiragana_kanji": "コーヒーも飲みます。",
+          "english": "I also drink coffee.",
+          "sinhala": "මම කෝපිත් බොනවා.",
+          "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "mo_04",
+          "japanese": "土曜日[も]働きます。",
+          "hiragana_kanji": "土曜日も働きます。",
+          "english": "I also work on Saturdays.",
+          "sinhala": "මම සෙනසුරාදා දිනවලත් වැඩ කරමි.",
+          "image_url": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "mo_05",
+          "japanese": "彼女[も]日本語ができます。",
+          "hiragana_kanji": "彼女も日本語ができます。",
+          "english": "She can also speak Japanese.",
+          "sinhala": "ඇයත් ජපන් බස කතා කිරීමට දන්නවා.",
+          "image_url": "https://images.unsplash.com/photo-1528164344705-475426879c0d?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "mo_06",
+          "japanese": "あれ[も]見せてください。",
+          "hiragana_kanji": "あれも見せてください。",
+          "english": "Please show me that one too.",
+          "sinhala": "අන්න අරයත් මට පෙන්වන්න.",
+          "image_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "mo_07",
+          "japanese": "ここ[も]きれいです。",
+          "hiragana_kanji": "ここもきれいです。",
+          "english": "Here is also beautiful.",
+          "sinhala": "මෙතනත් ලස්සනයි.",
+          "image_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "mo_08",
+          "japanese": "私も行きます。",
+          "hiragana_kanji": "私も行きます。",
+          "english": "I will go too.",
+          "sinhala": "මමත් එනවා / යනවා.",
+          "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "mo_09",
+          "japanese": "りんご[も]みかんも好きです。",
+          "hiragana_kanji": "りんごもみかんも好きです。",
+          "english": "I like both apples and mandarins.",
+          "sinhala": "මට ඇපල් සහ දොඩම් දෙකම අල්ලනවා.",
+          "image_url": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "mo_10",
+          "japanese": "写真[も]撮りました。",
+          "hiragana_kanji": "写真も撮りました。",
+          "english": "I took photos too.",
+          "sinhala": "මම පින්තූරත් ගත්තා.",
+          "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&q=80"
+        }
+      ]
+    },
+    {
+      "particle": "から / まで (kara / made)",
+      "name_sinhala": "\"සිට... දක්වා\" (From... To...) සීමාවන් දැක්වීම",
+      "book_reference": "Irodori Elementary 1 - Unit 4",
+      "description": "කාලය හෝ ස්ථානයක ආරම්භය (Kara) සහ අවසානය (Made) පෙන්වීමට යොදා ගනී.",
+      "examples": [
+        {
+          "id": "km_01",
+          "japanese": "9時[から] 5時[まで]働きます。",
+          "hiragana_kanji": "9時から5時まで働きます。",
+          "english": "I work from 9 to 5.",
+          "sinhala": "මම 9 සිට 5 දක්වා වැඩ කරමි.",
+          "image_url": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "km_02",
+          "japanese": "コロンボ[から]マータラ[まで]行きます。",
+          "hiragana_kanji": "コロンボからマータラまで行きます。",
+          "english": "I go from Colombo to Matara.",
+          "sinhala": "මම කොළඹ සිට මාතර දක්වා යමි.",
+          "image_url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "km_03",
+          "japanese": "月曜日[から]金曜日[まで]学校があります。",
+          "hiragana_kanji": "月曜日から金曜日まで学校があります。",
+          "english": "There is school from Monday to Friday.",
+          "sinhala": "සඳුදා සිට සිකුරාදා දක්වා පාසල ඇත.",
+          "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "km_04",
+          "japanese": "ここ[から]駅[まで]歩きます。",
+          "hiragana_kanji": "ここから駅まで歩きます。",
+          "english": "I walk from here to the station.",
+          "sinhala": "මම මෙහි සිට දුම්රිය ස්ථානය දක්වා ඇවිදගෙන යමි.",
+          "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "km_05",
+          "japanese": "お昼休みは12時[から] 1時[まで]です。",
+          "hiragana_kanji": "お昼休みは12時から1時までです。",
+          "english": "Lunch break is from 12 to 1.",
+          "sinhala": "දහවල් විවේකය 12 සිට 1 දක්වා වේ.",
+          "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "km_06",
+          "japanese": "日本[から]来ました。",
+          "hiragana_kanji": "日本から来ました。",
+          "english": "I came from Japan.",
+          "sinhala": "මම ආවේ ජපානයෙන්.",
+          "image_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "km_07",
+          "japanese": "家[から]会社まで遠いです。",
+          "hiragana_kanji": "家から会社まで遠いです。",
+          "english": "It is far from home to the office.",
+          "sinhala": "ගෙදර සිට ඔෆිස් එකට දුර වැඩියි.",
+          "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "km_08",
+          "japanese": "最初[から]もう一度説明してください。",
+          "hiragana_kanji": "最初からもう一度説明してください。",
+          "english": "Please explain it once more from the beginning.",
+          "sinhala": "කරුණාකර මුල සිට තවත් වරක් පැහැදිලි කරන්න.",
+          "image_url": "https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "km_09",
+          "japanese": "3番線[から]電車が出ます。",
+          "hiragana_kanji": "3番線から電車が出ます。",
+          "english": "The train departs from track number 3.",
+          "sinhala": "3 වන වේදිකාවෙන් දුම්රිය පිටත් වේ.",
+          "image_url": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "km_10",
+          "japanese": "今[から]出発します。",
+          "hiragana_kanji": "今から出発します。",
+          "english": "I will depart from now.",
+          "sinhala": "මම දැන් සිට ගමන් අරඹමි.",
+          "image_url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=600&q=80"
+        }
+      ]
+    },
+    {
+      "particle": "か (ka)",
+      "name_sinhala": "ප්‍රශ්න කිරීමේ (Question) Particle එක",
+      "book_reference": "Irodori Starter - Unit 1",
+      "description": "වාක්‍යයක අවසානයට යොදමින් ප්‍රශ්නාර්ථයක් බවට පත් කරයි.",
+      "examples": [
+        {
+          "id": "ka_01",
+          "japanese": "これは何ですか[か]…これは何ですか。",
+          "hiragana_kanji": "これは何ですか。",
+          "english": "What is this?",
+          "sinhala": "මෙය කුමක්ද?",
+          "image_url": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ka_02",
+          "japanese": "コーヒーを飲みます[か]。",
+          "hiragana_kanji": "コーヒーを飲みますか。",
+          "english": "Will you drink coffee?",
+          "sinhala": "ඔබ කෝපි බොනවාද?",
+          "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ka_03",
+          "japanese": "お名前は何ですか。",
+          "hiragana_kanji": "お名前は何ですか。",
+          "english": "What is your name?",
+          "sinhala": "ඔබේ නම කුමක්ද?",
+          "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ka_04",
+          "japanese": "日本語がわかりますか。",
+          "hiragana_kanji": "日本語がわかりますか。",
+          "english": "Do you understand Japanese?",
+          "sinhala": "आपको ජපන් භාෂාව තේරෙනවාද?",
+          "image_url": "https://images.unsplash.com/photo-1528164344705-475426879c0d?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ka_05",
+          "japanese": "ここはどこですか。",
+          "hiragana_kanji": "ここはどこですか。",
+          "english": "Where is this place?",
+          "sinhala": "මේ කුමන ස්ථානයද?",
+          "image_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ka_06",
+          "japanese": "何時に起きますか。",
+          "hiragana_kanji": "何時に起きますか。",
+          "english": "What time do you wake up?",
+          "sinhala": "ඔබ කීයට නැගිටිනවාද?",
+          "image_url": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ka_07",
+          "japanese": "カードは使えますか。",
+          "hiragana_kanji": "カードは使えますか。",
+          "english": "Can I use a card?",
+          "sinhala": "මෙහි කාඩ්පත් භාවිත කළ හැකිද?",
+          "image_url": "https://images.unsplash.com/photo-1556742049-0a67d553c245?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ka_08",
+          "japanese": "明日休みですか。",
+          "hiragana_kanji": "明日休みですか。",
+          "english": "Is tomorrow a holiday?",
+          "sinhala": "හෙට නිවාඩු දවසක්ද?",
+          "image_url": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ka_09",
+          "japanese": "いっしょに行きませんか。",
+          "hiragana_kanji": "いっしょに行きませんか。",
+          "english": "Won't you go together?",
+          "sinhala": "අපි එකට යමුද?",
+          "image_url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "ka_10",
+          "japanese": "これ、いくらですか。",
+          "hiragana_kanji": "これ、いくらですか。",
+          "english": "How much is this?",
+          "sinhala": "මෙහි මිල කීයද?",
+          "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=600&q=80"
+        }
+      ]
+    },
+    {
+      "particle": "に (Destination/Time - Ni alt)",
+      "name_sinhala": "ගමනාන්තය හෝ පිහිටීම දැක්වීම (Directional)",
+      "book_reference": "Irodori Elementary 2 - Unit 1",
+      "description": "යමෙකු හෝ යමක් ගමන් කරන දිශාව හෝ පවතින ස්ථානය නිරූපණය කරයි.",
+      "examples": [
+        {
+          "id": "nid_01",
+          "japanese": "駅の近く[に]本屋があります。",
+          "hiragana_kanji": "駅の近くに本屋があります。",
+          "english": "There is a bookstore near the station.",
+          "sinhala": "දුම්රිය ස්ථානය අසල පොත් සාප්පුවක් ඇත.",
+          "image_url": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "nid_02",
+          "japanese": "かばん[に]書類を入れます。",
+          "hiragana_kanji": "かばんに書類を入れます。",
+          "english": "I put documents in the bag.",
+          "sinhala": "මම බෑගයට ලියකියවිලි දමමි.",
+          "image_url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "nid_03",
+          "japanese": "壁[に]ポスターを貼ります。",
+     "hiragana_kanji": "壁にポスターを貼ります。",
+          "english": "I put up a poster on the wall.",
+          "sinhala": "මම බිත්තියේ පෝස්ටරයක් අලවමි.",
+          "image_url": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "nid_04",
+          "japanese": "席[に]座ってください。",
+          "hiragana_kanji": "席に座ってください。",
+          "english": "Please sit in your seat.",
+          "sinhala": "කරුණාකර ඔබේ අසුනෙහි වාඩි වන්න.",
+          "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "nid_05",
+          "japanese": "ゴミ箱[に]ゴミを捨てます。",
+          "hiragana_kanji": "ゴミ箱にゴミを捨てます。",
+          "english": "I throw trash in the trash bin.",
+          "sinhala": "මම කසළ බඳුනට කුණු දමමි.",
+          "image_url": "https://images.unsplash.com/photo-1532996122724-e3c3fa9a0d35?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "nid_06",
+          "japanese": "ノート[に]名前を書きます。",
+          "hiragana_kanji": "ノートに名前を書きます。",
+          "english": "I write my name in the notebook.",
+          "sinhala": "නෝට්පොතේ නම ලියන්න.",
+          "image_url": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "nid_07",
+          "japanese": "病院[に行きます]…病院[に]行きます。",
+          "hiragana_kanji": "病院に行きます。",
+          "english": "I go to the hospital.",
+          "sinhala": "මම රෝහලට යමි (සහෝදරියගේ අංශයට වගේ).",
+          "image_url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "nid_08",
+          "japanese": "うけつけ[に]聞いてください。",
+          "hiragana_kanji": "受付に聞いてください。",
+          "english": "Please ask at the reception.",
+          "sinhala": "කරුණාකර පිළිගැනීමේ කුටියෙන් (Reception) විමසන්න.",
+          "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "nid_09",
+          "japanese": "予定表[に]書き込みます。",
+          "hiragana_kanji": "予定表に書き込みます。",
+          "english": "I write it down on the schedule.",
+          "sinhala": "මම කාලසටහනේ සටහන් කරගනිමි.",
+          "image_url": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "id": "nid_10",
+          "japanese": "新しい生活[に]慣れました。",
+          "hiragana_kanji": "新しい生活に慣れました。",
+          "english": "I got used to the new life.",
+          "sinhala": "මම අලුත් ජීවිතයට හුරු වුණෙමි.",
+          "image_url": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=600&q=80"
+        }
+      ]
+    }
+  ]
+}

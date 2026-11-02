@@ -1,0 +1,911 @@
+{
+  "book": "Irodori Elementary 2 (A2.2)",
+  "lessons_covered": [
+    1,
+    2
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e2_l01_001",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_01",
+      "can_do_title_sinhala": "නව සේවා ස්ථානයේදී උපදෙස් අසා තේරුම් ගැනීම (～たら)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L01_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "仕事が分からないとき、どうすればいいと言われましたか。",
+        "furigana": "[しごと]が[わ]からないとき、どうすればいいと[い]われましたか。",
+        "sinhala": "වැඩ තේරෙන්නේ නැති විට කුමක් කළ යුතු බව පැවසුවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "遠慮しないで、すぐに聞いてください (පැකිලෙන්නේ නැතිව වහාම අසන්න)"
+        },
+        {
+          "id": "B",
+          "text": "自分で調べてください (තමන් විසින්ම සොයා බලන්න)"
+        },
+        {
+          "id": "C",
+          "text": "後でまとめて相談してください (පසුව එකවර සාකච්ඡා කරන්න)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "上司: カルロスさん、今日からよろしくお願いします。何か分からないことがあったら、遠慮しないで何でも聞いてくださいね。\nカルロス: はい、ありがとうございます。よろしくお願いします！",
+        "sinhala": "ප්‍රධානියා: කාලෝස් මහතා, අද සිට හොඳින් වැඩ කරමු. යම් නොතේරෙන දෙයක් තිබුණොත් (分からないことがあったら), පැකිලෙන්නේ නැතිව ඕනෑම දෙයක් අසන්න.\nකාලෝස්: හරි, බොහොම ස්තුතියි. කරුණාවෙන් මාව මෙහෙයවන්න!"
+      },
+      "explanation_sinhala": "ප්‍රධානියා පවසන්නේ '分からないことがあったら、遠慮しないで何でも聞いてください' (නොතේරෙන දෙයක් තිබුණොත් අසන්න) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l01_002",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_01",
+      "can_do_title_sinhala": "වැසි වැටුණද උත්සවය පැවැත්වෙන බව අසා තේරුම් ගැනීම (～ても)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L01_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "明日は雨が降っても、歓迎会（かんげいかい）を行いますか。（◯ か ✕）",
+        "furigana": "[あした]は[あめ]が[ふ]っても、[かんげいかい]を[おこな]いますか。（◯ か ✕）",
+        "sinhala": "හෙට වැසි වැටුණද පිළිගැනීමේ සාදය පවත්වනවාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, වැසි වැටුණද පවත්වයි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, වැසි වැටුණහොත් අවලංගු වේ)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: 明日の新入社員歓迎会、天気が心配ですね。\nB: レストランの個室を予約してありますから、雨が降っても予定通り行いますよ。",
+        "sinhala": "A: හෙට නව සේවක පිළිගැනීමේ සාදයට වහීවිද කියලා බයයි නේද.\nB: අපි රෙස්ටුරන්ට් එකේ කාමරයක් බුක් කරලා තියෙන්නේ, ඒ නිසා වැස්සත් (雨が降っても) නියමිත පරිදිම පවත්වනවා."
+      },
+      "explanation_sinhala": "රෙස්ටුරන්ට් එකක් තුළ බැවින් වැසි වැටුණද පවත්වන බව (雨が降っても予定通り行います) පවසයි. පිළිතුර ◯ වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l01_003",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_02",
+      "can_do_title_sinhala": "කාලය ඇත්නම් කළ හැකි දේ අසා තේරුම් ගැනීම (～ば)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L01_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは時間が許せば、何をしたいと言っていますか。",
+        "furigana": "マリアさんは[じかん]が[ゆる]せば、[なに]をしたいと[い]っていますか。",
+        "sinhala": "කාලය තිබේ නම් මරියා කිරීමට කැමති වන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "地域のボランティア活動に参加したい (ප්‍රජා ස්වේච්ඡා කටයුතුවලට එක්වීමට)"
+        },
+        {
+          "id": "B",
+          "text": "日本語の試験を受けたい (ජපන් විභාගයක් ලිවීමට)"
+        },
+        {
+          "id": "C",
+          "text": "新しいパソコンを買いたい (නව පරිගණකයක් මිලදී ගැනීමට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "マリア: 休日は地域の活動にも興味があります。時間が許せば、お祭りのボランティアなどに参加してみたいです。",
+        "sinhala": "මරියා: මම නිවාඩු දිනවල ප්‍රජා ක්‍රියාකාරකම්වලටත් කැමතියි. කාලය තියෙනවා නම් (時間が許せば), උත්සවවල ස්වේච්ඡා වැඩවලට සහභාගී වෙන්න කැමතියි."
+      },
+      "explanation_sinhala": "මරියා පවසන්නේ '時間が許せば、お祭りのボランティアなどに参加してみたい' බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l01_004",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_02",
+      "can_do_title_sinhala": "ආරක්ෂිත උපකරණ පැළඳ වැඩ කිරීම (～て作業する)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L01_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "工場で作業するとき、必ず何をしなければなりませんか。",
+        "furigana": "[こうじょう]で[さぎょう]するとき、[かなら]ず[なに]をしなければなりませんか。",
+        "sinhala": "කර්මාන්තශාලාවේ වැඩ කරන විට අනිවාර්යයෙන්ම කළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "安全メガネをかけて作業する (ආරක්ෂිත කණ්ණාඩි පැළඳ වැඩ කිරීම)"
+        },
+        {
+          "id": "B",
+          "text": "手袋を外して作業する (අත්වැසුම් ගලවා වැඩ කිරීම)"
+        },
+        {
+          "id": "C",
+          "text": "マスクを外して作業する (මුඛ ආවරණ ගලවා වැඩ කිරීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "指導員: このラインでは火花が出ますから、必ず安全メガネをかけて作業してください。外して作業してはいけません。",
+        "sinhala": "උපදේශක: මේ නිෂ්පාදන මාර්ගයේ ගිනි පුපුරු එන නිසා අනිවාර්යයෙන්ම ආරක්ෂිත කණ්ණාඩි දමාගෙන වැඩ කරන්න (安全メガネをかけて作業してください). ගලවා වැඩ කරන්න එපා."
+      },
+      "explanation_sinhala": "උපදේශකයා පවසන්නේ '安全メガネをかけて作業してください' (ආරක්ෂිත කණ්ණාඩි දමාගෙන වැඩ කරන්න) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l01_005",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_01",
+      "can_do_title_sinhala": "කර්මාන්තශාලා ආරක්ෂක රීති පුවරුවක් කියවීම (Factory Safety Poster)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l01_q05_safety.png"
+      },
+      "question_text": {
+        "japanese": "安全標語のポスターです。「異常があったら」どうすることになっていますか。",
+        "furigana": "[あんぜんひょうご]のポスターです。「[いじょう]があったら」どうすることになっていますか。",
+        "sinhala": "ආරක්ෂක පුවරුව බලන්න. 'යම් අසාමාන්‍යතාවක් හෝ දෝෂයක් සිදුවුවහොත්' (異常があったら) කළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "機械を止めて、すぐリーダーに報告する (යන්ත්‍රය නවතා, වහාම නායකයාට දැනුම් දීම)"
+        },
+        {
+          "id": "B",
+          "text": "自分で直してみる (තමන් විසින්ම පිළිසකර කර බැලීම)"
+        },
+        {
+          "id": "C",
+          "text": "仕事を最後まで続ける (වැඩය අවසන් වන තෙක් කරගෙන යාම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ '異常を感じたら直ちに機械を停止し、報告すること' ලෙස සඳහන් වන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l01_006",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_01",
+      "can_do_title_sinhala": "පිළිගැනීමේ සාද දැන්වීමක් කියවීම (Kangeikai Notice)",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l01_q06_welcome.png"
+      },
+      "question_text": {
+        "japanese": "新入社員の会費は無料ですか。（◯ か ✕）",
+        "furigana": "[しんにゅうしゃいん]の[かいひ]は[むりょう]ですか。（◯ か ✕）",
+        "sinhala": "නව සේවකයින් සඳහා සාද ගාස්තුව නොමිලේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, නවකයින්ට නොමිලේ)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, සියලු දෙනාම ගෙවිය යුතුය)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ '会費: 一般 3,000円 / 新入社員 無料（招待）' ලෙස සඳහන් වන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l01_007",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_01",
+      "can_do_title_sinhala": "කොන්දේසි දැක්වීමේ ආකෘතිය (～たら)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る正しい形を選んでください：「仕事が（　）、一緒にご飯を食べに行きましょう。」",
+        "furigana": "[くうらん]に[はい]る[ただ]しい[かたち]を[えら]んでください：「[しごと]が（　）、[いっしょ]にご[はん]を[た]べに[い]きましょう。」",
+        "sinhala": "'වැඩ අවසන් වුණාම / අවසන් වුණොත් එකට කෑම කන්න යමු' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "終わったら (Owattara - Ta-form + ra)"
+        },
+        {
+          "id": "B",
+          "text": "終わると (Owaruto)"
+        },
+        {
+          "id": "C",
+          "text": "終われば (Owareba)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාවක් සිදුවූ පසු ආරාධනා කිරීමට හෝ අනාගත ක්‍රියාවක් කිරීමට 'Ta-form + ら' (終わったら) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l01_008",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_01",
+      "can_do_title_sinhala": "ප්‍රතිවිරුද්ධ කොන්දේසි (～ても / වුණත්)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「高くても、いいものを買いたい」の「高くても」の意味は何ですか。",
+        "furigana": "「[たか]くても、いいものを[か]いたい」の「[たか]くても」の[いみ]は[なん]ですか。",
+        "sinhala": "'Takakutemo' යන්නෙන් අදහස් කරන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "මිල අධික වුවත් (Even if it is expensive)"
+        },
+        {
+          "id": "B",
+          "text": "මිල අධික නිසා (Because it is expensive)"
+        },
+        {
+          "id": "C",
+          "text": "මිල අධික වන විට (When it is expensive)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "い-adjective එකක් '～くても' ලෙස යෙදුණු විට 'මිල අධික වුවත් / වුණත්' (Even if) යන අර්ථය ලැබේ."
+    },
+    {
+      "quiz_id": "qz_e2_l01_009",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_01",
+      "can_do_title_sinhala": "කොන්දේසි සාධක ආකෘතිය (～ば)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "動詞「安く（買います）」を「～ば」の条件形にするとどれですか。",
+        "furigana": "[どうし]「[やす]く（[か]います）」を「～ば」の[じょうけんけい]にするとどれですか。",
+        "sinhala": "'මිලදී ගන්නවා' (買う) යන්නෙහි 'මිලදී ගන්නවා නම්' යන '～ば' කොන්දේසි ස්වරූපය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "買えば (Kaeba)"
+        },
+        {
+          "id": "B",
+          "text": "買うば (Kauba)"
+        },
+        {
+          "id": "C",
+          "text": "買いれば (Kaireba)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "Group 1 ක්‍රියාපදවල 'u' ශබ්දය 'e' බවට හරවා 'ば' එකතු කරයි (かう -> かえば - Kaeba)."
+    },
+    {
+      "quiz_id": "qz_e2_l01_010",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_01",
+      "can_do_title_sinhala": "පැකිලෙන්නේ නැතිව (遠慮しないで / Enryo shinaide)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「遠慮しないで聞いてください」の「遠慮しないで」はどういう意味ですか。",
+        "furigana": "「[えんりょ]しないで[き]いてください」の「[えんりょ]しないで」はどういう[いみ]ですか。",
+        "sinhala": "'遠慮しないで' (Enryo shinaide) යන්නෙහි තේරුම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "පැකිලෙන්නේ නැතිව / ලැජ්ජා නොවී (Without hesitation)"
+        },
+        {
+          "id": "B",
+          "text": "ශබ්ද නගන්නේ නැතිව (Quietly)"
+        },
+        {
+          "id": "C",
+          "text": "කලබල නොවී (Calmly)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'遠慮しないで' යනු පසුබට නොවී, පැකිලෙන්නේ හෝ ලැජ්ජා වන්නේ නැතිව නිදහසේ අසන්න යන්නයි."
+    },
+    {
+      "quiz_id": "qz_e2_l01_011",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_01",
+      "can_do_title_sinhala": "දෝෂයක් හෝ අසාමාන්‍යතාවක් හඳුන්වන වචනය (異常 / Ijou)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「いつもと違っておかしい状態（Abnormality）」を表す言葉はどれですか。",
+        "furigana": "「いつもと[ちが]っておかしい[じょうたい]（Abnormality）」を[あらわ]す[ことば]はどれですか。",
+        "sinhala": "සාමාන්‍ය තත්ත්වයට වඩා වෙනස් දෝෂ සහිත හෝ අසාමාන්‍ය තත්ත්වය හඳුන්වන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "異常 / いじょう (Ijou)"
+        },
+        {
+          "id": "B",
+          "text": "正常 / せいじょう (Seijou - සාමාන්‍ය තත්ත්වය)"
+        },
+        {
+          "id": "C",
+          "text": "日常 / にちじょう (Nichijou - එදිනෙදා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යන්ත්‍රයක හෝ ක්‍රියාවලියක ඇතිවන දෝෂ සහිත අසාමාන්‍ය තත්ත්වය '異常' (ඉජෝ - Abnormality) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l01_012",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "can_do_id": "cando_e2_01",
+      "can_do_title_sinhala": "නව සේවා ස්ථානයක ආචාර හුවමාරුවේ නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 何か困ったことがあったら、いつでも言ってくださいね\n2: 今日から配属になりましたカルロスです。よろしくお願いします\n3: はい、心強いです。一生懸命頑張ります\n4: ようこそ！分からないことは何でも聞いてください",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [なに]か[こま]ったことがあったら、いつでも[い]ってくださいね\n2: [きょう]から[はいぞく]になりましたカルロスです。よろしくお[ねが]いします\n3: はい、[こころづよ]いです。[いっしょうけんめい][がんば]ります\n4: ようこそ！[わ]からないことは[なん]でも[き]いてください",
+        "sinhala": "සේවා ස්ථානයේ නව සගයෙකු පිළිගන්නා සංවාදයේ නිවැරදි අනුපිළිවෙල කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 4 -> 1 -> 3"
+        },
+        {
+          "id": "B",
+          "text": "4 -> 2 -> 1 -> 3"
+        },
+        {
+          "id": "C",
+          "text": "1 -> 2 -> 3 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (මම අද සිට වැඩට ආ කාලෝස්, මාව පිළිගන්න) -> 4 (සාදරයෙන් පිළිගනිමු, නොතේරෙන දේ අසන්න) -> 1 (ගැටලුවක් වුණොත් ඕනෑම වෙලාවක කියන්න) -> 3 (හරි, මම උපරිමයෙන් උනන්දු වෙන්නම්)."
+    },
+    {
+      "quiz_id": "qz_e2_l02_013",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_03",
+      "can_do_title_sinhala": "යන්ත්‍රයක් ක්‍රියාත්මක කිරීමේ උපදෙස් අසා තේරුම් ගැනීම (～と)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L02_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "緑のボタンを押すと、どうなりますか。",
+        "furigana": "[みどり]のボタンを[お]すと、どうなりますか。",
+        "sinhala": "කොළ පැහැති බොත්තම එබූ විට සිදුවන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "機械が自動で動き始める (යන්ත්‍රය ස්වයංක්‍රීයව ක්‍රියාත්මක වීමට පටන් ගනී)"
+        },
+        {
+          "id": "B",
+          "text": "機械が止まる (යන්ත්‍රය නතර වේ)"
+        },
+        {
+          "id": "C",
+          "text": "エラーランプが点灯する (දෝෂ ලයිට් එක දැල්වේ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "指導員: この緑のスタートボタンを押すと、ベルトコンベアが動き出します。品物が流れてきますよ。",
+        "sinhala": "උපදේශක: මේ කොළ පාට ස්ටාර්ට් බොත්තම එබූ විට (押すと), කන්වේයර් බෙල්ට් එක ක්‍රියාත්මක වීමට පටන් ගන්නවා. බඩු ගලාගෙන ඒවි."
+      },
+      "explanation_sinhala": "උපදේශකයා පවසන්නේ '緑のスタートボタンを押すと、ベルトコンベアが動き出します' බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l02_014",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_04",
+      "can_do_title_sinhala": "යමක් කිරීමට වගබලා ගන්නා ලෙස දෙන උපදෙස (～ようにしてください)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L02_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "作業が終わったあと、何をするように言われましたか。",
+        "furigana": "[さぎょう]が[お]わったあと、[なに]をするように[い]われましたか。",
+        "sinhala": "වැඩ අවසන් වූ පසු කුමක් කිරීමට වගබලා ගන්නැයි පැවසුවේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "必ず主電源（しゅでんげん）を切るようにすること (අනිවාර්යයෙන්ම ප්‍රධාන විදුලි ස්විචය නිවා දැමීමට)"
+        },
+        {
+          "id": "B",
+          "text": "そのまま帰宅すること (එසේම පිටව යාමට)"
+        },
+        {
+          "id": "C",
+          "text": "機械のカバーを外しておくこと (යන්ත්‍රයේ ආවරණය ගලවා තැබීමට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "先輩: 作業が終わったら、必ず主電源を切るようにしてくださいね。事故の原因になりますから。",
+        "sinhala": "ජ්‍යෙෂ්ඨයා: වැඩ ඉවර වුණාම අනිවාර්යයෙන්ම මේන් පවර් එක ඕෆ් කරන්න වගබලා ගන්න (主電源を切るようにしてください). නැත්නම් අනතුරු වෙන්න පුළුවන්."
+      },
+      "explanation_sinhala": "'必ず主電源を切るようにしてください' (ප්‍රධාන ස්විචය නිවා දැමීමට වගබලා ගන්න) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l02_015",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_04",
+      "can_do_title_sinhala": "නොකිරීමට වගබලා ගැනීම (～ないようにしてください)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L02_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "機械が動いている間、手で触らないようにしなければなりませんか。（◯ か ✕）",
+        "furigana": "[きかい]が[うご]いている[あいだ]、[て]で[さわ]らないようにしなければなりませんか。（◯ か ✕）",
+        "sinhala": "යන්ත්‍රය ක්‍රියාත්මක වන අතරතුර අතින් නොඇල්ලීමට වගබලා ගත යුතුද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, අතින් නොඇල්ලීමට වගබලා ගත යුතුය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, අතින් අල්ලා බැලිය හැක)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "指導員: 運転中は巻き込まれますから、絶対に可動部に手を近づけないようにしてください！",
+        "sinhala": "උපදේශක: මැෂිම දුවන වෙලාවට ඇතුළට ඇදිලා යන්න පුළුවන්, ඒ නිසා චලනය වන කොටස්වලට අත කිට්ටු නොකරන්න වගබලා ගන්න (手を近づけないようにしてください)!"
+      },
+      "explanation_sinhala": "චලනය වන කොටස්වලට අත කිට්ටු නොකරන ලෙස (近づけないように) තරයේ අවවාද කරන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l02_016",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_03",
+      "can_do_title_sinhala": "මඟපෙන්වීම්වලදී '～と' භාවිතය (හැරුණු විට දක්නට ලැබෙන දේ)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L02_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "角を左に曲がると、何が見えますか。",
+        "furigana": "[かど]を[ひだり]に[ま]がると、[なに]が[み]えますか。",
+        "sinhala": "මුල්ලෙන් වමට හැරුණු විට පෙනෙන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "大きな倉庫（そうこ）- විශාල ගබඩාව"
+        },
+        {
+          "id": "B",
+          "text": "社員食堂 - සේවක ආපනශාලාව"
+        },
+        {
+          "id": "C",
+          "text": "バス停 - බස් නැවතුම"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "先輩: あの角を左に曲がると、右手に大きな倉庫が見えます。その奥が資材置き場です。",
+        "sinhala": "ජ්‍යෙෂ්ඨයා: අර මුල්ලෙන් වමට හැරුණු විට (曲がると), දකුණු පැත්තෙන් ලොකු ගබඩාවක් පෙනේවි (大きな倉庫が見えます). ඒකට එහා පැත්තෙන් තමයි බඩු තබන තැන තියෙන්නේ."
+      },
+      "explanation_sinhala": "'角を左に曲がると、右手に大きな倉庫が見えます' යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l02_017",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_03",
+      "can_do_title_sinhala": "යන්ත්‍ර ක්‍රියාකාරී පැනලයක උපදෙස් කියවීම (Operation Panel Manual)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l02_q17_machinepanel.png"
+      },
+      "question_text": {
+        "japanese": "操作パネルの説明です。材料を補給するとき、まずどうしますか。",
+        "furigana": "[そうさ]パネルの[せつめい]です。[ざいりょう]を[ほきゅう]するとき、まずどうしますか。",
+        "sinhala": "පැනල් උපදෙස් බලන්න. අමුද්‍රව්‍ය පිරවීමේදී (材料補給) මුලින්ම කළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "「一時停止」ボタンを押して、機械を完全に止める (Pause ඔබා යන්ත්‍රය සම්පූර්ණයෙන්ම නැවැත්වීම)"
+        },
+        {
+          "id": "B",
+          "text": "動いたまま材料を投入する (ක්‍රියාත්මක වෙද්දීම අමුද්‍රව්‍ය දැමීම)"
+        },
+        {
+          "id": "C",
+          "text": "電源プラグを抜く (ප්ලග් එක ගැලවීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "උපදෙස්වල '材料投入時: 必ず一時停止ボタンを押し、動作停止を確認してください' ලෙස දක්වා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l02_018",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_04",
+      "can_do_title_sinhala": "කාර්යාලීය ආරක්ෂක රීති පුවරුවක් කියවීම (Security Guidelines)",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l02_q18_security.png"
+      },
+      "question_text": {
+        "japanese": "離席するとき（席を離れるとき）は、パソコンをロックするように書かれていますか。（◯ か ✕）",
+        "furigana": "[りせき]するときは、パソコンをロックするように[か]かれていますか。（◯ か ✕）",
+        "sinhala": "මේසයෙන් පිටත්ව යන විට පරිගණකය Lock කිරීමට වගබලා ගන්නැයි ලියා තිබේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, ලොක් කිරීමට වගබලා ගත යුතුය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, එසේ අවශ්‍ය නැත)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ '情報セキュリティ: 離席時は必ずPC画面をロックするようにしてください' ලෙස සඳහන් බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l02_019",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_03",
+      "can_do_title_sinhala": "ස්වභාවික/යාන්ත්‍රික ප්‍රතිඵල දැක්වීමට 'と' භාවිතය (V-る と)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「このレバーを（　）と、水が出ます。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「このレバーを（　）と、[みず]が[で]ます。」",
+        "sinhala": "'මේ ලීවරය තල්ලු කළ විට වතුර එනවා' කීමට හිස්තැනට ගැළපෙන ක්‍රියාපද ආකෘතිය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "押す (Osu - Dict form)"
+        },
+        {
+          "id": "B",
+          "text": "押した (Oshita)"
+        },
+        {
+          "id": "C",
+          "text": "押して (Oshite)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යන්ත්‍රයක් ක්‍රියාත්මක කිරීමේදී යමක් කළ විට සිදුවන ස්ථිර ප්‍රතිඵලය දැක්වීමට 'V-dict + と' (押すと) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e2_l02_020",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_04",
+      "can_do_title_sinhala": "නිරන්තර පුරුද්දක් ලෙස කිරීමට උපදෙස් දීම (～ようにしてください)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「必ず毎日復習する努力を指示する」正しい文はどれですか。",
+        "furigana": "「[かなら]ず[まいにち][ふくしゅう]する[どりょく]を[しじ]する」[ただ]しい[ぶん]はどれですか。",
+        "sinhala": "'සෑමදාම පාඩම් සමාලෝචනය කිරීමට වගබලා ගන්න' යන අඛණ්ඩ උපදෙස දැක්වෙන නිවැරදි වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "毎日復習するようにしてください (Mainichi fukushuu suru you ni shite kudasai)"
+        },
+        {
+          "id": "B",
+          "text": "毎日復習したようにしてください"
+        },
+        {
+          "id": "C",
+          "text": "毎日復習してもいいです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නිරන්තරයෙන් යමක් කිරීමට සැලකිලිමත් වන ලෙස උපදෙස් දීමට 'V-dict + ようにしてください' යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l02_021",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_04",
+      "can_do_title_sinhala": "අමතක නොකිරීමට වගබලා ගන්න (忘れないようにしてください)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「時間を（　）ようにしてください。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[じかん]を（　）ようにしてください。」",
+        "sinhala": "'වේලාව අමතක නොකිරීමට වගබලා ගන්න' කීමට හිස්තැනට ගැළපෙන ක්‍රියාපද ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "忘れない (Wasurenai - Nai-form)"
+        },
+        {
+          "id": "B",
+          "text": "忘れた (Wasureta)"
+        },
+        {
+          "id": "C",
+          "text": "忘れる (Wasureru)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යමක් නොකිරීමට වගබලා ගන්නා ලෙස උපදෙස් දීමට 'V-nai + ようにしてください' (忘れないようにしてください) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l02_022",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_03",
+      "can_do_title_sinhala": "හදිසි නැවතුම් බොත්තම (非常停止ボタン)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "危険なときに機械を急いで止める赤いボタンは何と言いますか。",
+        "furigana": "[きけん]なときに[きかい]を[いそ]いで[と]める[あか]いボタンは[なん]と[い]いますか。",
+        "sinhala": "අනතුරකදී යන්ත්‍රය හදිසියේ නැවැත්වීමට එබිය යුතු රතු බොත්තම හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "非常停止ボタン / ひじょうていしボタン (Emergency Stop Button)"
+        },
+        {
+          "id": "B",
+          "text": "運転開始ボタン (Start Button)"
+        },
+        {
+          "id": "C",
+          "text": "リセットボタン (Reset Button)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "හදිසි නැවතුම් බොත්තම '非常停止ボタン' (Hijou teishi botan - Emergency Stop) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l02_023",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_04",
+      "can_do_title_sinhala": "යන්ත්‍රයකට අසුවීම හෝ හිරවීම පිළිබඳ අනතුර (巻き込まれ注意)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "回転する機械に服や手が引っ張られて引き込まれる事故は何ですか。",
+        "furigana": "[かいてん]する[きかい]に[ふく]や[て]が[ひ]っ[ぱ]られて[ひ]き[こ]まれる[じこ]は[なん]ですか。",
+        "sinhala": "කැරකෙන යන්ත්‍රයකට ඇඳුම් හෝ අත් ඇදී ගොස් හිරවීමේ අනතුර හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "巻き込まれ / まきこまれ (Entanglement / Caught in)"
+        },
+        {
+          "id": "B",
+          "text": "転倒 / てんとう (ලිස්සා වැටීම)"
+        },
+        {
+          "id": "C",
+          "text": "感電 / かんでん (විදුලි සැර වැදීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කැරකෙන යන්ත්‍රයකට හසුවීම '巻き込まれ' (මකිකොමරෙ - Getting caught/entangled) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l02_024",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "can_do_id": "cando_e2_04",
+      "can_do_title_sinhala": "යන්ත්‍රයක් ක්‍රියාත්මක කිරීමේ ආරක්ෂිත උපදෙස් සංවාදයක අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: スタートボタンを押すと、自動で始まります\n2: 終わったら、必ず電源を切るようにしてくださいね\n3: この機械はどうやって動かしますか\n4: はい、わかりました！",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: スタートボタンを[お]すと、[じどう]で[はじ]まります\n2: [お]わったら、[かなら]ず[でんげん]を[き]るようにしてくださいね\n3: この[きかい]はどうやって[うご]かしますか\n4: はい、わかりました！",
+        "sinhala": "යන්ත්‍රයක් ක්‍රියාත්මක කිරීමේ සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3 -> 1 -> 2 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 3 -> 2 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 2 -> 1 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 3 (මේ මැෂිම ක්‍රියාත්මක කරන්නේ කොහොමද?) -> 1 (ස්ටාර්ට් බොත්තම එබූ විට ස්වයංක්‍රීයව පටන් ගන්නවා) -> 2 (ඉවර වුණාම අනිවාර්යයෙන්ම පවර් ඕෆ් කරන්න වගබලා ගන්න) -> 4 (හරි, තේරුණා!)."
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "level": "Irodori Starter (A1)",
+  "batch": "Quiz Data Batch 1 (Lessons 1-6)",
+  "total_quizzes": 7,
+  "description": "Interactive Official Answer Keys covering Can-do tasks for Lessons 1 to 6 in Starter Book. Mapped with standard image filenames and audio scripts.",
+  "quiz_data": [
+    {
+      "quiz_id": "qz_st_01_01_a",
+      "book": "Starter (A1)",
+      "lesson": 1,
+      "can_do_id": "cando_st_01",
+      "can_do_title_sinhala": "තමන්ගේ නම, රට සහ රැකියාව පවසා හඳුන්වා දීම",
+      "task_type": "listening_mcq",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L01_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question": {
+        "japanese": "マルコさんはどこの国の人ですか。",
+        "sinhala": "මාර්කෝ මහතා කුමන රටක පුද්ගලයෙක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "イタリア (ඉතාලිය)"
+        },
+        {
+          "id": "B",
+          "text": "ブラジル (බ්‍රසීලය)"
+        },
+        {
+          "id": "C",
+          "text": "フィリピン (පිලිපීනය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "はじめまして。マルコです。イタリアから来ました。",
+        "sinhala": "අඳුනගන්න ලැබීම සතුටක්. මම මාර්කෝ. මම ආවේ ඉතාලියෙන්."
+      },
+      "explanation_sinhala": "මාර්කෝ පවසන්නේ 'イタリアから来ました' (ඉතාලියෙන් ආවා) යනුවෙනි. එබැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_01_01_b",
+      "book": "Starter (A1)",
+      "lesson": 1,
+      "can_do_id": "cando_st_01",
+      "can_do_title_sinhala": "තමන්ගේ නම, රට සහ රැකියාව පවසා හඳුන්වා දීම",
+      "task_type": "listening_mcq",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L01_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question": {
+        "japanese": "この人の仕事は何ですか。",
+        "sinhala": "මේ පුද්ගලයාගේ රැකියාව කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "学生 (ශිෂ්‍යයා)"
+        },
+        {
+          "id": "B",
+          "text": "エンジニア (ඉංජිනේරුවා)"
+        },
+        {
+          "id": "C",
+          "text": "会社員 (සමාගම් සේවකයා)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "私はエンジニアです。",
+        "sinhala": "මම ඉංජිනේරුවෙක්."
+      },
+      "explanation_sinhala": "ඔහු 'エンジニア' (ඉංජිනේරුවා) යැයි පවසයි. එබැවින් B නිවැරදිය."
+    },
+    {
+      "quiz_id": "qz_st_02_03_a",
+      "book": "Starter (A1)",
+      "lesson": 2,
+      "can_do_id": "cando_st_03",
+      "can_do_title_sinhala": "වෙනත් අයෙකු කවුදැයි විමසීම සහ දැනගැනීම",
+      "task_type": "reading_matching",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l02_meishi_01.png",
+        "alt_text": "Business card of Sakura company"
+      },
+      "question": {
+        "japanese": "この名刺の会社はどれですか。",
+        "sinhala": "මේ ව්‍යාපාරික කාඩ්පතට අදාළ සමාගම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "さくらコンピューター (සකුරා පරිගණක සමාගම)"
+        },
+        {
+          "id": "B",
+          "text": "ふじトラベル (ෆූජි ට්‍රැවල්ස්)"
+        },
+        {
+          "id": "C",
+          "text": "みどり商事 (මිදොරි වෙළඳ ආයතනය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කාඩ්පතේ 'さくらコンピューター' (Sakura Computer) ලෙස පැහැදිලිව සඳහන් කර ඇත."
+    },
+    {
+      "quiz_id": "qz_st_03_06_a",
+      "book": "Starter (A1)",
+      "lesson": 3,
+      "can_do_id": "cando_st_06",
+      "can_do_title_sinhala": "සාප්පුවකදී යමක් පෙන්වා එහි මිල විමසීම",
+      "task_type": "listening_mcq",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L03_04.mp3",
+        "has_image": true,
+        "image_file": "st_l03_shop_01.png",
+        "alt_text": "Picture of an umbrella with a price tag"
+      },
+      "question": {
+        "japanese": "傘はいくらですか。",
+        "sinhala": "කුඩයේ මිල කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "400円 (යෙන් 400යි)"
+        },
+        {
+          "id": "B",
+          "text": "500円 (යෙන් 500යි)"
+        },
+        {
+          "id": "C",
+          "text": "1000円 (යෙන් 1000යි)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "A: すみません、その傘はいくらですか。\nB: これですか。500円です。",
+        "sinhala": "A: සමාවෙන්න, ඔය කුඩය කීයද?\nB: මේකද? යෙන් 500යි."
+      },
+      "explanation_sinhala": "කඩේ සේවකයා කුඩයේ මිල යෙන් 500ක් (500円) බව පවසයි."
+    },
+    {
+      "quiz_id": "qz_st_04_09_a",
+      "book": "Starter (A1)",
+      "lesson": 4,
+      "can_do_id": "cando_st_09",
+      "can_do_title_sinhala": "ගොඩනැගිල්ලක ඇති ස්ථාන සලකුණු සහ සිතියම් තේරුම් ගැනීම",
+      "task_type": "reading_identification",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l04_map_02.png",
+        "alt_text": "Floor map showing a restroom on the 2nd floor"
+      },
+      "question": {
+        "japanese": "トイレはどこですか。",
+        "sinhala": "වැසිකිළිය පිහිටා ඇත්තේ කොහේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1階 (පළමු මහල)"
+        },
+        {
+          "id": "B",
+          "text": "2階 (දෙවැනි මහල)"
+        },
+        {
+          "id": "C",
+          "text": "3階 (තුන්වැනි මහල)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": null,
+      "explanation_sinhala": "සිතියමේ (Floor Map) වැසිකිළි සලකුණ 2F (2階 - දෙවැනි මහල) හි දක්වා ඇත."
+    },
+    {
+      "quiz_id": "qz_st_05_11_a",
+      "book": "Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_11",
+      "can_do_title_sinhala": "කාමරයක් තුළ ඇති ද්‍රව්‍ය සහ සිටින පුද්ගලයින් පවසන දේ තේරුම් ගැනීම",
+      "task_type": "listening_true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L05_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question": {
+        "japanese": "部屋にテレビがあります。正しいですか。",
+        "sinhala": "කාමරයේ රූපවාහිනියක් (TV) තිබේ. මෙය නිවැරදිද?"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "〇 (හරි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (වැරදියි)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "部屋にベッドと机があります。テレビはありません。",
+        "sinhala": "කාමරයේ ඇඳක් සහ මේසයක් තියෙනවා. ටීවී එකක් නෑ."
+      },
+      "explanation_sinhala": "ශ්‍රව්‍ය පටයේ 'テレビはありません' (ටීවී එකක් නැත) යැයි පැහැදිලිව පවසන බැවින් ප්‍රකාශය වැරදියි."
+    },
+    {
+      "quiz_id": "qz_st_06_14_a",
+      "book": "Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_14",
+      "can_do_title_sinhala": "තමන්ගේ කැමතිම කෑම බීම ගැන විමසීම සහ පිළිතුරු දීම",
+      "task_type": "listening_mcq",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L06_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question": {
+        "japanese": "女の人はどんな食べ物が好きですか。",
+        "sinhala": "කාන්තාව වඩාත්ම කැමති කුමන කෑමකටද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "甘い食べ物 (පැණිරස කෑම)"
+        },
+        {
+          "id": "B",
+          "text": "辛い食べ物 (සැර කෑම)"
+        },
+        {
+          "id": "C",
+          "text": "肉 (මස්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "男：どんな食べ物が好きですか。\n女：私は甘い食べ物が好きです。ケーキが大好きです。",
+        "sinhala": "පිරිමියා: ඔයා මොන වගේ කෑමවලටද කැමති?\nකාන්තාව: මම පැණිරස කෑමවලට කැමතියි. කේක් වලට ගොඩක් ආසයි."
+      },
+      "explanation_sinhala": "ඇය '甘い食べ物が好きです' (පැණිරස කෑමවලට කැමතියි) යැයි පවසන බැවින් A නිවැරදිය."
+    }
+  ]
+}

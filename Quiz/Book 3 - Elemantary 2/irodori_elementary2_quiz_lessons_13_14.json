@@ -1,0 +1,919 @@
+{
+  "book": "Irodori Elementary 2 (A2.2)",
+  "lessons_covered": [
+    13,
+    14
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e2_l13_001",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_37",
+      "can_do_title_sinhala": "භූමිකම්පාවක් ඇතිවූ වහාම ගත යුතු ආරක්ෂිත ක්‍රියාමාර්ගය අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L13_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "大きな揺れを感じたとき、まず何をしなければなりませんか。",
+        "furigana": "[おお]きな[ゆ]れを[かん]じたとき、まず[なに]をしなければなりませんか。",
+        "sinhala": "ප්‍රබල කම්පනයක් දැනුණු වහාම මුලින්ම කළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "机の下に入って、頭を守る (මේසයක් යටට ගොස් හිස ආවරණය කරගැනීම)"
+        },
+        {
+          "id": "B",
+          "text": "すぐに外へ飛び出す (වහාම එළියට දිව යාම)"
+        },
+        {
+          "id": "C",
+          "text": "エレベーターに乗って避難する (විදුලි සෝපානයෙන් පහළට බැසීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "館内放送: 緊急地震速報です。強い揺れに警戒してください。\n先輩: カルロスさん、地震だ！慌てて外に出ちゃダメだ！まず頑丈な机の下に入って、頭を守るんだ！\nカルロス: はい、机の下に入ります！",
+        "sinhala": "නිවේදනය: හදිසි භූමිකම්පා අනතුරු ඇඟවීමයි. ප්‍රබල කම්පනයකට සූදානම් වන්න.\nජ්‍යෙෂ්ඨයා: කාලෝස්, භූමිකම්පාවක්! කලබල වෙලා එළියට දුවන්න එපා! මුලින්ම ශක්තිමත් මේසයක් යටට ගිහින් ඔළුව ආරක්ෂා කරගන්න (机の下に入って、頭を守るんだ)!\nකාලෝස්: හරි, මම මේසය යටට යනවා!"
+      },
+      "explanation_sinhala": "භූමිකම්පාවක් ඇතිවූ වහාම කලබල නොවී මේසයක් යටට ගොස් හිස ආරක්ෂා කරගත යුතු බව (机の下に入って、頭を守る) පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l13_002",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_37",
+      "can_do_title_sinhala": "කම්පනය නැවතුණු පසු දොරවල් විවෘත කිරීම සහ ගින්නෙන් ආරක්ෂා වීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L13_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "揺れが収まったあと、二人は何をしましたか。",
+        "furigana": "[ゆ]れが[おさ]まったあと、[ふたり]は[なに]をしましたか。",
+        "sinhala": "කම්පනය නැවතුණු පසු දෙදෙනා කළේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "火の元を確認して、ドアを開けて出口を確保した (ගින්දර නිවා, පිටවීමේ දොර විවෘත කර මාර්ගය සලසා ගත්තා)"
+        },
+        {
+          "id": "B",
+          "text": "電気をつけて、テレビを見た (විදුලි පහන් දල්වා රූපවාහිනිය නැරඹුවා)"
+        },
+        {
+          "id": "C",
+          "text": "すぐに荷物をまとめて外へ走った (වහාම බඩු මලු රැගෙන එළියට දිව ගියා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 揺れがおさまりましたね。\nB: ええ。台所のコンロの火を消してください。それから、建物が歪んで閉じ込められないように、玄関のドアを開けて出口を確保しましょう。\nA: はい、ドアを開けておきました。",
+        "sinhala": "A: කම්පනය නැවතුණා නේද.\nB: ඔව්. කුස්සියේ ලිපේ ගින්දර නිවන්න. ඊටපස්සේ ගොඩනැගිල්ල ඇදවෙලා ඇතුළේ හිර නොවෙන්න දොර ඇරලා පිටවීමේ මාර්ගය සලසා ගමු (ドアを開けて出口を確保しましょう).\nA: හරි, මම දොර ඇරලා තිබ්බා."
+      },
+      "explanation_sinhala": "කම්පනය නැවතුණු පසු ගින්දර නිවා, පිටවීමේ දොර විවෘත කරගත යුතු බව (A) දෙබසින් තහවුරු වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l13_003",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_39",
+      "can_do_title_sinhala": "භූමිකම්පාවකදී විදුලි සෝපාන (Elevator) භාවිත නොකළ යුතු බව අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L13_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "地震でビルから避難するとき、エレベーターを使ってもいいですか。（◯ か ✕）",
+        "furigana": "[じしん]でビルから[ひなん]するとき、エレベーターを[つか]ってもいいですか。（◯ か ✕）",
+        "sinhala": "භූමිකම්පාවකදී ගොඩනැගිල්ලකින් ඉවත් වීමේදී විදුලි සෝපානය (Elevator) භාවිත කළ හැකිද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, වේගයෙන් බැසීමට භාවිත කළ හැක)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, සිරවීමේ අවදානම ඇති බැවින් පඩිපෙළ පමණක් භාවිත කළ යුතුය)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "社員: 5階から外に避難しましょう。エレベーターに乗りますか。\nリーダー: ダメです！停電で閉じ込められる危険がありますから、エレベーターは絶対に使わないでください。非常階段で降りましょう。",
+        "sinhala": "සේවකයා: 5 වන මහලේ සිට එළියට බහිමු. ලිෆ්ට් එකෙන් යමුද?\nලීඩර්: එපා! කරන්ට් එක ගිහින් ඇතුළේ හිරවෙන්න පුළුවන්, ඒ නිසා ලිෆ්ට් නම් කොහෙත්ම පාවිච්චි කරන්න එපා (絶対に使わないでください). හදිසි පඩිපෙළෙන් බහිමු."
+      },
+      "explanation_sinhala": "විදුලිය ඇනහිට හිරවිය හැකි බැවින් විදුලි සෝපාන භාවිතය තහනම්ය (エレベーターは絶対に使わない). එබැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_e2_l13_004",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_38",
+      "can_do_title_sinhala": "හදිසි භූමිකම්පා අනතුරු ඇඟවීමේ පුවත් විකාශය අසා තේරුම් ගැනීම (緊急地震速報 / 震度)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L13_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "ニュースによると、この地域で観測された最大震度はいくつですか。",
+        "furigana": "ニュースによると、この[ちいき]で[かんそく]された[さいだいしんど]はいくつですか。",
+        "sinhala": "ප්‍රවෘත්ති නිවේදනයට අනුව, මෙම ප්‍රදේශයේ වාර්තා වූ උපරිම භූමිකම්පා තීව්‍රතාවය (震度 - Shindo) කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "震度5弱（しんどごじゃく）- Shindo 5 Lower"
+        },
+        {
+          "id": "B",
+          "text": "震度3（しんどさん）- Shindo 3"
+        },
+        {
+          "id": "C",
+          "text": "震度7（しんどなな）- Shindo 7"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "アナウンサー: 先ほど午後3時15分ごろ、関東地方で強い地震がありました。震源地は千葉県北部で、最大震度5弱を観測しました。この地震による津波の心配はありません。",
+        "sinhala": "පුවත් නිවේදක: මීට ස්වල්ප වේලාවකට පෙර සවස 3:15ට කාන්තෝ කලාපයේ ප්‍රබල භූමිකම්පාවක් ඇතිවිය. කේන්ද්‍රය චිබා ප්‍රාන්තය වන අතර වාර්තා වූ උපරිම තීව්‍රතාවය 'ශින්දෝ 5 පහළ' (震度5弱) වේ. මෙම භූමිකම්පාවෙන් සුනාමි අවදානමක් නොමැත."
+      },
+      "explanation_sinhala": "ප්‍රවෘත්තියේ '最大震度5弱を観測しました' (උපරිම තීව්‍රතාවය 5-Lower) යැයි සඳහන් වන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l13_005",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_40",
+      "can_do_title_sinhala": "භූමිකම්පා ආරක්ෂක උපදෙස් පුවරුවක් කියවීම (Earthquake Manual)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l13_q05_earthquake_guide.png"
+      },
+      "question_text": {
+        "japanese": "地震対策ポスターを見てください。家から避難するとき、ブレーカー（電気）はどうしますか。",
+        "furigana": "[じしんたいさく]ポスターを[み]てください。[いえ]から[ひなん]するとき、ブレーカー（[でんき]）はどうしますか。",
+        "sinhala": "භූමිකම්පා ආරක්ෂක පෝස්ටරය බලන්න. නිවසින් ඉවත් වී යන විට ප්‍රධාන විදුලි බ්‍රේකරය (Breaker) කළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "通電火災を防ぐため、ブレーカーを落として（切って）出る (විදුලි ගිනිගැනීම් වැළැක්වීමට බ්‍රේකරය විසන්ධි කර පිටවීම)"
+        },
+        {
+          "id": "B",
+          "text": "暗くならないように、ブレーカーをつけたままにする (විදුලිය ක්‍රියාත්මකව තැබීම)"
+        },
+        {
+          "id": "C",
+          "text": "ブレーカーは触らない (කිසිවක් නොකිරීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පෝස්ටරයේ '避難時のお願い: 通電火災防止のため、必ずブレーカーを落として避難してください' (බ්‍රේකරය ක්‍රියාවිරහිත කරන්න) ලෙස පැහැදිලිව දක්වා ඇත."
+    },
+    {
+      "quiz_id": "qz_e2_l13_006",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_40",
+      "can_do_title_sinhala": "හදිසි ආපදා නවාතැන්පොළ සිතියම කියවීම (Designated Evacuation Shelter)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l13_q06_shelter_sign.png"
+      },
+      "question_text": {
+        "japanese": "避難所の案内看板を見てください。この地域の一時避難場所（避難所）はどこですか。",
+        "furigana": "[ひなんじょ]の[あんないかんばん]を[み]てください。この[ちいき]の[いちじひなんばしょ]（[ひなんじょ]）はどこですか。",
+        "sinhala": "ආපදා නවාතැන් පුවරුව බලන්න. මෙම ප්‍රදේශයේ නියමිත හදිසි ආරක්ෂිත නවාතැන (避難所) කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "第一小学校の体育館 (පළමු ප්‍රාථමික පාසලේ ක්‍රීඩාගාරය)"
+        },
+        {
+          "id": "B",
+          "text": "駅前ビル (දුම්රියපළ ඉදිරිපිට ගොඩනැගිල්ල)"
+        },
+        {
+          "id": "C",
+          "text": "コンビニの駐車場 (කොන්බිනි එකේ වාහන නැවතුම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ '指定避難所: 市立第一小学校 体育館' ලෙස දක්වා ඇති බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l13_007",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_37",
+      "can_do_title_sinhala": "යම් අවස්ථාවකදී යන්න දැක්වීමට '～のとき / ～とき' භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「地震（　）ときは、慌てないで行動してください。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「[じしん]（　）ときは、[あわ]てないで[こうどう]してください。」",
+        "sinhala": "'භූමිකම්පාවක් ඇතිවූ අවස්ථාවේදී කලබල නොවී ක්‍රියා කරන්න' කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "の (no)"
+        },
+        {
+          "id": "B",
+          "text": "な (na)"
+        },
+        {
+          "id": "C",
+          "text": "に (ni)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නාමපදයක් (地震) සමඟ 'とき' යෙදීමේදී 'Noun + の + とき' (地震のとき) යෙදිය යුතුය."
+    },
+    {
+      "quiz_id": "qz_e2_l13_008",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_39",
+      "can_do_title_sinhala": "යම් තත්ත්වයක් පවතින අයුරින්ම ක්‍රියාවක් කිරීම (V-た まま)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "ガラスの破片で怪我をしないよう、「靴を履いた状態で逃げる」を表す正しい文はどれですか。",
+        "furigana": "ガラスの[はへん]で[けが]をしないよう、「[くつ]を[は]いた[じょうたい]で[に]げる」を[あらわ]す[ただ]しい[ぶん]はどれですか。",
+        "sinhala": "'වීදුරු කැබලිවලට නොකැපෙන සේ, සපත්තු දමාගත් ආකාරයෙන්ම පලා යන්න' යන්න දක්වන නිවැරදි වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "靴を履いたまま避難してください (Kutsu o haita mama hinan shite kudasai)"
+        },
+        {
+          "id": "B",
+          "text": "靴を履くまま避難してください"
+        },
+        {
+          "id": "C",
+          "text": "靴を履いてまま避難してください"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යම් තත්ත්වයක් නොවෙනස්ව තබාගෙන ක්‍රියාවක් කිරීම දැක්වීමට 'V-ta + まま' (履いたまま) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l13_009",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_39",
+      "can_do_title_sinhala": "කලබලයෙන් පිටතට නොයන ලෙස අවවාද කිරීම (慌てて外に出ないでください)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「看板やガラスが落ちてきますから、慌てて外に（　）でください。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[かんばん]やガラスが[お]ちてきますから、[あわ]てて[そと]に（　）でください。」",
+        "sinhala": "'පුවරු සහ වීදුරු කඩා වැටෙන නිසා කලබලයෙන් පිටතට නොයන්න' කීමට හිස්තැනට ගැළපෙන ක්‍රියාපද ආකෘතිය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "出ない (denai - Nai-form)"
+        },
+        {
+          "id": "B",
+          "text": "出ます (demasu)"
+        },
+        {
+          "id": "C",
+          "text": "出る (deru)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නොකරන ලෙස කරන මෘදු තහනමට 'V-nai + でください' (出ないでください) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e2_l13_010",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_38",
+      "can_do_title_sinhala": "භූමිකම්පා තීව්‍රතාවය හඳුන්වන වචනය (震度 / Shindo)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "日本で「それぞれの場所での地震の揺れの強さ（1〜7）」を表す言葉は何ですか。",
+        "furigana": "[にほん]で「それぞれの[ばしょ]での[じしん]の[ゆ]れの[つよ]さ（1〜7）」を[あらわ]す[ことば]は[なん]ですか。",
+        "sinhala": "ජපානයේ එක් එක් ප්‍රදේශයට දැනෙන භූමිකම්පා කම්පනයේ ප්‍රබලතාවය (1 සිට 7 දක්වා) හඳුන්වන මිණුම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "震度 / しんど (Shindo - Seismic intensity)"
+        },
+        {
+          "id": "B",
+          "text": "マグニチュード (Magnitude - භූමිකම්පාවේ මුළු ශක්තිය)"
+        },
+        {
+          "id": "C",
+          "text": "気温 / きおん (උෂ්ණත්වය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "එක් එක් ප්‍රදේශයට දැනෙන භූමිකම්පාවේ ප්‍රබලතාවය ජපානයේ මනින්නේ '震度' (ශින්දෝ - Shindo scale 0 to 7) මඟිනි."
+    },
+    {
+      "quiz_id": "qz_e2_l13_011",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_38",
+      "can_do_title_sinhala": "පසු කම්පන හඳුන්වන වචනය (余震 / Yoshin)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "大きな地震のあとに続けて起こる小さな地震を何と言いますか。",
+        "furigana": "[おお]きな[じしん]のあとに[つづ]けて[お]こる[ちい]さな[じしん]を[なん]と[い]いますか。",
+        "sinhala": "ප්‍රධාන ප්‍රබල භූමිකම්පාවෙන් පසු දිගින් දිගටම සිදුවන කුඩා පසුකම්පන (Aftershocks) හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "余震 / よしん (Yoshin - Aftershocks)"
+        },
+        {
+          "id": "B",
+          "text": "本震 / ほんしん (ප්‍රධාන කම්පනය)"
+        },
+        {
+          "id": "C",
+          "text": "津波 / つなみ (සුනාමි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ප්‍රධාන කම්පනයෙන් පසු එන පසුකම්පන '余震' (යොෂින් - Aftershocks) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l13_012",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "can_do_id": "cando_e2_37",
+      "can_do_title_sinhala": "භූමිකම්පාවකට පසු සේවා ස්ථානයේ ආරක්ෂාව තහවුරු කරගැනීමේ සංවාදයක අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: みなさん、怪我はありませんか\n2: 揺れがおさまりました。机の下から出てください\n3: はい、全員無事です！怪我人はいません\n4: よかった。念のため余震に気をつけてください",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: みなさん、[けが]はありませんか\n2: [ゆ]れがおさまりました。[つくえ]の[した]から[で]てください\n3: はい、[ぜんいん][ぶじ]です！[けがにん]はいません\n4: よかった。[ねん]のため[よしん]に[き]をつけてください",
+        "sinhala": "භූමිකම්පාවෙන් පසු සගයන්ගේ සුවදුක් විමසන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 1 -> 3 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 3 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "2 -> 3 -> 1 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (කම්පනය නැවතුණා, මේස යටින් එළියට එන්න) -> 1 (හැමෝටම තුවාලයක් කරදරයක් නෑ නේද?) -> 3 (ඔව්, හැමෝම නිරුපද්‍රිතයි! තුවාල කිසිවෙක් නෑ) -> 4 (ඇති යාන්තම්, ඒත් පසුකම්පන ගැන පරිස්සම් වන්න)."
+    },
+    {
+      "quiz_id": "qz_e2_l14_013",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_41",
+      "can_do_title_sinhala": "ටයිෆූන් කුණාටුවක් නිසා දුම්රිය ධාවනය නතර කිරීම අසා තේරුම් ගැනීම (計画運休)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L14_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "台風の影響で、電車はどうなりますか。",
+        "furigana": "[たいふう]の[えいきょう]で、[でんしゃ]はどうなりますか。",
+        "sinhala": "ටයිෆූන් කුණාටුවේ බලපෑම නිසා දුම්රිය ධාවනයට කුමක් සිදුවේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "明日の午後から計画運休（運転見合わせ）になる (හෙට සවස් කාලයේ සිට සැලසුම් සහගතව දුම්රිය ධාවනය අත්හිටුවනු ලැබේ)"
+        },
+        {
+          "id": "B",
+          "text": "通常通り運転する (සාමාන්‍ය පරිදි ධාවනය වේ)"
+        },
+        {
+          "id": "C",
+          "text": "終日無料になる (දවස පුරා නොමිලේ ධාවනය වේ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "駅アナウンス: お客様にお知らせいたします。大型の台風15号の接近に伴い、明日午後3時以降、全線で計画運休を実施し、運転を見合わせる予定です。早めの帰宅をお願いいたします。",
+        "sinhala": "දුම්රිය නිවේදනය: මගී භවතුන්ගේ අවධානයට. ප්‍රබල අංක 15 දරන ටයිෆූන් කුණාටුව ළඟාවීම නිසා, හෙට සවස 3:00න් පසු සියලු මාර්ගවල සැලසුම් සහගත ධාවන අත්හිටුවීමක් (計画運休) සිදුකරන අතර ධාවනය නතර කිරීමට නියමිතයි. වේලාසනින් නිවෙස් බලා පිටත්වන්න."
+      },
+      "explanation_sinhala": "දුම්රිය සවස 3න් පසු සැලසුම් සහගතව ධාවනය නතර කරන බව (計画運休 / 運転を見合わせる) පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l14_014",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_42",
+      "can_do_title_sinhala": "කුණාටුවට පෙර නිවසේ සූදානම් කර තබන ද්‍රව්‍ය අසා තේරුම් ගැනීම (～ておく)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L14_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "二人は停電に備えて、何を準備しておくことにしましたか。",
+        "furigana": "[ふたり]は[ていでん]に[そな]えて、[なに]を[じゅんび]しておくことにしましたか。",
+        "sinhala": "විදුලිය ඇනහිටීමට සූදානමක් ලෙස දෙදෙනා කලින් සූදානම් කර තැබීමට තීරණය කළේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "懐中電灯と乾電池、スマホの充電 (විදුලි පන්දම්, බැටරි සහ දුරකථන චාජ් කර තැබීම)"
+        },
+        {
+          "id": "B",
+          "text": "新しいテレビの購入 (නව රූපවාහිනියක් මිලදී ගැනීම)"
+        },
+        {
+          "id": "C",
+          "text": "お風呂の水を全部抜くこと (නාන තටාකයේ වතුර හිස් කිරීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 今夜は強い台風が来るそうですね。\nB: ええ。停電するかもしれませんから、懐中電灯と予備の乾電池を出しておきましょう。スマホも100%まで充電しておいたほうがいいですよ。\nA: はい、モバイルバッテリーも充電しておきます。",
+        "sinhala": "A: අද රෑට ප්‍රබල ටයිෆූන් එකක් එනවලු නේද.\nB: ඔව්. කරන්ට් යන්න පුළුවන් නිසා, විදුලි පන්දම සහ අමතර බැටරි අරගෙන තියමු. ෆෝන් එකත් 100% චාජ් කරලා තියන එක හොඳයි.\nA: හරි, මම පවර් බෑන්ක් එකත් චාජ් කරලා තියන්නම්."
+      },
+      "explanation_sinhala": "විදුලිය නැතිවීමට පෙර විදුලි පන්දම්, බැටරි සහ ෆෝන් චාජ් කර තැබීම (懐中電灯、乾電池、充電) ගැන කතා කරන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l14_015",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_41",
+      "can_do_title_sinhala": "ගංගා පිටාර ගැලීමේ අවදානම අසා තේරුම් ගැනීම (～のおそれがあります)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L14_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "大雨によって、近くの川が氾濫する（あふれる）おそれがありますか。（◯ か ✕）",
+        "furigana": "[おおあめ]によって、[ちか]くの[かわ]が[はんらん]するおそれがありますか。（◯ か ✕）",
+        "sinhala": "අධික වර්ෂාව නිසා ආසන්න ගංගාව පිටාර ගැලීමේ අවදානමක් පවතීද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, පිටාර ගැලීමේ අවදානමක් ඇත)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, කිසිදු අවදානමක් නොමැත)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "アナウンサー: 気象庁から警戒のお知らせです。記録的な大雨のため、市内を流れる緑川の水位が上昇しており、氾濫するおそれがあります。川の近くにお住まいの方は、直ちに安全な場所へ避難してください。",
+        "sinhala": "පුවත් නිවේදක: කාලගුණ විද්‍යා දෙපාර්තමේන්තුවෙන් අනතුරු ඇඟවීමකි. වාර්තාගත අධික වැසි නිසා නගරය මැදින් ගලන මිදොරි ගංගාවේ ජල මට්ටම ඉහළ යමින් පවතින අතර, පිටාර ගැලීමේ දැඩි අවදානමක් පවතී (氾濫するおそれがあります). ගඟ ආසන්නයේ සිටින අය වහාම ආරක්ෂිත ස්ථාන කරා ඉවත් වන්න."
+      },
+      "explanation_sinhala": "පුවත් මඟින් ගංගාව පිටාර ගැලීමේ අවදානමක් ඇති බව (氾濫するおそれがあります) නිවේදනය කරන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l14_016",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_43",
+      "can_do_title_sinhala": "කුණාටුව නිසා සේවකයින්ට කලින් ගෙදර යාමට අවසර දීම (～ため)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L14_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "会社からどんな指示が出ましたか。",
+        "furigana": "[かいしゃ]からどんな[しじ]が[で]ましたか。",
+        "sinhala": "සමාගමෙන් සේවකයින්ට ලබාදුන් උපදෙස කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "台風で電車が止まるため、全員午後3時に退社すること (ටයිෆූන් නිසා දුම්රිය නතර වන බැවින් සියලු දෙනා සවස 3ට පිටත්ව යාමට)"
+        },
+        {
+          "id": "B",
+          "text": "会社に泊まること (සමාගමේ නැවතී සිටීමට)"
+        },
+        {
+          "id": "C",
+          "text": "残業して仕事を終わらせること (අතිකාල වැඩ කර අවසන් කිරීමට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "部長: みなさん、業務連絡です。台風の影響で夕方から電車が止まるため、本日の業務は午後3時で終了とします。片付けをして、速やかに帰宅してください。",
+        "sinhala": "අධ්‍යක්ෂ: සැමගේ අවධානයට. ටයිෆූන් බලපෑමෙන් සවස සිට කෝච්චි නතර වන බැවින් (電車が止まるため), අද වැඩ සවස 3:00න් අවසන් කරනු ලැබේ. අස්පස් කර වහාම නිවෙස් බලා පිටත්වන්න."
+      },
+      "explanation_sinhala": "දුම්රිය නතර වන බැවින් සවස 3ට වැඩ අවසන් කර ගෙදර යන ලෙස (午後3時で終了、速やかに帰宅) පැවසූ බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l14_017",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_44",
+      "can_do_title_sinhala": "ආපදා අනතුරු සිතියමක ගංවතුර ගැඹුර කියවීම (Hazard Map Flood Depth)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l14_q17_hazardmap.png"
+      },
+      "question_text": {
+        "japanese": "ハザードマップを見てください。青いエリア（川の近く）はどのくらい浸水する（水がたまる）危険がありますか。",
+        "furigana": "ハザードマップを[み]てください。[あお]いエリア（[かわ]の[ちか]く）はどのくらい[しんすい]する（[みず]がたまる）[きけん]がありますか。",
+        "sinhala": "හැසාර්ඩ් සිතියම බලන්න. නිල් පැහැති කලාපයේ (ගඟ අසල) ජලයෙන් යටවීමේ (浸水) ගැඹුර කොපමණ විය හැකිද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1.0m〜2.0m未満（1階の天井近くまで）- මීටර් 1.0 සිට 2.0 දක්වා (බිම් මහලේ වහලය ආසන්නයට)"
+        },
+        {
+          "id": "B",
+          "text": "0.1m未満（足首まで）- මීටර් 0.1කට අඩු (වළලුකර දක්වා)"
+        },
+        {
+          "id": "C",
+          "text": "浸水の危険は全くない - ජලයෙන් යටවීමේ අවදානමක් නැත"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සිතියමේ නිල් පැහැති කොටුවේ '1.0m〜2.0m未満（大人の腰から1階天井付近）' ලෙස දක්වා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l14_018",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_44",
+      "can_do_title_sinhala": "ආපදා අනතුරු ඇඟවීමේ මට්ටම් පුවරුව කියවීම (警戒レベル4: 避難指示)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l14_q18_keikailevel.png"
+      },
+      "question_text": {
+        "japanese": "防災速報で「警戒レベル4（避難指示）」が出ました。住民はどうしなければなりませんか。",
+        "furigana": "[ぼうさいそくほう]で「[けいかい]レベル4（[ひなんしじ]）」が[で]ました。[じゅうみん]はどうしなければなりませんか。",
+        "sinhala": "'අනතුරු ඇඟවීමේ මට්ටම 4 - ඉවත් වීමේ නියෝගය' (避難指示 - Hinan Shiji) නිකුත් වූ විට වැසියන් කළ යුත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "危険な場所から全員必ず避難する (අනතුරුදායක ස්ථානවලින් සියලු දෙනා අනිවාර්යයෙන්ම ඉවත් වීම)"
+        },
+        {
+          "id": "B",
+          "text": "高齢者だけ避難する (වැඩිහිටියන් පමණක් ඉවත් වීම)"
+        },
+        {
+          "id": "C",
+          "text": "家でテレビを見て待機する (ගෙදරට වී බලා සිටීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ '警戒レベル4' (අනතුරු ඇඟවීමේ මට්ටම 4 - 避難指示) යනු අනතුරුදායක ස්ථානවල සිටින සියලුම දෙනා වහාම ආරක්ෂිත තැන් කරා ඉවත් විය යුතු (全員避難) මට්ටමයි."
+    },
+    {
+      "quiz_id": "qz_e2_l14_019",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_43",
+      "can_do_title_sinhala": "හේතුවක් දැක්වීම සඳහා '～ため（に）' භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る適切な助詞を選んでください：「台風（　）ため、明日のイベントは中止になりました。」",
+        "furigana": "[くうらん]に[はい]る[てきせつ]な[じょし]を[えら]んでください：「[たいふう]（　）ため、[あした]のイベントは[ちゅうし]になりました。」",
+        "sinhala": "'ටයිෆූන් කුණාටුව නිසා හෙට උත්සවය අවලංගු විය' කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "の (no)"
+        },
+        {
+          "id": "B",
+          "text": "な (na)"
+        },
+        {
+          "id": "C",
+          "text": "に (ni)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නාමපදයක් සමඟ හේතු දැක්වීමට 'Noun + の + ため' (台風のため) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e2_l14_020",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_41",
+      "can_do_title_sinhala": "නරක දෙයක් සිදුවීමේ අවදානම දැක්වීම (～おそれがあります)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る正しい形を選んでください：「大雨で土砂崩れが（　）おそれがあります。」",
+        "furigana": "[くうらん]に[はい]る[ただ]しい[かたち]を[えら]んでください：「[おおあめ]で[どしゃくず]れが（　）おそれがあります。」",
+        "sinhala": "'අධික වැසි නිසා නායයෑම් ඇතිවීමේ අවදානමක් පවතී' කීමට හිස්තැනට ගැළපෙන ක්‍රියාපද ආකෘතිය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "起きる (Okiru - Dict form)"
+        },
+        {
+          "id": "B",
+          "text": "起きて (Okite)"
+        },
+        {
+          "id": "C",
+          "text": "起きます (Okimasu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අවදානමක් ඇති බව දැක්වීමට 'V-dict + おそれがあります' (起きるおそれがあります) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l14_021",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_42",
+      "can_do_title_sinhala": "නරක දෙයක් නොවීමට වගබලා ගැනීමට '～ように' භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「窓ガラスが割れて飛び散ら（　）ように、テープを貼っておきます。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[まど]ガラスが[わ]れて[と]び[ち]ら（　）ように、テープを[は]っておきます。」",
+        "sinhala": "'ජනෙල් වීදුරු කැඩී විසිරී නොයන ලෙස (In order not to scatter), ටේප් අලවා තබමි' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ない (nai - Nai-form)"
+        },
+        {
+          "id": "B",
+          "text": "なくて (nakute)"
+        },
+        {
+          "id": "C",
+          "text": "なかった (nakatta)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යම් අහිතකර තත්ත්වයක් වළක්වා ගැනීමට 'V-nai + ように' (飛び散らないように) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e2_l14_022",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_41",
+      "can_do_title_sinhala": "නායයෑම හඳුන්වන වචනය (土砂崩れ / Doshakuzure)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "大雨で山の土や石が崩れ落ちる災害（Landslide）は何と言いますか。",
+        "furigana": "[おおあめ]で[やま]の[つち]や[いし]が[くず]れ[お]ちる[さいがい]（Landslide）は[なん]と[い]いますか。",
+        "sinhala": "අධික වැසි නිසා කඳුකරයේ පස් සහ ගල් කඩා වැටීමේ ආපදාව හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "土砂崩れ / どしゃくずれ (Landslide)"
+        },
+        {
+          "id": "B",
+          "text": "洪水 / こうずい (ගංවතුර)"
+        },
+        {
+          "id": "C",
+          "text": "津波 / つなみ (සුනාමි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නායයෑම් '土砂崩れ' (දොෂකුසුරෙ - Landslide) හෝ '土砂災害' ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l14_023",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_41",
+      "can_do_title_sinhala": "ගංගා පිටාර ගැලීම හඳුන්වන වචනය (氾濫 / Hanran)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "大雨で川の水が増えて堤防を越えてあふれ出ること（Overflow/Flood）は何と言いますか。",
+        "furigana": "[おおあめ]で[かわ]の[みず]が[ふ]えて[ていぼう]を[こ]えてあふれ[で]ること（Overflow/Flood）は[なん]と[い]いますか。",
+        "sinhala": "අධික වැසි නිසා ගංගාවක ජලය වැඩිවී ඉවුරු තලා පිටාර ගැලීම හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "氾濫（はんらん）- Hanran (පිටාර ගැලීම)"
+        },
+        {
+          "id": "B",
+          "text": "停電（ていでん）- විදුලිය ඇනහිටීම"
+        },
+        {
+          "id": "C",
+          "text": "断水（だんすい）- ජල සැපයුම ඇනහිටීම"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ගංගා පිටාර ගැලීම '氾濫' (හන්රන්) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l14_024",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "can_do_id": "cando_e2_43",
+      "can_do_title_sinhala": "ටයිෆූන් නිසා කලින් ගෙදර යාමේ සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 電車が止まる前に、早く帰ったほうがいいですよ\n2: 台風が近づいていて、夕方から計画運休になるそうですね\n3: はい、今すぐ片付けをして帰ります。お疲れ様でした！\n4: 気をつけて帰ってくださいね",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [でんしゃ]が[と]まる[まえ]に、[はや]く[かえ]ったほうがいいですよ\n2: [たいふう]が[ちか]づいていて、[ゆうがた]から[けいかくうんきゅう]になるそうですね\n3: はい、[いま]すぐ[かたづ]けをして[かえ]ります。お[つか]れ[さま]でした！\n4: [き]をつけて[かえ]ってくださいね",
+        "sinhala": "ටයිෆූන් අනතුර නිසා කලින් පිටවන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 1 -> 3 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 4 -> 3"
+        },
+        {
+          "id": "C",
+          "text": "2 -> 3 -> 1 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (ටයිෆූන් එක කිට්ටු වෙන නිසා හවස ඉඳන් කෝච්චි නවත්වනවලු නේද) -> 1 (කෝච්චි නතර වෙන්න කලින් ඉක්මනින් ගෙදර යන එක හොඳයි) -> 3 (හරි, මම දැන්ම අස් කරලා යන්නම්. මහන්සි වුණාට ස්තුතියි!) -> 4 (පරිස්සමින් ගෙදර යන්න)."
+    }
+  ]
+}

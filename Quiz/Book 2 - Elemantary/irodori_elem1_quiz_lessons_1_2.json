@@ -1,0 +1,922 @@
+{
+  "book": "Irodori Elementary 1 (A2.1)",
+  "lessons_covered": [
+    1,
+    2
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 9,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 11
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e1_l01_001",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_01",
+      "can_do_title_sinhala": "විනෝදාංශය කුමක්දැයි අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L01_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんの趣味は何ですか。",
+        "furigana": "カルロスさんの[しゅみ]は[なん]ですか。",
+        "sinhala": "කාලෝස් මහතාගේ විනෝදාංශය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "料理を作ること (ආහාර පිසීම)"
+        },
+        {
+          "id": "B",
+          "text": "映画を見ること (චිත්‍රපට නැරඹීම)"
+        },
+        {
+          "id": "C",
+          "text": "ギターを弾くこと (ගිටාරය වාදනය කිරීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、休みの日は何をしていますか。\nB: 私の趣味は料理を作ることです。週末はよく友達にブラジル料理を作ります。",
+        "sinhala": "A: කාලෝස් මහතා, නිවාඩු දවස්වලට මොනවද කරන්නේ?\nB: මගේ විනෝදාංශය කෑම හදන එක. සති අන්තයට යාළුවන්ට නිතරම බ්‍රසීල කෑම හදලා දෙනවා."
+      },
+      "explanation_sinhala": "කාලෝස් '私の趣味は料理を作ることです' (මගේ විනෝදාංශය කෑම පිසීමයි) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l01_002",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_02",
+      "can_do_title_sinhala": "කළ හැකි දක්ෂතාවයක්/හැකියාවක් අසා තේරුම් ගැනීම (～ことができます)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L01_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは何をすることができますか。",
+        "furigana": "マリアさんは[なに]をすることができますか。",
+        "sinhala": "මරියාට කළ හැකි දක්ෂතාවය/ක්‍රියාව කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ピアノを弾くこと (පියානෝව වාදනය කිරීම)"
+        },
+        {
+          "id": "B",
+          "text": "車の運転 (රිය පැදවීම)"
+        },
+        {
+          "id": "C",
+          "text": "スキーをすること (ස්කී ක්‍රීඩා කිරීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさんは楽器が何かできますか。\nB: はい、少しピアノを弾くことができます。子どものころ習っていました。",
+        "sinhala": "A: මරියාට සංගීත භාණ්ඩයක් වාදනය කරන්න පුළුවන්ද?\nB: ඔව්, පොඩ්ඩක් පියානෝ ගහන්න පුළුවන්. පොඩි කාලේ ඉගෙන ගත්තා."
+      },
+      "explanation_sinhala": "මරියා '少しピアノを弾くことができます' (පියානෝව වාදනය කළ හැකියි) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l01_003",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_02",
+      "can_do_title_sinhala": "නොහැකියාව ප්‍රකාශ කිරීම අසා තේරුම් ගැනීම (～ことができません)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L01_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは泳ぐことができますか。（◯ か ✕）",
+        "furigana": "スミスさんは[およ]ぐことができますか。（◯ か ✕）",
+        "sinhala": "ස්මිත් මහතාට පීනන්න පුළුවන්ද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, පිහිනිය හැක)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, පිහිනීමට නොහැක)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: スミスさん、今度海へ泳ぎに行きませんか。\nB: すみません、私は全然泳ぐことができません。海を見るのは好きですが……。",
+        "sinhala": "A: ස්මිත් මහතා, අපි මුහුදේ පීනන්න යමුද?\nB: සමාවෙන්න, මට කොහෙත්ම පීනන්න බෑ. මුහුද බලන්න කැමති වුණාට..."
+      },
+      "explanation_sinhala": "ස්මිත් '全然泳ぐことができません' (කොහෙත්ම පිහිනීමට නොහැකිය) යැයි පවසන බැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_e1_l01_004",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_01",
+      "can_do_title_sinhala": "නැරඹීම සහ ක්‍රීඩා කිරීම අතර රුචිකත්වය",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L01_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "田中さんはサッカーについてどう言っていますか。",
+        "furigana": "[たなか]さんはサッカーについてどう[い]っていますか。",
+        "sinhala": "තනකා මහතා පාපන්දු ගැන පවසන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "見るのもするのも好きです (නැරඹීමටත් ක්‍රීඩා කිරීමටත් දෙකටම කැමතියි)"
+        },
+        {
+          "id": "B",
+          "text": "見るのは好きですが、するのは苦手です (නැරඹීමට කැමතියි, නමුත් ක්‍රීඩා කිරීමට දක්ෂ නෑ)"
+        },
+        {
+          "id": "C",
+          "text": "サッカーはあまり好きじゃないです (පාපන්දු වලට එතරම් කැමති නෑ)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "A: 田中さんはサッカーが好きですか。\nB: はい、テレビで試合を見るのは大好きですが、自分でサッカーをするのは苦手です。",
+        "sinhala": "A: තනකා මහතා පාපන්දු වලට කැමතිද?\nB: ඔව්, ටීවී එකෙන් තරඟ නරඹන්න ගොඩක් කැමතියි, හැබැයි තමන් ක්‍රීඩා කරන්න නම් දක්ෂ නෑ."
+      },
+      "explanation_sinhala": "තනකා පවසන්නේ '見るのは大好きですが、するのは苦手です' (බලන්න ආසයි, කරන්න දක්ෂ නෑ) බැවින් පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l01_005",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_02",
+      "can_do_title_sinhala": "රිය පැදවීමේ හැකියාව තහවුරු කරගැනීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L01_05.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "キムさんは日本で車を運転することができますか。（◯ か ✕）",
+        "furigana": "キムさんは[にほん]で[くるま]を[うんてん]することができますか。（◯ か ✕）",
+        "sinhala": "කිම් මහත්මියට ජපානයේ රිය පැදවිය හැකිද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, රිය පැදවිය හැක)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, රිය පැදවිය නොහැක)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: キムさん、ドライブに行きませんか。運転できますか。\nB: はい、国際免許証がありますから、運転することができますよ。",
+        "sinhala": "A: කිම්, ඩ්‍රයිව් එකක් යමුද? ඩ්‍රයිව් කරන්න පුළුවන්ද?\nB: ඔව්, ජාත්‍යන්තර රියදුරු බලපත්‍රය තියෙන නිසා ඩ්‍රයිව් කරන්න පුළුවන්."
+      },
+      "explanation_sinhala": "කිම් මහත්මිය ජාත්‍යන්තර රියදුරු බලපත්‍රය ඇති බැවින් රිය පැදවිය හැකි බව (運転することができます) පවසයි. පිළිතුර ◯ වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l01_006",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_03",
+      "can_do_title_sinhala": "ප්‍රජා මධ්‍යස්ථාන ඉවුම් පිහුම් පන්තියක දැන්වීම කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l01_q06_cooking.png"
+      },
+      "question_text": {
+        "japanese": "公民館のチラシを見てください。「料理教室」の参加費はいくらですか。",
+        "furigana": "[こうみんかん]のチラシを[み]てください。「[りょうりきょうしつ]」の[さんかひ]はいくらですか。",
+        "sinhala": "දැන්වීම් පත්‍රිකාව බලන්න. 'ඉවුම් පිහුම් පන්තියේ' සහභාගීත්ව ගාස්තුව (参加費) කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1,000円 (ද්‍රව්‍ය ගාස්තු ඇතුළුව)"
+        },
+        {
+          "id": "B",
+          "text": "無料 (නොමිලේ)"
+        },
+        {
+          "id": "C",
+          "text": "3,000円"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පත්‍රිකාවේ '参加費: 1,000円（材料費込み）' ලෙස දක්වා ඇති බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l01_007",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_03",
+      "can_do_title_sinhala": "ක්‍රීඩා සමාජ සාමාජික බඳවා ගැනීමේ පෝස්ටරයක් කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l01_q07_futsal.png"
+      },
+      "question_text": {
+        "japanese": "フットサルサークルの募集ポスターです。初心者は参加できますか。",
+        "furigana": "フットサルサークルの[ぼしゅう]ポスターです。[しょしんしゃ]は[さんか]できますか。",
+        "sinhala": "ෆුට්සල් සමාජ බඳවා ගැනීමේ පෝස්ටරයකි. ආධුනිකයින්ට (Beginners) සහභාගී විය හැකිද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "はい、「初心者大歓迎」と書いてあります (ඔව්, ආධුනිකයින් සාදරයෙන් පිළිගනී)"
+        },
+        {
+          "id": "B",
+          "text": "いいえ、経験者だけです (නැත, පළපුරුදු අයට පමණි)"
+        },
+        {
+          "id": "C",
+          "text": "女性だけ参加できます (කාන්තාවන්ට පමණි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පෝස්ටරයේ '初心者大歓迎！楽しく体を動かしましょう' (ආධුනිකයින් සාදරයෙන් පිළිගනිමු) ලෙස දක්වා ඇත."
+    },
+    {
+      "quiz_id": "qz_e1_l01_008",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_01",
+      "can_do_title_sinhala": "ක්‍රියාපද නාමපද බවට හැරවීම (V-る こと)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る最も適切な形を選んでください：「私の趣味は音楽を（　）ことです。」",
+        "furigana": "[くうらん]に[はい]る[もっと]も[てきせつ]な[かたち]を[えら]んでください：「[わたし]の[しゅみ]は[おんがく]を（　）ことです。」",
+        "sinhala": "'මගේ විනෝදාංශය සංගීතයට සවන් දීමයි' කීමට හිස්තැනට ගැළපෙන ක්‍රියාපද ආකෘතිය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "聴く (Kiku - Dictionary form)"
+        },
+        {
+          "id": "B",
+          "text": "聴きます (Kikimasu)"
+        },
+        {
+          "id": "C",
+          "text": "聴いた (Kiita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාවක් '～こと' මඟින් නාමපදයක් බවට පත්කිරීමේදී ඊට ඉදිරියෙන් සැමවිටම ශබ්දකෝෂ ආකෘතිය (Dictionary form) යෙදේ (聴くこと)."
+    },
+    {
+      "quiz_id": "qz_e1_l01_009",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_02",
+      "can_do_title_sinhala": "හැකියාව ප්‍රකාශ කිරීමේ සම්මත ආකෘතිය (～ことができます)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「英語を話すこと（　）できます。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「[えいご]を[はな]すこと（　）できます。」",
+        "sinhala": "'ඉංග්‍රීසි කතා කිරීමට හැකියාව තිබේ' කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "が (ga)"
+        },
+        {
+          "id": "B",
+          "text": "を (o)"
+        },
+        {
+          "id": "C",
+          "text": "に (ni)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'V-る ことができます' හි හැකියාව දැක්වීමට සැමවිටම 'が' (ga) නිපාතය යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l01_010",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_01",
+      "can_do_title_sinhala": "ක්‍රියාවකට කැමති බව දැක්වීම (V-る のが好きです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な文を選んでください。",
+        "furigana": "[しぜん]な[ぶん]を[えら]んでください。",
+        "sinhala": "ස්වභාවික නිවැරදි වාක්‍යය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "写真を撮るのが好きです。 (ඡායාරූප ගැනීමට කැමතියි)"
+        },
+        {
+          "id": "B",
+          "text": "写真を撮るが好きです。"
+        },
+        {
+          "id": "C",
+          "text": "写真を撮りますのが好きです。"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාවක් නාමපදයක් බවට පත්කර කැමැත්ත දැක්වීමට 'V-dict + のが好きです' (撮るのが好きです) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l01_011",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_02",
+      "can_do_title_sinhala": "තත් සංගීත භාණ්ඩ වාදනය කිරීමේ ක්‍රියාපදය (弾く)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「ギター」と一緒に使う動詞はどれですか：「ギターを（　）。」",
+        "furigana": "「ギター」と[いっしょ]に[つか]う[どうし]はどれですか：「ギターを（　）。」",
+        "sinhala": "'ගිටාරය වාදනය කරනවා' යැයි කීමට ගැළපෙන ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "弾きます (Hikimasu)"
+        },
+        {
+          "id": "B",
+          "text": "吹きます (Fukimasu - පිඹිනවා)"
+        },
+        {
+          "id": "C",
+          "text": "叩きます (Tatakimasu - ගහනවා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ගිටාර්, පියානෝ වැනි තත්/යතුරු සංගීත භාණ්ඩ සඳහා '弾きます' (Hikimasu) යෙදේ. නළා සඳහා '吹きます' ද, ඩ්‍රම්ස් සඳහා '叩きます' ද යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l01_012",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 1,
+      "can_do_id": "cando_e1_02",
+      "can_do_title_sinhala": "සම්පූර්ණ නොහැකියාව දැක්වෙන ක්‍රියා විශේෂණය (全然 ～ない)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る最も適切な言葉を選んでください：「スキーが（　）できません。」",
+        "furigana": "[くうらん]に[はい]る[もっと]も[てきせつ]な[ことば]を[えら]んでください：「スキーが（　）できません。」",
+        "sinhala": "'මට ස්කී ක්‍රීඩාව කොහෙත්ම බෑ' යැයි කීමට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "全然 (Zenzen - කොහෙත්ම)"
+        },
+        {
+          "id": "B",
+          "text": "少し (Sukoshi - ටිකක්)"
+        },
+        {
+          "id": "C",
+          "text": "よく (Yoku - හොඳින්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සෘණාත්මක ක්‍රියාපදයක් (できません) සමඟ සම්පූර්ණ නොහැකියාව (Not at all) දැක්වීමට '全然' (Zenzen) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l02_013",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_04",
+      "can_do_title_sinhala": "ජපන් භාෂාව ඉගෙන ගන්නා හේතුව අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L02_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんはどうして日本語を勉強していますか。",
+        "furigana": "カルロスさんはどうして[にほんご]を[べんきょう]していますか。",
+        "sinhala": "කාලෝස් ජපන් භාෂාව ඉගෙන ගන්නේ ඇයි?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "将来、日本で働きたいからです (අනාගතයේ ජපානයේ රැකියාවක් කිරීමට අවශ්‍ය නිසා)"
+        },
+        {
+          "id": "B",
+          "text": "日本のアニメが好きだからです (ජපන් ඇනිමේ වලට ආස නිසා)"
+        },
+        {
+          "id": "C",
+          "text": "大学に入学したいからです (විශ්වවිද්‍යාලයට ඇතුළත් වීමට අවශ්‍ය නිසා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさんはどうして日本語を勉強しているんですか。\nB: 将来、日本のIT企業で働きたいからです。仕事で日本語を使いたいです。",
+        "sinhala": "A: කාලෝස් ජපන් භාෂාව ඉගෙන ගන්නේ ඇයි?\nB: අනාගතයේ ජපානයේ IT සමාගමක වැඩ කරන්න කැමති නිසා. රැකියාවේදී ජපන් භාවිත කරන්න ඕන."
+      },
+      "explanation_sinhala": "කාලෝස් '将来、日本のIT企業で働きたいからです' (ජපානයේ රැකියාවක් කිරීමට අවශ්‍ය නිසා) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l02_014",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_05",
+      "can_do_title_sinhala": "පාඩම් කරන ක්‍රමවේදය අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L02_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんはどうやって日本語を勉強していますか。",
+        "furigana": "マリアさんはどうやって[にほんご]を[べんきょう]していますか。",
+        "sinhala": "මරියා ජපන් භාෂාව පාඩම් කරන්නේ කෙසේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "スマホのアプリとYouTube動画 (ස්මාර්ට්ෆෝන් ඇප් සහ යූටියුබ් වීඩියෝ මඟින්)"
+        },
+        {
+          "id": "B",
+          "text": "日本語学校の授業だけ (ජපන් භාෂා පාසල් පන්තිවලින් පමණක්)"
+        },
+        {
+          "id": "C",
+          "text": "日本の新聞を読んで (ජපන් පුවත්පත් කියවීමෙන්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさんはどうやって勉強していますか。\nB: アプリで単語を覚えています。それから、毎晩YouTubeの日本語チャンネルを見ています。",
+        "sinhala": "A: මරියා කොහොමද පාඩම් කරන්නේ?\nB: ඇප් එකකින් වචන මතක තියාගන්නවා. ඊට අමතරව හැමදාම රෑට යූටියුබ් ජපන් චැනල් බලනවා."
+      },
+      "explanation_sinhala": "ඇය 'アプリ' (ඇප්) සහ 'YouTube' භාවිත කරන බව පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l02_015",
+      "book": "Irodori Starter (A1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_05",
+      "can_do_title_sinhala": "භාෂාවේ අමාරුම කොටස හඳුනාගැනීම (V-koto wa taihen/muzukashii)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L02_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんにとって、日本語で一番難しいことは何ですか。",
+        "furigana": "スミスさんにとって、[にほんご]で[いちばん][むずか]しいことは[なん]ですか。",
+        "sinhala": "ස්මිත් මහතාට අනුව ජපන් බසෙහි වඩාත්ම අපහසු දේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "漢字を覚えること (කන්ජි අකුරු මතක තබාගැනීම)"
+        },
+        {
+          "id": "B",
+          "text": "発音すること (උච්චාරණය කිරීම)"
+        },
+        {
+          "id": "C",
+          "text": "ひらがなを書くこと (හිරගනා ලිවීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 日本語はどうですか。難しいですか。\nB: 文法はおもしろいですが、漢字を覚えるのは本当に大変です。全然覚えられません。",
+        "sinhala": "A: ජපන් භාෂාව කොහොමද? අමාරුද?\nB: ව්‍යාකරණ රසවත්, හැබැයි කන්ජි මතක තියාගන්න එක නම් හරිම අමාරුයි. කොහෙත්ම මතක හිටින්නේ නෑ."
+      },
+      "explanation_sinhala": "ස්මිත් '漢字を覚えるのは本当に大変です' (කන්ජි මතක තබාගැනීම ඇත්තෙන්ම අමාරුයි) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l02_016",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_04",
+      "can_do_title_sinhala": "පාඩම් කළ කාලය අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L02_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "キムさんはどのくらい日本語を勉強していますか。",
+        "furigana": "キムさんはどのくらい[にほんご]を[べんきょう]していますか。",
+        "sinhala": "කිම් මහත්මිය කොපමණ කාලයක සිට ජපන් භාෂාව පාඩම් කරනවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "半年くらい (මාස 6ක් පමණ)"
+        },
+        {
+          "id": "B",
+          "text": "1年くらい (අවුරුද්දක් පමණ)"
+        },
+        {
+          "id": "C",
+          "text": "3か月くらい (මාස 3ක් පමණ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: キムさん、日本語が上手ですね。どのくらい勉強しているんですか。\nB: いいえ、まだまだです。国で半年くらい勉強しました。",
+        "sinhala": "A: කිම්, ජපන් දක්ෂයිනේ. කොච්චර කල් පාඩම් කළාද?\nB: අපෝ නෑ, තව ඉගෙන ගන්න තියෙනවා. මගේ රටේදී මාස 6ක් විතර පාඩම් කළා."
+      },
+      "explanation_sinhala": "ඇය '半年くらい' (හන්-තොෂි කුරායි - මාස 6ක් පමණ) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l02_017",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_06",
+      "can_do_title_sinhala": "ස්වේච්ඡා ජපන් පන්ති දැන්වීමක් කියවීම (Volunteer Class)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l02_q17_volunteer.png"
+      },
+      "question_text": {
+        "japanese": "ポスターを見てください。「にほんご教室」の日は何曜日ですか。",
+        "furigana": "ポスターを[み]てください。「にほんご[きょうしつ]」の[ひ]は[なんようび]ですか。",
+        "sinhala": "පෝස්ටරය බලන්න. 'ජපන් භාෂා පන්තිය' පැවැත්වෙන්නේ කුමන දිනයේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "毎週土曜日 10:00 - 11:30 (සෑම සෙනසුරාදා දිනකම)"
+        },
+        {
+          "id": "B",
+          "text": "毎週日曜日 14:00 - 15:30 (සෑම ඉරිදා දිනකම)"
+        },
+        {
+          "id": "C",
+          "text": "平日毎日 (සතියේ දිනපතා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ '日時: 毎週土曜日 午前10:00〜11:30' ලෙස සටහන්ව ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l02_018",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_06",
+      "can_do_title_sinhala": "භාෂා හුවමාරු සගයෙකු සෙවීමේ දැන්වීමක් කියවීම (Language Exchange)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l02_q18_exchange.png"
+      },
+      "question_text": {
+        "japanese": "掲示板のメッセージです。投稿者は何を求めていますか。",
+        "furigana": "[けいじばん]のメッセージです。[とうこうしゃ]は[なに]を[もと]めていますか。",
+        "sinhala": "දැන්වීම් පුවරුවේ සටහන බලන්න. පළකළ තැනැත්තා සොයන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "英語を教えて、日本語を練習するパートナー (ඉංග්‍රීසි කියාදී ජපන් පුරුදු වන සගයෙක්)"
+        },
+        {
+          "id": "B",
+          "text": "日本語の先生 (ජපන් ගුරුවරයෙක්)"
+        },
+        {
+          "id": "C",
+          "text": "部屋をシェアする友達 (කාමරය බෙදාගන්නා මිතුරෙක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ '英語を教えます。日本語を教えてください（言語交換）' ලෙස ඇති බැවින් එය Language Exchange සගයෙකි."
+    },
+    {
+      "quiz_id": "qz_e1_l02_019",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_04",
+      "can_do_title_sinhala": "හේතුව දැක්වීමේ වාක්‍ය රටාව (～から)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "理由を答える文を完成させてください：「どうして勉強していますか。」「日本のアニメが好き（　）。」",
+        "furigana": "[りゆう]を[こた]える[ぶん]を[かんせい]させてください：「どうして[べんきょう]していますか。」「[にほん]のアニメが[す]き（　）。」",
+        "sinhala": "'ජපන් ඇනිමේවලට ආස නිසා' යැයි හේතුව පැවසීමට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "だからです (da kara desu)"
+        },
+        {
+          "id": "B",
+          "text": "ですから (desu kara)"
+        },
+        {
+          "id": "C",
+          "text": "のにです (noni desu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'好き' යනු な-adjective එකක් බැවින් හේතුව පවසන විට '好きだからです' (හෝ 好きですから) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l02_020",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_05",
+      "can_do_title_sinhala": "ක්‍රියාවක් අමාරු බව දැක්වීම (V-る のは大変です)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「漢字を（　）のは難しいです。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[かんじ]を（　）のは[むずか]しいです。」",
+        "sinhala": "'කන්ජි මතක තබාගැනීම අමාරුයි' කීමට හිස්තැනට ගැළපෙන ක්‍රියාපද ආකෘතිය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "覚える (Oboeru - Dictionary form)"
+        },
+        {
+          "id": "B",
+          "text": "覚えます (Oboemasu)"
+        },
+        {
+          "id": "C",
+          "text": "覚えて (Oboete)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'～のは [Adj] です' ඉදිරියෙන් ක්‍රියාපදයේ ශබ්දකෝෂ ආකෘතිය (Dictionary form) යෙදිය යුතුය (覚えるのは難しい)."
+    },
+    {
+      "quiz_id": "qz_e1_l02_021",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_05",
+      "can_do_title_sinhala": "දිනපතා පුරුද්දක් ලෙස කරන ඉගෙනුම් ක්‍රියාව (～ています)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「習慣（Habit）」を表す正しい文はどれですか。",
+        "furigana": "「[しゅうかん]（Habit）」を[あらわ]す[ただ]しい[ぶん]はどれですか。",
+        "sinhala": "පුරුද්දක් ලෙස දිනපතා කරන ක්‍රියාවක් නිරූපණය වන නිවැරදි වාක්‍යය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "毎日アプリで勉強しています。 (දිනපතා ඇප් එකෙන් පාඩම් කරමින් සිටිමි)"
+        },
+        {
+          "id": "B",
+          "text": "昨日アプリで勉強しました。"
+        },
+        {
+          "id": "C",
+          "text": "明日アプリで勉強したいです。"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දිනපතා දිගටම කරගෙන යන ඉගෙනුම් පුරුද්දක් දැක්වීමට 'V-ています' (Benkyou shite imasu) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e1_l02_022",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_05",
+      "can_do_title_sinhala": "ව්‍යාකරණ හඳුන්වන වචනය (文法 / Bunpou)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "言葉のルール「Grammar」を表す日本語はどれですか。",
+        "furigana": "[ことば]のルール「Grammar」を[あらわ]す[にほんご]はどれですか。",
+        "sinhala": "'ව්‍යාකරණ' (Grammar) හඳුන්වන ජපන් වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "文法 (Bunpou)"
+        },
+        {
+          "id": "B",
+          "text": "単語 (Tango - වචන)"
+        },
+        {
+          "id": "C",
+          "text": "発音 (Hatsuon - උච්චාරණය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ව්‍යාකරණ හැඳින්වෙන්නේ '文法' (බුන්පෝ) ලෙසයි."
+    },
+    {
+      "quiz_id": "qz_e1_l02_023",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_05",
+      "can_do_title_sinhala": "උච්චාරණය හඳුන්වන වචනය (発音 / Hatsuon)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「発音」の読み方はどれですか。",
+        "furigana": "「[はつおん]」の[よ]み[かた]はどれですか。",
+        "sinhala": "'発音' (උච්චාරණය) කන්ජි වචනයේ නිවැරදි කියවීම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "はつおん (Hatsuon)"
+        },
+        {
+          "id": "B",
+          "text": "ほんとう (Hontou)"
+        },
+        {
+          "id": "C",
+          "text": "ぶんぽう (Bunpou)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'発音' යනු 'はつおん' (Hatsuon - උච්චාරණය/Pronunciation) වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l02_024",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 2,
+      "can_do_id": "cando_e1_04",
+      "can_do_title_sinhala": "ජපන් ඉගෙනුම සහ විනෝදාංශය සම්බන්ධ සංවාදයක් පිළිවෙලට සැකසීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: アニメを日本語で理解したいからです\n2: どうして日本語を勉強しているんですか\n3: 私の趣味はアニメを見ることです\n4: へえ、いいですね！",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: アニメを[にほんご]で[りかい]したいからです\n2: どうして[にほんご]を[べんきょう]しているんですか\n3: [わたし]の[しゅみ]はアニメを[み]ることです\n4: へえ、いいですね！",
+        "sinhala": "ස්වභාවික සංවාදයක නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3 -> 2 -> 1 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "2 -> 1 -> 3 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "1 -> 2 -> 4 -> 3"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 3 (මගේ විනෝදාංශය ඇනිමේ බැලීම) -> 2 (ඇයි ජපන් ඉගෙන ගන්නේ?) -> 1 (ඇනිමේ ජපන් බසින් තේරුම් ගන්න ආස නිසා) -> 4 (එහෙමද, නියමයිනේ!)."
+    }
+  ]
+}

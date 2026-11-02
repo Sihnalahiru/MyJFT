@@ -1,0 +1,2207 @@
+{
+  "title": "Irodori Starter Complete Vocabulary (Part 2: 101 to 200)",
+  "total_words": 100,
+  "coverage": "Part 2 of verified Irodori Starter vocabulary (Words 101-200) with official audio and illustration mapping.",
+  "vocabulary": [
+    {
+      "id": "st_101",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Numbers 11-20",
+      "japanese": "じゅうに",
+      "furigana": "じゅうに",
+      "romaji": "juuni",
+      "english": "Twelve",
+      "sinhala": "දහ දෙක (12)",
+      "audio": {
+        "file_name": "wordlist_X_11-2.mp3",
+        "track_id": "L10-V02",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_11-2.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_20_juuni.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_20_juuni.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_102",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Numbers 11-20",
+      "japanese": "じゅうさん",
+      "furigana": "じゅうさん",
+      "romaji": "juusan",
+      "english": "Thirteen",
+      "sinhala": "දහ තුන (13)",
+      "audio": {
+        "file_name": "wordlist_X_11-3.mp3",
+        "track_id": "L10-V03",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_11-3.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_21_juusan.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_21_juusan.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_103",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Numbers 11-20",
+      "japanese": "じゅうよん",
+      "furigana": "じゅうよん",
+      "romaji": "juuyon",
+      "english": "Fourteen",
+      "sinhala": "දහ හතර (14)",
+      "audio": {
+        "file_name": "wordlist_X_11-4.mp3",
+        "track_id": "L10-V04",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_11-4.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_22_juuyon.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_22_juuyon.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_104",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Numbers 11-20",
+      "japanese": "じゅうご",
+      "furigana": "じゅうご",
+      "romaji": "juugo",
+      "english": "Fifteen",
+      "sinhala": "දහ පහ (15)",
+      "audio": {
+        "file_name": "wordlist_X_11-5.mp3",
+        "track_id": "L10-V05",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_11-5.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_23_juugo.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_23_juugo.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_105",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Numbers 11-20",
+      "japanese": "じゅうろく",
+      "furigana": "じゅうろく",
+      "romaji": "juuroku",
+      "english": "Sixteen",
+      "sinhala": "දහ හය (16)",
+      "audio": {
+        "file_name": "wordlist_X_11-6.mp3",
+        "track_id": "L10-V06",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_11-6.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_24_juuroku.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_24_juuroku.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_106",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Numbers 11-20",
+      "japanese": "じゅうなな",
+      "furigana": "じゅうなな",
+      "romaji": "juunana",
+      "english": "Seventeen",
+      "sinhala": "දහ හත (17)",
+      "audio": {
+        "file_name": "wordlist_X_11-7.mp3",
+        "track_id": "L10-V07",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_11-7.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_25_juunana.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_25_juunana.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_107",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Numbers 11-20",
+      "japanese": "じゅうはち",
+      "furigana": "じゅうはち",
+      "romaji": "juuhachi",
+      "english": "Eighteen",
+      "sinhala": "දහ අට (18)",
+      "audio": {
+        "file_name": "wordlist_X_11-8.mp3",
+        "track_id": "L10-V08",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_11-8.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_26_juuhachi.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_26_juuhachi.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_108",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Numbers 11-20",
+      "japanese": "じゅうきゅう",
+      "furigana": "じゅうきゅう",
+      "romaji": "juukyuu",
+      "english": "Nineteen",
+      "sinhala": "දහ නවය (19)",
+      "audio": {
+        "file_name": "wordlist_X_11-9.mp3",
+        "track_id": "L10-V09",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_11-9.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_27_juukyuu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_27_juukyuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_109",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Tens",
+      "japanese": "にじゅう",
+      "furigana": "にじゅう",
+      "romaji": "nijuu",
+      "english": "Twenty",
+      "sinhala": "විසි (20)",
+      "audio": {
+        "file_name": "wordlist_X_11-10.mp3",
+        "track_id": "L11-V10",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_11-10.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_28_nijuu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_28_nijuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_110",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Tens",
+      "japanese": "さんじゅう",
+      "furigana": "さんじゅう",
+      "romaji": "sanjuu",
+      "english": "Thirty",
+      "sinhala": "තිස් (30)",
+      "audio": {
+        "file_name": "wordlist_X_12-1.mp3",
+        "track_id": "L11-V11",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_12-1.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_29_sanjuu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_29_sanjuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_111",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Tens",
+      "japanese": "よんじゅう",
+      "furigana": "よんじゅう",
+      "romaji": "yonjuu",
+      "english": "Forty",
+      "sinhala": "හතළිස් (40)",
+      "audio": {
+        "file_name": "wordlist_X_12-2.mp3",
+        "track_id": "L11-V12",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_12-2.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_30_yonjuu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_30_yonjuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_112",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Tens",
+      "japanese": "ごじゅう",
+      "furigana": "ごじゅう",
+      "romaji": "gojuu",
+      "english": "Fifty",
+      "sinhala": "පනස් (50)",
+      "audio": {
+        "file_name": "wordlist_X_12-3.mp3",
+        "track_id": "L11-V13",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_12-3.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_31_gojuu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_31_gojuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_113",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Tens",
+      "japanese": "ろくじゅう",
+      "furigana": "ろくじゅう",
+      "romaji": "rokujuu",
+      "english": "Sixty",
+      "sinhala": "හැට (60)",
+      "audio": {
+        "file_name": "wordlist_X_12-4.mp3",
+        "track_id": "L11-V14",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_12-4.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_32_rokujuu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_32_rokujuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_114",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Tens",
+      "japanese": "ななじゅう",
+      "furigana": "ななじゅう",
+      "romaji": "nanajuu",
+      "english": "Seventy",
+      "sinhala": "හැත්තෑ (70)",
+      "audio": {
+        "file_name": "wordlist_X_12-5.mp3",
+        "track_id": "L11-V15",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_12-5.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_33_nanajuu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_33_nanajuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_115",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Tens",
+      "japanese": "はちじゅう",
+      "furigana": "はちじゅう",
+      "romaji": "hachijuu",
+      "english": "Eighty",
+      "sinhala": "අසූ (80)",
+      "audio": {
+        "file_name": "wordlist_X_12-6.mp3",
+        "track_id": "L11-V16",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_12-6.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_34_hachijuu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_34_hachijuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_116",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Tens",
+      "japanese": "きゅうじゅう",
+      "furigana": "きゅうじゅう",
+      "romaji": "kyuujuu",
+      "english": "Ninety",
+      "sinhala": "අනූ (90)",
+      "audio": {
+        "file_name": "wordlist_X_12-7.mp3",
+        "track_id": "L11-V17",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_12-7.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_35_kyuujuu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_35_kyuujuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_117",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Hundreds",
+      "japanese": "ひゃく",
+      "furigana": "ひゃく",
+      "romaji": "hyaku",
+      "english": "Hundred",
+      "sinhala": "සියය (100)",
+      "audio": {
+        "file_name": "wordlist_X_12-8.mp3",
+        "track_id": "L11-V18",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_12-8.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_36_hyaku.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_36_hyaku.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_118",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Thousands",
+      "japanese": "せん",
+      "furigana": "せん",
+      "romaji": "sen",
+      "english": "Thousand",
+      "sinhala": "දහස් (1000)",
+      "audio": {
+        "file_name": "wordlist_X_12-9.mp3",
+        "track_id": "L11-V19",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_12-9.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_37_sen.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_37_sen.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_119",
+      "main_topic": "2. 数字と時間 / Numbers & Time",
+      "sub_topic": "Ten Thousand",
+      "japanese": "まん",
+      "furigana": "まん",
+      "romaji": "man",
+      "english": "Ten thousand",
+      "sinhala": "දහ දහසක් (10,000)",
+      "audio": {
+        "file_name": "wordlist_X_12-10.mp3",
+        "track_id": "L12-V20",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_12-10.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_1_38_man.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_1_38_man.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_120",
+      "main_topic": "3. 時間と暦 / Time & Calendar",
+      "sub_topic": "Time Units",
+      "japanese": "じ",
+      "furigana": "じ",
+      "romaji": "ji",
+      "english": "O'clock / Hour",
+      "sinhala": "පැය",
+      "audio": {
+        "file_name": "wordlist_X_13-1.mp3",
+        "track_id": "L12-V21",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_13-1.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_2_01_ji.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_2_01_ji.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_121",
+      "main_topic": "3. 時間と暦 / Time & Calendar",
+      "sub_topic": "Time Units",
+      "japanese": "ふん",
+      "furigana": "ふん",
+      "romaji": "fun",
+      "english": "Minute",
+      "sinhala": "මිනිත්තුව",
+      "audio": {
+        "file_name": "wordlist_X_13-2.mp3",
+        "track_id": "L12-V22",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_13-2.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_2_02_fun.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_2_02_fun.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_122",
+      "main_topic": "3. 時間と暦 / Time & Calendar",
+      "sub_topic": "Time Units",
+      "japanese": "はん",
+      "furigana": "はん",
+      "romaji": "han",
+      "english": "Half (past)",
+      "sinhala": "භාගය / අඩක්",
+      "audio": {
+        "file_name": "wordlist_X_13-3.mp3",
+        "track_id": "L12-V23",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_13-3.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_02_2_03_han.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_02_2_03_han.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_123",
+      "main_topic": "3. 時間と暦 / Time & Calendar",
+      "sub_topic": "Times of Day",
+      "japanese": "まいにち",
+      "furigana": "まいにち",
+      "romaji": "mainichi",
+      "english": "Every day",
+      "sinhala": "දිනපතා",
+      "audio": {
+        "file_name": "wordlist_X_13-4.mp3",
+        "track_id": "L12-V24",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_13-4.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_05_mainichi.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_05_mainichi.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_124",
+      "main_topic": "3. 時間と暦 / Time & Calendar",
+      "sub_topic": "Times of Day",
+      "japanese": "あさ",
+      "furigana": "あさ",
+      "romaji": "asa",
+      "english": "Morning",
+      "sinhala": "උදේ / උදෑසන",
+      "audio": {
+        "file_name": "wordlist_X_13-5.mp3",
+        "track_id": "L12-V25",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_13-5.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_06_asa.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_06_asa.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_125",
+      "main_topic": "3. 時間と暦 / Time & Calendar",
+      "sub_topic": "Times of Day",
+      "japanese": "ひる",
+      "furigana": "ひる",
+      "romaji": "hiru",
+      "english": "Daytime / Noon",
+      "sinhala": "දහවල / දවාල",
+      "audio": {
+        "file_name": "wordlist_X_13-6.mp3",
+        "track_id": "L12-V26",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_13-6.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_07_hiru.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_07_hiru.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_126",
+      "main_topic": "3. 時間と暦 / Time & Calendar",
+      "sub_topic": "Times of Day",
+      "japanese": "よる",
+      "furigana": "よる",
+      "romaji": "yoru",
+      "english": "Night",
+      "sinhala": "රාත්‍රිය / රැය",
+      "audio": {
+        "file_name": "wordlist_X_13-7.mp3",
+        "track_id": "L12-V27",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_13-7.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_08_yoru.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_08_yoru.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_127",
+      "main_topic": "4. 家族と人間関係 / Family & People",
+      "sub_topic": "Family Members",
+      "japanese": "かぞく",
+      "furigana": "かぞく",
+      "romaji": "kazoku",
+      "english": "Family",
+      "sinhala": "පවුල",
+      "audio": {
+        "file_name": "wordlist_X_13-8.mp3",
+        "track_id": "L13-V28",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_13-8.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_07_1_06_kazoku.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_07_1_06_kazoku.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_128",
+      "main_topic": "4. 家族と人間関係 / Family & People",
+      "sub_topic": "Family Members",
+      "japanese": "ちち",
+      "furigana": "ちち",
+      "romaji": "chichi",
+      "english": "My father",
+      "sinhala": "මගේ පියා",
+      "audio": {
+        "file_name": "wordlist_X_13-9.mp3",
+        "track_id": "L13-V29",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_13-9.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_07_1_07_chichi.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_07_1_07_chichi.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_129",
+      "main_topic": "4. 家族と人間関係 / Family & People",
+      "sub_topic": "Family Members",
+      "japanese": "はは",
+      "furigana": "はは",
+      "romaji": "haha",
+      "english": "My mother",
+      "sinhala": "මගේ මව",
+      "audio": {
+        "file_name": "wordlist_X_13-10.mp3",
+        "track_id": "L13-V30",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_13-10.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_07_1_08_haha.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_07_1_08_haha.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_130",
+      "main_topic": "4. 家族と人間関係 / Family & People",
+      "sub_topic": "Family Members",
+      "japanese": "あに",
+      "furigana": "あに",
+      "romaji": "ani",
+      "english": "My older brother",
+      "sinhala": "මගේ වැඩිමහල් සහෝදරයා",
+      "audio": {
+        "file_name": "wordlist_X_14-1.mp3",
+        "track_id": "L13-V31",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_14-1.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_07_1_09_ani.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_07_1_09_ani.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_131",
+      "main_topic": "4. 家族と人間関係 / Family & People",
+      "sub_topic": "Family Members",
+      "japanese": "あね",
+      "furigana": "あね",
+      "romaji": "ane",
+      "english": "My older sister",
+      "sinhala": "මගේ වැඩිමහල් සහෝදරිය",
+      "audio": {
+        "file_name": "wordlist_X_14-2.mp3",
+        "track_id": "L13-V32",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_14-2.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_07_1_10_ane.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_07_1_10_ane.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_132",
+      "main_topic": "4. 家族と人間関係 / Family & People",
+      "sub_topic": "Family Members",
+      "japanese": "おとうと",
+      "furigana": "おとうと",
+      "romaji": "otouto",
+      "english": "My younger brother",
+      "sinhala": "මගේ බාල සහෝදරයා",
+      "audio": {
+        "file_name": "wordlist_X_14-3.mp3",
+        "track_id": "L13-V33",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_14-3.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_07_1_11_otouto.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_07_1_11_otouto.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_133",
+      "main_topic": "4. 家族と人間関係 / Family & People",
+      "sub_topic": "Family Members",
+      "japanese": "いもうと",
+      "furigana": "いもうと",
+      "romaji": "imouto",
+      "english": "My younger sister",
+      "sinhala": "මගේ බාල සහෝදරිය",
+      "audio": {
+        "file_name": "wordlist_X_14-4.mp3",
+        "track_id": "L13-V34",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_14-4.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_07_1_12_imouto.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_07_1_12_imouto.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_134",
+      "main_topic": "5. 食べ物と飲み物 / Food & Drink",
+      "sub_topic": "Meals",
+      "japanese": "あさごはん",
+      "furigana": "あさごはん",
+      "romaji": "asagohan",
+      "english": "Breakfast",
+      "sinhala": "උදෑසන ආහාරය",
+      "audio": {
+        "file_name": "wordlist_X_14-5.mp3",
+        "track_id": "L14-V35",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_14-5.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_03_1_08_asagohan.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_03_1_08_asagohan.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_135",
+      "main_topic": "5. 食べ物と飲み物 / Food & Drink",
+      "sub_topic": "Meals",
+      "japanese": "ひるごはん",
+      "furigana": "ひるごはん",
+      "romaji": "hirugohan",
+      "english": "Lunch",
+      "sinhala": "දහවල් ආහාරය",
+      "audio": {
+        "file_name": "wordlist_X_14-6.mp3",
+        "track_id": "L14-V36",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_14-6.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_03_1_09_hirugohan.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_03_1_09_hirugohan.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_136",
+      "main_topic": "5. 食べ物と飲み物 / Food & Drink",
+      "sub_topic": "Meals",
+      "japanese": "ばんごはん",
+      "furigana": "ばんごはん",
+      "romaji": "bangohan",
+      "english": "Dinner",
+      "sinhala": "රාත්‍රී ආහාරය",
+      "audio": {
+        "file_name": "wordlist_X_14-7.mp3",
+        "track_id": "L14-V37",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_14-7.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_03_1_10_bangohan.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_03_1_10_bangohan.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_137",
+      "main_topic": "5. 食べ物と飲み物 / Food & Drink",
+      "sub_topic": "Food Items",
+      "japanese": "ぱん",
+      "furigana": "ぱん",
+      "romaji": "pan",
+      "english": "Bread",
+      "sinhala": "පාන්",
+      "audio": {
+        "file_name": "wordlist_X_14-8.mp3",
+        "track_id": "L14-V38",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_14-8.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_03_1_11_pan.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_03_1_11_pan.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_138",
+      "main_topic": "5. 食べ物と飲み物 / Food & Drink",
+      "sub_topic": "Food Items",
+      "japanese": "にく",
+      "furigana": "にく",
+      "romaji": "niku",
+      "english": "Meat",
+      "sinhala": "මස්",
+      "audio": {
+        "file_name": "wordlist_X_14-9.mp3",
+        "track_id": "L14-V39",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_14-9.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_03_1_12_niku.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_03_1_12_niku.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_139",
+      "main_topic": "5. 食べ物と飲み物 / Food & Drink",
+      "sub_topic": "Food Items",
+      "japanese": "さかな",
+      "furigana": "さかな",
+      "romaji": "sakana",
+      "english": "Fish",
+      "sinhala": "මාළු",
+      "audio": {
+        "file_name": "wordlist_X_14-10.mp3",
+        "track_id": "L14-V40",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_14-10.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_03_1_13_sakana.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_03_1_13_sakana.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_140",
+      "main_topic": "5. 食べ物と飲み物 / Food & Drink",
+      "sub_topic": "Food Items",
+      "japanese": "やさい",
+      "furigana": "やさい",
+      "romaji": "yasai",
+      "english": "Vegetable",
+      "sinhala": "එළවළු",
+      "audio": {
+        "file_name": "wordlist_X_15-1.mp3",
+        "track_id": "L14-V41",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_15-1.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_03_1_14_yasai.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_03_1_14_yasai.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_141",
+      "main_topic": "5. 食べ物と飲み物 / Food & Drink",
+      "sub_topic": "Food Items",
+      "japanese": "くだもの",
+      "furigana": "くだもの",
+      "romaji": "kudamono",
+      "english": "Fruit",
+      "sinhala": "පළතුරු",
+      "audio": {
+        "file_name": "wordlist_X_15-2.mp3",
+        "track_id": "L14-V42",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_15-2.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_03_1_15_kudamono.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_03_1_15_kudamono.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_142",
+      "main_topic": "5. 食べ物と飲み物 / Food & Drink",
+      "sub_topic": "Beverages",
+      "japanese": "ぎゅうにゅう",
+      "furigana": "ぎゅうにゅう",
+      "romaji": "gyuunyuu",
+      "english": "Milk",
+      "sinhala": "කිරි",
+      "audio": {
+        "file_name": "wordlist_X_15-3.mp3",
+        "track_id": "L14-V43",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_15-3.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_03_1_16_gyuunyuu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_03_1_16_gyuunyuu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_143",
+      "main_topic": "5. 食べ物と飲み物 / Food & Drink",
+      "sub_topic": "Beverages",
+      "japanese": "コーヒー",
+      "furigana": "コーヒー",
+      "romaji": "koohii",
+      "english": "Coffee",
+      "sinhala": "කෝපි",
+      "audio": {
+        "file_name": "wordlist_X_15-4.mp3",
+        "track_id": "L15-V44",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_15-4.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_03_1_17_koohii.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_03_1_17_koohii.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_144",
+      "main_topic": "6. 身の回りの物と家 / Objects & Home",
+      "sub_topic": "Stationery",
+      "japanese": "えんぴつ",
+      "furigana": "えんぴつ",
+      "romaji": "enpitsu",
+      "english": "Pencil",
+      "sinhala": "පැන්සල",
+      "audio": {
+        "file_name": "wordlist_X_15-5.mp3",
+        "track_id": "L15-V45",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_15-5.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_08_1_08_enpitsu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_08_1_08_enpitsu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_145",
+      "main_topic": "6. 身の回りの物と家 / Objects & Home",
+      "sub_topic": "Stationery",
+      "japanese": "ボールペン",
+      "furigana": "ボールペン",
+      "romaji": "boorupen",
+      "english": "Ballpoint pen",
+      "sinhala": "බෝල්පොයින්ට් පෑන",
+      "audio": {
+        "file_name": "wordlist_X_15-6.mp3",
+        "track_id": "L15-V46",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_15-6.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_08_1_09_boorupen.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_08_1_09_boorupen.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_146",
+      "main_topic": "6. 身の回りの物と家 / Objects & Home",
+      "sub_topic": "Electronics",
+      "japanese": "でんわ",
+      "furigana": "でんわ",
+      "romaji": "denwa",
+      "english": "Telephone / Phone call",
+      "sinhala": "දුරකථනය",
+      "audio": {
+        "file_name": "wordlist_X_15-7.mp3",
+        "track_id": "L15-V47",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_15-7.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_08_1_10_denwa.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_08_1_10_denwa.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_147",
+      "main_topic": "6. 身の回りの物と家 / Objects & Home",
+      "sub_topic": "Electronics",
+      "japanese": "けいたいでんわ",
+      "furigana": "けいたいでんわ",
+      "romaji": "keitaidenwa",
+      "english": "Mobile phone",
+      "sinhala": "ජංගම දුරකථනය",
+      "audio": {
+        "file_name": "wordlist_X_15-8.mp3",
+        "track_id": "L15-V48",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_15-8.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_08_1_11_keitaidenwa.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_08_1_11_keitaidenwa.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_148",
+      "main_topic": "6. 身の回りの物と家 / Objects & Home",
+      "sub_topic": "Home & Furniture",
+      "japanese": "とけい",
+      "furigana": "とけい",
+      "romaji": "tokei",
+      "english": "Watch / Clock",
+      "sinhala": "ඔරලෝසුව",
+      "audio": {
+        "file_name": "wordlist_X_15-9.mp3",
+        "track_id": "L16-V49",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_15-9.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_08_1_12_tokei.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_08_1_12_tokei.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_149",
+      "main_topic": "7. 基本動詞 / Basic Verbs",
+      "sub_topic": "Daily Actions",
+      "japanese": "あいます",
+      "furigana": "あいます",
+      "romaji": "aimasu",
+      "english": "To meet",
+      "sinhala": "හමුවෙනවා",
+      "audio": {
+        "file_name": "wordlist_X_15-10.mp3",
+        "track_id": "L16-V50",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_15-10.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_05_1_10_aimasu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_05_1_10_aimasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_150",
+      "main_topic": "7. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "あつい",
+      "furigana": "あつい",
+      "romaji": "atsui",
+      "english": "Hot",
+      "sinhala": "උණුසුම් / රස්නයයි",
+      "audio": {
+        "file_name": "wordlist_X_16-1.mp3",
+        "track_id": "L17-V51",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_16-1.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_06_1_11_atsui.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_06_1_11_atsui.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_151",
+      "main_topic": "7. 形容詞 / Adjectives",
+      "sub_topic": "Descriptions",
+      "japanese": "さむい",
+      "furigana": "さむい",
+      "romaji": "samui",
+      "english": "Cold",
+      "sinhala": "සීතලයි",
+      "audio": {
+        "file_name": "wordlist_X_16-2.mp3",
+        "track_id": "L17-V52",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_16-2.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_06_1_12_samui.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_06_1_12_samui.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_152",
+      "main_topic": "8. 場所と交通 / Places & Transport",
+      "sub_topic": "Locations",
+      "japanese": "びょういん",
+      "furigana": "びょういん",
+      "romaji": "byouin",
+      "english": "Hospital",
+      "sinhala": "රෝහල",
+      "audio": {
+        "file_name": "wordlist_X_16-3.mp3",
+        "track_id": "L18-V53",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_16-3.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_04_1_09_byouin.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_04_1_09_byouin.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_153",
+      "main_topic": "8. 場所と交通 / Places & Transport",
+      "sub_topic": "Transport",
+      "japanese": "くるま",
+      "furigana": "くるま",
+      "romaji": "kuruma",
+      "english": "Car",
+      "sinhala": "මෝටර් රථය",
+      "audio": {
+        "file_name": "wordlist_X_16-4.mp3",
+        "track_id": "L18-V54",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_16-4.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_04_1_10_kuruma.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_04_1_10_kuruma.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_154",
+      "main_topic": "8. 場所と交通 / Places & Transport",
+      "sub_topic": "Transport",
+      "japanese": "でんしゃ",
+      "furigana": "でんしゃ",
+      "romaji": "densha",
+      "english": "Train",
+      "sinhala": "දුම්රිය",
+      "audio": {
+        "file_name": "wordlist_X_16-5.mp3",
+        "track_id": "L18-V55",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_16-5.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_04_1_11_densha.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_04_1_11_densha.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_155",
+      "main_topic": "8. 場所と交通 / Places & Transport",
+      "sub_topic": "Transport",
+      "japanese": "バス",
+      "furigana": "バス",
+      "romaji": "basu",
+      "english": "Bus",
+      "sinhala": "බස් රථය",
+      "audio": {
+        "file_name": "wordlist_X_16-6.mp3",
+        "track_id": "L18-V56",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_16-6.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_04_1_12_basu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_04_1_12_basu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_156",
+      "main_topic": "8. 場所と交通 / Places & Transport",
+      "sub_topic": "Transport",
+      "japanese": "ひこうき",
+      "furigana": "ひこうき",
+      "romaji": "hikouki",
+      "english": "Airplane",
+      "sinhala": "ගුවන් යානය",
+      "audio": {
+        "file_name": "wordlist_X_16-7.mp3",
+        "track_id": "L18-V57",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_16-7.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_04_1_13_hikouki.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_04_1_13_hikouki.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_157",
+      "main_topic": "8. 場所と交通 / Places & Transport",
+      "sub_topic": "Transport",
+      "japanese": "じてんしゃ",
+      "furigana": "じてんしゃ",
+      "romaji": "jitensha",
+      "english": "Bicycle",
+      "sinhala": "පාපැදිය",
+      "audio": {
+        "file_name": "wordlist_X_16-8.mp3",
+        "track_id": "L18-V58",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_16-8.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_04_1_14_jitensha.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_04_1_14_jitensha.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_158",
+      "main_topic": "9. 趣味と日常表現 / Hobbies & Misc",
+      "sub_topic": "Hobbies",
+      "japanese": "スポーツ",
+      "furigana": "スポーツ",
+      "romaji": "supotsu",
+      "english": "Sports",
+      "sinhala": "ක්‍රීඩා",
+      "audio": {
+        "file_name": "wordlist_X_16-9.mp3",
+        "track_id": "L19-V59",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_16-9.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_13_1_01_supotsu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_13_1_01_supotsu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_159",
+      "main_topic": "9. 趣味と日常表現 / Hobbies & Misc",
+      "sub_topic": "Hobbies",
+      "japanese": "おんがく",
+      "furigana": "おんがく",
+      "romaji": "ongaku",
+      "english": "Music",
+      "sinhala": "සංගීතය",
+      "audio": {
+        "file_name": "wordlist_X_16-10.mp3",
+        "track_id": "L19-V60",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_16-10.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_13_1_02_ongaku.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_13_1_02_ongaku.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_160",
+      "main_topic": "9. 趣味と日常表現 / Hobbies & Misc",
+      "sub_topic": "Hobbies",
+      "japanese": "えいが",
+      "furigana": "えいが",
+      "romaji": "eiga",
+      "english": "Movie",
+      "sinhala": "චිත්‍රපටය",
+      "audio": {
+        "file_name": "wordlist_X_17-1.mp3",
+        "track_id": "L19-V61",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_17-1.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_13_1_03_eiga.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_13_1_03_eiga.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_161",
+      "main_topic": "9. 趣味と日常表現 / Hobbies & Misc",
+      "sub_topic": "Expressions",
+      "japanese": "おげんきですか",
+      "furigana": "おげんきですか",
+      "romaji": "ogenki desu ka",
+      "english": "How are you?",
+      "sinhala": "සැපසනීප කොහොමද?",
+      "audio": {
+        "file_name": "wordlist_X_17-2.mp3",
+        "track_id": "L19-V62",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_17-2.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_14_1_01_ogenkidesuka.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_14_1_01_ogenkidesuka.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_162",
+      "main_topic": "9. 趣味と日常表現 / Hobbies & Misc",
+      "sub_topic": "Expressions",
+      "japanese": "げんきです",
+      "furigana": "げんきです",
+      "romaji": "genki desu",
+      "english": "I'm fine",
+      "sinhala": "සනීපයෙන් ඉන්නවා",
+      "audio": {
+        "file_name": "wordlist_X_17-3.mp3",
+        "track_id": "L19-V63",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_17-3.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_14_1_02_genkidesu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_14_1_02_genkidesu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_163",
+      "main_topic": "10. 建物と部屋 / Buildings & Rooms",
+      "sub_topic": "Home Environment",
+      "japanese": "ドア",
+      "furigana": "ドア",
+      "romaji": "doa",
+      "english": "Door",
+      "sinhala": "දොර",
+      "audio": {
+        "file_name": "wordlist_X_17-4.mp3",
+        "track_id": "L20-V64",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_17-4.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_09_1_06_doa.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_09_1_06_doa.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_164",
+      "main_topic": "10. 建物と部屋 / Buildings & Rooms",
+      "sub_topic": "Home Environment",
+      "japanese": "まど",
+      "furigana": "まど",
+      "romaji": "mado",
+      "english": "Window",
+      "sinhala": "ජනේලය",
+      "audio": {
+        "file_name": "wordlist_X_17-5.mp3",
+        "track_id": "L20-V65",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_17-5.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_09_1_07_mado.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_09_1_07_mado.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_165",
+      "main_topic": "10. 建物と部屋 / Buildings & Rooms",
+      "sub_topic": "Home Environment",
+      "japanese": "おふろ",
+      "furigana": "おふろ",
+      "romaji": "ofuro",
+      "english": "Bath / Bathtub",
+      "sinhala": "නාන තටාකය",
+      "audio": {
+        "file_name": "wordlist_X_17-6.mp3",
+        "track_id": "L20-V66",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_17-6.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_09_1_08_ofuro.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_09_1_08_ofuro.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_166",
+      "main_topic": "10. 建物と部屋 / Buildings & Rooms",
+      "sub_topic": "Home Environment",
+      "japanese": "だいどころ",
+      "furigana": "だいどころ",
+      "romaji": "daidokoro",
+      "english": "Kitchen",
+      "sinhala": "මුළුතැන්ගෙය",
+      "audio": {
+        "file_name": "wordlist_X_17-7.mp3",
+        "track_id": "L20-V67",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_17-7.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_09_1_09_daidokoro.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_09_1_09_daidokoro.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_167",
+      "main_topic": "10. 建物と部屋 / Buildings & Rooms",
+      "sub_topic": "Home Environment",
+      "japanese": "ベッド",
+      "furigana": "ベッド",
+      "romaji": "beddo",
+      "english": "Bed",
+      "sinhala": "ඇඳ",
+      "audio": {
+        "file_name": "wordlist_X_17-8.mp3",
+        "track_id": "L20-V68",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_17-8.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_09_1_10_beddo.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_09_1_10_beddo.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_168",
+      "main_topic": "10. 建物と部屋 / Buildings & Rooms",
+      "sub_topic": "Home Environment",
+      "japanese": "エアコン",
+      "furigana": "エアコン",
+      "romaji": "eakon",
+      "english": "Air conditioner",
+      "sinhala": "වායු සමීකරණය",
+      "audio": {
+        "file_name": "wordlist_X_17-9.mp3",
+        "track_id": "L20-V69",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_17-9.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_09_1_11_eakon.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_09_1_11_eakon.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_169",
+      "main_topic": "10. 建物と部屋 / Buildings & Rooms",
+      "sub_topic": "Home Environment",
+      "japanese": "テレビ",
+      "furigana": "テレビ",
+      "romaji": "terebi",
+      "english": "Television",
+      "sinhala": "රූපවාහිනිය",
+      "audio": {
+        "file_name": "wordlist_X_17-10.mp3",
+        "track_id": "L21-V70",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_17-10.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_09_1_12_terebi.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_09_1_12_terebi.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_170",
+      "main_topic": "11. 服と装飾品 / Clothes & Accessories",
+      "sub_topic": "Clothing",
+      "japanese": "ふく",
+      "furigana": "ふく",
+      "romaji": "fuku",
+      "english": "Clothes",
+      "sinhala": "ඇඳුම්",
+      "audio": {
+        "file_name": "wordlist_X_18-1.mp3",
+        "track_id": "L21-V71",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_18-1.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_10_1_05_fuku.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_10_1_05_fuku.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_171",
+      "main_topic": "11. 服と装飾品 / Clothes & Accessories",
+      "sub_topic": "Clothing",
+      "japanese": "シャツ",
+      "furigana": "シャツ",
+      "romaji": "shatsu",
+      "english": "Shirt",
+      "sinhala": "කමිසය",
+      "audio": {
+        "file_name": "wordlist_X_18-2.mp3",
+        "track_id": "L21-V72",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_18-2.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_10_1_06_shatsu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_10_1_06_shatsu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_172",
+      "main_topic": "11. 服と装飾品 / Clothes & Accessories",
+      "sub_topic": "Clothing",
+      "japanese": "ズボン",
+      "furigana": "ズボン",
+      "romaji": "zubon",
+      "english": "Pants / Trousers",
+      "sinhala": "කලිසම",
+      "audio": {
+        "file_name": "wordlist_X_18-3.mp3",
+        "track_id": "L21-V73",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_18-3.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_10_1_07_zubon.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_10_1_07_zubon.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_173",
+      "main_topic": "11. 服と装飾品 / Clothes & Accessories",
+      "sub_topic": "Clothing",
+      "japanese": "くつ",
+      "furigana": "くつ",
+      "romaji": "kutsu",
+      "english": "Shoes",
+      "sinhala": "සපත්තු",
+      "audio": {
+        "file_name": "wordlist_X_18-4.mp3",
+        "track_id": "L21-V74",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_18-4.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_10_1_08_kutsu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_10_1_08_kutsu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_174",
+      "main_topic": "11. 服と装飾品 / Clothes & Accessories",
+      "sub_topic": "Clothing",
+      "japanese": "くつした",
+      "furigana": "くつした",
+      "romaji": "kutsushita",
+      "english": "Socks",
+      "sinhala": "මේස්",
+      "audio": {
+        "file_name": "wordlist_X_18-5.mp3",
+        "track_id": "L21-V75",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_18-5.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_10_1_09_kutsushita.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_10_1_09_kutsushita.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_175",
+      "main_topic": "11. 服と装飾品 / Clothes & Accessories",
+      "sub_topic": "Accessories",
+      "japanese": "ぼうし",
+      "furigana": "ぼうし",
+      "romaji": "boushi",
+      "english": "Hat",
+      "sinhala": "තොප්පිය",
+      "audio": {
+        "file_name": "wordlist_X_18-6.mp3",
+        "track_id": "L21-V76",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_18-6.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_10_1_10_boushi.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_10_1_10_boushi.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_176",
+      "main_topic": "11. 服と装飾品 / Clothes & Accessories",
+      "sub_topic": "Accessories",
+      "japanese": "メガネ",
+      "furigana": "メガネ",
+      "romaji": "megane",
+      "english": "Glasses",
+      "sinhala": "මනස්‌ර / කණ්නාඩි",
+      "audio": {
+        "file_name": "wordlist_X_18-7.mp3",
+        "track_id": "L21-V77",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_18-7.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_10_1_11_megane.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_10_1_11_megane.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_177",
+      "main_topic": "11. 服と装飾品 / Clothes & Accessories",
+      "sub_topic": "Accessories",
+      "japanese": "さいふ",
+      "furigana": "さいふ",
+      "romaji": "saifu",
+      "english": "Wallet",
+      "sinhala": "පසුම්බිය",
+      "audio": {
+        "file_name": "wordlist_X_18-8.mp3",
+        "track_id": "L21-V78",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_18-8.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_10_1_12_saifu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_10_1_12_saifu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_178",
+      "main_topic": "11. 服と装飾品 / Clothes & Accessories",
+      "sub_topic": "Accessories",
+      "japanese": "かさ",
+      "furigana": "かさ",
+      "romaji": "kasa",
+      "english": "Umbrella",
+      "sinhala": "කුඩය",
+      "audio": {
+        "file_name": "wordlist_X_18-9.mp3",
+        "track_id": "L22-V79",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_18-9.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_10_1_13_kasa.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_10_1_13_kasa.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_179",
+      "main_topic": "12. 自然と天気 / Nature & Weather",
+      "sub_topic": "Nature",
+      "japanese": "てんき",
+      "furigana": "てんき",
+      "romaji": "tenki",
+      "english": "Weather",
+      "sinhala": "කාලගුණය",
+      "audio": {
+        "file_name": "wordlist_X_18-10.mp3",
+        "track_id": "L23-V80",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_18-10.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_09_tenki.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_09_tenki.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_180",
+      "main_topic": "12. 自然と天気 / Nature & Weather",
+      "sub_topic": "Nature",
+      "japanese": "あめ",
+      "furigana": "あめ",
+      "romaji": "ame",
+      "english": "Rain",
+      "sinhala": "වැස්ස",
+      "audio": {
+        "file_name": "wordlist_X_19-1.mp3",
+        "track_id": "L23-V81",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_19-1.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_10_ame.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_10_ame.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_181",
+      "main_topic": "12. 自然と天気 / Nature & Weather",
+      "sub_topic": "Nature",
+      "japanese": "ゆき",
+      "furigana": "ゆき",
+      "romaji": "yuki",
+      "english": "Snow",
+      "sinhala": "හිම",
+      "audio": {
+        "file_name": "wordlist_X_19-2.mp3",
+        "track_id": "L23-V82",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_19-2.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_11_yuki.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_11_yuki.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_182",
+      "main_topic": "12. 自然と天気 / Nature & Weather",
+      "sub_topic": "Nature",
+      "japanese": "かぜ",
+      "furigana": "かぜ",
+      "romaji": "kaze",
+      "english": "Wind",
+      "sinhala": "සුළඟ",
+      "audio": {
+        "file_name": "wordlist_X_19-3.mp3",
+        "track_id": "L23-V83",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_19-3.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_12_kaze.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_12_kaze.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_183",
+      "main_topic": "12. 自然と天気 / Nature & Weather",
+      "sub_topic": "Nature",
+      "japanese": "うみ",
+      "furigana": "うみ",
+      "romaji": "umi",
+      "english": "Sea",
+      "sinhala": "මුහුද",
+      "audio": {
+        "file_name": "wordlist_X_19-4.mp3",
+        "track_id": "L23-V84",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_19-4.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_13_umi.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_13_umi.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_184",
+      "main_topic": "12. 自然と天気 / Nature & Weather",
+      "sub_topic": "Nature",
+      "japanese": "やま",
+      "furigana": "やま",
+      "romaji": "yama",
+      "english": "Mountain",
+      "sinhala": "කන්ද",
+      "audio": {
+        "file_name": "wordlist_X_19-5.mp3",
+        "track_id": "L23-V85",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_19-5.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_14_yama.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_14_yama.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_185",
+      "main_topic": "12. 自然と天気 / Nature & Weather",
+      "sub_topic": "Nature",
+      "japanese": "き",
+      "furigana": "き",
+      "romaji": "ki",
+      "english": "Tree",
+      "sinhala": "ගස",
+      "audio": {
+        "file_name": "wordlist_X_19-6.mp3",
+        "track_id": "L23-V86",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_19-6.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_15_ki.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_15_ki.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_186",
+      "main_topic": "12. 自然と天気 / Nature & Weather",
+      "sub_topic": "Nature",
+      "japanese": "はな",
+      "furigana": "はな",
+      "romaji": "hana",
+      "english": "Flower",
+      "sinhala": "මල",
+      "audio": {
+        "file_name": "wordlist_X_19-7.mp3",
+        "track_id": "L24-V87",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_19-7.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_11_1_16_hana.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_11_1_16_hana.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_187",
+      "main_topic": "13. 仕事と勉強 / Work & Study",
+      "sub_topic": "Work",
+      "japanese": "しごと",
+      "furigana": "しごと",
+      "romaji": "shigoto",
+      "english": "Work",
+      "sinhala": "රැකියාව",
+      "audio": {
+        "file_name": "wordlist_X_19-8.mp3",
+        "track_id": "L24-V88",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_19-8.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_15_1_01_shigoto.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_15_1_01_shigoto.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_188",
+      "main_topic": "13. 仕事と勉強 / Work & Study",
+      "sub_topic": "Work",
+      "japanese": "かいぎ",
+      "furigana": "かいぎ",
+      "romaji": "kaigi",
+      "english": "Meeting",
+      "sinhala": "රැස්වීම",
+      "audio": {
+        "file_name": "wordlist_X_19-9.mp3",
+        "track_id": "L24-V89",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_19-9.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_15_1_02_kaigi.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_15_1_02_kaigi.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_189",
+      "main_topic": "13. 仕事と勉強 / Work & Study",
+      "sub_topic": "Work",
+      "japanese": "パソコン",
+      "furigana": "パソコン",
+      "romaji": "pasokon",
+      "english": "Computer",
+      "sinhala": "පරිගණකය",
+      "audio": {
+        "file_name": "wordlist_X_19-10.mp3",
+        "track_id": "L24-V90",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_19-10.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_15_1_03_pasokon.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_15_1_03_pasokon.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_190",
+      "main_topic": "13. 仕事と勉強 / Work & Study",
+      "sub_topic": "Work",
+      "japanese": "メール",
+      "furigana": "メール",
+      "romaji": "meeru",
+      "english": "Email",
+      "sinhala": "ඊමේල්",
+      "audio": {
+        "file_name": "wordlist_X_20-1.mp3",
+        "track_id": "L24-V91",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_20-1.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_15_1_04_meeru.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_15_1_04_meeru.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_191",
+      "main_topic": "13. 仕事と勉強 / Work & Study",
+      "sub_topic": "Study",
+      "japanese": "べんきょう",
+      "furigana": "べんきょう",
+      "romaji": "benkyou",
+      "english": "Study",
+      "sinhala": "පාඩම් කිරීම / අධ්‍යයනය",
+      "audio": {
+        "file_name": "wordlist_X_20-2.mp3",
+        "track_id": "L24-V92",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_20-2.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_15_1_05_benkyou.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_15_1_05_benkyou.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_192",
+      "main_topic": "13. 仕事と勉強 / Work & Study",
+      "sub_topic": "Study",
+      "japanese": "しけん",
+      "furigana": "しけん",
+      "romaji": "shiken",
+      "english": "Exam",
+      "sinhala": "විභාගය",
+      "audio": {
+        "file_name": "wordlist_X_20-3.mp3",
+        "track_id": "L24-V93",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_20-3.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_15_1_06_shiken.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_15_1_06_shiken.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_193",
+      "main_topic": "13. 仕事と勉強 / Work & Study",
+      "sub_topic": "Study",
+      "japanese": "しゅくだい",
+      "furigana": "しゅくだい",
+      "romaji": "shukudai",
+      "english": "Homework",
+      "sinhala": "ගෙදර වැඩ",
+      "audio": {
+        "file_name": "wordlist_X_20-4.mp3",
+        "track_id": "L24-V94",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_20-4.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_15_1_07_shukudai.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_15_1_07_shukudai.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_194",
+      "main_topic": "13. 仕事と勉強 / Work & Study",
+      "sub_topic": "Study",
+      "japanese": "クラス",
+      "furigana": "クラス",
+      "romaji": "kurasu",
+      "english": "Class",
+      "sinhala": "පන්තිය",
+      "audio": {
+        "file_name": "wordlist_X_20-5.mp3",
+        "track_id": "L24-V95",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_20-5.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_15_1_08_kurasu.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_15_1_08_kurasu.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_195",
+      "main_topic": "14. 体と健康 / Body & Health",
+      "sub_topic": "Body Parts",
+      "japanese": "からだ",
+      "furigana": "からだ",
+      "romaji": "karada",
+      "english": "Body",
+      "sinhala": "ශරීරය",
+      "audio": {
+        "file_name": "wordlist_X_20-6.mp3",
+        "track_id": "L25-V96",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_20-6.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_16_1_01_karada.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_16_1_01_karada.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_196",
+      "main_topic": "14. 体と健康 / Body & Health",
+      "sub_topic": "Body Parts",
+      "japanese": "あたま",
+      "furigana": "あたま",
+      "romaji": "atama",
+      "english": "Head",
+      "sinhala": "හිස",
+      "audio": {
+        "file_name": "wordlist_X_20-7.mp3",
+        "track_id": "L25-V97",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_20-7.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_16_1_02_atama.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_16_1_02_atama.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_197",
+      "main_topic": "14. 体と健康 / Body & Health",
+      "sub_topic": "Body Parts",
+      "japanese": "かお",
+      "furigana": "かお",
+      "romaji": "kao",
+      "english": "Face",
+      "sinhala": "මුහුණ",
+      "audio": {
+        "file_name": "wordlist_X_20-8.mp3",
+        "track_id": "L25-V98",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_20-8.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_16_1_03_kao.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_16_1_03_kao.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_198",
+      "main_topic": "14. 体と健康 / Body & Health",
+      "sub_topic": "Body Parts",
+      "japanese": "め",
+      "furigana": "め",
+      "romaji": "me",
+      "english": "Eye",
+      "sinhala": "ඇස",
+      "audio": {
+        "file_name": "wordlist_X_20-9.mp3",
+        "track_id": "L25-V99",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_20-9.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_16_1_04_me.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_16_1_04_me.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_199",
+      "main_topic": "14. 体と健康 / Body & Health",
+      "sub_topic": "Body Parts",
+      "japanese": "て",
+      "furigana": "て",
+      "romaji": "te",
+      "english": "Hand",
+      "sinhala": "අත",
+      "audio": {
+        "file_name": "wordlist_X_20-10.mp3",
+        "track_id": "L25-V100",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_20-10.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_16_1_05_te.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_16_1_05_te.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    },
+    {
+      "id": "st_200",
+      "main_topic": "14. 体と健康 / Body & Health",
+      "sub_topic": "Body Parts",
+      "japanese": "あし",
+      "furigana": "あし",
+      "romaji": "ashi",
+      "english": "Leg",
+      "sinhala": "කකුල",
+      "audio": {
+        "file_name": "wordlist_X_21-1.mp3",
+        "track_id": "L25-V101",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/wordlists/audio/wordlist_X/wordlist_X_21-1.mp3",
+        "has_audio": true
+      },
+      "illustration": {
+        "file_name": "X_16_1_06_ashi.png",
+        "illustration_url": "https://www.irodori.jpf.go.jp/assets/img/illust/starter/resize/X_16_1_06_ashi.png",
+        "category": "general",
+        "has_illustration": true
+      }
+    }
+  ]
+}

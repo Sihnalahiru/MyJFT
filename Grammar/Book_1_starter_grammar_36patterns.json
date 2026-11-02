@@ -1,0 +1,1737 @@
+{
+  "level": "Irodori Starter (A1)",
+  "total_grammar_patterns": 36,
+  "total_examples": 180,
+  "coverage": "Complete official 36 grammar patterns of Irodori Starter (Lessons 1-18) with verified official Irodori worksheet audio links.",
+  "grammar_patterns": [
+    {
+      "id": "gm_st_001",
+      "book": "Irodori Starter (A1)",
+      "lesson": 1,
+      "category": "Identity & Equative",
+      "pattern": "N1 は N2 です",
+      "title_sinhala": "N1 යනු N2 වේ (හැඳින්වීම)",
+      "formation_rule": "Noun1 + は + Noun2 + です",
+      "explanation_sinhala": "වාක්‍යයේ ප්‍රධාන මාතෘකාව (N1) සහ එය කුමක්ද යන්න (N2) විනීතව පැවසීමට මෙය යොදාගනී.",
+      "audio": {
+        "file_name": "GWS_X_L01_1.mp3",
+        "track_id": "GM-ST-001",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L01_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "私はカルロスです。",
+          "romaji": "Watashi wa Karurosu desu.",
+          "sinhala": "මම කාලෝස් වෙමි."
+        },
+        {
+          "example_id": 2,
+          "japanese": "私は会社員です。",
+          "romaji": "Watashi wa kaishain desu.",
+          "sinhala": "මම සමාගම් සේවකයෙක් වෙමි."
+        },
+        {
+          "example_id": 3,
+          "japanese": "スミスさんはアメリカ人です。",
+          "romaji": "Sumisu-san wa Amerikajin desu.",
+          "sinhala": "ස්මිත් මහතා ඇමරිකානුවෙකි."
+        },
+        {
+          "example_id": 4,
+          "japanese": "この人は田中さんです。",
+          "romaji": "Kono hito wa Tanaka-san desu.",
+          "sinhala": "මේ පුද්ගලයා තනකා මහතාය."
+        },
+        {
+          "example_id": 5,
+          "japanese": "今日は月曜日です。",
+          "romaji": "Kyou wa getsuyoubi desu.",
+          "sinhala": "අද සඳුදා දිනයයි."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_002",
+      "book": "Irodori Starter (A1)",
+      "lesson": 1,
+      "category": "Identity & Equative",
+      "pattern": "N1 は N2 じゃないです / ではありません",
+      "title_sinhala": "N1 යනු N2 නොවේ (ප්‍රතික්ෂේප කිරීම)",
+      "formation_rule": "Noun1 + は + Noun2 + じゃないです / ではありません",
+      "explanation_sinhala": "නාමපදයක සෘණාත්මක ස්වරූපය ප්‍රකාශ කරයි.",
+      "audio": {
+        "file_name": "GWS_X_L01_2.mp3",
+        "track_id": "GM-ST-002",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L01_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "私は学生じゃないです。",
+          "romaji": "Watashi wa gakusei janai desu.",
+          "sinhala": "මම ශිෂ්‍යයෙක් නොවේ."
+        },
+        {
+          "example_id": 2,
+          "japanese": "彼はいしゃではありません。",
+          "romaji": "Kare wa isha dewa arimasen.",
+          "sinhala": "ඔහු වෛද්‍යවරයෙක් නොවේ."
+        },
+        {
+          "example_id": 3,
+          "japanese": "スリランカ人じゃないです。インド人です。",
+          "romaji": "Surirankajin janai desu. Indojin desu.",
+          "sinhala": "මම ශ්‍රී ලංකිකයෙක් නොවේ. ඉන්දියානුවෙකි."
+        },
+        {
+          "example_id": 4,
+          "japanese": "明日は日曜日じゃないです。",
+          "romaji": "Ashita wa nichiyoubi janai desu.",
+          "sinhala": "හෙට ඉරිදා දිනය නොවේ."
+        },
+        {
+          "example_id": 5,
+          "japanese": "これは私の本ではありません。",
+          "romaji": "Kore wa watashi no hon dewa arimasen.",
+          "sinhala": "මෙය මගේ පොත නොවේ."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_003",
+      "book": "Irodori Starter (A1)",
+      "lesson": 2,
+      "category": "Questions",
+      "pattern": "N1 は N2 ですか",
+      "title_sinhala": "N1 යනු N2 ද? (ප්‍රශ්න ඇසීම)",
+      "formation_rule": "Sentence + か",
+      "explanation_sinhala": "වාක්‍යයක් අගට 'か' එකතු කිරීමෙන් ප්‍රශ්නාර්ථ වාක්‍යයක් සෑදේ.",
+      "audio": {
+        "file_name": "GWS_X_L02_1.mp3",
+        "track_id": "GM-ST-003",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L02_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "あなたは学生ですか。",
+          "romaji": "Anata wa gakusei desu ka.",
+          "sinhala": "ඔබ ශිෂ්‍යයෙක්ද?"
+        },
+        {
+          "example_id": 2,
+          "japanese": "はい、学生です。",
+          "romaji": "Hai, gakusei desu.",
+          "sinhala": "ඔව්, මම ශිෂ්‍යයෙක්."
+        },
+        {
+          "example_id": 3,
+          "japanese": "いいえ、学生じゃないです。",
+          "romaji": "Iie, gakusei janai desu.",
+          "sinhala": "නැත, මම ශිෂ්‍යයෙක් නොවේ."
+        },
+        {
+          "example_id": 4,
+          "japanese": "お仕事は何ですか。",
+          "romaji": "O-shigoto wa nan desu ka.",
+          "sinhala": "ඔබේ රැකියාව කුමක්ද?"
+        },
+        {
+          "example_id": 5,
+          "japanese": "お名前は何ですか。",
+          "romaji": "O-namae wa nan desu ka.",
+          "sinhala": "ඔබේ නම කුමක්ද?"
+        }
+      ]
+    },
+    {
+      "id": "gm_st_004",
+      "book": "Irodori Starter (A1)",
+      "lesson": 2,
+      "category": "Particles",
+      "pattern": "N1 の N2",
+      "title_sinhala": "N1 ගේ / හි N2 (අයිතිය/සම්බන්ධය)",
+      "formation_rule": "Noun1 + の + Noun2",
+      "explanation_sinhala": "නාමපද දෙකක් එකිනෙක සම්බන්ධ කිරීමට 'の' යෙදේ.",
+      "audio": {
+        "file_name": "GWS_X_L02_2.mp3",
+        "track_id": "GM-ST-004",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L02_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "これは私のペンです。",
+          "romaji": "Kore wa watashi no pen desu.",
+          "sinhala": "මෙය මගේ පෑනයි."
+        },
+        {
+          "example_id": 2,
+          "japanese": "日本語の先生です。",
+          "romaji": "Nihongo no sensei desu.",
+          "sinhala": "ජපන් භාෂා ගුරුවරයෙකි."
+        },
+        {
+          "example_id": 3,
+          "japanese": "スリランカの紅茶です。",
+          "romaji": "Suriranka no koucha desu.",
+          "sinhala": "ශ්‍රී ලංකාවේ තේ ය."
+        },
+        {
+          "example_id": 4,
+          "japanese": "会社の名前は何ですか。",
+          "romaji": "Kaisha no namae wa nan desu ka.",
+          "sinhala": "සමාගමේ නම කුමක්ද?"
+        },
+        {
+          "example_id": 5,
+          "japanese": "田中さんの電話番号です。",
+          "romaji": "Tanaka-san no denwa bangou desu.",
+          "sinhala": "තනකා මහතාගේ දුරකථන අංකයයි."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_005",
+      "book": "Irodori Starter (A1)",
+      "lesson": 2,
+      "category": "Particles",
+      "pattern": "N も",
+      "title_sinhala": "N ද / N ත් (සමානත්වය)",
+      "formation_rule": "Noun + も",
+      "explanation_sinhala": "කලින් සඳහන් කළ කරුණට සමාන තවත් කරුණක් දැක්වීමට 'は' වෙනුවට 'も' ආදේශ කරයි.",
+      "audio": {
+        "file_name": "GWS_X_L02_3.mp3",
+        "track_id": "GM-ST-005",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L02_3.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "私も会社員です。",
+          "romaji": "Watashi mo kaishain desu.",
+          "sinhala": "මමත් සමාගම් සේවකයෙක් වෙමි."
+        },
+        {
+          "example_id": 2,
+          "japanese": "スミスさんもアメリカ人です。",
+          "romaji": "Sumisu-san mo Amerikajin desu.",
+          "sinhala": "ස්මිත් මහතාද ඇමරිකානුවෙකි."
+        },
+        {
+          "example_id": 3,
+          "japanese": "これもおいしいです。",
+          "romaji": "Kore mo oishii desu.",
+          "sinhala": "මේකත් රසවත්."
+        },
+        {
+          "example_id": 4,
+          "japanese": "明日も休みです。",
+          "romaji": "Ashita mo yasumi desu.",
+          "sinhala": "හෙටත් නිවාඩු දිනයකි."
+        },
+        {
+          "example_id": 5,
+          "japanese": "日本語も英語も話せます。",
+          "romaji": "Nihongo mo Eigo mo hanasemasu.",
+          "sinhala": "ජපන් භාෂාවත් ඉංග්‍රීසි භාෂාවත් කතා කළ හැක."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_006",
+      "book": "Irodori Starter (A1)",
+      "lesson": 3,
+      "category": "Demonstratives",
+      "pattern": "これ / それ / あれ は N です",
+      "title_sinhala": "මේක / ඕක / අරක N වේ",
+      "formation_rule": "これ / それ / あれ + は + Noun + です",
+      "explanation_sinhala": "ස්ථානීය දර්ශක පෙන්වීමට යොදාගනී.",
+      "audio": {
+        "file_name": "GWS_X_L03_1.mp3",
+        "track_id": "GM-ST-006",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L03_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "これは日本のカメラです。",
+          "romaji": "Kore wa Nihon no kamera desu.",
+          "sinhala": "මෙය ජපානයේ කැමරාවකි."
+        },
+        {
+          "example_id": 2,
+          "japanese": "それは何ですか。",
+          "romaji": "Sore wa nan desu ka.",
+          "sinhala": "ඕක මොකක්ද?"
+        },
+        {
+          "example_id": 3,
+          "japanese": "あれは私の傘です。",
+          "romaji": "Are wa watashi no kasa desu.",
+          "sinhala": "අර තියෙන්නේ මගේ කුඩයයි."
+        },
+        {
+          "example_id": 4,
+          "japanese": "これはいくらですか。",
+          "romaji": "Kore wa ikura desu ka.",
+          "sinhala": "මේක කීයද?"
+        },
+        {
+          "example_id": 5,
+          "japanese": "それは500円です。",
+          "romaji": "Sore wa gohyaku-en desu.",
+          "sinhala": "ඕක යෙන් 500ක්."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_007",
+      "book": "Irodori Starter (A1)",
+      "lesson": 4,
+      "category": "Demonstratives",
+      "pattern": "ここ / そこ / あそこ は N です",
+      "title_sinhala": "මෙතැන / ඔතැන / අතැන N වේ (ස්ථාන)",
+      "formation_rule": "ここ / そこ / あそこ / どこ + は + Place/Noun + です",
+      "explanation_sinhala": "ස්ථානයක් පෙන්වීමට යොදාගනී.",
+      "audio": {
+        "file_name": "GWS_X_L04_1.mp3",
+        "track_id": "GM-ST-007",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L04_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "ここは受付です。",
+          "romaji": "Koko wa uketsuke desu.",
+          "sinhala": "මෙතැන පිළිගැනීමේ කවුන්ටරයයි."
+        },
+        {
+          "example_id": 2,
+          "japanese": "トイレはどこですか。",
+          "romaji": "Toire wa doko desu ka.",
+          "sinhala": "වැසිකිළිය කොහේද?"
+        },
+        {
+          "example_id": 3,
+          "japanese": "あそこは食堂です。",
+          "romaji": "Asoko wa shokudou desu.",
+          "sinhala": "අතැන ආපනශාලාවයි."
+        },
+        {
+          "example_id": 4,
+          "japanese": "会議室は2階です。",
+          "romaji": "Kaigishitsu wa nikai desu.",
+          "sinhala": "රැස්වීම් කාමරය දෙවැනි මහලේය."
+        },
+        {
+          "example_id": 5,
+          "japanese": "エレベーターはあちらです。",
+          "romaji": "Erebeetaa wa achira desu.",
+          "sinhala": "විදුලි සෝපානය අර පැත්තේය."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_008",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "category": "Existence",
+      "pattern": "[Place] に N (inanimate) が あります",
+      "title_sinhala": "ස්ථානයක අජීවී දෙයක් තිබෙනවා",
+      "formation_rule": "Place + に + Inanimate Noun + が + あります",
+      "explanation_sinhala": "පණ නැති ද්‍රව්‍ය යම් ස්ථානයක තිබෙන බව දැක්වීමට 'あります' යෙදේ.",
+      "audio": {
+        "file_name": "GWS_X_L05_1.mp3",
+        "track_id": "GM-ST-008",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L05_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "部屋にテレビがあります。",
+          "romaji": "Heya ni terebi ga arimasu.",
+          "sinhala": "කාමරයේ රූපවාහිනියක් තිබේ."
+        },
+        {
+          "example_id": 2,
+          "japanese": "机の上に本があります。",
+          "romaji": "Tsukue no ue ni hon ga arimasu.",
+          "sinhala": "මේසය උඩ පොතක් තිබේ."
+        },
+        {
+          "example_id": 3,
+          "japanese": "駅の近くにコンビニがあります。",
+          "romaji": "Eki no chikaku ni konbini ga arimasu.",
+          "sinhala": "දුම්රියපළ අසල පහසුකම් වෙළඳසැලක් තිබේ."
+        },
+        {
+          "example_id": 4,
+          "japanese": "冷蔵庫に何もありません。",
+          "romaji": "Reizouko ni nani mo arimasen.",
+          "sinhala": "ශීතකරණයේ කිසිවක් නැත."
+        },
+        {
+          "example_id": 5,
+          "japanese": "公園に大きな木があります。",
+          "romaji": "Kouen ni ookina ki ga arimasu.",
+          "sinhala": "උද්‍යානයේ විශාල ගසක් තිබේ."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_009",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "category": "Existence",
+      "pattern": "[Place] に N (animate) が います",
+      "title_sinhala": "ස්ථානයක පුද්ගලයෙක්/සතෙක් සිටිනවා",
+      "formation_rule": "Place + に + Animate Noun + が + います",
+      "explanation_sinhala": "පණ ඇති ජීවීන් සිටින බව දැක්වීමට 'います' යෙදේ.",
+      "audio": {
+        "file_name": "GWS_X_L05_2.mp3",
+        "track_id": "GM-ST-009",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L05_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "教室に先生がいます。",
+          "romaji": "Kyoushitsu ni sensei ga imasu.",
+          "sinhala": "පන්ති කාමරයේ ගුරුවරයෙක් සිටී."
+        },
+        {
+          "example_id": 2,
+          "japanese": "庭に犬がいます。",
+          "romaji": "Niwa ni inu ga imasu.",
+          "sinhala": "මිදුලේ බල්ලෙක් සිටී."
+        },
+        {
+          "example_id": 3,
+          "japanese": "事務所に誰がいますか。",
+          "romaji": "Jimusho ni dare ga imasu ka.",
+          "sinhala": "කාර්යාලයේ කවුද ඉන්නේ?"
+        },
+        {
+          "example_id": 4,
+          "japanese": "あそこに猫が2匹います。",
+          "romaji": "Asoko ni neko ga nihiki imasu.",
+          "sinhala": "අතැන පූසන් දෙදෙනෙක් සිටී."
+        },
+        {
+          "example_id": 5,
+          "japanese": "今、部屋に誰もいません。",
+          "romaji": "Ima, heya ni dare mo imasen.",
+          "sinhala": "දැන් කාමරයේ කිසිවෙක් නැත."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_010",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "category": "Particles",
+      "pattern": "N1 と N2",
+      "title_sinhala": "N1 සහ N2 (ලැයිස්තුගත කිරීම)",
+      "formation_rule": "Noun1 + と + Noun2",
+      "explanation_sinhala": "නාමපද ලැයිස්තුගත කිරීමට 'と' භාවිත කරයි.",
+      "audio": {
+        "file_name": "GWS_X_L05_3.mp3",
+        "track_id": "GM-ST-010",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L05_3.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "パンと卵を食べます。",
+          "romaji": "Pan to tamago o tabemasu.",
+          "sinhala": "මම පාන් සහ බිත්තර කනවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "机の上に本とペンがあります。",
+          "romaji": "Tsukue no ue ni hon to pen ga arimasu.",
+          "sinhala": "මේසය උඩ පොත් සහ පෑන් තිබේ."
+        },
+        {
+          "example_id": 3,
+          "japanese": "父と母はスリランカにいます。",
+          "romaji": "Chichi to haha wa Suriranka ni imasu.",
+          "sinhala": "මගේ පියා සහ මව ශ්‍රී ලංකාවේ සිටිති."
+        },
+        {
+          "example_id": 4,
+          "japanese": "犬と猫が好きです。",
+          "romaji": "Inu to neko ga suki desu.",
+          "sinhala": "මම බල්ලන්ට සහ පූසන්ට කැමතියි."
+        },
+        {
+          "example_id": 5,
+          "japanese": "水とお茶をください。",
+          "romaji": "Mizu to o-cha o kudasai.",
+          "sinhala": "වතුර සහ තේ දෙන්න කරුණාකර."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_011",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "category": "Preferences",
+      "pattern": "N が 好きです / 好きじゃないです",
+      "title_sinhala": "N ට කැමතියි / අකමැතියි",
+      "formation_rule": "Noun + が + 好きです / 好きじゃないです",
+      "explanation_sinhala": "කැමැත්ත හෝ අකමැත්ත දැක්වීම.",
+      "audio": {
+        "file_name": "GWS_X_L06_1.mp3",
+        "track_id": "GM-ST-011",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L06_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "私は日本料理が好きです。",
+          "romaji": "Watashi wa Nihon-ryouri ga suki desu.",
+          "sinhala": "මම ජපන් කෑමවලට කැමතියි."
+        },
+        {
+          "example_id": 2,
+          "japanese": "辛い食べ物は好きじゃないです。",
+          "romaji": "Karai tabemono wa suki janai desu.",
+          "sinhala": "මම සැර කෑමවලට කැමති නෑ."
+        },
+        {
+          "example_id": 3,
+          "japanese": "どんなスポーツが好きですか。",
+          "romaji": "Donna supootsu ga suki desu ka.",
+          "sinhala": "ඔබ කැමති මොන වගේ ක්‍රීඩා වලටද?"
+        },
+        {
+          "example_id": 4,
+          "japanese": "サッカーが大好きです。",
+          "romaji": "Sakkaa ga daisuki desu.",
+          "sinhala": "මම පාපන්දු ක්‍රීඩාවට ගොඩක් කැමතියි."
+        },
+        {
+          "example_id": 5,
+          "japanese": "お酒はあまり好きじゃないです。",
+          "romaji": "O-sake wa amari suki janai desu.",
+          "sinhala": "මම මත්පැන් වලට එතරම් කැමති නෑ."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_012",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "category": "Verbs Core",
+      "pattern": "V-ます / V-ません",
+      "title_sinhala": "කරනවා / කරන්නේ නෑ (වර්තමාන/අනාගත ක්‍රියා)",
+      "formation_rule": "Verb Stem + ます / ません",
+      "explanation_sinhala": "දෛනික පුරුදු ප්‍රකාශ කිරීම.",
+      "audio": {
+        "file_name": "GWS_X_L07_1.mp3",
+        "track_id": "GM-ST-012",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L07_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "毎日コーヒーを飲みます。",
+          "romaji": "Mainichi koohii o nomimasu.",
+          "sinhala": "මම දිනපතා කෝපි බොනවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "朝ごはんは食べません。",
+          "romaji": "Asagohan wa tabemasen.",
+          "sinhala": "මම උදෑසන ආහාරය ගන්නේ නෑ."
+        },
+        {
+          "example_id": 3,
+          "japanese": "夜11時に寝ます。",
+          "romaji": "Yoru juuichi-ji ni nemasu.",
+          "sinhala": "මම රෑ 11ට නිදාගන්නවා."
+        },
+        {
+          "example_id": 4,
+          "japanese": "日曜日は働きません。",
+          "romaji": "Nichiyoubi wa hatarakimasen.",
+          "sinhala": "ඉරිදාට මම වැඩ කරන්නේ නෑ."
+        },
+        {
+          "example_id": 5,
+          "japanese": "毎晩日本語を勉強します。",
+          "romaji": "Maiban Nihongo o benkyou shimasu.",
+          "sinhala": "මම හැමදාම රෑට ජපන් භාෂාව පාඩම් කරනවා."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_013",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "category": "Particles",
+      "pattern": "[Time] に V-ます",
+      "title_sinhala": "වේලාවට ක්‍රියාවක් කිරීම",
+      "formation_rule": "Specific Time + に + Verb",
+      "explanation_sinhala": "නිශ්චිත වේලාවක් දැක්වීමට 'に' යොදයි.",
+      "audio": {
+        "file_name": "GWS_X_L07_2.mp3",
+        "track_id": "GM-ST-013",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L07_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "毎朝7時に起きます。",
+          "romaji": "Maiasa shichi-ji ni okimasu.",
+          "sinhala": "මම හැමදාම උදේ 7ට අවදි වෙනවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "仕事は何時に終わりますか。",
+          "romaji": "Shigoto wa nan-ji ni owarimasu ka.",
+          "sinhala": "වැඩ අවසන් වෙන්නේ කීයටද?"
+        },
+        {
+          "example_id": 3,
+          "japanese": "12時半に昼ごはんを食べます。",
+          "romaji": "Juuni-ji han ni hirugohan o tabemasu.",
+          "sinhala": "12:30ට දවල් ආහාරය ගන්නවා."
+        },
+        {
+          "example_id": 4,
+          "japanese": "月曜日にテストがあります。",
+          "romaji": "Getsuyoubi ni tesuto ga arimasu.",
+          "sinhala": "සඳුදා දින විභාගයක් තියෙනවා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "土曜日の夜に友達と会います。",
+          "romaji": "Doyoubi no yoru ni tomodachi to aimasu.",
+          "sinhala": "සෙනසුරාදා රෑට යහළුවන් හමුවෙනවා."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_014",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "category": "Particles",
+      "pattern": "N を V-ます",
+      "title_sinhala": "කර්මය හඳුනාගැනීම",
+      "formation_rule": "Noun (Object) + を + Transitive Verb",
+      "explanation_sinhala": "ක්‍රියාවට ලක්වන ප්‍රධාන වස්තුව සලකුණු කිරීමට 'を' භාවිත කරයි.",
+      "audio": {
+        "file_name": "GWS_X_L07_3.mp3",
+        "track_id": "GM-ST-014",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L07_3.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "りんごを食べます。",
+          "romaji": "Ringo o tabemasu.",
+          "sinhala": "ඇපල් ගෙඩියක් කනවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "水を飲みます。",
+          "romaji": "Mizu o nomimasu.",
+          "sinhala": "වතුර බොනවා."
+        },
+        {
+          "example_id": 3,
+          "japanese": "テレビを見ます。",
+          "romaji": "Terebi o mimasu.",
+          "sinhala": "රූපවාහිනිය බලනවා."
+        },
+        {
+          "example_id": 4,
+          "japanese": "音楽を聞きます。",
+          "romaji": "Ongaku o kikimasu.",
+          "sinhala": "සංගීතයට සවන් දෙනවා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "本を読みます。",
+          "romaji": "Hon o yomimasu.",
+          "sinhala": "පොතක් කියවනවා."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_015",
+      "book": "Irodori Starter (A1)",
+      "lesson": 7,
+      "category": "Particles",
+      "pattern": "[Place] で V-ます",
+      "title_sinhala": "ස්ථානයකදී ක්‍රියාවක් කිරීම",
+      "formation_rule": "Place + で + Action Verb",
+      "explanation_sinhala": "ක්‍රියාකාරකමක් සිදුවන ස්ථානය දැක්වීමට 'で' යොදයි.",
+      "audio": {
+        "file_name": "GWS_X_L07_4.mp3",
+        "track_id": "GM-ST-015",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L07_4.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "食堂で昼ごはんを食べます。",
+          "romaji": "Shokudou de hirugohan o tabemasu.",
+          "sinhala": "ආපනශාලාවේදී දිවා ආහාරය ගන්නවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "家で映画を見ます。",
+          "romaji": "Ie de eiga o mimasu.",
+          "sinhala": "නිවසේදී චිත්‍රපට නරඹනවා."
+        },
+        {
+          "example_id": 3,
+          "japanese": "スーパーで買い物をします。",
+          "romaji": "Suupaa de kaimono o shimasu.",
+          "sinhala": "සුපිරි වෙළඳසැලේදී බඩු ගන්නවා."
+        },
+        {
+          "example_id": 4,
+          "japanese": "図書館で勉強します。",
+          "romaji": "Toshokan de benkyou shimasu.",
+          "sinhala": "පුස්තකාලයේදී පාඩම් කරනවා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "どこで服を買いますか。",
+          "romaji": "Doko de fuku o kaimasu ka.",
+          "sinhala": "ඇඳුම් ගන්නේ කොහෙන්ද?"
+        }
+      ]
+    },
+    {
+      "id": "gm_st_016",
+      "book": "Irodori Starter (A1)",
+      "lesson": 8,
+      "category": "Verbs Past",
+      "pattern": "V-ました / V-ませんでした",
+      "title_sinhala": "කළා / කළේ නෑ (අතීත ක්‍රියා)",
+      "formation_rule": "Verb Stem + ました / ませんでした",
+      "explanation_sinhala": "ක්‍රියාපදයක අතීත කාලය ප්‍රකාශ කරයි.",
+      "audio": {
+        "file_name": "GWS_X_L08_1.mp3",
+        "track_id": "GM-ST-016",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L08_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "昨日、日本語を勉強しました。",
+          "romaji": "Kinou, Nihongo o benkyou shimashita.",
+          "sinhala": "ඊයේ මම ජපන් පාඩම් කළා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "朝ごはんを食べませんでした。",
+          "romaji": "Asagohan o tabemasen deshita.",
+          "sinhala": "මම උදේ කෑම කෑවේ නෑ."
+        },
+        {
+          "example_id": 3,
+          "japanese": "昨夜、よく寝ましたか。",
+          "romaji": "Yuube, yoku nemashita ka.",
+          "sinhala": "ඊයේ රෑ හොඳට නින්ද ගියාද?"
+        },
+        {
+          "example_id": 4,
+          "japanese": "どこへも行きませんでした。",
+          "romaji": "Doko e mo ikimasen deshita.",
+          "sinhala": "මම කොහේවත් ගියේ නෑ."
+        },
+        {
+          "example_id": 5,
+          "japanese": "先週、新しい靴を買いました。",
+          "romaji": "Senshuu, atarashii kutsu o kaimashita.",
+          "sinhala": "ගිය සතියේ අලුත් සපත්තු මිලදී ගත්තා."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_017",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "category": "Movement",
+      "pattern": "[Place] へ 行きます / 来ます / 帰ります",
+      "title_sinhala": "ස්ථානයකට යනවා / එනවා / ආපසු යනවා",
+      "formation_rule": "Place + へ / に + 行きます / 来ます / 帰ります",
+      "explanation_sinhala": "ගමන් කරන දිශාව හෝ ගමනාන්තය දැක්වීම.",
+      "audio": {
+        "file_name": "GWS_X_L09_1.mp3",
+        "track_id": "GM-ST-017",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L09_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "明日会社へ行きます。",
+          "romaji": "Ashita kaisha e ikimasu.",
+          "sinhala": "හෙට සමාගමට යනවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "日本へ来ました。",
+          "romaji": "Nihon e kimashita.",
+          "sinhala": "ජපානයට ආවා."
+        },
+        {
+          "example_id": 3,
+          "japanese": "午後6時に家へ帰ります。",
+          "romaji": "Gogo roku-ji ni ie e kaerimasu.",
+          "sinhala": "සවස 6ට ගෙදර යනවා."
+        },
+        {
+          "example_id": 4,
+          "japanese": "週末どこへ行きますか。",
+          "romaji": "Shuumatsu doko e ikimasu ka.",
+          "sinhala": "සති අන්තයේ කොහේද යන්නේ?"
+        },
+        {
+          "example_id": 5,
+          "japanese": "コンビニへ行きます。",
+          "romaji": "Konbini e ikimasu.",
+          "sinhala": "පහසුකම් කඩයට යනවා."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_018",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "category": "Movement",
+      "pattern": "[Vehicle/Means] で 行きます",
+      "title_sinhala": "ප්‍රවාහන මාධ්‍යයකින් ගමන් කිරීම",
+      "formation_rule": "Vehicle / Transport + で + 行きます",
+      "explanation_sinhala": "වාහනයක් භාවිත කිරීම.",
+      "audio": {
+        "file_name": "GWS_X_L09_2.mp3",
+        "track_id": "GM-ST-018",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L09_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "電車で会社へ行きます。",
+          "romaji": "Densha de kaisha e ikimasu.",
+          "sinhala": "දුම්රියෙන් වැඩට යනවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "バスで病院へ行きました。",
+          "romaji": "Basu de byouin e ikimashita.",
+          "sinhala": "බස් රථයෙන් රෝහලට ගියා."
+        },
+        {
+          "example_id": 3,
+          "japanese": "飛行機で日本へ来ました。",
+          "romaji": "Hikouki de Nihon e kimashita.",
+          "sinhala": "ගුවන් යානයෙන් ජපානයට ආවා."
+        },
+        {
+          "example_id": 4,
+          "japanese": "自転車で駅まで行きます。",
+          "romaji": "Jitensha de eki made ikimasu.",
+          "sinhala": "පාපැදියෙන් දුම්රියපළට යනවා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "歩いて帰ります。",
+          "romaji": "Aruite kaerimasu.",
+          "sinhala": "පයින් ගෙදර යනවා."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_019",
+      "book": "Irodori Starter (A1)",
+      "lesson": 9,
+      "category": "Movement",
+      "pattern": "[Person] と 行きます",
+      "title_sinhala": "කෙනෙකු සමඟ යමක් කිරීම / යාම",
+      "formation_rule": "Person + と + Verb",
+      "explanation_sinhala": "කා සමඟද යන්න දැක්වීම.",
+      "audio": {
+        "file_name": "GWS_X_L09_3.mp3",
+        "track_id": "GM-ST-019",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L09_3.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "友達と日本へ来ました。",
+          "romaji": "Tomodachi to Nihon e kimashita.",
+          "sinhala": "මිතුරා සමඟ ජපානයට ආවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "家族と買い物をします。",
+          "romaji": "Kazoku to kaimono o shimasu.",
+          "sinhala": "පවුලේ අය සමඟ බඩු ගන්නවා."
+        },
+        {
+          "example_id": 3,
+          "japanese": "同僚と昼ごはんを食べました。",
+          "romaji": "Douryou to hirugohan o tabemashita.",
+          "sinhala": "සගයා සමඟ දවල් කෑම කෑවා."
+        },
+        {
+          "example_id": 4,
+          "japanese": "一人で旅行に行きます。",
+          "romaji": "Hitori de ryokou ni ikimasu.",
+          "sinhala": "තනියම සංචාරය කරනවා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "誰と映画を見ますか。",
+          "romaji": "Dare to eiga o mimasu ka.",
+          "sinhala": "කා සමඟද චිත්‍රපට බලන්නේ?"
+        }
+      ]
+    },
+    {
+      "id": "gm_st_020",
+      "book": "Irodori Starter (A1)",
+      "lesson": 10,
+      "category": "Time & Range",
+      "pattern": "[Place/Time] から [Place/Time] まで",
+      "title_sinhala": "සිට ... දක්වා",
+      "formation_rule": "Start Point + から + End Point + まで",
+      "explanation_sinhala": "ආරම්භක සහ අවසාන ලක්ෂ්‍යය දැක්වීම.",
+      "audio": {
+        "file_name": "GWS_X_L10_1.mp3",
+        "track_id": "GM-ST-020",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L10_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "9時から5時まで働きます。",
+          "romaji": "Ku-ji kara go-ji made hatarakimasu.",
+          "sinhala": "9 සිට 5 දක්වා වැඩ කරනවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "東京から大阪まで新幹線で行きます。",
+          "romaji": "Toukyou kara Oosaka made Shinkansen de ikimasu.",
+          "sinhala": "ටෝකියෝ සිට ඔසාකා දක්වා ෂින්කන්සෙන් දුම්රියෙන් යනවා."
+        },
+        {
+          "example_id": 3,
+          "japanese": "銀行は何時から何時までですか。",
+          "romaji": "Ginkou wa nan-ji kara nan-ji made desu ka.",
+          "sinhala": "බැංකුව කීයේ සිට කීය දක්වාද?"
+        },
+        {
+          "example_id": 4,
+          "japanese": "家から駅まで15分かかります。",
+          "romaji": "Ie kara eki made juugo-fun kakarimasu.",
+          "sinhala": "ගෙදර සිට දුම්රියපළට විනාඩි 15ක් ගතවෙනවා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "昼休みは12時からです。",
+          "romaji": "Hiruyasumi wa juuni-ji kara desu.",
+          "sinhala": "දහවල් විවේකය 12 සිට ආරම්භ වේ."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_021",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "category": "Requests",
+      "pattern": "N を ください",
+      "title_sinhala": "N දෙන්න කරුණාකර",
+      "formation_rule": "Noun + を + ください",
+      "explanation_sinhala": "යමක් ඉල්ලා සිටීමට යොදාගනී.",
+      "audio": {
+        "file_name": "GWS_X_L11_1.mp3",
+        "track_id": "GM-ST-021",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L11_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "お水をください。",
+          "romaji": "O-mizu o kudasai.",
+          "sinhala": "වතුර දෙන්න කරුණාකර."
+        },
+        {
+          "example_id": 2,
+          "japanese": "これをお願いします。",
+          "romaji": "Kore o onegaishimasu.",
+          "sinhala": "මේක දෙන්න කරුණාකර."
+        },
+        {
+          "example_id": 3,
+          "japanese": "メニューをください。",
+          "romaji": "Menyuu o kudasai.",
+          "sinhala": "මෙනු පත දෙන්න කරුණාකර."
+        },
+        {
+          "example_id": 4,
+          "japanese": "コーヒーとサンドイッチをください。",
+          "romaji": "Koohii to sandoitchi o kudasai.",
+          "sinhala": "කෝපි සහ සැන්ඩ්විච් එකක් දෙන්න කරුණාකර."
+        },
+        {
+          "example_id": 5,
+          "japanese": "レシートをください。",
+          "romaji": "Reshiito o kudasai.",
+          "sinhala": "රිසිට්පත දෙන්න කරුණාකර."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_022",
+      "book": "Irodori Starter (A1)",
+      "lesson": 11,
+      "category": "Counters",
+      "pattern": "[Counter / Number] ください",
+      "title_sinhala": "ප්‍රමාණයක් සඳහන් කර ඉල්ලීම",
+      "formation_rule": "Noun + Number/Counter + ください",
+      "explanation_sinhala": "භාණ්ඩ ගණන සඳහන් කර ඇනවුම් කිරීම.",
+      "audio": {
+        "file_name": "GWS_X_L11_2.mp3",
+        "track_id": "GM-ST-022",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L11_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "これをひとつください。",
+          "romaji": "Kore o hitotsu kudasai.",
+          "sinhala": "මෙයින් එකක් දෙන්න කරුණාකර."
+        },
+        {
+          "example_id": 2,
+          "japanese": "おにぎりをふたつください。",
+          "romaji": "Onigiri o futatsu kudasai.",
+          "sinhala": "ඔනිගිරි දෙකක් දෙන්න කරුණාකර."
+        },
+        {
+          "example_id": 3,
+          "japanese": "ビールを2本ください。",
+          "romaji": "Biiru o nihon kudasai.",
+          "sinhala": "බියර් බෝතල් දෙකක් දෙන්න කරුණාකර."
+        },
+        {
+          "example_id": 4,
+          "japanese": "ケーキをみっつお願いします。",
+          "romaji": "Keeki o mittsu onegaishimasu.",
+          "sinhala": "කේක් තුනක් දෙන්න කරුණාකර."
+        },
+        {
+          "example_id": 5,
+          "japanese": "全部でいくらですか。",
+          "romaji": "Zenbu de ikura desu ka.",
+          "sinhala": "ඔක්කොම එකතු කරලා කීයද?"
+        }
+      ]
+    },
+    {
+      "id": "gm_st_023",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "category": "Desire",
+      "pattern": "V-たいです / V-たくないです",
+      "title_sinhala": "යමක් කිරීමට ආසයි / අකමැතියි",
+      "formation_rule": "Verb [Stem] + たいです",
+      "explanation_sinhala": "තමාගේ පෞද්ගලික ආශාවන් ප්‍රකාශ කිරීම.",
+      "audio": {
+        "file_name": "GWS_X_L12_1.mp3",
+        "track_id": "GM-ST-023",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L12_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "日本へ行きたいです。",
+          "romaji": "Nihon e ikitai desu.",
+          "sinhala": "මට ජපානයට යන්න ඕන."
+        },
+        {
+          "example_id": 2,
+          "japanese": "寿司を食べたいです。",
+          "romaji": "Sushi o tabetai desu.",
+          "sinhala": "මට සුෂි කන්න ආසයි."
+        },
+        {
+          "example_id": 3,
+          "japanese": "今日は何もしたくないです。",
+          "romaji": "Kyou wa nani mo shitakunai desu.",
+          "sinhala": "අද මට කිසිම දෙයක් කරන්න හිතෙන්නේ නෑ."
+        },
+        {
+          "example_id": 4,
+          "japanese": "何を飲みたいですか。",
+          "romaji": "Nani o nomitai desu ka.",
+          "sinhala": "ඔබට බොන්න ඕන මොනවද?"
+        },
+        {
+          "example_id": 5,
+          "japanese": "新しい車を買いたいです。",
+          "romaji": "Atarashii kuruma o kaitai desu.",
+          "sinhala": "අලුත් වාහනයක් ගන්න ආසයි."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_024",
+      "book": "Irodori Starter (A1)",
+      "lesson": 12,
+      "category": "Movement Purpose",
+      "pattern": "[Place] へ V [Stem] に 行きます",
+      "title_sinhala": "ස්ථානයකට යම් අරමුණක් සඳහා යාම",
+      "formation_rule": "Place + へ/に + Verb Stem + に + 行きます",
+      "explanation_sinhala": "යම් අරමුණක් සඳහා යාම.",
+      "audio": {
+        "file_name": "GWS_X_L12_2.mp3",
+        "track_id": "GM-ST-024",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L12_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "デパートへ買い物に行きます。",
+          "romaji": "Depaato e kaimono ni ikimasu.",
+          "sinhala": "මම බඩු ගන්න ඩිපාර්ට්මන්ට් ස්ටෝර් එකට යනවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "食堂へ昼ごはんを食べに行きます。",
+          "romaji": "Shokudou e hirugohan o tabe ni ikimasu.",
+          "sinhala": "කැන්ටින් එකට දවල් කෑම කන්න යනවා."
+        },
+        {
+          "example_id": 3,
+          "japanese": "友達の家へ遊びに行きました。",
+          "romaji": "Tomodachi no ie e asobi ni ikimashita.",
+          "sinhala": "යහළුවාගේ ගෙදර විනෝද වෙන්න ගියා."
+        },
+        {
+          "example_id": 4,
+          "japanese": "日本へ何の勉強に来ましたか。",
+          "romaji": "Nihon e nan no benkyou ni kimashita ka.",
+          "sinhala": "ජපානයට ආවේ මොනවා ඉගෙන ගන්නද?"
+        },
+        {
+          "example_id": 5,
+          "japanese": "公園へ散歩に行きましょう。",
+          "romaji": "Kouen e sanpo ni ikimashou.",
+          "sinhala": "උද්‍යානයට ඇවිදින්න යමු."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_025",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "category": "Adjectives",
+      "pattern": "い-Adjectives (Present: ～いです / ～くないです)",
+      "title_sinhala": "ඉ-නාමවිශේෂණ (වර්තමාන කාලය)",
+      "formation_rule": "Adj + いです / くないです",
+      "explanation_sinhala": "ඉ-නාමවිශේෂණවල වර්තමාන කාලය.",
+      "audio": {
+        "file_name": "GWS_X_L13_1.mp3",
+        "track_id": "GM-ST-025",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L13_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "この部屋は広いです。",
+          "romaji": "Kono heya wa hiroi desu.",
+          "sinhala": "මේ කාමරය ඉඩකඩ සහිතයි."
+        },
+        {
+          "example_id": 2,
+          "japanese": "今日はあまり寒くないです。",
+          "romaji": "Kyou wa amari samukunai desu.",
+          "sinhala": "අද එතරම් සීතල නෑ."
+        },
+        {
+          "example_id": 3,
+          "japanese": "日本のラーメンはおいしいです。",
+          "romaji": "Nihon no raamen wa oishii desu.",
+          "sinhala": "ජපන් රාමෙන් ඉතා රසවත්."
+        },
+        {
+          "example_id": 4,
+          "japanese": "この靴は高くないです。安いです。",
+          "romaji": "Kono kutsu wa takakunai desu. Yasui desu.",
+          "sinhala": "මේ සපත්තු ගණන් නෑ. ලාභයි."
+        },
+        {
+          "example_id": 5,
+          "japanese": "体調はあまりよくないです。",
+          "romaji": "Taichou wa amari yokunai desu.",
+          "sinhala": "ඇඟට එතරම් සනීප නෑ."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_026",
+      "book": "Irodori Starter (A1)",
+      "lesson": 13,
+      "category": "Adjectives",
+      "pattern": "な-Adjectives (Present: ～です / ～じゃないです)",
+      "title_sinhala": "න-නාමවිශේෂණ (වර්තමාන කාලය)",
+      "formation_rule": "Adj + です / じゃないです",
+      "explanation_sinhala": "න-නාමවිශේෂණවල වර්තමාන කාලය.",
+      "audio": {
+        "file_name": "GWS_X_L13_2.mp3",
+        "track_id": "GM-ST-026",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L13_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "この町は静かです。",
+          "romaji": "Kono machi wa shizuka desu.",
+          "sinhala": "මේ නගරය නිස්කලංකයි."
+        },
+        {
+          "example_id": 2,
+          "japanese": "駅の近くはとても便利です。",
+          "romaji": "Eki no chikaku wa totemo benri desu.",
+          "sinhala": "දුම්රියපළ ළඟ ඉතා පහසුයි."
+        },
+        {
+          "example_id": 3,
+          "japanese": "ここはあまり有名じゃないです。",
+          "romaji": "Koko wa amari yuumei janai desu.",
+          "sinhala": "මේ ස්ථානය එතරම් ප්‍රසිද්ධ නෑ."
+        },
+        {
+          "example_id": 4,
+          "japanese": "明日は暇ですか。",
+          "romaji": "Ashita wa hima desu ka.",
+          "sinhala": "හෙට ඔබට නිවාඩුද / විවේකද?"
+        },
+        {
+          "example_id": 5,
+          "japanese": "公園の花がきれいです。",
+          "romaji": "Kouen no hana ga kirei desu.",
+          "sinhala": "උද්‍යානයේ මල් ලස්සනයි."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_027",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "category": "Adjectives",
+      "pattern": "い-Adjectives (Past: ～かったです / ～くなかったです)",
+      "title_sinhala": "ඉ-නාමවිශේෂණ (අතීත කාලය)",
+      "formation_rule": "Adj + かったです / くなかったです",
+      "explanation_sinhala": "ඉ-නාමවිශේෂණවල අතීත කාලය.",
+      "audio": {
+        "file_name": "GWS_X_L14_1.mp3",
+        "track_id": "GM-ST-027",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L14_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "旅行はとても楽しかったです。",
+          "romaji": "Ryokou wa totemo tanoshikatta desu.",
+          "sinhala": "සංචාරය ගොඩක් විනෝදජනක වුණා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "昨日は天気がよかったです。",
+          "romaji": "Kinou wa tenki ga yokatta desu.",
+          "sinhala": "ඊයේ කාලගුණය හොඳින් තිබුණා."
+        },
+        {
+          "example_id": 3,
+          "japanese": "テストは難しくなかったです。",
+          "romaji": "Tesuto wa muzukashikunakatta desu.",
+          "sinhala": "විභාගය අමාරු වුණේ නෑ."
+        },
+        {
+          "example_id": 4,
+          "japanese": "昨夜は少し寒かったです。",
+          "romaji": "Yuube wa sukoshi samukatta desu.",
+          "sinhala": "ඊයේ රෑ ටිකක් සීතල වුණා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "映画はどうでしたか。おもしろかったです。",
+          "romaji": "Eiga wa dou deshita ka. Omoshirokatta desu.",
+          "sinhala": "චිත්‍රපටය කොහොමද? රසවත් වුණා."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_028",
+      "book": "Irodori Starter (A1)",
+      "lesson": 14,
+      "category": "Adjectives",
+      "pattern": "な-Adjectives (Past: ～でした / ～じゃなかったです)",
+      "title_sinhala": "න-නාමවිශේෂණ (අතීත කාලය)",
+      "formation_rule": "Adj + でした / じゃなかったです",
+      "explanation_sinhala": "න-නාමවිශේෂණවල අතීත කාලය.",
+      "audio": {
+        "file_name": "GWS_X_L14_2.mp3",
+        "track_id": "GM-ST-028",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L14_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "昨日は暇でした。",
+          "romaji": "Kinou wa hima deshita.",
+          "sinhala": "ඊයේ මට නිවාඩු තිබුණා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "昔、ここは静かでした。",
+          "romaji": "Mukashi, koko wa shizuka deshita.",
+          "sinhala": "ඉස්සර මෙතැන නිස්කලංකව තිබුණා."
+        },
+        {
+          "example_id": 3,
+          "japanese": "ホテルの部屋はあまりきれいじゃなかったです。",
+          "romaji": "Hoteru no heya wa amari kirei janakatta desu.",
+          "sinhala": "හෝටල් කාමරය එතරම් පිරිසිදු වුණේ නෑ."
+        },
+        {
+          "example_id": 4,
+          "japanese": "祭りはとてもにぎやかでした。",
+          "romaji": "Matsuri wa totemo nigiyaka deshita.",
+          "sinhala": "උත්සවය හරිම කලබලකාරී වුණා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "先週はあまり元気じゃなかったです。",
+          "romaji": "Senshuu wa amari genki janakatta desu.",
+          "sinhala": "ගිය සතියේ මට එතරම් සනීප තිබුණේ නෑ."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_029",
+      "book": "Irodori Starter (A1)",
+      "lesson": 15,
+      "category": "Requests",
+      "pattern": "V-て ください",
+      "title_sinhala": "කරුණාකර යමක් කරන්න",
+      "formation_rule": "Verb [Te-form] + ください",
+      "explanation_sinhala": "කාරුණික ඉල්ලීම් කිරීමට යොදාගනී.",
+      "audio": {
+        "file_name": "GWS_X_L15_1.mp3",
+        "track_id": "GM-ST-029",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L15_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "ちょっと待ってください。",
+          "romaji": "Chotto matte kudasai.",
+          "sinhala": "කරුණාකර පොඩ්ඩක් ඉන්න."
+        },
+        {
+          "example_id": 2,
+          "japanese": "もう一度言ってください。",
+          "romaji": "Mou ichido itte kudasai.",
+          "sinhala": "කරුණාකර නැවත වරක් කියන්න."
+        },
+        {
+          "example_id": 3,
+          "japanese": "ここに名前を書いてください。",
+          "romaji": "Koko ni namae o kaite kudasai.",
+          "sinhala": "කරුණාකර මෙතැන ඔබේ නම ලියන්න."
+        },
+        {
+          "example_id": 4,
+          "japanese": "ゆっくり話してください。",
+          "romaji": "Yukkuri hanashite kudasai.",
+          "sinhala": "කරුණාකර හෙමින් කතා කරන්න."
+        },
+        {
+          "example_id": 5,
+          "japanese": "この本を見てください。",
+          "romaji": "Kono hon o mite kudasai.",
+          "sinhala": "කරුණාකර මේ පොත බලන්න."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_030",
+      "book": "Irodori Starter (A1)",
+      "lesson": 15,
+      "category": "Permission",
+      "pattern": "V-て もいいですか",
+      "title_sinhala": "කළාට කමක් නැද්ද?",
+      "formation_rule": "Verb [Te-form] + もいいですか",
+      "explanation_sinhala": "අවසර ඉල්ලීම සඳහා යොදාගනී.",
+      "audio": {
+        "file_name": "GWS_X_L15_2.mp3",
+        "track_id": "GM-ST-030",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L15_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "写真を撮ってもいいですか。",
+          "romaji": "Shashin o totte mo ii desu ka.",
+          "sinhala": "ඡායාරූපයක් ගත්තාට කමක් නැද්ද?"
+        },
+        {
+          "example_id": 2,
+          "japanese": "ここに座ってもいいですか。",
+          "romaji": "Koko ni suwatte mo ii desu ka.",
+          "sinhala": "මෙතැන වාඩි වුණාට කමක් නැද්ද?"
+        },
+        {
+          "example_id": 3,
+          "japanese": "窓を開けてもいいですか。",
+          "romaji": "Mado o akete mo ii desu ka.",
+          "sinhala": "ජනේලය ඇරියාට කමක් නැද්ද?"
+        },
+        {
+          "example_id": 4,
+          "japanese": "電話を使ってもいいですか。",
+          "romaji": "Denwa o tsukatte mo ii desu ka.",
+          "sinhala": "දුරකථනය භාවිත කළාට කමක් නැද්ද?"
+        },
+        {
+          "example_id": 5,
+          "japanese": "はい、どうぞ。いいですよ。",
+          "romaji": "Hai, douzo. Ii desu yo.",
+          "sinhala": "ඔව්, කරුණාකර කරන්න. කමක් නෑ."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_031",
+      "book": "Irodori Starter (A1)",
+      "lesson": 16,
+      "category": "Continuous",
+      "pattern": "V-て います",
+      "title_sinhala": "කරමින් සිටිනවා",
+      "formation_rule": "Verb [Te-form] + います",
+      "explanation_sinhala": "වර්තමාන සිදුවෙමින් පවතින ක්‍රියා දැක්වීම.",
+      "audio": {
+        "file_name": "GWS_X_L16_1.mp3",
+        "track_id": "GM-ST-031",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L16_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "今、テレビを見ています。",
+          "romaji": "Ima, terebi o mite imasu.",
+          "sinhala": "දැන් මම ටීවී බලමින් ඉන්නවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "雨が降っています。",
+          "romaji": "Ame ga futte imasu.",
+          "sinhala": "වැස්ස වහිනවා."
+        },
+        {
+          "example_id": 3,
+          "japanese": "田中さんは今何をしていますか。",
+          "romaji": "Tanaka-san wa ima nani o shite imasu ka.",
+          "sinhala": "තනකා මහතා මේ වෙලාවේ මොකද කරන්නේ?"
+        },
+        {
+          "example_id": 4,
+          "japanese": "日本語を勉強しています。",
+          "romaji": "Nihongo o benkyou shite imasu.",
+          "sinhala": "මම ජපන් පාඩම් කරමින් ඉන්නවා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "東京に住んでいます。",
+          "romaji": "Toukyou ni sunde imasu.",
+          "sinhala": "මම ටෝකියෝවල ජීවත් වෙනවා."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_032",
+      "book": "Irodori Starter (A1)",
+      "lesson": 16,
+      "category": "Prohibition",
+      "pattern": "V-ないで ください",
+      "title_sinhala": "කරන්න එපා",
+      "formation_rule": "Verb [Nai-form] + で ください",
+      "explanation_sinhala": "යම් ක්‍රියාවක් නොකරන ලෙස ඉල්ලා සිටීම.",
+      "audio": {
+        "file_name": "GWS_X_L16_2.mp3",
+        "track_id": "GM-ST-032",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L16_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "ここで写真を撮らないでください。",
+          "romaji": "Koko de shashin o toranaide kudasai.",
+          "sinhala": "කරුණාකර මෙතැන ඡායාරූප ගන්න එපා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "タバコを吸わないでください。",
+          "romaji": "Tabako o suwanaide kudasai.",
+          "sinhala": "කරුණාකර දුම්බොන්න එපා."
+        },
+        {
+          "example_id": 3,
+          "japanese": "無理をしないでください。",
+          "romaji": "Muri o shinaide kudasai.",
+          "sinhala": "කරුණාකර ඕනවට වඩා මහන්සි වෙන්න එපා."
+        },
+        {
+          "example_id": 4,
+          "japanese": "パスポートを忘れないでください。",
+          "romaji": "Pasupooto o wasurenaide kudasai.",
+          "sinhala": "කරුණාකර විදේශ ගමන් බලපත්‍රය අමතක කරන්න එපා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "大声で話さないでください。",
+          "romaji": "Oogoe de hasanaide kudasai.",
+          "sinhala": "කරුණාකර ශබ්ද නගා කතා කරන්න එපා."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_033",
+      "book": "Irodori Starter (A1)",
+      "lesson": 17,
+      "category": "Invitations",
+      "pattern": "V-ませんか",
+      "title_sinhala": "කරමුද? (ආරාධනා කිරීම)",
+      "formation_rule": "Verb [Stem] + ませんか",
+      "explanation_sinhala": "ආරාධනා කිරීමට යොදාගනී.",
+      "audio": {
+        "file_name": "GWS_X_L17_1.mp3",
+        "track_id": "GM-ST-033",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L17_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "一緒にお茶を飲みませんか。",
+          "romaji": "Issho ni o-cha o nomimasen ka.",
+          "sinhala": "අපි එකතු වෙලා තේ බොමුද?"
+        },
+        {
+          "example_id": 2,
+          "japanese": "今週末、映画を見に行きませんか。",
+          "romaji": "Konshuumatsu, eiga o mi ni ikimasen ka.",
+          "sinhala": "මේ සති අන්තයේ චිත්‍රපටයක් බලන්න යමුද?"
+        },
+        {
+          "example_id": 3,
+          "japanese": "ちょっと休みませんか。",
+          "romaji": "Chotto yasumimasen ka.",
+          "sinhala": "පොඩි විවේකයක් ගනිමුද?"
+        },
+        {
+          "example_id": 4,
+          "japanese": "一緒に昼ごはんを食べませんか。",
+          "romaji": "Issho ni hirugohan o tabemasen ka.",
+          "sinhala": "එකට දවල් කෑම කමුද?"
+        },
+        {
+          "example_id": 5,
+          "japanese": "ええ、行きましょう！",
+          "romaji": "Ee, ikimashou!",
+          "sinhala": "හොඳයි, අපි යමු!"
+        }
+      ]
+    },
+    {
+      "id": "gm_st_034",
+      "book": "Irodori Starter (A1)",
+      "lesson": 17,
+      "category": "Suggestions",
+      "pattern": "V-ましょう",
+      "title_sinhala": "අපි කරමු! (යෝජනා කිරීම)",
+      "formation_rule": "Verb [Stem] + ましょう",
+      "explanation_sinhala": "යෝජනා කිරීම සඳහා යොදාගනී.",
+      "audio": {
+        "file_name": "GWS_X_L17_2.mp3",
+        "track_id": "GM-ST-034",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L17_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "そろそろ行きましょう。",
+          "romaji": "Sorosoro ikimashou.",
+          "sinhala": "දැන් අපි යමු."
+        },
+        {
+          "example_id": 2,
+          "japanese": "一緒に頑張りましょう！",
+          "romaji": "Issho ni ganbarimashou!",
+          "sinhala": "අපි එකතු වෙලා උපරිම උත්සාහ කරමු!"
+        },
+        {
+          "example_id": 3,
+          "japanese": "少し休憩しましょう。",
+          "romaji": "Sukoshi kyuukei shimashou.",
+          "sinhala": "ටිකක් විවේක ගනිමු."
+        },
+        {
+          "example_id": 4,
+          "japanese": "乾杯しましょう！",
+          "romaji": "Kanpai shimashou!",
+          "sinhala": "චියර්ස් කියමු!"
+        },
+        {
+          "example_id": 5,
+          "japanese": "手伝いましょうか。",
+          "romaji": "Tetsudaimashou ka.",
+          "sinhala": "මම උදව් කරන්නද?"
+        }
+      ]
+    },
+    {
+      "id": "gm_st_035",
+      "book": "Irodori Starter (A1)",
+      "lesson": 18,
+      "category": "Reasoning",
+      "pattern": "Sentence + から",
+      "title_sinhala": "නිසා (හේතු දැක්වීම)",
+      "formation_rule": "Reason Sentence + から, Main Result",
+      "explanation_sinhala": "හේතුව දැක්වීමට 'から' යොදයි.",
+      "audio": {
+        "file_name": "GWS_X_L18_1.mp3",
+        "track_id": "GM-ST-035",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L18_1.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "時間がありませんから、タクシーで行きます。",
+          "romaji": "Jikan ga arimasen kara, takushii de ikimasu.",
+          "sinhala": "වෙලාව නැති නිසා ටැක්සියකින් යනවා."
+        },
+        {
+          "example_id": 2,
+          "japanese": "今日は忙しいですから、行きません。",
+          "romaji": "Kyou wa isogashii desu kara, ikimasen.",
+          "sinhala": "අද කාර්යබහුල නිසා යන්නේ නෑ."
+        },
+        {
+          "example_id": 3,
+          "japanese": "寒いですから、窓を閉めてください。",
+          "romaji": "Samui desu kara, mado o shimete kudasai.",
+          "sinhala": "සීතල නිසා ජනේලය වහන්න කරුණාකර."
+        },
+        {
+          "example_id": 4,
+          "japanese": "おいしいですから、たくさん食べました。",
+          "romaji": "Oishii desu kara, takusan tabemashita.",
+          "sinhala": "රසවත් නිසා ගොඩක් කෑවා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "危ないですから、触らないでください。",
+          "romaji": "Abunai desu kara, sawaranaide kudasai.",
+          "sinhala": "අනතුරුදායක නිසා අල්ලන්න එපා."
+        }
+      ]
+    },
+    {
+      "id": "gm_st_036",
+      "book": "Irodori Starter (A1)",
+      "lesson": 18,
+      "category": "Conjunctions",
+      "pattern": "Sentence1 + けど / でも, Sentence2",
+      "title_sinhala": "නමුත් / එහෙත් (ප්‍රතිවිරුද්ධ අදහස්)",
+      "formation_rule": "Sentence1 + けど, Sentence2",
+      "explanation_sinhala": "පරස්පර අදහස් සම්බන්ධ කිරීමට 'けど' හෝ 'でも' යොදයි.",
+      "audio": {
+        "file_name": "GWS_X_L18_2.mp3",
+        "track_id": "GM-ST-036",
+        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L18_2.mp3",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "日本の生活は大変ですけど、楽しいです。",
+          "romaji": "Nihon no seikatsu wa taihen desu kedo, tanoshii desu.",
+          "sinhala": "ජපානයේ ජීවිතය අමාරුයි, නමුත් විනෝදජනකයි."
+        },
+        {
+          "example_id": 2,
+          "japanese": "この靴は高いです。でも、とてもいいです。",
+          "romaji": "Kono kutsu wa takai desu. Demo, totemo ii desu.",
+          "sinhala": "මේ සපත්තු ගණන්. නමුත් හරිම හොඳයි."
+        },
+        {
+          "example_id": 3,
+          "japanese": "刺身はおいしいですけど、高いです。",
+          "romaji": "Sashimi wa oishii desu kedo, takai desu.",
+          "sinhala": "සෂිමි රසවත්, නමුත් මිල අධිකයි."
+        },
+        {
+          "example_id": 4,
+          "japanese": "日本語は難しいですけど、面白いです。",
+          "romaji": "Nihongo wa muzukashii desu kedo, omoshiroi desu.",
+          "sinhala": "ජපන් භාෂාව අමාරුයි, නමුත් ආස හිතෙනවා."
+        },
+        {
+          "example_id": 5,
+          "japanese": "行きたいですけど、時間がありません。",
+          "romaji": "Ikitai desu kedo, jikan ga arimasen.",
+          "sinhala": "යන්න ආසයි, නමුත් වෙලාවක් නෑ."
+        }
+      ]
+    }
+  ]
+}
+```[cite: 2, 3]

@@ -1,0 +1,911 @@
+{
+  "book": "Irodori Elementary 1 (A2.1)",
+  "lessons_covered": [
+    11,
+    12
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e1_l11_001",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_31",
+      "can_do_title_sinhala": "ක්‍රීඩා කිරීමට පෙර කරන සූදානම අසා තේරුම් ගැනීම (～まえに)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L11_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "二人は走る前に何をしますか。",
+        "furigana": "[ふたり]は[はし]る[まえ]に[なに]をしますか。",
+        "sinhala": "දෙදෙනා දිවීමට පෙර කරන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "準備運動・ストレッチをする (සූදානම් වීමේ ව්‍යායාම / Stretch කිරීම)"
+        },
+        {
+          "id": "B",
+          "text": "水分をたくさん飲む (වතුර ගොඩක් පානය කිරීම)"
+        },
+        {
+          "id": "C",
+          "text": "靴を買いに行く (සපත්තු මිලදී ගැනීමට යාම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、走りに行きましょう！\nB: ちょっと待ってください。急に走ると危ないですから、走る前に準備運動をしましょう。\nA: そうですね。ストレッチをしましょう。",
+        "sinhala": "A: කාලෝස් මහතා, අපි දුවන්න යමු!\nB: පොඩ්ඩක් ඉන්න. එකපාරටම දිව්වොත් අනතුරුදායකයි, ඒ නිසා දුවන්න කලින් සූදානම් වීමේ ව්‍යායාම (準備運動) කරමු.\nA: ඒක ඇත්ත. අපි ස්ට්‍රෙච් කරමු."
+      },
+      "explanation_sinhala": "දිවීමට පෙර සූදානම් වීමේ ව්‍යායාම කළ යුතු බව (走る前に準備運動をしましょう) පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l11_002",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_31",
+      "can_do_title_sinhala": "ක්‍රියා අනුපිළිවෙල අසා තේරුම් ගැනීම (～てから)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L11_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性は運動したあと、いつお風呂に入りますか。",
+        "furigana": "[じょせい]は[うんどう]したあと、いつお[ふろ]に[はい]りますか。",
+        "sinhala": "කාන්තාව ව්‍යායාම කළ පසු නාන්නේ කවදාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "少し休んでから入る (ටිකක් විවේක ගත් පසුව නායි)"
+        },
+        {
+          "id": "B",
+          "text": "運動してすぐ入る (ව්‍යායාම කළ වහාම නායි)"
+        },
+        {
+          "id": "C",
+          "text": "ご飯を食べてから入る (කෑම කෑ පසුව නායි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 運動のあと、すぐお風呂に入りますか。\nB: いいえ、すぐ入ると心臓に悪いですから、水分をとって、少し休んでからお風呂に入ります。",
+        "sinhala": "A: එක්සසයිස් කළාට පස්සේ කෙළින්ම නාන්න යනවද?\nB: නැහැ, එකපාරටම නෑවොත් හෘදයට හොඳ නෑ, ඒ නිසා වතුර බීලා, ටිකක් විවේක ගත්තට පස්සේ (少し休んでから) තමයි නාන්නේ."
+      },
+      "explanation_sinhala": "ඇය '少し休んでからお風呂に入ります' (ටිකක් විවේක ගත්තාට පසුව නානවා) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l11_003",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_32",
+      "can_do_title_sinhala": "දෛනික සෞඛ්‍ය පුරුදු අසා තේරුම් ගැනීම (～あとで)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L11_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは毎晩、お風呂から上がったあとでストレッチをします。（◯ か ✕）",
+        "furigana": "スミスさんは[まいばん]、お[ふろ]から[あ]がったあとでストレッチをします。（◯ か ✕）",
+        "sinhala": "ස්මිත් මහතා හැමදාම රෑට නාලා ඉවර වුණාට පස්සේ ස්ට්‍රෙචින්ග් ව්‍යායාම කරනවාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, නෑවාට පසු කරයි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, නෑමට පෙර කරයි)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: スミスさんは健康のために何かしていますか。\nB: はい、毎晩お風呂に入ったあとで、15分くらいストレッチをしています。体がよく眠れますよ。",
+        "sinhala": "A: ස්මිත් මහතා සෞඛ්‍ය වෙනුවෙන් මොනවා හරි කරනවද?\nB: ඔව්, හැමදාම රෑට නාලා ඉවර වුණාට පස්සේ (お風呂に入ったあとで) විනාඩි 15ක් විතර ස්ට්‍රෙචින්ග් කරනවා. හොඳට නින්ද යනවා."
+      },
+      "explanation_sinhala": "ස්මිත් මහතා 'お風呂に入ったあとで...ストレッチをしています' යැයි පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l11_004",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_32",
+      "can_do_title_sinhala": "ව්‍යායාම කරන වාර ගණන අසා තේරුම් ගැනීම (Frequency)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L11_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんはどのくらいの頻度（ひんど）でジムへ行きますか。",
+        "furigana": "マリアさんはどのくらいの[ひんど]でジムへ[い]きますか。",
+        "sinhala": "මරියා කොපමණ වාර ගණනක් ජිම් එකට යයිද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "週に2回くらい (සතියකට 2 වතාවක් පමණ)"
+        },
+        {
+          "id": "B",
+          "text": "毎日 (දිනපතා)"
+        },
+        {
+          "id": "C",
+          "text": "月に1回 (මසකට 1 වතාවක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさんはジムに通っていますか。\nB: はい、仕事のあとで週に2回くらい行っています。ヨガのクラスに出てリフレッシュしています。",
+        "sinhala": "A: මරියා ජිම් එකට යනවද?\nB: ඔව්, වැඩ ඇරුණාට පස්සේ සතියට දෙපාරක් විතර (週に2回くらい) යනවා. යෝගා පන්තියකට සහභාගී වෙනවා."
+      },
+      "explanation_sinhala": "මරියා '週に2回くらい' (සතියට 2 වතාවක් පමණ) යන බව පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l11_005",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_32",
+      "can_do_title_sinhala": "පියවර මනින ඇප් එකක තොරතුරු කියවීම (Pedometer App)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l11_q05_pedometer.png"
+      },
+      "question_text": {
+        "japanese": "歩数計アプリの画面を見てください。今日の目標（8,000歩）を達成しましたか。",
+        "furigana": "[ほすうけい]アプリの[がめん]を[み]てください。[きょう]の[もくひょう]（8,000[ぽ]）を[たっせい]しましたか。",
+        "sinhala": "ඇප් තිරය බලන්න. අද ඉලක්කය වූ පියවර 8,000 සම්පූර්ණ කර තිබේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "はい、8,540歩歩いたので達成しました (ඔව්, පියවර 8,540ක් ගිය බැවින් සම්පූර්ණ කළේය)"
+        },
+        {
+          "id": "B",
+          "text": "いいえ、まだ6,000歩です (නැත, තවම 6,000යි)"
+        },
+        {
+          "id": "C",
+          "text": "目標が設定されていません (ඉලක්කයක් සකසා නැත)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තිරයේ '8,540 歩 / 目標達成！' ලෙස පෙන්වන බැවින් ඉලක්කය සපුරා ඇත (A)."
+    },
+    {
+      "quiz_id": "qz_e1_l11_006",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_31",
+      "can_do_title_sinhala": "කාර්යාලයේදී කළ හැකි සරල ස්ට්‍රෙචින්ග් උපදෙස් කියවීම",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l11_q06_stretch.png"
+      },
+      "question_text": {
+        "japanese": "ポスターによると、息を止めないでゆっくり伸ばすことが大切ですか。（◯ か ✕）",
+        "furigana": "ポスターによると、[いき]を[と]めないでゆっくり[の]ばすことが[たいせつ]ですか。（◯ か ✕）",
+        "sinhala": "පෝස්ටරයට අනුව හුස්ම නොනවත්වා හෙමින් ඇඟ ඇදීම (Stretch කිරීම) වැදගත්ද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, හුස්ම නොනවත්වා හෙමින් කළ යුතුය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, හුස්ම අල්ලාගෙන වේගයෙන් කළ යුතුය)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "පෝස්ටරයේ 'ポイント: 息を止めずに、痛くないところまでゆっくり伸ばしましょう' ලෙස දක්වා ඇති බැවින් සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l11_007",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_31",
+      "can_do_title_sinhala": "යමක් කිරීමට පෙර (V-る まえに)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「寝る（　）、スマホを見ないようにしています。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[ね]る（　）、スマホを[み]ないようにしています。」",
+        "sinhala": "'නිදාගැනීමට පෙර, දුරකථනය නොබලා සිටීමට උත්සාහ කරමි' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "まえに (mae ni - පෙර)"
+        },
+        {
+          "id": "B",
+          "text": "あとで (ato de - පසු)"
+        },
+        {
+          "id": "C",
+          "text": "から (kara)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාවක් කිරීමට පෙර (Before doing...) දැක්වීමට 'V-dict + まえに' (寝るまえに) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e1_l11_008",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_31",
+      "can_do_title_sinhala": "නාමපදයක් සමඟ 'まえに' යෙදීම (N の まえに)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る適切な助詞を選んでください：「食事（　）まえに、手を洗います。」",
+        "furigana": "[くうらん]に[はい]る[てきせつ]な[じょし]を[えら]んでください：「[しょくじ]（　）まえに、[て]を[あら]います。」",
+        "sinhala": "'කෑම වේලට පෙර අත් සෝදමි' යැයි කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "の (no)"
+        },
+        {
+          "id": "B",
+          "text": "を (o)"
+        },
+        {
+          "id": "C",
+          "text": "で (de)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නාමපදයක් (食事 - කෑම වේල) සමඟ 'まえに' යෙදීමේදී 'Noun + の + まえに' (食事のまえに) යෙදිය යුතුය."
+    },
+    {
+      "quiz_id": "qz_e1_l11_009",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_31",
+      "can_do_title_sinhala": "යමක් කළාට පසුව (V-た あとで)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る正しい動詞の形を選んでください：「ご飯を（　）あとで、薬を飲みます。」",
+        "furigana": "[くうらん]に[はい]る[ただ]しい[どうし]の[かたち]を[えら]んでください：「ご[はん]を（　）あとで、[くすり]を[の]みます。」",
+        "sinhala": "'කෑම කෑවාට පසුව, බෙහෙත් බොනවා' කීමට හිස්තැනට ගැළපෙන ක්‍රියාපද ආකෘතිය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "食べた (Tabeta - Ta-form)"
+        },
+        {
+          "id": "B",
+          "text": "食べる (Taberu - Dict form)"
+        },
+        {
+          "id": "C",
+          "text": "食べて (Tabete - Te-form)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'～あとで' (පසුව) ඉදිරියෙන් ක්‍රියාපදයේ Ta-form එක යෙදිය යුතුය (食べたあとで). 'てから' සමඟ යෙදෙන්නේ Te-form එකයි (食べてから)."
+    },
+    {
+      "quiz_id": "qz_e1_l11_010",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_32",
+      "can_do_title_sinhala": "සෞඛ්‍යය හඳුන්වන වචනය (健康 / Kenkou)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「健康」の正しい読み方はどれですか。",
+        "furigana": "「[けんこう]」の[ただ]しい[よ]み[かた]はどれですか。",
+        "sinhala": "'健康' (සෞඛ්‍යය / Health) කන්ජි වචනයේ නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "けんこう (Kenkou)"
+        },
+        {
+          "id": "B",
+          "text": "げんき (Genki - සුවපහසුව)"
+        },
+        {
+          "id": "C",
+          "text": "びょうき (Byouki - රෝගී බව)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'健康' යනු 'けんこう' (Kenkou - සෞඛ්‍යය/Health) වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l11_011",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_31",
+      "can_do_title_sinhala": "දිවීම හඳුන්වන ක්‍රියාපදය (走る / Hashiru)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「Run」の意味の動詞はどれですか。",
+        "furigana": "「Run」の[いみ]の[どうし]はどれですか。",
+        "sinhala": "'දිවීම' (Run) යන අර්ථය දෙන ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "走ります / はしります (Hashirimasu)"
+        },
+        {
+          "id": "B",
+          "text": "歩きます / あるきます (Arukimasu - ඇවිදිනවා)"
+        },
+        {
+          "id": "C",
+          "text": "泳ぎます / およぎます (Oyogimasu - පීනනවා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දිවීම '走ります' (හෂිරිමාසු) වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l11_012",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 11,
+      "can_do_id": "cando_e1_31",
+      "can_do_title_sinhala": "සෞඛ්‍ය සම්පන්න දෛනික චර්යාවක අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "健康的な順序に並べ替えてください：\n1: 走ったあとで、水分をとります\n2: 走るまえに、準備運動をします\n3: シャワーを浴びてから、少し休みます",
+        "furigana": "[けんこうてき]な[じゅんじょ]に[なら]べ[か]えてください：\n1: [はし]ったあとで、[すいぶん]をとります\n2: [はし]るまえに、[じゅんびうんどう]をします\n3: シャワーを[あ]びてから、[すこ]し[やす]みます",
+        "sinhala": "ක්‍රියාකාරකම්වල ස්වභාවික අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 1 -> 3"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 3"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 1 -> 2"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (දිවීමට පෙර සූදානම් වීමේ ව්‍යායාම) -> 1 (දිවූ පසු ජලය පානය) -> 3 (නාගෙන ටිකක් විවේක ගැනීම)."
+    },
+    {
+      "quiz_id": "qz_e1_l12_013",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_33",
+      "can_do_title_sinhala": "රෝග ලක්ෂණ වෛද්‍යවරයාට පැවසීම අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L12_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんはどんな症状（しょうじょう）がありますか。",
+        "furigana": "カルロスさんはどんな[しょうじょう]がありますか。",
+        "sinhala": "කාලෝස් මහතාට ඇති රෝග ලක්ෂණ මොනවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "熱があって、のどが痛い (උණ සහ උගුරේ වේදනාව)"
+        },
+        {
+          "id": "B",
+          "text": "お腹が痛くて、下痢をしている (බඩේ කැක්කුම සහ පාචනය)"
+        },
+        {
+          "id": "C",
+          "text": "頭痛だけで、熱はない (හිසරදය පමණයි, උණ නැත)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "医者: 今日はどうされましたか。\nカルロス: 昨日から熱が38度あって、のどがとても痛いんです。咳も少し出ます。\n医者: 風邪ですね。のどを見せてください。",
+        "sinhala": "වෛද්‍යවරයා: අද මොකද වුණේ?\nකාලෝස්: ඊයේ ඉඳන් උණ අංශක 38ක් තියෙනවා, උගුර ගොඩක් රිදෙනවා. කැස්සත් ටිකක් තියෙනවා.\nවෛද්‍යවරයා: හෙම්බිරිස්සාව. උගුර පෙන්වන්න."
+      },
+      "explanation_sinhala": "කාලෝස් '熱が38度あって、のどがとても痛い' (උණ සහ උගුරේ වේදනාව) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l12_014",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_34",
+      "can_do_title_sinhala": "වෛද්‍යවරයා ලබාදෙන උපදෙස් අසා තේරුම් ගැනීම (～たほうがいい)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L12_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "医者は患者にどうするようにアドバイスしましたか。",
+        "furigana": "[いしゃ]は[かんじゃ]にどうするようにアドバイスしましたか。",
+        "sinhala": "වෛද්‍යවරයා රෝගියාට කළ යුතු දේ ලෙස උපදෙස් දුන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "薬を飲んで、今日は早く寝たほうがいい (බෙහෙත් බී අද ඉක්මනින් නිදාගැනීම වඩා හොඳයි)"
+        },
+        {
+          "id": "B",
+          "text": "運動したほうがいい (ව්‍යායාම කිරීම වඩා හොඳයි)"
+        },
+        {
+          "id": "C",
+          "text": "お風呂に長く入ったほうがいい (නාන කාමරයේ වැඩි වේලාවක් සිටීම වඩා හොඳයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "医者: 薬を3日分出しておきます。食後に飲んでください。それから、今日はお風呂に入らないで、暖かくして早く寝たほうがいいですよ。\n患者: はい、わかりました。",
+        "sinhala": "වෛද්‍යවරයා: දින 3කට බෙහෙත් දෙන්නම්. කෑමට පස්සේ බොන්න. ඒ වගේම අද නාන්නේ නැතිව, උණුසුම්ව ඉඳලා ඉක්මනින් නිදාගන්න එක වඩා හොඳයි (早く寝たほうがいいですよ).\nරෝගියා: හරි, තේරුණා."
+      },
+      "explanation_sinhala": "වෛද්‍යවරයා පවසන්නේ '早く寝たほうがいいですよ' (ඉක්මනින් නිදාගැනීම වඩා හොඳයි) කියාය. පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l12_015",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_35",
+      "can_do_title_sinhala": "නොකළ යුතු දැඩි තහනම අසා තේරුම් ගැනීම (～てはいけません)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L12_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "この薬を飲んだあと、車を運転してもいいですか。（◯ か ✕）",
+        "furigana": "この[くすり]を[の]んだあと、[くるま]を[うんてん]してもいいですか。（◯ か ✕）",
+        "sinhala": "මෙම ඖෂධය බීමෙන් පසු රිය පැදවීමට අවසර තිබේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, රිය පැදවිය හැක)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, රිය පැදවීම තහනම්ය)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "薬剤師: このお薬は飲むととても眠くなります。ですから、飲んだあとは車の運転をしてはいけませんよ。\n患者: わかりました。運転はしません。",
+        "sinhala": "ඖෂධවේදියා: මේ බෙහෙත බිව්වාම ගොඩක් නිදිමත වෙනවා. ඒ නිසා බිව්වාට පස්සේ වාහන පදවන්න එපා / තහනම් (運転をしてはいけませんよ).\nරෝගියා: හරි, මම ඩ්‍රයිව් කරන්නේ නෑ."
+      },
+      "explanation_sinhala": "'車の運転をしてはいけません' (රිය පැදවීම තහනම්ය) යැයි අනතුරු අඟවන බැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_e1_l12_016",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_35",
+      "can_do_title_sinhala": "අවසර දීම අසා තේරුම් ගැනීම (～てもいいです)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L12_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "熱が下がったら、何をしてもいいと言われましたか。",
+        "furigana": "[ねつ]が[さ]がったら、[なに]をしてもいいと[い]われましたか。",
+        "sinhala": "උණ බැස ගිය පසු කළ හැකි බව පැවසුවේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "シャワーを浴びてもいい (ෂවර් එකෙන් නෑවාට කමක් නැත)"
+        },
+        {
+          "id": "B",
+          "text": "お酒を飲んでもいい (මත්පැන් බීවාට කමක් නැත)"
+        },
+        {
+          "id": "C",
+          "text": "激しいスポーツをしてもいい (දැඩි ව්‍යායාම කළාට කමක් නැත)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "患者: 先生、お風呂は入ってもいいですか。\n医者: 今日は熱がありますからやめてください。明日熱が下がったら、シャワーを浴びてもいいですよ。",
+        "sinhala": "රෝගියා: ඩොක්ටර්, නෑවට කමක් නැද්ද?\nවෛද්‍යවරයා: අද උණ තියෙන නිසා එපා. හෙට උණ බැස්සොත් ෂවර් එකෙන් නෑවට කමක් නෑ (シャワーを浴びてもいいですよ)."
+      },
+      "explanation_sinhala": "උණ බැස ගිය පසු ෂවර් එකෙන් නෑමට අවසර දුන් බැවින් (シャワーを浴びてもいい) පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l12_017",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_36",
+      "can_do_title_sinhala": "බෙහෙත් පැකට්ටුවේ උපදෙස් කියවීම (Medicine Bag Instructions)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l12_q17_medicinebag.png"
+      },
+      "question_text": {
+        "japanese": "薬袋を見てください。この薬はいつ飲みますか：「1日3回 毎食後 1回1錠」",
+        "furigana": "[くすりぶくろ]を[み]てください。この[くすり]はいつ[の]みますか：「1[にち]3[かい] [まいしょくご] 1[かい]1[じょう]」",
+        "sinhala": "බෙහෙත් පැකට්ටුව බලන්න. මෙම ඖෂධය ගත යුත්තේ කවදාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1日3回、毎回の食事のあとで (දිනකට 3 වරක්, සෑම කෑම වේලකටම පසුව)"
+        },
+        {
+          "id": "B",
+          "text": "寝るまえに1回だけ (නිදාගැනීමට පෙර 1 වරක් පමණි)"
+        },
+        {
+          "id": "C",
+          "text": "食事のまえに (කෑමට පෙර)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'毎食後' (Maishokugo) යනු සෑම කෑම වේලකටම පසුව යන්නයි. එබැවින් දිනකට 3 වරක් කෑමෙන් පසු ගත යුතුය."
+    },
+    {
+      "quiz_id": "qz_e1_l12_018",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_36",
+      "can_do_title_sinhala": "රෝහල් පිළිගැනීමේ පුවරුවක් කියවීම (Insurance card)",
+      "task_type": "reading",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l12_q18_hospitalnotice.png"
+      },
+      "question_text": {
+        "japanese": "受付の案内に「毎月、保険証をご提示ください」とあります。病院に行くときは健康保険証を持っていかなければなりませんか。（◯ か ✕）",
+        "furigana": "[うけつけ]の[あんない]に「[まいつき]、[ほけんしょう]をご[ていじ]ください」とあります。[びょういん]に[い]くときは[けんこうほけんしょう]を[も]っていかなければなりませんか。（◯ か ✕）",
+        "sinhala": "රෝහලට යන විට සෞඛ්‍ය රක්ෂණ කාඩ්පත (Health Insurance Card) රැගෙන යා යුතුද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, රක්ෂණ කාඩ්පත රැගෙන යා යුතුය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, එය අවශ්‍ය නොවේ)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ රෝහලකට යන විට සෞඛ්‍ය රක්ෂණ කාඩ්පත (保険証) පෙන්වීම අනිවාර්ය වන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l12_019",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_34",
+      "can_do_title_sinhala": "උපදෙස් දීම (V-た ほうがいいです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "熱がある人に「病院に行くこと」を勧める正しい文はどれですか。",
+        "furigana": "[ねつ]がある[ひと]に「[びょういん]に[い]くこと」を[すす]める[ただ]しい[ぶん]はどれですか。",
+        "sinhala": "උණ ඇති කෙනෙකුට 'රෝහලට යන එක වඩා හොඳයි' කියා උපදෙස් දෙන නිවැරදි වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "病院に行ったほうがいいですよ (Byouin ni itta hou ga ii desu yo)"
+        },
+        {
+          "id": "B",
+          "text": "病院に行くほうがいいですよ"
+        },
+        {
+          "id": "C",
+          "text": "病院に行かないほうがいいですよ"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාවක් කිරීම හොඳ බවට උපදෙස් දීමට 'V-ta + ほうがいいです' (行ったほうがいいですよ) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e1_l12_020",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_34",
+      "can_do_title_sinhala": "නොකිරීම වඩා හොඳ බව පැවසීම (V-ない ほうがいいです)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "お腹が痛い人に「冷たい物を飲まないこと」をアドバイスする文はどれですか。",
+        "furigana": "お[なか]が[いた]い[ひと]に「[つめ]たい[もの]を[の]まないこと」をアドバイスする[ぶん]はどれですか。",
+        "sinhala": "බඩ රිදෙන කෙනෙකුට 'සීතල දේවල් නොබී සිටීම වඩා හොඳයි' කියා උපදෙස් දෙන වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "冷たい物は飲まないほうがいいですよ (Nomanaihou ga ii desu yo)"
+        },
+        {
+          "id": "B",
+          "text": "冷たい物は飲まなかったほうがいいですよ"
+        },
+        {
+          "id": "C",
+          "text": "冷たい物は飲まないでほうがいいですよ"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නොකිරීම හොඳ බවට උපදෙස් දීමේදී 'V-nai + ほうがいいです' (飲まないほうがいいですよ) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e1_l12_021",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_35",
+      "can_do_title_sinhala": "තහනම් නීතියක් දැක්වීම (～てはいけません)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「病院の中で携帯電話で（　）はいけません。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[びょういん]の[なか]で[けいたいでんわ]で（　）はいけません。」",
+        "sinhala": "'රෝහල තුළ ජංගම දුරකථනයෙන් කතා නොකළ යුතුය / තහනම්ය' කීමට හිස්තැනට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "話して (Hanashite - Te-form)"
+        },
+        {
+          "id": "B",
+          "text": "話す (Hanasu)"
+        },
+        {
+          "id": "C",
+          "text": "話さない (Hanasanai)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නොකළ යුතු බවට නීතියක් ප්‍රකාශ කිරීමට 'Te-form + は いけません' (話してはいけません) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e1_l12_022",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_33",
+      "can_do_title_sinhala": "හිසරදය හඳුන්වන වචනය (頭痛 / Zutsuu / Atama ga itai)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「頭が痛い（Headache）」を表す言葉はどれですか。",
+        "furigana": "「[あたま]が[いた]い（Headache）」を[あらわ]す[ことば]はどれですか。",
+        "sinhala": "'හිසේ කැක්කුම' (Headache) හඳුන්වන ජපන් වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "頭痛（ずつう） / 頭が痛い"
+        },
+        {
+          "id": "B",
+          "text": "腹痛（ふくつう） / お腹が痛い (බඩේ කැක්කුම)"
+        },
+        {
+          "id": "C",
+          "text": "歯痛（しつう） / 歯が痛い (දත් කැක්කුම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "හිසරදය '頭痛' (Zutsuu) හෝ '頭が痛い' (Atama ga itai) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l12_023",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_33",
+      "can_do_title_sinhala": "බෙහෙත් ගැනීම සඳහා යොදන ක්‍රියාපදය (飲む)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「薬（Medicine）」と一緒に使う正しい動詞はどれですか：「薬を（　）。」",
+        "furigana": "「[くすり]（Medicine）」と[いっしょ]に[つか]う[ただ]しい[どうし]はどれですか：「[くすり]を（　）。」",
+        "sinhala": "'බෙහෙත් බොනවා/ගන්නවා' යැයි කීමට '薬' සමඟ යෙදෙන නිවැරදි ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "飲みます (Nomimasu)"
+        },
+        {
+          "id": "B",
+          "text": "食べます (Tabemasu)"
+        },
+        {
+          "id": "C",
+          "text": "使います (Tsukaimasu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පෙති හෝ දියර ඖෂධ ගැනීම සඳහා ජපන් බසින් යොදන්නේ '薬を飲みます' (බෙහෙත් බොනවා) යන්නයි."
+    },
+    {
+      "quiz_id": "qz_e1_l12_024",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 12,
+      "can_do_id": "cando_e1_34",
+      "can_do_title_sinhala": "අසනීප වූ සගයෙකුට සුවය පැතීමේ සංවාදයක අනුපිළිවෙල (お大事に)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 風邪ですね。無理をしないで早く帰ったほうがいいですよ\n2: どうしたんですか。顔色が悪いですよ\n3: お大事に！\n4: 少し熱があって、のどが痛いんです",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [かぜ]ですね。[むり]をしないで[はや]く[かえ]ったほうがいいですよ\n2: どうしたんですか。[かおいろ]が[わる]いですよ\n3: お[だいじ]に！\n4: [すこ]し[ねつ]があって、のどが[いた]いんです",
+        "sinhala": "අසනීපයක් ගැන විමසන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2 -> 4 -> 1 -> 3"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 4 -> 3"
+        },
+        {
+          "id": "C",
+          "text": "4 -> 2 -> 1 -> 3"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 2 (මොකද වුණේ? මූණත් අසනීප පාටයි) -> 4 (පොඩ්ඩක් උණ තියෙනවා, උගුරත් රිදෙනවා) -> 1 (හෙම්බිරිස්සාව වගේ, අමාරුවෙන් ඉන්නේ නැතුව ඉක්මනින් ගෙදර යන එක හොඳයි) -> 3 (ඉක්මන් සුවය පතනවා! - お大事に)."
+    }
+  ]
+}

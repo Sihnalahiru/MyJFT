@@ -1,0 +1,919 @@
+{
+  "book": "Irodori Elementary 2 (A2.2)",
+  "lessons_covered": [
+    9,
+    10
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e2_l09_001",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_27",
+      "can_do_title_sinhala": "ආපනශාලාවකට ඇතුළු වූ විට ආසන තේරීම අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L09_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "客は何名で、どの席を希望しましたか。",
+        "furigana": "[きゃく]は[なんめい]で、どの[せき]を[きぼう]しましたか。",
+        "sinhala": "පාරිභෝගිකයින් කීදෙනෙකු පැමිණ ඇති අතර ඔවුන් ඉල්ලා සිටි ආසන වර්ගය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2名で、禁煙のテーブル席 (දෙදෙනෙකු, දුම්බීම තහනම් මේසයක්)"
+        },
+        {
+          "id": "B",
+          "text": "1名で、カウンター席 (එක් අයෙකු, කවුන්ටර ආසනයක්)"
+        },
+        {
+          "id": "C",
+          "text": "3名で、個室 (තිදෙනෙකු, පෞද්ගලික කාමරයක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "店員: いらっしゃいませ！何名様でしょうか。\n客: 2人です。\n店員: おタバコは吸われますか。\n客: いいえ、禁煙席で。できればテーブル席をお願いします。\n店員: かしこまりました。テーブル席へご案内いたします。",
+        "sinhala": "සේවක: සාදරයෙන් පිළිගනිමු! කීදෙනෙක්ද?\nපාරිභෝගිකයා: දෙන්නෙක්.\nසේවක: දුම් පානය කරනවාද?\nපාරිභෝගිකයා: නැහැ, දුම් නොබොන තැනක්. පුළුවන්නම් මේසයක් දෙන්න.\nසේවක: ඉතා හොඳයි. මම ඔබව මේසයක් වෙත කැඳවාගෙන යන්නම් (ご案内いたします)."
+      },
+      "explanation_sinhala": "පාරිභෝගිකයින් දෙදෙනෙකු (2人) වන අතර දුම් නොබොන මේසයක් (禁煙のテーブル席) ඉල්ලා සිටි බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l09_002",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_27",
+      "can_do_title_sinhala": "ආහාර ඇනවුම් කිරීමේ සංවාදය අසා තේරුම් ගැනීම (お決まりになりましたか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L09_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "男性は何を注文することに決めましたか。",
+        "furigana": "[だんせい]は[なに]を[ちゅうもん]することに[き]めましたか。",
+        "sinhala": "පිරිමි පුද්ගලයා ඇනවුම් කිරීමට තීරණය කළේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "日替わり定食のご飯大盛り (දෛනික විශේෂ සෙට් මෙනුවේ බත් වැඩියෙන් / Oomori)"
+        },
+        {
+          "id": "B",
+          "text": "天ぷらそば (තෙම්පුරා සොබා)"
+        },
+        {
+          "id": "C",
+          "text": "かつ丼の単品 (කත්සුදොන් පමණක්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "店員: ご注文はお決まりになりましたか。\n男性: はい。今日の日替わり定食にします。ご飯は大盛りにできますか。\n店員: はい、大盛りは無料でございます。\n男性: じゃあ、大盛りでお願いします。",
+        "sinhala": "සේවක: ඔබ ඇනවුම තීරණය කළාද (お決まりになりましたか)?\nපිරිමියා: ඔව්. මම අද දවසේ විශේෂ සෙට් එක ගන්නවා (日替わり定食にします). බත් ටිකක් වැඩියෙන් ගන්න පුළුවන්ද?\nසේවක: ඔව්, බත් වැඩියෙන් නොමිලේ ලබාදෙනවා.\nපිරිමියා: එහෙනම් වැඩියෙන් දෙන්න."
+      },
+      "explanation_sinhala": "ඔහු දෛනික විශේෂ සෙට් එක බත් වැඩියෙන් (日替わり定食のご飯大盛り) ඇනවුම් කළ බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l09_003",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_28",
+      "can_do_title_sinhala": "ආහාරයේ අඩංගු ද්‍රව්‍ය ගැන විමසීම (豚肉・エキス)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L09_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "客は料理について何を尋ねましたか。",
+        "furigana": "[きゃく]は[りょうり]について[なに]を[たず]ねましたか。",
+        "sinhala": "පාරිභෝගිකයා ආහාරය පිළිබඳව විමසා සිටියේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "スープに豚肉やポークエキスが入っているかどうか (සුප් එකේ ඌරු මස් හෝ පෝක් සාරය අඩංගුද නැද්ද යන්න)"
+        },
+        {
+          "id": "B",
+          "text": "辛いかどうか (සැර වැඩිද නැද්ද යන්න)"
+        },
+        {
+          "id": "C",
+          "text": "卵が使われているかどうか (බිත්තර අඩංගුද නැද්ද යන්න)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "客: すみません、宗教上の理由でお肉が食べられないんですが、このラーメンのスープには豚肉やエキスが入っていますか。\n店員: 少々お待ちください。厨房の料理長に確認してお知らせいたします。",
+        "sinhala": "පාරිභෝගිකයා: සමාවෙන්න, ආගමික හේතුවක් මත මට මස් කන්න බෑ, මේ රාමෙන් සුප් එකේ ඌරු මස් හෝ සාරය අඩංගුද?\nසේවක: කරුණාකර මදක් රැඳෙන්න. මුළුතැන්ගෙයි ප්‍රධානියාගෙන් තහවුරු කරගෙන ඔබට දැනුම් දෙන්නම් (お知らせいたします)."
+      },
+      "explanation_sinhala": "පාරිභෝගිකයා සුප් එකේ ඌරු මස් අඩංගුදැයි (豚肉やエキスが入っていますか) විමසූ බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l09_004",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_28",
+      "can_do_title_sinhala": "ආපනශාලාවේ හොඳ ගුණාංග හේතු ලෙස දැක්වීම (～し、～し)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L09_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性がこのレストランを気に入っている理由は、料理がおいしくて景色もいいからです。（◯ か ✕）",
+        "furigana": "[じょせい]がこのレストランを[き]に[い]っている[りゆう]は、[りょうり]がおいしくて[けしき]もいいからです。（◯ か ✕）",
+        "sinhala": "කාන්තාව මෙම රෙස්ටුරන්ට් එකට කැමති වීමට හේතුව කෑම රසවත් වීම සහ දර්ශනය ලස්සන වීම නිසාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, ඒ හේතු නිසාය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, මිල ලාභ නිසා පමණි)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "女性: 私はこのレストランが大好きなんです。料理もおいしいし、海が見えて景色もいいし、スタッフも親切ですから。",
+        "sinhala": "කාන්තාව: මම මේ රෙස්ටුරන්ට් එකට ගොඩක් කැමතියි. කෑමත් රසයි (料理もおいしいし), මුහුද පෙනෙන ලස්සන දර්ශනයකුත් තියෙනවා (景色もいいし), සේවකයොත් කරුණාවන්තයි."
+      },
+      "explanation_sinhala": "ඇය '料理もおいしいし、景色もいいし' යැයි හේතු දක්වන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l09_005",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_29",
+      "can_do_title_sinhala": "ආපනශාලා මෙනුවක අසාත්මිකතා සංකේත කියවීම (Allergen Icons)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l09_q05_allergy_menu.png"
+      },
+      "question_text": {
+        "japanese": "アレルギー表示を見てください。「卵（たまご）」が含まれている料理はどれですか。",
+        "furigana": "アレルギー[ひょうじ]を[み]てください。「[たまご]」が[ふく]まれている[りょうり]はどれですか。",
+        "sinhala": "අසාත්මිකතා පුවරුව බලන්න. 'බිත්තර' (卵) අඩංගු ආහාරය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "特製オムライス (විශේෂ ඔම්ලට් බත්)"
+        },
+        {
+          "id": "B",
+          "text": "野菜サラダ (එළවළු සලාදය)"
+        },
+        {
+          "id": "C",
+          "text": "わかめうどん (වකමේ උදොන්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "මෙනුවේ ඔම්ලට් බත් (オムライス) ඉදිරියෙන් 🥚 (卵) ලකුණ සටහන්ව ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l09_006",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_29",
+      "can_do_title_sinhala": "බීම පැකේජ දැන්වීමක් කියවීම (飲み放題ルール)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l09_q06_nomihoudai.png"
+      },
+      "question_text": {
+        "japanese": "「飲み放題コース」の案内です。ラストオーダー（最後の注文）は何分前ですか。",
+        "furigana": "「[の]み[ほうだい]コース」の[あんない]です。ラストオーダー（[さいご]の[ちゅうもん]）は[なんぷんまえ]ですか。",
+        "sinhala": "බීම පැකේජ (Nomihoudai) නීති බලන්න. අවසන් ඇනවුම (Last Order) භාරගන්නේ අවසන් වීමට විනාඩි කීයකට පෙරද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "終了の30分前 (අවසන් වීමට විනාඩි 30කට පෙර)"
+        },
+        {
+          "id": "B",
+          "text": "終了の10分前 (විනාඩි 10කට පෙර)"
+        },
+        {
+          "id": "C",
+          "text": "終了の60分前 (විනාඩි 60කට පෙර)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ '2時間飲み放題（ラストオーダーは30分前となります）' ලෙස දක්වා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l09_007",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_27",
+      "can_do_title_sinhala": "පාරිභෝගිකයාගේ ක්‍රියා ගෞරවාර්ථයෙන් දැක්වීම (尊敬語: お～になります)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "店員がお客様に「メニューを読みますか（見ますか）」と丁寧に聞くときの表現はどれですか。",
+        "furigana": "[てんいん]がお[きゃくさま]に「メニューを[よ]みますか」と[ていねい]に[き]くときの[ひょうげん]はどれですか。",
+        "sinhala": "සේවකයා පාරිභෝගිකයාට 'මෙනුව බලනවාද?' කියා ගෞරවාර්ථයෙන් අසන නිවැරදි ප්‍රකාශය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "メニューをご覧になりますか / お読みになりますか (Go-ran ni narimasu ka)"
+        },
+        {
+          "id": "B",
+          "text": "メニューを拝見しますか (Haiken shimasu ka - Kenjougo)"
+        },
+        {
+          "id": "C",
+          "text": "メニューを見られますか"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පාරිභෝගිකයාගේ ක්‍රියාව ගෞරවයෙන් ඇසීමට Sonkeigo වන 'ご覧になりますか' හෝ 'お読みになりますか' යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l09_008",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_27",
+      "can_do_title_sinhala": "තමාගේ ක්‍රියාව නිහතමානීව දැක්වීම (謙譲語: お～します)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "店員が「すぐにお水を持ってきます」と丁寧に言うときの正しい表現はどれですか。",
+        "furigana": "[てんいん]が「すぐにお[みず]を[も]ってきます」と[ていねい]に[い]うときの[ただ]しい[ひょうげん]はどれですか。",
+        "sinhala": "සේවකයා 'මම දැන්ම වතුර ගෙනැවිත් දෙන්නම්' කියා නිහතමානීව පවසන නිවැරදි ප්‍රකාශය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "すぐにお水をお持ちします (O-mizu o o-mochi shimasu)"
+        },
+        {
+          "id": "B",
+          "text": "すぐにお水をお持ちになります (O-mizu o o-mochi ni narimasu)"
+        },
+        {
+          "id": "C",
+          "text": "すぐにお水を持ってあげます"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තමා කරන සේවය නිහතමානීව පැවසීමට Kenjougo ආකෘතිය වන 'お + V-stem + します' (お持ちします) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e2_l09_009",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_27",
+      "can_do_title_sinhala": "තේරීමක් තීරණය කිරීම (～にします)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "メニューから料理を決めて注文するとき、空欄に入る助詞は何ですか：「私はカレー（　）します。」",
+        "furigana": "メニューから[りょうり]を[き]めて[ちゅうもん]するとき、[くうらん]に[はい]る[じょし]は[なん]ですか：「[わたし]はカレー（　）します。」",
+        "sinhala": "'මම කරි එක තෝරාගන්නවා / ඇනවුම් කරනවා' කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "に (ni)"
+        },
+        {
+          "id": "B",
+          "text": "を (o)"
+        },
+        {
+          "id": "C",
+          "text": "で (de)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "විකල්ප අතුරින් එකක් තෝරාගැනීමේදී 'Noun + に します' (カレーにします) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e2_l09_010",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_27",
+      "can_do_title_sinhala": "ආහාර ප්‍රමාණ (Portions: 大盛り / 並盛)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "牛丼屋などで「普通サイズ（Standard portion）」を表す言葉はどれですか。",
+        "furigana": "[ぎゅうどんや]などで「[ふつう]サイズ（Standard portion）」を[あらわ]す[ことば]はどれですか。",
+        "sinhala": "ජපන් කෑම කඩවල සාමාන්‍ය ප්‍රමාණය (Standard size) හඳුන්වන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "並盛 / なみもり (Namimori)"
+        },
+        {
+          "id": "B",
+          "text": "大盛り / おおもり (Oomori - විශාල ප්‍රමාණය)"
+        },
+        {
+          "id": "C",
+          "text": "特盛 / とくもり (Tokumori - ඉතා විශාල)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සාමාන්‍ය ප්‍රමාණය '並' (නමි) හෝ '並盛' (නමිමොරි) ලෙස හැඳින්වේ. විශාල ප්‍රමාණය '大盛り' (ඕමොරි) වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l09_011",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_27",
+      "can_do_title_sinhala": "සේවකයින් 'තේරුම් ගත්තා / එසේ කරන්නම්' කීමට යොදන වචනය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "店員が注文を受けたとき、「わかりました」を最も丁寧に言う言葉はどれですか。",
+        "furigana": "[てんいん]が[ちゅうもん]を[う]けたとき、「わかりました」を[もっと]も[ていねい]に[い]う[ことば]はどれですか。",
+        "sinhala": "ඇනවුමක් භාරගත් විට සේවකයා 'තේරුණා / එසේ කරන්නම්' යැයි අතිශය විනීතව පවසන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "かしこまりました (Kashikomarimashita)"
+        },
+        {
+          "id": "B",
+          "text": "了解です (Ryoukai desu)"
+        },
+        {
+          "id": "C",
+          "text": "いいですよ (Ii desu yo)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පාරිභෝගික සේවයේදී 'わかりました' වෙනුවට සම්මත ගෞරවාර්ථ පදය වන්නේ 'かしこまりました' (කෂිකොමරිමෂිතා) වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l09_012",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "can_do_id": "cando_e2_27",
+      "can_do_title_sinhala": "ආපනශාලාවක ඇනවුම් කිරීමේ සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: かしこまりました。少々お待ちください\n2: ご注文はお決まりになりましたか\n3: すみません、注文をお願いします\n4: はい、ラーメン定食にします",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: かしこまりました。[しょうしょう]お[ま]ちください\n2: ご[ちゅうもん]はお[き]まりになりましたか\n3: すみません、ご[ちゅうもん]をお[ねが]いします\n4: はい、ラーメン[ていしょく]にします",
+        "sinhala": "කෑම ඇනවුම් කරන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3 -> 2 -> 4 -> 1"
+        },
+        {
+          "id": "B",
+          "text": "2 -> 4 -> 1 -> 3"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 4 -> 2 -> 1"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 3 (සමාවෙන්න, ඇනවුම් කරන්න පුළුවන්ද?) -> 2 (ඇනවුම තීරණය කළාද?) -> 4 (ඔව්, රාමෙන් සෙට් එක ගන්නවා) -> 1 (ඉතා හොඳයි, මදක් රැඳෙන්න)."
+    },
+    {
+      "quiz_id": "qz_e2_l10_013",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_30",
+      "can_do_title_sinhala": "ප්‍රශංසා ලැබීම අසා තේරුම් ගැනීම (～に褒められました)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L10_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは誰に、何を褒められましたか。",
+        "furigana": "カルロスさんは[だれ]に、[なに]を[ほ]められましたか。",
+        "sinhala": "කාලෝස් මහතාව කා විසින්, කුමක් වෙනුවෙන් ප්‍රශංසාවට ලක් කළාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "工場長に、仕事が早くて丁寧だと褒められた (වැඩ වේගවත් සහ පිළිවෙළ බවට කර්මාන්තශාලා ප්‍රධානියාගෙන් ප්‍රශංසා ලැබිණි)"
+        },
+        {
+          "id": "B",
+          "text": "日本語の先生に、テストで100点を褒められた (ගුරුවරයාගෙන් ප්‍රශංසා ලැබිණි)"
+        },
+        {
+          "id": "C",
+          "text": "同僚に、料理をおいしいと褒められた (සගයාගෙන් ප්‍රශංසා ලැබිණි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、うれしそうですね。何かいいことがありましたか。\nB: ええ！さっき工場長に「作業がとても早くて丁寧だね」と褒められたんです。もっと頑張ろうと思います！",
+        "sinhala": "A: කාලෝස් මහතා, සතුටින් වගේනේ. මොනවා හරි හොඳ දෙයක් වුණාද?\nB: ඔව්! දැන් ටිකකට කලින් ෆැක්ටරි මැනේජර් මට 'වැඩ හරිම වේගවත් සහ පිළිවෙළයි' කියලා ප්‍රශංසා කළා (褒められたんです). තව උනන්දුවෙන් වැඩ කරන්න හිතෙනවා!"
+      },
+      "explanation_sinhala": "කාලෝස් පවසන්නේ '工場長に...褒められたんです' (කර්මාන්තශාලා ප්‍රධානියා මට ප්‍රශංසා කළා) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l10_014",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_30",
+      "can_do_title_sinhala": "කරදරකාරී සිදුවීමක් අසා තේරුම් ගැනීම (迷惑の受身: 足を踏まれました)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L10_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは今朝の満員電車でどんな目に遭いましたか。",
+        "furigana": "スミスさんは[けさ]の[まんいんでんしゃ]でどんな[め]に[あ]いましたか。",
+        "sinhala": "අද උදෑසන සෙනඟ පිරි දුම්රියේදී ස්මිත් මහතාට මුහුණ දීමට සිදුවූ කරදරය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "足を踏まれて痛かった (කකුල පෑගී රිදුණා)"
+        },
+        {
+          "id": "B",
+          "text": "傘を盗まれた (කුඩය සොරාගනු ලැබුවා)"
+        },
+        {
+          "id": "C",
+          "text": "コーヒーをこぼされた (කෝපි ඇඟට හැලුවා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "スミス: 今朝の電車はものすごく混んでいて大変でした。隣の人に足を踏まれて、とても痛かったです。\n同僚: ああ、満員電車は本当に疲れますよね。",
+        "sinhala": "ස්මිත්: අද උදේ කෝච්චියේ සෙනඟ පිරිලා හරිම අමාරු වුණා. එහා පැත්තේ කෙනා මගේ කකුල පෑගුවා (足を踏まれて), ගොඩක් රිදුණා.\nසගයා: අපොයි, සෙනඟ පිරුණු කෝච්චිවල යන එක ඇත්තෙන්ම වෙහෙසකරයි."
+      },
+      "explanation_sinhala": "ස්මිත් මහතා පවසන්නේ '隣の人に足を踏まれて、とても痛かった' (කෙනෙකු මගේ කකුල පෑගුවා) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l10_015",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_31",
+      "can_do_title_sinhala": "කිරීමට අදහස් කරගෙන සිටින බව අසා තේරුම් ගැනීම (～ようと思います)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L10_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは今度の週末、何をしようと思っていますか。",
+        "furigana": "マリアさんは[こんど]の[しゅうまつ]、[なに]をしようと[おも]っていますか。",
+        "sinhala": "මරියා මේ සති අන්තයේ කුමක් කිරීමට අදහස් කරගෙන සිටීද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "おいしい和食の店を予約して食べに行こうと思っている (රසවත් ජපන් කෑම කඩයක් බුක් කර කෑමට යාමට අදහස් කරයි)"
+        },
+        {
+          "id": "B",
+          "text": "家で日本料理を作ろうと思っている (ගෙදරදී ජපන් කෑම සෑදීමට අදහස් කරයි)"
+        },
+        {
+          "id": "C",
+          "text": "友達と映画を見ようと思っている (චිත්‍රපට නැරඹීමට අදහස් කරයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさん、週末は何か予定がありますか。\nB: 給料が出たので、評判の和食の店を予約して、おいしい刺身を食べに行こうと思っています。",
+        "sinhala": "A: මරියා, සති අන්තයේ මොනවා හරි ප්ලෑන් එකක් තියෙනවද?\nB: පඩි ලැබුණු නිසා, ප්‍රසිද්ධ ජපන් කෑම කඩයක් බුක් කරලා රසවත් සෂිමි කන්න යන්න හිතාගෙන ඉන්නවා (食べに行こうと思っています)."
+      },
+      "explanation_sinhala": "මරියා '食べに行こうと思っています' (කෑමට යාමට අදහස් කරගෙන ඉන්නවා) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l10_016",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_32",
+      "can_do_title_sinhala": "බිල බෙදා ගෙවීම (割り勘 - Warikan)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L10_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "二人はお会計を割り勘（各自で半分ずつ）で払うことにしましたか。（◯ か ✕）",
+        "furigana": "[ふたり]はお[かいけい]を[わりかん]で[はら]うことにしましたか。（◯ か ✕）",
+        "sinhala": "දෙදෙනා බිල්පත දෙකට බෙදා (Warikan) ගෙවීමට තීරණය කළාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, බිල බෙදා ගෙවයි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, එක් අයෙකු සංග්‍රහ කරයි)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: 全部で4,000円ですね。私がおごりますよ。\nB: いえいえ、いつもごちそうになっているので、今日は割り勘にしましょう！1人2,000円ずつですね。",
+        "sinhala": "A: ඔක්කොම යෙන් 4,000යි. මම ගෙවන්නම් (සංග්‍රහ කරන්නම්).\nB: අපෝ එපා, නිතරම ඔයා මට කන්න දෙනවනේ, අද අපි දෙන්නා බෙදාගෙන ගෙවමු (割り勘にしましょう)! එක් කෙනෙකුට 2,000 ගානේ."
+      },
+      "explanation_sinhala": "ඔවුන් බිල බෙදාගෙන ගෙවීමට (割り勘にしましょう) තීරණය කළ බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l10_017",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_31",
+      "can_do_title_sinhala": "ප්‍රාදේශීය විශේෂ ආහාර පත්‍රිකාවක් කියවීම (ご当地グルメ)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l10_q17_localfood.png"
+      },
+      "question_text": {
+        "japanese": "観光案内を読んでください。この町で昔から愛されている「名物料理」は何ですか。",
+        "furigana": "[かんこうあんない]を[よ]んでください。この[まち]で[むかし]から[あい]されている「[めいぶつりょうり]」は[なん]ですか。",
+        "sinhala": "සංචාරක පත්‍රිකාව බලන්න. මෙම නගරයේ පාරම්පරිකව ප්‍රසිද්ධ ප්‍රධාන ආහාරය (Meibutsu) කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "味噌カツ (මිසෝ සෝස් දැමූ කත්සු / Miso-katsu)"
+        },
+        {
+          "id": "B",
+          "text": "たこ焼き (තකොයාකි)"
+        },
+        {
+          "id": "C",
+          "text": "冷やし中華 (සීතල නූඩ්ල්ස්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පත්‍රිකාවේ '当地域自慢の名物！特製味噌カツ定食' ලෙස ප්‍රධාන ආහාරය දක්වා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l10_018",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_32",
+      "can_do_title_sinhala": "ඉසකායා අවන්හල්වල මේස ගාස්තු සහ සුලු කෑම නීතිය කියවීම (お通し - Otoushi)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l10_q18_otoushi.png"
+      },
+      "question_text": {
+        "japanese": "居酒屋のメニューの注意書きです。「お通し（お席料）」について正しく述べているものはどれですか。",
+        "furigana": "[いざかや]のメニューの[ちゅういが]きです。「お[とお]し（お[せきりょう]）」について[ただ]しく[の]べているものはどれですか。",
+        "sinhala": "ඉසකායා මෙනුපතේ සටහන බලන්න. 'ඔතෝෂි' (Otoushi - Table charge snack) පිළිබඳ නිවැරදි ප්‍රකාශය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "最初に出る小鉢で、席料として1人300円かかる (ආරම්භයේදීම ලැබෙන කුඩා කෑම පිඟානක් වන අතර ආසන ගාස්තුව ලෙස යෙන් 300ක් අය කෙරේ)"
+        },
+        {
+          "id": "B",
+          "text": "無料のサービスである (නොමිලේ ලබාදෙන සේවයකි)"
+        },
+        {
+          "id": "C",
+          "text": "自分で注文しなければ出ない (තමන් ඇනවුම් කළහොත් පමණක් ලැබේ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ ඉසකායා අවන්හල්වල ඇණවුම් නොකළද මුලින්ම ගෙනැවිත් දෙන 'お通し' (Otoushi) යනු ආසන ගාස්තුවක් (300円) ලෙස අය කෙරෙන සම්ප්‍රදායකි."
+    },
+    {
+      "quiz_id": "qz_e2_l10_019",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_30",
+      "can_do_title_sinhala": "අක්‍රිය කාරක ක්‍රියාපද සෑදීමේ නීතිය (Passive Form)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "動詞「叱る（しかる - Scold）」の受身形（Was scolded）はどれですか。",
+        "furigana": "[どうし]「[しか]る（Scold）」の[うけみけい]（Was scolded）はどれですか。",
+        "sinhala": "'බණිනවා' (叱る) යන්නෙහි අක්‍රිය කාරක ස්වරූපය (දොස් අසන්නට ලැබුණා) කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "叱られました (Shikararemashita)"
+        },
+        {
+          "id": "B",
+          "text": "叱せられました (Shikaseraremashita)"
+        },
+        {
+          "id": "C",
+          "text": "叱りられました (Shikaririmashita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "Group 1 ක්‍රියාපදවල 'u' ශබ්දය 'a' බවට හරවා 'れる / られる' එකතු කරයි (しかる -> しかられる -> 叱られました)."
+    },
+    {
+      "quiz_id": "qz_e2_l10_020",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_30",
+      "can_do_title_sinhala": "අනෙකාගෙන් සිදුවන කරදරය දැක්වීමට 'に' නිපාතය (迷惑の受身)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る適切な助詞を選んでください：「雨（　）降られて、服がびしょ濡れになりました。」",
+        "furigana": "[くうらん]に[はい]る[てきせつ]な[じょし]を[えら]んでください：「[あめ]（　）[ふ]られて、[ふく]がびしょ[ぬ]れになりました。」",
+        "sinhala": "'වැස්සට හසුවී තෙමුණා' (වැස්සෙන් කරදරයක් සිදුවූ අක්‍රිය කාරකය) කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "に (ni)"
+        },
+        {
+          "id": "B",
+          "text": "が (ga)"
+        },
+        {
+          "id": "C",
+          "text": "を (o)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අක්‍රිය කාරකයේදී තමන්ට බලපෑමක් හෝ කරදරයක් කළ පාර්ශ්වයට/සාධකයට 'に' නිපාතය යෙදේ (雨に降られる)."
+    },
+    {
+      "quiz_id": "qz_e2_l10_021",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_31",
+      "can_do_title_sinhala": "අභිප්‍රාය දැක්වීම (Volitional form + と思います)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「明日、早く起きる決心」を表す正しい文はどれですか。",
+        "furigana": "「[あした]、[はや]く[お]きる[けっしん]」を[あらわ]す[ただ]しい[ぶん]はどれですか。",
+        "sinhala": "'හෙට ඉක්මනින් අවදි වෙන්න හිතාගෙන ඉන්නවා' යන අභිප්‍රාය දැක්වෙන නිවැරදි වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "明日は早く起きようと思います (Okiyou to omoimasu)"
+        },
+        {
+          "id": "B",
+          "text": "明日は早く起きますと思います"
+        },
+        {
+          "id": "C",
+          "text": "明日は早く起きると思います"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තමන්ගේ අභිප්‍රාය හෝ තීරණය ප්‍රකාශ කිරීමට 'Volitional form + と思います' (起きようと思います) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l10_022",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_32",
+      "can_do_title_sinhala": "අනුන්ට සංග්‍රහ කිරීම (おごる / Treat)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「食事代を全部自分が払って相手にごちそうする」ことを表すカジュアルな言葉はどれですか。",
+        "furigana": "「[しょくじだい]を[ぜんぶ][じぶん]が[はら]って[あいて]にごちそうする」ことを[あらわ]すカジュアルな[ことば]はどれですか。",
+        "sinhala": "'අනෙකා වෙනුවෙන් සම්පූර්ණ බිල තමන් ගෙවා සංග්‍රහ කිරීම' (Treat someone) හඳුන්වන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "おごる (O skin in the game / Treat)"
+        },
+        {
+          "id": "B",
+          "text": "割り勘にする (බිල බෙදාගන්නවා)"
+        },
+        {
+          "id": "C",
+          "text": "立て替える (වෙනුවෙන් ගෙවා පසුව මුදල් ගන්නවා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුන්ට තමන්ගෙන් කෑම වේලක් සංග්‍රහ කිරීම 'おごる' (ඔගොරු - Treat someone) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l10_023",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_31",
+      "can_do_title_sinhala": "ජපන් ඉසකායාවල ජනප්‍රිය සුලු ආහාර (枝豆 / 焼き鳥)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "ビールによく合う「ゆでた緑の大豆（Boiled green soybeans）」は何ですか。",
+        "furigana": "ビールによく[あ]う「ゆでた[みどり]の[だいず]」は[なん]ですか。",
+        "sinhala": "බියර් සමඟ කෑමට ගන්නා තම්බන ලද කොළ පැහැති සෝයා කරල් හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "枝豆 / えだまめ (Edamame)"
+        },
+        {
+          "id": "B",
+          "text": "豆腐 / とうふ (Tofu)"
+        },
+        {
+          "id": "C",
+          "text": "納豆 / なっとう (Nattou)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ අවන්හල්වල බියර් සමඟ නිතරම කන තම්බන ලද සෝයා කරල් '枝豆' (එදමමේ) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l10_024",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "can_do_id": "cando_e2_32",
+      "can_do_title_sinhala": "කෑම ගැනීමෙන් පසු බිල ගෙවන සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: 今日はごちそうさまでした！とてもおいしかったです\n2: いいえ、今日は私が誘ったので、おごりますよ\n3: 私も半分払います。割り勘にしましょう\n4: 本当ですか？ありがとうございます！",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: [きょう]はごちそうさまでした！とてもおいしかったです\n2: いいえ、[きょう]は[わたし]が[さそ]ったので、おごりますよ\n3: [わたし]も[はんぶん][はら]います。[わりかん]にしましょう\n4: [ほんとう]ですか？ありがとうございます！",
+        "sinhala": "කෑම ගැනීමෙන් පසු බිල ගෙවීම පිළිබඳ සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 -> 3 -> 2 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "3 -> 1 -> 2 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "1 -> 2 -> 4 -> 3"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 1 (කෑමට බොහොම ස්තුතියි, හරිම රසයි) -> 3 (මමත් බාගයක් ගෙවන්නම්, බෙදාගමු) -> 2 (නැහැ නැහැ, අද මමනේ ආරාධනා කළේ, මම ඔක්කොම සංග්‍රහ කරන්නම්) -> 4 (ඇත්තටමද? බොහොම ස්තුතියි!)."
+    }
+  ]
+}

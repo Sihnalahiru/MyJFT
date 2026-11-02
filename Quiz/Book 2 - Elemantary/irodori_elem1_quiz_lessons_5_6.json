@@ -1,0 +1,919 @@
+{
+  "book": "Irodori Elementary 1 (A2.1)",
+  "lessons_covered": [
+    5,
+    6
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e1_l05_001",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_13",
+      "can_do_title_sinhala": "යම් ආහාරයක් කා ඇති අත්දැකීම විමසීම (～たことがありますか)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L05_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんはもんじゃ焼きを食べたことがありますか。",
+        "furigana": "カルロスさんはもんじゃ[や]きを[た]べたことがありますか。",
+        "sinhala": "කාලෝස් මහතා මොන්ජායාකි (Monjayaki) ආහාරය කා තිබේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "いいえ、一度も食べたことがありません (නැත, කිසිදා කා නැත)"
+        },
+        {
+          "id": "B",
+          "text": "はい、何度も食べたことがあります (ඔව්, කිහිප වතාවක්ම කා ඇත)"
+        },
+        {
+          "id": "C",
+          "text": "先週食べました (ගිය සතියේ කෑවේය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、もんじゃ焼きを食べたことがありますか。\nB: いいえ、まだ一度も食べたことがありません。どんな料理ですか。",
+        "sinhala": "A: කාලෝස් මහතා මොන්ජායාකි කා තියෙනවද?\nB: නැහැ, තවම එක වතාවක්වත් කාලා නෑ. ඒක මොන වගේ කෑමක්ද?"
+      },
+      "explanation_sinhala": "කාලෝස් පවසන්නේ 'いいえ、まだ一度も食べたことがありません' (තවම එක වතාවක්වත් කා නැත) බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l05_002",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_14",
+      "can_do_title_sinhala": "හොඳ ආපනශාලාවක් නිර්දේශ කිරීම (～がいいですよ)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L05_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "田中さんはどこの店をおすすめしていますか。",
+        "furigana": "[たなか]さんはどこの[みせ]をおすすめしていますか。",
+        "sinhala": "තනකා මහතා නිර්දේශ කරන වෙළඳසැල/ආපනශාලාව කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "駅前のラーメン屋「富士屋」 (ස්ටේෂන් එක ඉදිරිපිට 'ෆුජියා' රාමෙන් කඩය)"
+        },
+        {
+          "id": "B",
+          "text": "デパートのイタリアンレストラン (ඩිපාර්ට්මන්ට් ස්ටෝර් එකේ ඉතාලි කෑම කඩය)"
+        },
+        {
+          "id": "C",
+          "text": "会社の近くの居酒屋 (සමාගම අසල ඉසකායා අවන්හල)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: この近くでおいしいラーメンを食べたいんですが、どこかいい店はありますか。\nB: 駅前の「富士屋」がいいですよ。スープが濃くてとてもおいしいです。",
+        "sinhala": "A: මේ කිට්ටුවෙන් රසවත් රාමෙන් ටිකක් කන්න ඕන, හොඳ කඩයක් තියෙනවද?\nB: ස්ටේෂන් එක ඉස්සරහා 'ෆුජියා' හොඳයි (がいいですよ). සුප් එක උකුයි, හරිම රසයි."
+      },
+      "explanation_sinhala": "තනකා මහතා නිර්දේශ කරන්නේ '駅前の富士屋がいいですよ' (ස්ටේෂන් එක ඉදිරිපිට ෆුජියා හොඳයි) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l05_003",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_14",
+      "can_do_title_sinhala": "ආපනශාලාවක ලක්ෂණ විස්තර කිරීම (安くて量が多い)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L05_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "その定食屋の特徴は何ですか。",
+        "furigana": "その[ていしょくや]の[とくちょう]は[なん]ですか。",
+        "sinhala": "එම තෙයිෂොකු (සෙට් මෙනු) කඩයේ විශේෂ ලක්ෂණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "安くて、量が多い (මිල අඩුයි, ප්‍රමාණය වැඩියි)"
+        },
+        {
+          "id": "B",
+          "text": "高くて、おしゃれ (මිල අධිකයි, නවීන විලාසිතා සහිතයි)"
+        },
+        {
+          "id": "C",
+          "text": "静かで、人が少ない (නිස්කලංකයි, සෙනඟ අඩුයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: あの食堂はどうですか。\nB: あそこは安くて量が多いですよ。学生やサラリーマンに大人気です。",
+        "sinhala": "A: අර කැන්ටින් එක කොහොමද?\nB: එතැන ලාභයි, ඒ වගේම කෑම ප්‍රමාණය ගොඩක් වැඩියි. ශිෂ්‍යයන් සහ කාර්යාල සේවකයන් අතර හරිම ජනප්‍රියයි."
+      },
+      "explanation_sinhala": "විශේෂ ලක්ෂණය ලෙස '安くて量が多い' (ලාභයි සහ ප්‍රමාණය වැඩියි) දක්වන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l05_004",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_15",
+      "can_do_title_sinhala": "වෙන්කිරීමක් (Reservation) අවශ්‍ය දැයි අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L05_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "週末はその店に行く前に予約したほうがいいですか。（◯ か ✕）",
+        "furigana": "[しゅうまつ]はその[みせ]に[い]く[まえ]に[よやく]したほうがいいですか。（◯ か ✕）",
+        "sinhala": "සති අන්තයේ එම කඩයට යාමට පෙර කලින් වෙන් කරවා ගැනීම (Reservation) සුදුසුද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, වෙන් කරවා ගත යුතුය)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, වෙන් කරවා ගැනීම අවශ්‍ය නැත)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: その焼肉屋、今度の土曜日に行ってみます！\nB: いつも混んでいますから、電話で予約していったほうがいいですよ。",
+        "sinhala": "A: මම මේ සෙනසුරාදා ඒ බාබකියු (Yakiniku) කඩේට ගිහින් බලනවා!\nB: නිතරම සෙනඟ ඉන්න නිසා කෝල් කරලා බුක් කරගෙන යන එක හොඳයි."
+      },
+      "explanation_sinhala": "'予約していったほうがいいですよ' (වෙන් කරගෙන යන එක හොඳයි) යැයි අනතුරු අඟවන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l05_005",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_15",
+      "can_do_title_sinhala": "අවන්හල් වට්ටම් කූපනයක් කියවීම (Coupon)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l05_q05_coupon.png"
+      },
+      "question_text": {
+        "japanese": "クーポン券を見てください。どんなサービスが受けられますか。",
+        "furigana": "クーポン[けん]を[み]てください。どんなサービスが[う]けられますか。",
+        "sinhala": "වට්ටම් කූපනය බලන්න. මෙමඟින් ලැබෙන වාසිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "お会計から10%割引 (බිල්පතෙන් 10%ක වට්ටමක්)"
+        },
+        {
+          "id": "B",
+          "text": "デザートが無料 (ඩෙසර්ට් එකක් නොමිලේ)"
+        },
+        {
+          "id": "C",
+          "text": "ドリンクが無料 (බීමක් නොමිලේ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කූපනයේ 'お会計時 10% OFF' ලෙස මුද්‍රණය කර ඇති බැවින් බිලෙන් 10%ක් අඩු වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l05_006",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_15",
+      "can_do_title_sinhala": "අන්තර්ජාල අවන්හල් විස්තරයක් කියවීම (Online Review)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l05_q06_gourmet.png"
+      },
+      "question_text": {
+        "japanese": "口コミサイトを見てください。「おすすめメニュー」は何ですか。",
+        "furigana": "くちこみサイトを[み]てください。「おすすめメニュー」は[なん]ですか。",
+        "sinhala": "විස්තර වෙබ් අඩවිය බලන්න. එහි නිර්දේශිත ප්‍රධාන ආහාරය (Recommended Menu) කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "特製海鮮丼 (විශේෂ සීෆුඩ් බත් එක / Kaisen-don)"
+        },
+        {
+          "id": "B",
+          "text": "天ぷらそば (තෙම්පුරා සොබා)"
+        },
+        {
+          "id": "C",
+          "text": "かつ丼 (කත්සුදොන්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "වෙබ් අඩවියේ '当店イチ押し・おすすめ: 特製海鮮丼 1,200円' ලෙස සටහන්ව ඇත."
+    },
+    {
+      "quiz_id": "qz_e1_l05_007",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_13",
+      "can_do_title_sinhala": "අත්දැකීම් ප්‍රකාශ කිරීමේ වාක්‍ය රටාව (V-た ことがあります)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「日本酒を飲んだ経験がある」を表す正しい文はどれですか。",
+        "furigana": "「[にほんしゅ]を[の]んだ[けいけん]がある」を[あらわ]す[ただ]しい[ぶん]はどれですか。",
+        "sinhala": "'මම ජපන් සාකේ බීලා තියෙනවා' යන අත්දැකීම දැක්වෙන නිවැරදි වාක්‍යය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "日本酒を飲んだことがあります (Nihonshu o nonda koto ga arimasu)"
+        },
+        {
+          "id": "B",
+          "text": "日本酒を飲むことがあります (Nihonshu o nomu koto ga arimasu)"
+        },
+        {
+          "id": "C",
+          "text": "日本酒を飲みたことがあります (Nihonshu o nomita koto ga arimasu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අත්දැකීමක් දැක්වීමට ක්‍රියාපදයේ Ta-form එක සමඟ 'ことがあります' යෙදිය යුතුය (飲んだことがあります)."
+    },
+    {
+      "quiz_id": "qz_e1_l05_008",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_14",
+      "can_do_title_sinhala": "නිර්දේශ කිරීමේ නිපාත භාවිතය (～がいいですよ)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る適切な助詞を選んでください：「ランチはあの中華料理屋（　）いいですよ。」",
+        "furigana": "[くうらん]に[はい]る[てきせつ]な[じょし]を[えら]んでください：「ランチはあの中華料理屋（　）いいですよ。」",
+        "sinhala": "'දවල් කෑමට අර චීන කෑම කඩේ හොඳයි' කියා නිර්දේශ කිරීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "が (ga)"
+        },
+        {
+          "id": "B",
+          "text": "を (o)"
+        },
+        {
+          "id": "C",
+          "text": "で (de)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යමක් නිර්දේශ කිරීමේදී '[විකල්පය] が いいですよ' (～ga ii desu yo) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e1_l05_009",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_14",
+      "can_do_title_sinhala": "විශේෂණ පද දෙකක් එකතු කිරීම (安くて / おいしい)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「安い」と「おいしい」を1つの文につなげてください：「この店は（　）、おいしいです。」",
+        "furigana": "「[やす]い」と「おいしい」を1つの[ぶん]につなげてください：「この[みせ]は（　）、おいしいです。」",
+        "sinhala": "'ලාභයි' සහ 'රසයි' එකතු කර 'ලාභයි, ඒ වගේම රසයි' කීමට හිස්තැනට යෙදිය යුතු නිවැරදි ආකෘතිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "安くて (Yasukute)"
+        },
+        {
+          "id": "B",
+          "text": "安いで (Yasuide)"
+        },
+        {
+          "id": "C",
+          "text": "安くてで (Yasukutede)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "い-adjective එකක් තවත් විශේෂණයකට සම්බන්ධ කිරීමේදී අග 'い' ඉවත් කර 'くて' (Yasukute) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e1_l05_010",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_14",
+      "can_do_title_sinhala": "නිර්දේශය හඳුන්වන වචනය (おすすめ / Osusume)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "店で一番良い料理やサービスを提案することを何と言いますか。",
+        "furigana": "[みせ]で[いちばん][よ]い[りょうり]やサービスを[ていあん]することを[なん]と[い]いますか。",
+        "sinhala": "කඩයක හොඳම කෑම හෝ සේවාව පාරිභෝගිකයාට යෝජනා කිරීම (Recommendation) හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "おすすめ (Osusume)"
+        },
+        {
+          "id": "B",
+          "text": "お会計 (Okaikei - බිල ගෙවීම)"
+        },
+        {
+          "id": "C",
+          "text": "お持ち帰り (Omochikaeri - පාර්සල් ගෙනයාම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නිර්දේශ කිරීම හෙවත් Recommendation ජපන් බසින් 'おすすめ' (ඔසුසුමේ) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l05_011",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_14",
+      "can_do_title_sinhala": "සන්සුන් පරිසරය විස්තර කිරීම (落ち着く)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「静かでリラックスできる雰囲気」を表す言葉はどれですか。",
+        "furigana": "「[しず]かでリラックスできる[ふんいき]」を[あらわ]す[ことば]はどれですか。",
+        "sinhala": "නිස්කලංක සුවපහසු වාතාවරණය (Relaxing/Calm atmosphere) විස්තර කරන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "落ち着きます (Ochitsukimasu)"
+        },
+        {
+          "id": "B",
+          "text": "うるさいです (Urusai desu - ඝෝෂාකාරීයි)"
+        },
+        {
+          "id": "C",
+          "text": "狭いです (Semai desu - පටුයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සන්සුන් සහ සුවපහසු මනසක් ඇති කරන පරිසරය '落ち着く' (ඔචිත්සුකු - Calm/Cozy) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l05_012",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 5,
+      "can_do_id": "cando_e1_14",
+      "can_do_title_sinhala": "අවන්හලක් නිර්දේශ කරන සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: どこかおいしい店を知っていますか\n2: ええ、駅前の寿司屋がいいですよ\n3: 今日はお寿司が食べたいですね\n4: じゃあ、今日の夜行ってみます！",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: どこかおいしい[みせ]を[し]っていますか\n2: ええ、[えきまえ]の[すしや]がいいですよ\n3: [きょう]はお[すし]が[た]べたいですね\n4: じゃあ、[きょう]の[よる][い]ってみます！",
+        "sinhala": "ස්වභාවික සංවාදයක නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3 -> 1 -> 2 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 3 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "2 -> 3 -> 1 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 3 (අද සුෂි කන්න ආසයි) -> 1 (කොහේ හරි හොඳ කඩයක් දන්නවද?) -> 2 (ස්ටේෂන් එක ඉස්සරහා සුෂි කඩේ හොඳයි) -> 4 (එහෙනම් අද රෑට ගිහින් බලන්නම්!)."
+    },
+    {
+      "quiz_id": "qz_e1_l06_013",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_16",
+      "can_do_title_sinhala": "පාර පෙන්වන උපදෙස් අසා තේරුම් ගැනීම (まっすぐ / 右に曲がる)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L06_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "郵便局へ行くにはどう行きますか。",
+        "furigana": "[ゆうびんきょく]へ[い]くにはどう[い]きますか。",
+        "sinhala": "තැපැල් කාර්යාලයට යා යුත්තේ කෙසේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "この道をまっすぐ行って、1つ目の信号を右に曲がる (කෙළින්ම ගොස් පළමු ට්‍රැෆික් ලයිට් එකෙන් දකුණට හැරෙන්න)"
+        },
+        {
+          "id": "B",
+          "text": "交差点を左に曲がって、すぐ (හන්දියෙන් වමට හැරී කෙළින්ම)"
+        },
+        {
+          "id": "C",
+          "text": "橋を渡ってすぐ左 (පාලම පැන වහාම වමට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: すみません、郵便局はどこですか。\nB: この道をまっすぐ行ってください。ひとつ目の信号を右に曲がると、左側にありますよ。",
+        "sinhala": "A: සමාවෙන්න, තැපැල් කන්තෝරුව කොහේද?\nB: මේ පාරේ කෙළින්ම යන්න. පළමු සිග්නල් ලයිට් එකෙන් දකුණට හැරෙන්න, එතකොට වම් පැත්තේ තියෙනවා."
+      },
+      "explanation_sinhala": "'まっすぐ行って、ひとつ目の信号を右に曲がる' (කෙළින්ම ගොස් පළමු සිග්නල් එකෙන් දකුණට හැරෙන්න) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l06_014",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_16",
+      "can_do_title_sinhala": "පාලමක් තරණය කිරීම (橋を渡る)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L06_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "銀行はどこにありますか。",
+        "furigana": "[ぎんこう]はどこにありますか。",
+        "sinhala": "බැංකුව පිහිටා ඇත්තේ කොහේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "橋を渡って、スーパーの隣 (පාලම පැන, සුපර්මාර්කට් එක ළඟ)"
+        },
+        {
+          "id": "B",
+          "text": "駅の構内 (ස්ටේෂන් එක ඇතුළේ)"
+        },
+        {
+          "id": "C",
+          "text": "交番の向かい (පොලිස් මුරපොල ඉදිරිපිට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: あのう、この近くに銀行はありますか。\nB: ええ、あの大きな橋を渡ってください。スーパーの隣にありますよ。",
+        "sinhala": "A: මේ කිට්ටුව බැංකුවක් තියෙනවද?\nB: ඔව්, අර ලොකු පාලම පනින්න. සුපිරි වෙළඳසැල ළඟම තියෙනවා."
+      },
+      "explanation_sinhala": "කථකයා '橋を渡ってください。スーパーの隣にあります' (පාලම පනින්න, සුපර්මාර්කට් එක ළඟ තියෙනවා) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l06_015",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_17",
+      "can_do_title_sinhala": "නගරයේ ප්‍රධාන ස්ථානයක් පිහිටි තැන අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L06_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "市役所は交差点のどこにありますか。",
+        "furigana": "[しやくしょ]は[こうさてん]のどこにありますか。",
+        "sinhala": "නගර ශාලාව (City Hall) හන්දියේ පිහිටා ඇත්තේ කොතැනද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "交差点の角（コンビニの向かい）- හන්දියේ මුල්ලේ (කොන්බිනි එක ඉදිරිපිට)"
+        },
+        {
+          "id": "B",
+          "text": "公園の中 - උද්‍යානය ඇතුළේ"
+        },
+        {
+          "id": "C",
+          "text": "病院の裏 - රෝහල පිටුපස"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 市役所はどこですか。\nB: あの交差点の角にあります。コンビニの向かい側ですよ。",
+        "sinhala": "A: නගර ශාලාව කොහේද?\nB: අර හන්දියේ මුල්ලේ තියෙන්නේ. කොන්බිනි එකේ ඉස්සරහා."
+      },
+      "explanation_sinhala": "'交差点の角にあります。コンビニの向かい側' (හන්දියේ මුල්ලේ, කොන්බිනි එක ඉදිරිපිට) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l06_016",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_18",
+      "can_do_title_sinhala": "නගරයේ පැවැත්වෙන උත්සවයක් ගැන විමසීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E1_L06_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "今週末、市民公園でフリーマーケットがあります。（◯ か ✕）",
+        "furigana": "[こんしゅうまつ]、[しみんこうえん]でフリーマーケットがあります。（◯ か ✕）",
+        "sinhala": "මේ සති අන්තයේ නාගරික උද්‍යානයේ මැක්කන් වෙළඳපොලක් (Flea market) පැවැත්වේද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: 今度の土曜日、市民公園でフリーマーケットがあるそうですよ。\nB: へえ、おもしろそうですね。行ってみましょう！",
+        "sinhala": "A: මේ සෙනසුරාදා නාගරික උද්‍යානයේ ෆ්ලී මාර්කට් (Flea Market) එකක් තියෙනවාලු.\nB: ආ, රසවත් වගේනේ. ගිහින් බලමු!"
+      },
+      "explanation_sinhala": "දෙබසේ පැහැදිලිවම '市民公園でフリーマーケットがある' යැයි පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e1_l06_017",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_17",
+      "can_do_title_sinhala": "නගර සංචාරක සිතියමක් කියවීම (Town Sightseeing Map)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l06_q17_townmap.png"
+      },
+      "question_text": {
+        "japanese": "地図を見てください。駅からお城まで歩いて何分かかりますか。",
+        "furigana": "[ちず]を[み]てください。[えき]からお[しろ]まで[ある]いて[なんぷん]かかりますか。",
+        "sinhala": "සිතියම බලන්න. දුම්රියපළේ සිට බලකොටුවට (Castle) පයින් විනාඩි කීයක් ගතවේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "徒歩15分 (පයින් විනාඩි 15ක්)"
+        },
+        {
+          "id": "B",
+          "text": "徒歩5分 (පයින් විනාඩි 5ක්)"
+        },
+        {
+          "id": "C",
+          "text": "バスで30分"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සිතියමේ '駅から城跡公園まで: 徒歩約15分' ලෙස සටහන්ව ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l06_018",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_16",
+      "can_do_title_sinhala": "පොලිස් මුරපොලක (交番) ඇති මඟපෙන්වීම් සිතියම කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e1_l06_q18_kouban.png"
+      },
+      "question_text": {
+        "japanese": "交番の地図案内を見てください。病院はどこにありますか。",
+        "furigana": "[こうばん]の[ちずあんない]を[み]てください。[びょういん]はどこにありますか。",
+        "sinhala": "පොලිස් මුරපොලේ සිතියම බලන්න. රෝහල පිහිටා ඇත්තේ කොතැනද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "銀行の裏 (බැංකුව පිටුපස)"
+        },
+        {
+          "id": "B",
+          "text": "交差点を渡ってすぐ右 (හන්දිය පැන වහාම දකුණේ)"
+        },
+        {
+          "id": "C",
+          "text": "駅前 (ස්ටේෂන් එක ඉස්සරහා)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": null,
+      "explanation_sinhala": "සිතියමේ හන්දිය පසුකර දකුණු පසින් රෝහල (病院) ලකුණු කර ඇත."
+    },
+    {
+      "quiz_id": "qz_e1_l06_019",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_16",
+      "can_do_title_sinhala": "පාරක් හෝ පාලමක් පැනීම දැක්වීමට 'を' නිපාතය (渡る)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「あの橋（　）渡ってください。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「あの[はし]（　）[わた]ってください。」",
+        "sinhala": "'අර පාලම පනින්න' යැයි කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "を (o)"
+        },
+        {
+          "id": "B",
+          "text": "で (de)"
+        },
+        {
+          "id": "C",
+          "text": "に (ni)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පාලමක්, පාරක් හෝ මංසන්ධියක් හරහා ගමන් කිරීම/තරණය කිරීම (Crossing space) දැක්වීමට 'を' (o) නිපාතය යෙදේ (橋を渡る / 道を渡る)."
+    },
+    {
+      "quiz_id": "qz_e1_l06_020",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_16",
+      "can_do_title_sinhala": "හැරෙන දිශාව දැක්වීමට 'に' නිපාතය (右に曲がる)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「信号を右（　）曲がってください。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「[しんごう]を[みぎ]（　）[ま]がってください。」",
+        "sinhala": "'සිග්නල් එකෙන් දකුණට හැරෙන්න' කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "に (ni)"
+        },
+        {
+          "id": "B",
+          "text": "で (de)"
+        },
+        {
+          "id": "C",
+          "text": "を (o)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "හැරෙන දිශාව (Direction of turn) සලකුණු කරන්නේ 'に' (ni) නිපාතය මඟිනි (右に曲がる / 左に曲がる)."
+    },
+    {
+      "quiz_id": "qz_e1_l06_021",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_16",
+      "can_do_title_sinhala": "කෙළින්ම ඉදිරියට යන්න (まっすぐ)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「曲がらないで前へ進む（Go straight）」を表す言葉はどれですか。",
+        "furigana": "「[ま]がらないで[まえ]へ[すす]む（Go straight）」を[あらわ]す[ことば]はどれですか。",
+        "sinhala": "'නොහැරී කෙළින්ම ඉදිරියට යන්න' (Straight) යන්න දක්වන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "まっすぐ (Massugu)"
+        },
+        {
+          "id": "B",
+          "text": "すぐ (Sugu - වහාම)"
+        },
+        {
+          "id": "C",
+          "text": "ゆっくり (Yukkuri - හෙමින්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කෙළින්ම ඉදිරියට යාම 'まっすぐ' (මස්සුගු) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l06_022",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_16",
+      "can_do_title_sinhala": "මංසන්ධිය හඳුන්වන වචනය (交差点 / Kousaten)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "道路が十字に交わる場所（Intersection）を何と言いますか。",
+        "furigana": "[どうろ]が[じゅうじ]に[まじ]わる[ばしょ]（Intersection）を[なん]と[い]いますか。",
+        "sinhala": "මාර්ග එකිනෙක හමුවන සතරමං හන්දිය (Intersection) ජපන් බසින් හඳුන්වන්නේ කුමක් ලෙසද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "交差点 (Kousaten)"
+        },
+        {
+          "id": "B",
+          "text": "信号 (Shingou - ට්‍රැෆික් ලයිට්)"
+        },
+        {
+          "id": "C",
+          "text": "角 (Kado - මුල්ල)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "හතරමං හන්දිය හැඳින්වෙන්නේ '交差点' (කෝසාතෙන්) ලෙසයි."
+    },
+    {
+      "quiz_id": "qz_e1_l06_023",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_17",
+      "can_do_title_sinhala": "නගර සභා ශාලාව හඳුන්වන වචනය (市役所)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "住民票の手続きなどを行う街の役所は何ですか。",
+        "furigana": "[じゅうみんひょう]の[てつづ]きなどを[おこな]う[まち]の[やくしょ]は[なん]ですか。",
+        "sinhala": "ජපානයේ පදිංචිය ලියාපදිංචි කිරීම ඇතුළු රාජකාරි කරන නගර සභා කාර්යාලය (City Hall) කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "市役所 / 区役所 (Shiyakusho / Kuyakusho)"
+        },
+        {
+          "id": "B",
+          "text": "警察署 (Keisatsusho - පොලිස් ස්ථානය)"
+        },
+        {
+          "id": "C",
+          "text": "郵便局 (Yuubinkyoku - තැපැල් කාර්යාලය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නගර සභා කාර්යාලය '市役所' (ෂියාකුෂෝ) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e1_l06_024",
+      "book": "Irodori Elementary 1 (A2.1)",
+      "lesson": 6,
+      "can_do_id": "cando_e1_16",
+      "can_do_title_sinhala": "මඟ විමසීමේ සංවාදයක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話に並べ替えてください：\n1: ひとつ目の交差点を左に曲がってください\n2: ありがとうございます\n3: すみません、図書館はどこですか\n4: まっすぐ行くと右側にありますよ",
+        "furigana": "[しぜん]な[かいわ]に[なら]べ[か]えてください：\n1: ひとつ[め]の[こうさてん]を[ひだり]に[ま]がってください\n2: ありがとうございます\n3: すみません、[としょかん]はどこですか\n4: まっすぐ[い]くと[みぎがわ]にありますよ",
+        "sinhala": "පාරක් විමසන සංවාදයේ නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3 -> 1 -> 4 -> 2"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 4 -> 3 -> 2"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 4 -> 1 -> 2"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 3 (සමාවෙන්න, පුස්තකාලය කොහේද?) -> 1 (පළමු හන්දියෙන් වමට හැරෙන්න) -> 4 (කෙළින්ම යනකොට දකුණු පැත්තේ තියෙනවා) -> 2 (බොහොම ස්තුතියි)."
+    }
+  ]
+}

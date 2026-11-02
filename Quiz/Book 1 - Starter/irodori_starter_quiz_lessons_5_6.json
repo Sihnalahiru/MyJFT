@@ -1,0 +1,1295 @@
+{
+  "book": "Irodori Starter (A1)",
+  "lessons_covered": [
+    5,
+    6
+  ],
+  "total_questions": 34,
+  "categories": {
+    "listening_comprehension": 10,
+    "reading_comprehension": 9,
+    "grammar_and_vocabulary": 15
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_st_l05_001",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_11",
+      "can_do_title_sinhala": "තමා ජීවත් වන කාමරයේ ස්වභාවය අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L05_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんの部屋はどんな部屋ですか。",
+        "furigana": "カルロスさんの[へや]はどんな[へや]ですか。",
+        "sinhala": "කාලෝස් මහතාගේ කාමරය කෙබඳු එකක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "狭いですが、きれいです (පටුයි, නමුත් පිරිසිදුයි)"
+        },
+        {
+          "id": "B",
+          "text": "広くて、新しいです (ඉඩකඩ සහිතයි, අලුත්)"
+        },
+        {
+          "id": "C",
+          "text": "広くて、とても静かです (ඉඩකඩ සහිතයි, හරිම නිස්කලංකයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさんの部屋はどんな部屋ですか。\nB: 少し狭いですが、とてもきれいです。",
+        "sinhala": "A: කාලෝස්ගේ කාමරය මොන වගේද?\nB: ටිකක් පටුයි, නමුත් හරිම පිරිසිදුයි."
+      },
+      "explanation_sinhala": "කාලෝස් '少し狭いですが、とてもきれいです' (ටිකක් පටුයි, නමුත් හරිම පිරිසිදුයි) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l05_002",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_12",
+      "can_do_title_sinhala": "කාමරයේ ඇති ගෘහ භාණ්ඩ හඳුනාගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L05_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "部屋に何がありますか。",
+        "furigana": "[へや]に[なに]がありますか。",
+        "sinhala": "කාමරයේ ඇත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "テレビとエアコン (රූපවාහිනිය සහ වායුසමීකරණය)"
+        },
+        {
+          "id": "B",
+          "text": "ベッドと机 (ඇඳ සහ මේසය)"
+        },
+        {
+          "id": "C",
+          "text": "冷蔵庫と洗濯機 (ශීතකරණය සහ රෙදි සෝදන යන්ත්‍රය)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "私の部屋にはベッドと机があります。テレビはありません。",
+        "sinhala": "මගේ කාමරයේ ඇඳක් සහ මේසයක් තියෙනවා. ටීවී එකක් නෑ."
+      },
+      "explanation_sinhala": "කථකයා 'ベッドと机があります' (ඇඳ සහ මේසය තිබේ) යැයි පවසන බැවින් නිවැරදි පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l05_003",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_12",
+      "can_do_title_sinhala": "සුරතල් සතුන් ඇති කිරීම ගැන අසා තේරුම් ගැනීම (います)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L05_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "田中さんの家にペットがいますか。",
+        "furigana": "[たなか]さんの[いえ]にペットがいますか。",
+        "sinhala": "තනකා මහතාගේ නිවසේ සුරතල් සතෙකු සිටීද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "猫が1匹います (එක් බළලෙකු සිටී)"
+        },
+        {
+          "id": "B",
+          "text": "犬が2匹います (බල්ලන් දෙදෙනෙකු සිටී)"
+        },
+        {
+          "id": "C",
+          "text": "ペットはいません (සුරතල් සතුන් නැත)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: 田中さん、ペットを飼っていますか。\nB: はい、猫が1匹いますよ。とてもかわいいです。",
+        "sinhala": "A: තනකා මහතා සුරතල් සතුන් ඇති කරනවාද?\nB: ඔව්, එක පූසෙක් ඉන්නවා. හරිම හුරතල්."
+      },
+      "explanation_sinhala": "'猫が1匹います' (එක් බළලෙකු සිටී) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l05_004",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_13",
+      "can_do_title_sinhala": "යම් වස්තුවක් පිහිටි ස්ථානය අසා තේරුම් ගැනීම (Positions)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L05_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "ハサミはどこにありますか。",
+        "furigana": "ハサミはどこにありますか。",
+        "sinhala": "කතුර ඇත්තේ කොහේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "机の上 (මේසය උඩ)"
+        },
+        {
+          "id": "B",
+          "text": "引き出しの中 (ලාච්චුව ඇතුළේ)"
+        },
+        {
+          "id": "C",
+          "text": "箱の下 (පෙට්ටිය යට)"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": {
+        "japanese": "A: すみません、ハサミはどこですか。\nB: あ、机の引き出しの中にありますよ。",
+        "sinhala": "A: සමාවෙන්න, කතුර කොහෙද තියෙන්නේ?\nB: ආ, මේසයේ ලාච්චුව ඇතුළේ තියෙනවා."
+      },
+      "explanation_sinhala": "'引き出しの中にあります' (ලාච්චුව ඇතුළේ තිබේ) යැයි පවසන බැවින් නිවැරදි පිළිතුර B වේ."
+    },
+    {
+      "quiz_id": "qz_st_l05_005",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_11",
+      "can_do_title_sinhala": "තනිවම ජීවත් වන්නේදැයි අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L05_05.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは一人で住んでいますか。（◯ か ✕）",
+        "furigana": "マリアさんは[ひとり]で[す]んでいますか。（◯ か ✕）",
+        "sinhala": "මරියා තනිවම ජීවත් වෙනවාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, තනිවම ජීවත් වේ)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, මිතුරියක් සමඟ ජීවත් වේ)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: マリアさんは一人暮らしですか。\nB: いいえ、会社の寮で友達と一緒に住んでいます。",
+        "sinhala": "A: මරියා තනියමද ඉන්නේ?\nB: නැහැ, සමාගමේ නේවාසිකාගාරයේ යාළුවෙක් එක්ක ජීවත් වෙනවා."
+      },
+      "explanation_sinhala": "මරියා පවසන්නේ '友達と一緒に住んでいます' (මිතුරියක් සමඟ ජීවත් වෙනවා) යනුවෙනි. එබැවින් ප්‍රකාශය වැරදියි (✕)."
+    },
+    {
+      "quiz_id": "qz_st_l05_006",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_11",
+      "can_do_title_sinhala": "කාමර සැලැස්මක් (Madori) කියවා විස්තර හඳුනාගැනීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l05_q06_roomplan.png"
+      },
+      "question_text": {
+        "japanese": "間取り図を見てください。この部屋にお風呂（バス）はありますか。",
+        "furigana": "[まど]り[ず]を[み]てください。この[へや]にお[ふろ]（バス）はありますか。",
+        "sinhala": "කාමර සැලැස්ම (Floor Plan) බලන්න. මෙම කාමරයේ නාන කාමරයක් (Bath) තිබේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "はい、あります (ඔව්, තිබේ)"
+        },
+        {
+          "id": "B",
+          "text": "いいえ、ありません (නැත, නැත)"
+        },
+        {
+          "id": "C",
+          "text": "共用です (පොදු එකකි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සැලැස්මේ 'UB' (Unit Bath - නාන කාමරය) ලකුණු කර ඇති බැවින් කාමරය තුළ නාන කාමරයක් පවතී (A)."
+    },
+    {
+      "quiz_id": "qz_st_l05_007",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_12",
+      "can_do_title_sinhala": "ගෘහ භාණ්ඩ දැන්වීමක් කියවා මිල සෙවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l05_q07_chair.png"
+      },
+      "question_text": {
+        "japanese": "チラシを見てください。この「いす」はいくらですか。",
+        "furigana": "チラシを[み]てください。この「いす」はいくらですか。",
+        "sinhala": "දැන්වීම් පත්‍රිකාව බලන්න. මෙම 'පුටුවේ' මිල කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1,980円"
+        },
+        {
+          "id": "B",
+          "text": "2,500円"
+        },
+        {
+          "id": "C",
+          "text": "4,980円"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ පුටුවේ පින්තූරය යටින් '特別価格 1,980円' ලෙස සටහන්ව ඇත."
+    },
+    {
+      "quiz_id": "qz_st_l05_008",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_13",
+      "can_do_title_sinhala": "නිවේදනයක් කියවා කුණු කූඩය ඇති තැන සොයාගැනීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l05_q08_notice.png"
+      },
+      "question_text": {
+        "japanese": "張り紙を読んでください。ゴミ箱はどこにありますか：「ゴミ箱はドアの横にあります」",
+        "furigana": "[は]り[がみ]を[よ]んでください。ゴミ[ばこ]はどこにありますか：「ゴミ[ばこ]はドアの[よこ]にあります」",
+        "sinhala": "දැන්වීම කියවන්න. කුණු කූඩය ඇත්තේ කොහේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "දොර අයිනේ / පැත්තේ (Next to the door)"
+        },
+        {
+          "id": "B",
+          "text": "මේසය උඩ (On the desk)"
+        },
+        {
+          "id": "C",
+          "text": "කාමරයෙන් පිටත (Outside the room)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'ドアの横' යනු දොර පැත්තේ/අයිනේ යන්නයි."
+    },
+    {
+      "quiz_id": "qz_st_l05_009",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_12",
+      "can_do_title_sinhala": "අජීවී ද්‍රව්‍යවල පැවැත්ම (あります)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「部屋にテレビが（　）。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[へや]にテレビが（　）。」",
+        "sinhala": "'කාමරයේ රූපවාහිනියක් තිබේ' යැයි කීමට ගැළපෙන ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "あります (arimasu)"
+        },
+        {
+          "id": "B",
+          "text": "います (imasu)"
+        },
+        {
+          "id": "C",
+          "text": "します (shimasu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පණ නැති අජීවී ද්‍රව්‍ය (රූපවාහිනී, පොත්, ඇඳන්) තිබෙන බව දැක්වීමට 'あります' යෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l05_010",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_12",
+      "can_do_title_sinhala": "සජීවී සතුන්/මිනිසුන්ගේ පැවැත්ම (います)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「庭に白い犬が（　）。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[にわ]に[しろ]い[いぬ]が（　）。」",
+        "sinhala": "'මිදුලේ සුදු බල්ලෙක් සිටී' යැයි කීමට ගැළපෙන ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "います (imasu)"
+        },
+        {
+          "id": "B",
+          "text": "あります (arimasu)"
+        },
+        {
+          "id": "C",
+          "text": "です (desu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ස්වභාවිකව චලනය වන පණ ඇති සතුන් සහ මිනිසුන් සිටින බව දැක්වීමට 'います' යෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l05_011",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_13",
+      "can_do_title_sinhala": "ස්ථාන පද සමඟ 'に' නිපාතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に助詞を入れてください：「机の上（　）本があります。」",
+        "furigana": "[くうらん]に[じょし]を[い]れてください：「[つくえ]の[うえ]（　）[ほん]があります。」",
+        "sinhala": "'මේසය උඩ පොතක් තිබේ' යැයි කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "に (ni)"
+        },
+        {
+          "id": "B",
+          "text": "で (de)"
+        },
+        {
+          "id": "C",
+          "text": "を (o)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "යමක් පවතින නිශ්චිත ස්ථානය සලකුණු කරන්නේ 'に' (ni) නිපාතය මඟිනි."
+    },
+    {
+      "quiz_id": "qz_st_l05_012",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_11",
+      "can_do_title_sinhala": "ඉඩකඩ සහ පටු බව දක්වන විශේෂණ පද",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「広い」の反対の意味の言葉はどれですか。",
+        "furigana": "「[ひろ]い」の[はんたい]の[いみ]の[ことば]はどれですか。",
+        "sinhala": "'広い' (ඉඩකඩ ඇති) යන්නෙහි ප්‍රතිවිරුද්ධ පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "狭い (Semai - පටු)"
+        },
+        {
+          "id": "B",
+          "text": "新しい (Atarashii - අලුත්)"
+        },
+        {
+          "id": "C",
+          "text": "古い (Furui - පරණ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'広い' (Hiroi - ඉඩකඩ ඇති) හි ප්‍රතිවිරුද්ධ වචනය '狭い' (Semai - පටු) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l05_013",
+      "book": "Irodori Starter (A1)",
+      "lesson": 5,
+      "can_do_id": "cando_st_13",
+      "can_do_title_sinhala": "ස්ථාන නාම හඳුනාගැනීම (යට / Shita)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「ベッドの下」の「下」の読み方はどれですか。",
+        "furigana": "「ベッドの[した]」の「[した]」の[よ]み[かた]はどれですか。",
+        "sinhala": "'ඇඳ යට' යන්නෙහි '下' (යට) කන්ජි අක්ෂරයේ උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "した (shita)"
+        },
+        {
+          "id": "B",
+          "text": "うえ (ue)"
+        },
+        {
+          "id": "C",
+          "text": "なか (naka)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'下' යනු 'した' (shita - යට) වේ. '上' යනු 'うえ' (ue - උඩ), '中' යනු 'なか' (naka - ඇතුළත) වේ."
+    },
+    {
+      "quiz_id": "qz_st_l06_014",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_14",
+      "can_do_title_sinhala": "කැමති ආහාරය අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L06_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは日本料理の中で何が好きですか。",
+        "furigana": "カルロスさんは[にほんりょうり]の[なか]で[なに]が[す]きですか。",
+        "sinhala": "කාලෝස් ජපන් කෑම අතුරින් කැමති කුමකටද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ラーメン (රාමෙන්)"
+        },
+        {
+          "id": "B",
+          "text": "納豆 (නැත්තෝ)"
+        },
+        {
+          "id": "C",
+          "text": "刺身 (සෂිමි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、日本の食べ物は何が好きですか。\nB: ラーメンが大好きです。特にとんこつラーメンが好きです。",
+        "sinhala": "A: කාලෝස්, ජපන් කෑමවලින් මොනවටද ආස?\nB: මම රාමෙන්වලට ගොඩක් ආසයි. විශේෂයෙන් තොන්කොත්සු රාමෙන්වලට."
+      },
+      "explanation_sinhala": "කාලෝස් 'ラーメンが大好きです' (රාමෙන්වලට ගොඩක් කැමතියි) යැයි පවසන බැවින් නිවැරදි පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l06_015",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_14",
+      "can_do_title_sinhala": "අකමැති ආහාරයක් අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L06_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんが苦手な食べ物は何ですか。",
+        "furigana": "マリアさんが[にがて]な[た]べ[もの]は[なん]ですか。",
+        "sinhala": "මරියා අකමැති/කෑමට අපහසු ආහාරය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "生魚・刺身 (අමු මාළු / සෂිමි)"
+        },
+        {
+          "id": "B",
+          "text": "カレー (කරි)"
+        },
+        {
+          "id": "C",
+          "text": "天ぷら (තෙම්පුරා)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: マリアさんは生魚やすしは大丈夫ですか。\nB: 生魚はちょっと苦手です。食べられません。",
+        "sinhala": "A: මරියාට අමු මාළු සහ සුෂි කන්න පුළුවන්ද?\nB: අමු මාළු නම් ටිකක් අමාරුයි. කන්න බෑ."
+      },
+      "explanation_sinhala": "මරියා '生魚はちょっと苦手です' (අමු මාළු කන්න ටිකක් අමාරුයි/අකමැතියි) යැයි පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l06_016",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_15",
+      "can_do_title_sinhala": "කෑමකට කළ ආරාධනාවකට එකඟ වීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L06_03.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "二人は今日のお昼に何を食べに行きますか。",
+        "furigana": "[ふたり]は[きょう]のお[ひる]に[なに]を[た]べに[い]きますか。",
+        "sinhala": "දෙදෙනා අද දවල්ට කෑමට යන්නේ මොනවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "カレー (කරි)"
+        },
+        {
+          "id": "B",
+          "text": "うどん (උදොන් නූඩ්ල්ස්)"
+        },
+        {
+          "id": "C",
+          "text": "ハンバーガー (හැම්බර්ගර්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、一緒にお昼を食べませんか。\nB: ええ、行きましょう！何にしますか。\nA: 駅の近くのカレー屋はどうですか。\nB: いいですね。そうしましょう。",
+        "sinhala": "A: කාලෝස්, අපි එකට දවල් කෑම කමුද?\nB: ඔව්, යමු! මොනවද කන්නේ?\nA: ස්ටේෂන් එක ළඟ කරි කඩේ කොහොමද?\nB: හොඳයිනේ. එහෙම කරමු."
+      },
+      "explanation_sinhala": "දෙදෙනා කතා වී යන්නේ ස්ටේෂන් එක ළඟ ඇති කරි කඩයට (カレー屋) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l06_017",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_15",
+      "can_do_title_sinhala": "ආරාධනාවක් විනීතව ප්‍රතික්ෂේප කිරීම අසා තේරුම් ගැනීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L06_04.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは今晩飲みに行きますか。（◯ か ✕）",
+        "furigana": "スミスさんは[こんばん][の]みに[い]きますか。（◯ か ✕）",
+        "sinhala": "ස්මිත් මහතා අද රාත්‍රියේ බීමකට යනවාද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, යයි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, නොයයි)"
+        }
+      ],
+      "correct_answer": "False",
+      "audio_script": {
+        "japanese": "A: スミスさん、今晩一緒に飲みに行きませんか。\nB: すみません、今晩はちょっと用事がありますから……。\nA: あ、そうですか。じゃあ、また今度。",
+        "sinhala": "A: ස්මිත් මහතා, අද රෑට අපි එකතු වෙලා ඩ්‍රින්ක් එකක් දාන්න යමුද?\nB: සමාවෙන්න, අද රෑට මට පොඩි වැඩක් තියෙනවා...\nA: ආ එහෙමද, එහෙනම් තව දවසක යමු."
+      },
+      "explanation_sinhala": "ස්මිත් මහතා '今晩はちょっと用事があります' (අද රෑට වැඩක් තියෙනවා) යැයි ආරාධනාව මෘදුව ප්‍රතික්ෂේප කරයි. එබැවින් ප්‍රකාශය අසත්‍ය වේ (✕)."
+    },
+    {
+      "quiz_id": "qz_st_l06_018",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_14",
+      "can_do_title_sinhala": "පාන වර්ග රුචිකත්වය හඳුනාගැනීම",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "ST_L06_05.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性はどんな飲み物を注文しましたか。",
+        "furigana": "[じょせい]はどんな[の]み[もの]を[ちゅうもん]しましたか。",
+        "sinhala": "කාන්තාව ඇනවුම් කළ බීම වර්ගය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "冷たいウーロン茶 (සීතල ඌලොන්ග් තේ)"
+        },
+        {
+          "id": "B",
+          "text": "温かい緑茶 (උණුසුම් කොළ තේ)"
+        },
+        {
+          "id": "C",
+          "text": "生ビール (ඩ්‍රාෆ්ට් බියර්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "店員: お飲み物は何にしますか。\n客: お酒は飲めないので、冷たいウーロン茶をお願いします。",
+        "sinhala": "වේටර්: බීමට ගන්නේ මොනවාද?\nපාරිභෝගිකයා: මම මත්පැන් බොන්නේ නැති නිසා, සීතල ඌලොන්ග් තේ එකක් දෙන්න."
+      },
+      "explanation_sinhala": "ඇය '冷たいウーロン茶をお願いします' (සීතල ඌලොන්ග් තේ) ඇනවුම් කළ බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l06_019",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_16",
+      "can_do_title_sinhala": "දිවා ආහාර සෙට් මෙනුවක් කියවා තේරුම් ගැනීම (Lunch Set)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l06_q19_lunchset.png"
+      },
+      "question_text": {
+        "japanese": "ランチメニューを見てください。Aランチに何がついていますか。",
+        "furigana": "ランチメニューを[み]てください。Aランチに[なに]がついていますか。",
+        "sinhala": "දිවා ආහාර මෙනුව බලන්න. 'A Lunch' එක සමඟ ලැබෙන්නේ මොනවාද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ラーメンと半チャーハン (රාමෙන් සහ බත්)"
+        },
+        {
+          "id": "B",
+          "text": "カレーとサラダ (කරි සහ සලාද)"
+        },
+        {
+          "id": "C",
+          "text": "牛丼とうどん (ගවමස් බත් සහ උදොන්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "මෙනුපතේ 'Aランチ: ラーメン＋半チャーハン 850円' ලෙස සටහන්ව ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_st_l06_020",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_16",
+      "can_do_title_sinhala": "ආහාර අසාත්මිකතා ලේබලයක් කියවීම (Allergens / 豚肉)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l06_q20_allergy.png"
+      },
+      "question_text": {
+        "japanese": "食品ラベルに「豚肉」と書いてあります。これは何の肉ですか。",
+        "furigana": "[しょくひん]ラベルに「[ぶたにく]」と[か]いてあります。これは[なん]の[にく]ですか。",
+        "sinhala": "ආහාර ලේබලයේ '豚肉' (Butaniku) කියා ලියා ඇත. මෙය කුමන මස් වර්ගයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ඌරු මස් (Pork)"
+        },
+        {
+          "id": "B",
+          "text": "හරක් මස් (Beef / 牛肉)"
+        },
+        {
+          "id": "C",
+          "text": "කුකුළු මස් (Chicken / 鶏肉)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'豚肉' (Butaniku) යනු ඌරු මස් (Pork) වේ. ඉස්ලාම් හෝ විශේෂ ආහාර පුරුදු ඇති අයට මෙය වැදගත් වේ."
+    },
+    {
+      "quiz_id": "qz_st_l06_021",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_16",
+      "can_do_title_sinhala": "බීම ප්‍රමාණයන් (S / M / L) කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l06_q21_drinksize.png"
+      },
+      "question_text": {
+        "japanese": "看板を見てください。コーヒーのMサイズはいくらですか。",
+        "furigana": "[かんばん]を[み]てください。コーヒーのMサイズはいくらですか。",
+        "sinhala": "පුවරුව බලන්න. කෝපි M ප්‍රමාණයේ මිල කීයද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "300円"
+        },
+        {
+          "id": "B",
+          "text": "350円"
+        },
+        {
+          "id": "C",
+          "text": "400円"
+        }
+      ],
+      "correct_answer": "B",
+      "audio_script": null,
+      "explanation_sinhala": "පුවරුවේ 'S: 300円 / M: 350円 / L: 400円' ලෙස දක්වා ඇති බැවින් M ප්‍රමාණය 350円 වේ."
+    },
+    {
+      "quiz_id": "qz_st_l06_022",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_16",
+      "can_do_title_sinhala": "සැර මට්ටම පෙන්වන මෙනුවක් කියවීම (辛さ)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l06_q22_spice.png"
+      },
+      "question_text": {
+        "japanese": "カレー屋の案内で「甘口」は何を意味しますか。",
+        "furigana": "カレー[や]の[あんない]で「[あまくち]」は[なに]を[いみ]しますか。",
+        "sinhala": "කරි කඩේ මෙනුවේ '甘口' (Amakuchi) යන්නෙන් අදහස් කරන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "සැර නැති / පැණිරස රසය (Mild / Not spicy)"
+        },
+        {
+          "id": "B",
+          "text": "මධ්‍යම සැර (Medium spicy)"
+        },
+        {
+          "id": "C",
+          "text": "අධික සැර (Very spicy)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'甘口' (Amakuchi) යනු සැර නැති මෘදු රසයයි. '中辛' (Chuukara) මධ්‍යම සැර වන අතර '辛口' (Karakuchi) සැර රසයයි."
+    },
+    {
+      "quiz_id": "qz_st_l06_023",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_14",
+      "can_do_title_sinhala": "කැමැත්ත දැක්වීමට 'が' නිපාතය භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "正しい助詞を選んでください：「私は寿司（　）好きです。」",
+        "furigana": "[ただ]しい[じょし]を[えら]んでください：「[わたし]は[すし]（　）[す]きです。」",
+        "sinhala": "'මම සුෂිවලට කැමතියි' යැයි කීමට හිස්තැනට ගැළපෙන නිපාතය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "が (ga)"
+        },
+        {
+          "id": "B",
+          "text": "を (o)"
+        },
+        {
+          "id": "C",
+          "text": "で (de)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කැමැත්ත දක්වන '好きです' (Suki desu) ඉදිරියෙන් ඉලක්කය දැක්වීමට 'が' නිපාතය යෙදේ ('を' නොවේ)."
+    },
+    {
+      "quiz_id": "qz_st_l06_024",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_15",
+      "can_do_title_sinhala": "ආරාධනා කිරීමේ වාක්‍ය රටාව (～ませんか)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "誘う表現を作ってください：「一緒にお茶を（　）。」",
+        "furigana": "[さそ]う[ひょうげん]を[つく]ってください：「[いっしょ]にお[ちゃ]を（　）。」",
+        "sinhala": "'එකට තේ බොමුද?' කියා ආරාධනා කිරීමට ක්‍රියාපදයේ නිවැරදි ආකෘතිය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "飲みませんか (Nomimasen ka)"
+        },
+        {
+          "id": "B",
+          "text": "飲みました (Nomimashita)"
+        },
+        {
+          "id": "C",
+          "text": "飲まないでした (Nomanai deshita)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අන් අයට සුහදව ආරාධනා කිරීමට 'V-stem + ませんか' (Nomimasen ka - බොමුද?) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_st_l06_025",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_15",
+      "can_do_title_sinhala": "යෝජනා කිරීමේ හෝ එකඟ වීමේ ආකෘතිය (～ましょう)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「ええ、（　）。」空欄に入る適切な言葉はどれですか。",
+        "furigana": "「ええ、（　）。」[くうらん]に[はい]る[てきせつ]な[ことば]はどれですか。",
+        "sinhala": "ආරාධනාවකට එකඟ වෙමින් 'හොඳයි, අපි යමු!' කීමට ගැළපෙන පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "行きましょう (Ikimashou)"
+        },
+        {
+          "id": "B",
+          "text": "行きますか (Ikimasu ka)"
+        },
+        {
+          "id": "C",
+          "text": "行きません (Ikimasen)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ආරාධනාවකට එකඟ වී 'අපි කරමු/යමු' යැයි පැවසීමට 'V-stem + ましょう' (Ikimashou) යොදයි."
+    },
+    {
+      "quiz_id": "qz_st_l06_026",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_14",
+      "can_do_title_sinhala": "මස් සහ මාළු වෙන්කර හඳුනාගැනීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「魚」の読み方はどれですか。",
+        "furigana": "「[さかな]」の[よ]み[かた]はどれですか。",
+        "sinhala": "'魚' (මාළු) කන්ජි අක්ෂරයේ නිවැරදි උච්චාරණය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "さかな (Sakana)"
+        },
+        {
+          "id": "B",
+          "text": "にく (Niku)"
+        },
+        {
+          "id": "C",
+          "text": "やさい (Yasai)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'魚' යනු 'さかな' (Sakana - මාළු) වේ. '肉' යනු මස් වන අතර '野菜' යනු එළවළු වේ."
+    },
+    {
+      "quiz_id": "qz_st_l06_027",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_14",
+      "can_do_title_sinhala": "රස විස්තර කරන විශේෂණ පද (සැර / 辛い)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "唐辛子やスパイスが多くてピリピリする味は何ですか。",
+        "furigana": "[とうがらし]やスパイスが[おお]くてピリピリする[あじ]は[なん]ですか。",
+        "sinhala": "මිරිස් සහ තුනපහ අධික සැර රසය හඳුන්වන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "からい (Karai - සැර)"
+        },
+        {
+          "id": "B",
+          "text": "あまい (Amai - පැණිරස)"
+        },
+        {
+          "id": "C",
+          "text": "すっぱい (Suppai - ඇඹුල්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සැර රසය හැඳින්වෙන්නේ 'からい' (Karai) ලෙසයි."
+    },
+    {
+      "quiz_id": "qz_st_l06_028",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_14",
+      "can_do_title_sinhala": "කර්ම කාරක නිපාතය (Object Particle を)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る助詞を選んでください：「朝ごはん（　）食べます。」",
+        "furigana": "[くうらん]に[はい]る[じょし]を[えら]んでください：「[あさ]ごはん（　）[た]べます。」",
+        "sinhala": "'උදෑසන ආහාරය කනවා' යැයි කීමට හිස්තැනට යෙදිය යුතු නිපාතය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "を (o)"
+        },
+        {
+          "id": "B",
+          "text": "に (ni)"
+        },
+        {
+          "id": "C",
+          "text": "で (de)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ක්‍රියාවට ලක්වන දෙය හෙවත් කර්මය (Object) සලකුණු කරන්නේ 'を' (o) නිපාතයෙනි."
+    },
+    {
+      "quiz_id": "qz_st_l06_029",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_14",
+      "can_do_title_sinhala": "සෘණාත්මක ප්‍රමාණ පද (あまり ～ない)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「お酒は（　）好きじゃないです。」空欄に入る最も適切な言葉はどれですか。",
+        "furigana": "「お[さけ]は（　）[す]きじゃないです。」[くうらん]に[はい]る[もっと]も[てきせつ]な[ことば]はどれですか。",
+        "sinhala": "'මත්පැන් වලට එතරම් කැමති නෑ' යැයි කීමට හිස්තැනට ගැළපෙන පදය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "あまり (Amari - එතරම්)"
+        },
+        {
+          "id": "B",
+          "text": "とても (Totemo - ගොඩක්)"
+        },
+        {
+          "id": "C",
+          "text": "たくさん (Takusan - බොහෝ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සෘණාත්මක ක්‍රියාපදයක් සමඟ 'එතරම් නෑ' (not very much) කීමට 'あまり' (Amari) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_st_l06_030",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_15",
+      "can_do_title_sinhala": "මත්පැන් හෝ බීම පානයට පෙර කියන සුබපැතුම (乾杯)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "飲み会でグラスを合わせるときに言う言葉は何ですか。",
+        "furigana": "[の]み[かい]でグラスを[あ]わせるときに[い]う[ことば]は[なん]ですか。",
+        "sinhala": "සාදයකදී බීම වීදුරු එකිනෙක තබා සුබ පතන විට (Cheers) පවසන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "乾杯 (Kanpai)"
+        },
+        {
+          "id": "B",
+          "text": "いただきます (Itadakimasu)"
+        },
+        {
+          "id": "C",
+          "text": "ごちそうさま (Gochisousama)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ චියර්ස් (Cheers) කියා වීදුරු එකිනෙක හප්පා පානය ආරම්භ කිරීමට පෙර '乾杯' (කන්පායි) යැයි පවසයි."
+    },
+    {
+      "quiz_id": "qz_st_l06_031",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_16",
+      "can_do_title_sinhala": "ආපනශාලා මෙනුවක පාන වර්ග තීරුව හඳුනාගැනීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l06_q31_drinkmenu.png"
+      },
+      "question_text": {
+        "japanese": "メニューの「お飲み物」の欄にあるものはどれですか。",
+        "furigana": "メニューの「お[の]み[もの]」の[らん]にあるものはどれですか。",
+        "sinhala": "මෙනුපතේ 'お飲み物' (බීම වර්ග) තීරුවේ අඩංගු වන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "生ビール (Draft Beer)"
+        },
+        {
+          "id": "B",
+          "text": "焼き鳥 (Yakitori - චිකන් කටු)"
+        },
+        {
+          "id": "C",
+          "text": "枝豆 (Edamame - සෝයා කරල්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "'お飲み物' (Onomimono) යනු බීම වර්ග වන අතර එහි බියර් (生ビール) අඩංගු වේ."
+    },
+    {
+      "quiz_id": "qz_st_l06_032",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_14",
+      "can_do_title_sinhala": "ආහාර ගැනීමට පෙර සහ පසු පවසන ආචාර",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "ご飯を食べ終わったあとに言う言葉は何ですか。",
+        "furigana": "ご[はん]を[た]べ[お]わったあとに[い]う[ことば]は[なん]ですか。",
+        "sinhala": "කෑම කා අවසන් වූ පසු ස්තුති කිරීමට පවසන ආචාරය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ごちそうさまでした (Gochisousama deshita)"
+        },
+        {
+          "id": "B",
+          "text": "いただきます (Itadakimasu)"
+        },
+        {
+          "id": "C",
+          "text": "お邪魔します (Ojamashimasu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ආහාර කෑමට පෙර 'いただきます' ද, ආහාර කා අවසන් වූ පසු 'ごちそうさまでした' ද පවසයි."
+    },
+    {
+      "quiz_id": "qz_st_l06_033",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_16",
+      "can_do_title_sinhala": "අසීමිතව ආහාර ගැනීමේ දැන්වීමක් කියවීම (食べ放題)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "st_l06_q33_buffet.png"
+      },
+      "question_text": {
+        "japanese": "看板の「食べ放題」の意味は何ですか。",
+        "furigana": "[かんばん]の「[た]べ[ほうだい]」の[いみ]は[なん]ですか。",
+        "sinhala": "පුවරුවේ ඇති '食べ放題' (Tabehoudai) යන්නෙහි තේරුම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "නියමිත මුදලට කැමති තරම් ආහාර ගත හැක (All-you-can-eat Buffet)"
+        },
+        {
+          "id": "B",
+          "text": "කෑම ගැනීම තහනම්ය (No eating)"
+        },
+        {
+          "id": "C",
+          "text": "කෑම පාර්සල් ගෙන යා හැක (Takeout only)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ජපානයේ '食べ放題' (Tabehoudai) යනු නියමිත කාලයකදී කැමති තරම් ආහාර ගැනීමේ බුෆේ ක්‍රමයයි (All-you-can-eat)."
+    },
+    {
+      "quiz_id": "qz_st_l06_034",
+      "book": "Irodori Starter (A1)",
+      "lesson": 6,
+      "can_do_id": "cando_st_15",
+      "can_do_title_sinhala": "සම්පූර්ණ ආරාධනා සංවාදයක් අනුපිළිවෙලට සැකසීම",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な会話になるように並べ替えてください：\n1: ラーメン屋に行きませんか\n2: いいですね。行きましょう\n3: お腹がすきましたね\n4: どこへ行きますか",
+        "furigana": "[しぜん]な[かいわ]になるように[なら]べ[か]えてください：\n1: ラーメン[や]に[い]きませんか\n2: いいですね。[い]きましょう\n3: お[なか]がすきましたね\n4: どこへ[い]きますか",
+        "sinhala": "ස්වභාවික සංවාදයක් ලෙස නිවැරදි අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3 -> 4 -> 1 -> 2"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 2 -> 3 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "4 -> 3 -> 2 -> 1"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 3 (බඩගිනියි නේද) -> 4 (කොහේද යන්නේ) -> 1 (රාමෙන් කඩේ යමුද) -> 2 (හොඳයිනේ, යමු!)."
+    }
+  ]
+}

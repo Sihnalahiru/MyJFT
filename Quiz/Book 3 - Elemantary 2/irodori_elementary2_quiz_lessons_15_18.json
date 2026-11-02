@@ -1,0 +1,921 @@
+{
+  "book": "Irodori Elementary 2 (A2.2)",
+  "lessons_covered": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "total_questions": 24,
+  "categories": {
+    "listening_comprehension": 8,
+    "reading_comprehension": 4,
+    "grammar_and_vocabulary": 12
+  },
+  "quizzes": [
+    {
+      "quiz_id": "qz_e2_l15_001",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 15,
+      "can_do_id": "cando_e2_45",
+      "can_do_title_sinhala": "පරිසර හිතකාමී පුරුදු අසා තේරුම් ගැනීම (～ために)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L15_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんはごみを減らすために、普段何をしていますか。",
+        "furigana": "カルロスさんはごみを[へ]らすために、[ふだん][なに]をしていますか。",
+        "sinhala": "කාලෝස් මහතා කසළ අවම කිරීම වෙනුවෙන් සාමාන්‍යයෙන් කරන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "マイバッグとマイボトルを持ち歩いている (තමන්ගේම රෙදි බෑගයක් සහ වතුර බෝතලයක් රැගෙන යයි)"
+        },
+        {
+          "id": "B",
+          "text": "割り箸をたくさんもらっている (ඉවතලන චොප්ස්ටික්ස් වැඩිපුර ලබාගනියි)"
+        },
+        {
+          "id": "C",
+          "text": "毎日ペットボトルの水を買っている (දිනපතා ප්ලාස්ටික් බෝතල් කළ ජලය මිලදී ගනියි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさんは何かエコ活動をしていますか。\nB: プラスチックのごみを減らすために、買い物に行くときはいつもマイバッグを持っていきます。それから、マイボトルでお茶を持ち歩いています。",
+        "sinhala": "A: කාලෝස් මහතා පරිසරය වෙනුවෙන් යම් දෙයක් කරනවද?\nB: ප්ලාස්ටික් කසළ අවම කිරීම වෙනුවෙන් (ごみを減らすために), ෂොපින් යනකොට හැමතිස්සෙම මගේම රෙදි බෑගයක් අරන් යනවා. ඒ වගේම මගේම බෝතලයකින් තේ අරගෙන යනවා."
+      },
+      "explanation_sinhala": "කාලෝස් ප්ලාස්ටික් කසළ අවම කිරීමට තමන්ගේම බෑග් සහ බෝතල් රැගෙන යන බව (マイバッグとマイボトルを持ち歩く) පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l15_002",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 15,
+      "can_do_id": "cando_e2_45",
+      "can_do_title_sinhala": "අමතක නොවීමට ගන්නා පියවර අසා තේරුම් ගැනීම (～ように)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L15_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "女性はエコバッグを忘れないように、何をしていますか。",
+        "furigana": "[じょせい]はエコバッグを[わす]れないように、[なに]をしていますか。",
+        "sinhala": "කාන්තාව පරිසර හිතකාමී බෑගය (Eco bag) අමතක නොවීමට කරන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "通勤用カバンの中にいつも予備を入れてある (වැඩට යන බෑගය තුළ නිතරම අමතර එකක් දමා තබා ඇත)"
+        },
+        {
+          "id": "B",
+          "text": "スーパーで有料レジ袋を買う (සුපර්මාර්කට් එකෙන් මුදල් ගෙවා පොලිතින් බෑග් ගනියි)"
+        },
+        {
+          "id": "C",
+          "text": "手に持って歩く (අතේ තබාගෙන ඇවිදියි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: ついついエコバッグを家に忘れてしまうんですよね。\nB: 私は忘れないように、通勤用のリュックの中に小さくたためるバッグをいつも入れてありますよ。便利ですよ。",
+        "sinhala": "A: මට නිතරම ඉබේම ඉකෝ බෑග් එක ගෙදර අමතක වෙනවානේ.\nB: මම අමතක නොවෙන්න (忘れないように), වැඩට යන බෑග් එක ඇතුළේ පොඩියට නමන්න පුළුවන් බෑග් එකක් නිතරම දාලා තියෙන්නේ. හරිම ලේසියි."
+      },
+      "explanation_sinhala": "ඇය අමතක වීම වැළැක්වීමට නිතරම බෑගයේ දමා තබන බව (通勤用カバンの中に入れてある) පවසන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l15_003",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 15,
+      "can_do_id": "cando_e2_46",
+      "can_do_title_sinhala": "නැවත පුරවන ඇසුරුමක (詰め替え用) ලේබලය කියවීම",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l15_q03_refill.png"
+      },
+      "question_text": {
+        "japanese": "商品のパッケージを見てください。「詰め替え用（つめかえよう）」を買う利点は何ですか。",
+        "furigana": "[しょうひん]のパッケージを[み]てください。「[つ]め[か]え[よう]」を[か]う[りてん]は[なん]ですか。",
+        "sinhala": "භාණ්ඩ ඇසුරුම බලන්න. 'නැවත පුරවන පැකට්ටුව' (詰め替え用 - Tsumekaeyou) මිලදී ගැනීමේ වාසිය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "プラスチックごみを約80%削減でき、値段もお得 (ප්ලාස්ටික් කසළ 80%කින් අඩු කළ හැකි අතර මිලද ලාභදායී වේ)"
+        },
+        {
+          "id": "B",
+          "text": "ボトルよりも量が少ない (බෝතලයට වඩා ප්‍රමාණය අඩුය)"
+        },
+        {
+          "id": "C",
+          "text": "新しいボトルが無料でもらえる (නොමිලේ අලුත් බෝතලයක් ලැබේ)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ඇසුරුමේ 'エコでお得！本体ボトルに比べて廃棄プラスチック量を約80%削減' ලෙස සඳහන් වන බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l15_004",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 15,
+      "can_do_id": "cando_e2_45",
+      "can_do_title_sinhala": "අරමුණක් සඳහා ක්‍රියා කිරීම (～ために)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「将来自分の店を（　）ために、今貯金をしています。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[しょうらい][じぶん]の[みせ]を（　）ために、[いま][ちょきん]をしています。」",
+        "sinhala": "'අනාගතයේ තමන්ගේම කඩයක් ඇරීම වෙනුවෙන් (In order to open a shop), දැන් මුදල් ඉතිරි කරමි' කීමට හිස්තැනට ගැළපෙන ක්‍රියාපද ආකෘතිය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "開く (Hiraku / Motsu - Dict form)"
+        },
+        {
+          "id": "B",
+          "text": "開きます (Hirakimasu)"
+        },
+        {
+          "id": "C",
+          "text": "開いて (Hiraite)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කෙනෙකුගේ අභිප්‍රායික අරමුණක් (In order to) දැක්වීමේදී 'V-dict + ために' (開くために) යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l15_005",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 15,
+      "can_do_id": "cando_e2_45",
+      "can_do_title_sinhala": "තත්ත්වයක් සාක්ෂාත් කරගැනීම සඳහා '～ように' භාවිතය",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「後ろの人にもよく（　）ように、大きな字で書きました。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[うし]ろの[ひと]にもよく（　）ように、[おお]きな[じ]で[か]きました。」",
+        "sinhala": "'පිටුපස සිටින අයටත් හොඳින් පෙනෙන සේ (So that they can see), විශාල අකුරින් ලිව්වා' කීමට හිස්තැනට ගැළපෙන විභව ක්‍රියාපදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "見える (Mieru - Potential/Spontaneous)"
+        },
+        {
+          "id": "B",
+          "text": "見る (Miru)"
+        },
+        {
+          "id": "C",
+          "text": "見せる (Miseru)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තත්ත්වයක් ඇතිවන සේ (So that...) යන්න දැක්වීමේදී '～ように' ඉදිරියෙන් විභව හෝ ස්වභාවික ක්‍රියාපද (見えるように) යෙදේ."
+    },
+    {
+      "quiz_id": "qz_e2_l15_006",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 15,
+      "can_do_id": "cando_e2_46",
+      "can_do_title_sinhala": "පරිසර හිතකාමී වචන (削減 / Sakugen)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「ごみや無駄を減らすこと（Reduce/Cut down）」を表す言葉はどれですか。",
+        "furigana": "「ごみや[むだ]を[へ]らすこと（Reduce/Cut down）」を[あらわ]す[ことば]はどれですか。",
+        "sinhala": "'අපද්‍රව්‍ය හෝ නාස්තිය අඩු කිරීම' (Reduce/Cut down) හඳුන්වන නිල ජපන් වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "削減 / さくげん (Sakugen - Reduction)"
+        },
+        {
+          "id": "B",
+          "text": "増加 / ぞうか (Zouka - වැඩිවීම)"
+        },
+        {
+          "id": "C",
+          "text": "利用 / りよう (Riyou - භාවිතය)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "කසළ හෝ බලශක්තිය අඩු කිරීම හෙවත් Reduction '削減' (සකුගෙන්) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l16_007",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 16,
+      "can_do_id": "cando_e2_47",
+      "can_do_title_sinhala": "විදුලිය ඉතිරි කිරීමට දිනපතා ගන්නා උත්සාහය (～ようにしています)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L16_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "スミスさんは節電（せつでん）のために何を心がけていますか。",
+        "furigana": "スミスさんは[せつでん]のために[なに]を[こころ]がけていますか。",
+        "sinhala": "ස්මිත් මහතා විදුලිය ඉතිරි කිරීම (Setsuden) සඳහා නිරන්තරයෙන් පුරුදු වී සිටින්නේ කුමක් කිරීමටද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "使っていない部屋の電気をこまめに消すようにしている (පාවිච්චි නොකරන කාමරවල විදුලි පහන් නිතරම නිවා දැමීමට උත්සාහ කරයි)"
+        },
+        {
+          "id": "B",
+          "text": "エアコンを一日中つけっぱなしにしている (AC එක දවස පුරාම දමා තබයි)"
+        },
+        {
+          "id": "C",
+          "text": "夜は明かりをつけない (රාත්‍රියේ විදුලි පහන් කිසිවක් නොදල්වයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: スミスさん、電気代が高くなりましたね。\nB: 本当ですね。だから私は、誰もいない部屋の電気はこまめに消すようにしています。それからエアコンの温度も夏は28度に設定していますよ。",
+        "sinhala": "A: ස්මිත්, කරන්ට් බිල ගොඩක් වැඩි වෙලා නේද.\nB: ඇත්තෙන්ම. ඒ නිසා මම කවුරුත් නැති කාමරවල ලයිට් නිතරම නිවන්න පුරුදු වෙලා ඉන්නවා (こまめに消すようにしています). ඒ වගේම AC එකේ උෂ්ණත්වයත් ගිම්හානයට අංශක 28ට තියනවා."
+      },
+      "explanation_sinhala": "ස්මිත් මහතා පවසන්නේ '誰もいない部屋の電気はこまめに消すようにしています' (ලයිට් නිවා දැමීමට වගබලා ගන්නවා) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l16_008",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 16,
+      "can_do_id": "cando_e2_47",
+      "can_do_title_sinhala": "ආහාර නාස්තිය වැළැක්වීමේ උත්සාහය (Food Loss / もったいない)",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L16_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは食べ物を無駄にしないように、必要な分だけ買うようにしていますか。（◯ か ✕）",
+        "furigana": "マリアさんは[た]べ[もの]を[むだ]にしないように、[ひつよう]な[ぶん]だけ[か]うようにしていますか。（◯ か ✕）",
+        "sinhala": "මරියා ආහාර නාස්ති නොවන සේ අවශ්‍ය ප්‍රමාණය පමණක් මිලදී ගැනීමට පුරුදු වී සිටීද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, අවශ්‍ය ප්‍රමාණය පමණක් ගනියි)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, ඕනවට වඩා වැඩියෙන් ගනියි)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "マリア: 日本では「食品ロス」が問題になっていますよね。食べ物を捨てるのはもったいないですから、私は冷蔵庫の中を確認して、必要な分だけ買うようにしています。",
+        "sinhala": "මරියා: ජපානයේ 'ආහාර නාස්තිය' (Food Loss) ලොකු ප්‍රශ්නයක් වෙලා නේද. කෑම විසි කරන එක අපරාදයක් (もったいない) නිසා, මම ෆ්‍රිජ් එකේ තියෙන දේ බලලා අවශ්‍ය ප්‍රමාණය විතරක් ගන්න උත්සාහ කරනවා (必要な分だけ買うようにしています)."
+      },
+      "explanation_sinhala": "ඇය '必要な分だけ買うようにしています' යැයි පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l16_009",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 16,
+      "can_do_id": "cando_e2_48",
+      "can_do_title_sinhala": "ප්‍රතිචක්‍රීකරණ බසාර් දැන්වීමක් කියවීම (Mottainai Bazaar)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l16_q09_bazaar.png"
+      },
+      "question_text": {
+        "japanese": "「もったいないバザー」のチラシを見てください。不要になった子供服や本をどうすることができますか。",
+        "furigana": "「もったいないバザー」のチラシを[み]てください。[ふよう]になった[こどもふく]や[ほん]をどうすることができますか。",
+        "sinhala": "දැන්වීම බලන්න. තමන්ට අනවශ්‍ය වූ ළමා ඇඳුම් හෝ පොත් සඳහා කළ හැක්කේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "会場で他人に寄付したり、安く譲ったりできる (ශාලාවේදී අන් අයට පරිත්‍යාග කිරීමට හෝ ලාභයට ලබාදීමට පුළුවන)"
+        },
+        {
+          "id": "B",
+          "text": "すべてゴミとして捨てる (කුණු ලෙස විසි කරයි)"
+        },
+        {
+          "id": "C",
+          "text": "市役所に預ける (නගර සභාවට භාරදෙයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දැන්වීමේ 'まだ使えるものを次の人へ！子供服・本のリユース・無料譲渡コーナー' ලෙස දක්වා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l16_010",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 16,
+      "can_do_id": "cando_e2_47",
+      "can_do_title_sinhala": "නිරන්තර පුරුද්දක් කරගෙන යාම (～ようにしています)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「健康のために毎日野菜を食べる習慣・努力」を表す最も適切な文はどれですか。",
+        "furigana": "「[けんこう]のために[まいにち][やさい]を[た]べる[しゅうかん]・[どりょく]」を[あらわ]す[もっと]も[てきせつ]な[ぶん]はどれですか。",
+        "sinhala": "'සෞඛ්‍යය වෙනුවෙන් දිනපතා එළවළු කෑමට නිරන්තර උත්සාහයක් ගන්නවා' යන පුරුද්ද දැක්වෙන නිවැරදි වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "毎日野菜を食べるようにしています (Taberu you ni shite imasu)"
+        },
+        {
+          "id": "B",
+          "text": "毎日野菜を食べるようにしてください"
+        },
+        {
+          "id": "C",
+          "text": "毎日野菜を食べたほうがいいです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තමන් නිරන්තරයෙන්ම යමක් කිරීමට වගබලා ගන්නා බව (Making an ongoing effort) දැක්වීමට 'V-dict + ようにしています' යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l16_011",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 16,
+      "can_do_id": "cando_e2_47",
+      "can_do_title_sinhala": "අපරාදේ / නාස්තිය පිළිබඳ ජපන් සංකල්පය (もったいない - Mottainai)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "まだ使える物や食べ物を無駄にして「残念だ・惜しい（What a waste）」と思うときの日本語は何ですか。",
+        "furigana": "まだ[つか]える[もの]や[た]べ[もの]を[むだ]にして「[ざんねん]だ・[お]しい」と[おも]うときの[にほんご]は[なん]ですか。",
+        "sinhala": "තවමත් ප්‍රයෝජනයට ගත හැකි දේ නාස්ති වන විට 'අපරාදේ / අපතේ යාම' (What a waste) හඟවන ජපන් වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "もったいない (Mottainai)"
+        },
+        {
+          "id": "B",
+          "text": "めんどくさい (Mendokusai - කරදරයි)"
+        },
+        {
+          "id": "C",
+          "text": "たまらない (Tamaranai - දරාගත නොහැක)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "නාස්තිය සහ අපරාදේ යන අර්ථය ජපන් සංස්කෘතියේ හඳුන්වන්නේ 'もったいない' (මොත්තයිනායි) යන වචනයෙනි."
+    },
+    {
+      "quiz_id": "qz_e2_l16_012",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 16,
+      "can_do_id": "cando_e2_47",
+      "can_do_title_sinhala": "'නිතර නිතර සැලකිලිමත්ව' (こまめに / Koma me ni)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「面倒がらずに、よく気を配って何度も行う（Frequently/Diligently）」を表す言葉はどれですか。",
+        "furigana": "「[めんどう]がらずに、よく[き]を[くば]って[なんど]も[おこな]う」を[あらわ]す[ことば]はどれですか。",
+        "sinhala": "'කම්මැලි නොවී නිතර නිතර සැලකිලිමත්ව යමක් කිරීම' (Frequently and diligently) දක්වන වචනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "こまめに (Komame ni)"
+        },
+        {
+          "id": "B",
+          "text": "たまに (Tamani - ඉඳහිට)"
+        },
+        {
+          "id": "C",
+          "text": "だんだん (Dandan - ක්‍රමයෙන්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "ලයිට් නිවීම හෝ වතුර බීම වැනි දේ නිතර සැලකිලිමත්ව කිරීම 'こまめに' (කොමමේ නි) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l17_013",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 17,
+      "can_do_id": "cando_e2_49",
+      "can_do_title_sinhala": "අනාගත වෘත්තීය බලාපොරොත්තුව අසා තේරුම් ගැනීම (～と思っています)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L17_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんの将来の夢は何ですか。",
+        "furigana": "カルロスさんの[しょうらい]の[ゆめ]は[なん]ですか。",
+        "sinhala": "කාලෝස් මහතාගේ අනාගත සිහිනය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "国へ帰って、ブラジル料理のレストランを開きたいと思っている (රට බලා ගොස් බ්‍රසීල කෑම අවන්හලක් ඇරීමට අදහස් කරයි)"
+        },
+        {
+          "id": "B",
+          "text": "日本でずっと会社員を続けたい (ජපානයේම රැකියාව කරගෙන යාමට)"
+        },
+        {
+          "id": "C",
+          "text": "日本語の先生になりたい (ජපන් ගුරුවරයෙකු වීමට)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさんは日本で技術を身につけたら、将来はどうしたいですか。\nB: 将来は国へ帰って、自分のブラジル料理の店を開こうと思っています。日本のサービスやおもてなしの心も取り入れたいです。",
+        "sinhala": "A: කාලෝස් මහතා ජපානයේ තාක්ෂණය ඉගෙන ගත්තට පස්සේ අනාගතේ මොකද කරන්න හිතන් ඉන්නේ?\nB: අනාගතයේ රටට ගිහින් මගේම බ්‍රසීල කෑම කඩයක් අරින්න හිතාගෙන ඉන්නවා (自分の店を開こうと思っています). ජපානයේ ආගන්තුක සත්කාර ක්‍රමවේදත් ඒකට එකතු කරන්න ආසයි."
+      },
+      "explanation_sinhala": "කාලෝස් පවසන්නේ '国へ帰って、自分の店を開こうと思っています' (කෑම කඩයක් අරින්න අදහස් කරයි) බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l17_014",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 17,
+      "can_do_id": "cando_e2_49",
+      "can_do_title_sinhala": "සුදුසුකම් විභාගයක් ලිවීමට සැලසුම් කිරීම",
+      "task_type": "listening",
+      "question_type": "true_false",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L17_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "マリアさんは次の12月に日本語能力試験（JLPT）N2を受けようと思っていますか。（◯ か ✕）",
+        "furigana": "マリアさんは[つぎ]の12[がつ]に[にほんごのうりょくしけん]（JLPT）N2を[う]けようと[おも]っていますか。（◯ か ✕）",
+        "sinhala": "මරියා ලබන දෙසැම්බරයේදී JLPT N2 විභාගය ලිවීමට අදහස් කරගෙන සිටීද? (◯ / ✕)"
+      },
+      "options": [
+        {
+          "id": "True",
+          "text": "◯ (ඔව්, N2 විභාගය ලිවීමට බලාපොරොත්තු වේ)"
+        },
+        {
+          "id": "False",
+          "text": "✕ (නැත, විභාග නොලියයි)"
+        }
+      ],
+      "correct_answer": "True",
+      "audio_script": {
+        "japanese": "A: マリアさん、毎日遅くまで日本語を勉強していますね。\nB: ええ。仕事で役に立つように、今年の12月の試験でJLPTのN2に合格しようと思って、頑張っています！",
+        "sinhala": "A: මරියා, හැමදාම රෑ වෙනකල් ජපන් පාඩම් කරනවා නේද.\nB: ඔව්. රැකියාවට ප්‍රයෝජනවත් වෙන්න, මේ දෙසැම්බර් විභාගයෙන් JLPT N2 සමත් වෙන්න හිතාගෙන (N2に合格しようと思って) උනන්දු වෙනවා!"
+      },
+      "explanation_sinhala": "ඇය '12月の試験でJLPTのN2に合格しようと思っています' යැයි පවසන බැවින් ප්‍රකාශය සත්‍ය වේ (◯)."
+    },
+    {
+      "quiz_id": "qz_e2_l17_015",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 17,
+      "can_do_id": "cando_e2_50",
+      "can_do_title_sinhala": "වෘත්තීය කුසලතා පුහුණු සම්මන්ත්‍රණ පත්‍රිකාවක් කියවීම (Skills Seminar)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l17_q15_seminar.png"
+      },
+      "question_text": {
+        "japanese": "セミナーのチラシを見てください。この講習会（こうしゅうかい）の対象者は誰ですか。",
+        "furigana": "セミナーのチラシを[み]てください。この[こうしゅうかい]の[たいしょうしゃ]は[だれ]ですか。",
+        "sinhala": "සම්මන්ත්‍රණ දැන්වීම බලන්න. මෙම පුහුණු පාඨමාලාව ඉලක්ක කර ඇති පිරිස (Target audience) කවුරුන්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "特定技能や介護などの資格取得を目指す外国人 (තෝකුතෙයි ගිනෝ හෝ සාත්තු සේවා සුදුසුකම් අපේක්ෂා කරන විදේශිකයින්)"
+        },
+        {
+          "id": "B",
+          "text": "日本人の中学生 (ජපන් පාසල් සිසුන්)"
+        },
+        {
+          "id": "C",
+          "text": "観光客 (සංචාරකයින්)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "පත්‍රිකාවේ '対象: 特定技能評価試験または介護資格取得を目指す外国人就労者' ලෙස පැහැදිලිව දක්වා ඇත."
+    },
+    {
+      "quiz_id": "qz_e2_l17_016",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 17,
+      "can_do_id": "cando_e2_49",
+      "can_do_title_sinhala": "දිගුකාලීන අභිලාෂය දැක්වීම (～と思っています)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る正しい形を選んでください：「もっと経験を積んで、新しい技術を（　）と思っています。」",
+        "furigana": "[くうらん]に[はい]る[ただ]しい[かたち]を[えら]んでください：「もっと[けいけん]を[つ]んで、[あたら]しい[ぎじゅつ]を（　）と[おも]っています。」",
+        "sinhala": "'තව අත්දැකීම් ලබාගෙන නව තාක්ෂණය ඉගෙන ගැනීමට අදහස් කරමි' කීමට හිස්තැනට ගැළපෙන ආකෘතිය තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "学ぼう (Manabou - Volitional form)"
+        },
+        {
+          "id": "B",
+          "text": "学びます (Manabimasu)"
+        },
+        {
+          "id": "C",
+          "text": "学ぶ (Manabu)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තමන්ගේ අභිප්‍රාය අඛණ්ඩව සිතේ පවතින බව දැක්වීමට 'Volitional form + と思っています' (学ぼうと思っています) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e2_l17_017",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 17,
+      "can_do_id": "cando_e2_50",
+      "can_do_title_sinhala": "සුදුසුකම හඳුන්වන වචනය (資格 / Shikaku)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "仕事をするために試験に合格してもらえる証明（Qualification）は何ですか。",
+        "furigana": "[しごと]をするために[しけん]に[ごうかく]してもらえる[しょうめい]（Qualification）は[なん]ですか。",
+        "sinhala": "රැකියාව සඳහා විභාග සමත්වීමෙන් ලැබෙන වෘත්තීය සහතිකය හෝ සුදුසුකම (Qualification) කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "資格 / しかく (Shikaku - Qualification)"
+        },
+        {
+          "id": "B",
+          "text": "給料 / きゅうりょう (Kyuuryou - පඩිය)"
+        },
+        {
+          "id": "C",
+          "text": "残業 / ざんぎょう (Zangyou - අතිකාල)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "වෘත්තීය සුදුසුකම '資格' (ෂිකාකු - Qualification) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l17_018",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 17,
+      "can_do_id": "cando_e2_49",
+      "can_do_title_sinhala": "දැනුම හෝ කුසලතාව තමන් සතු කරගැනීම (身につける)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "知識や技術を勉強して自分のものにすること（Acquire/Learn skills）を表す慣用句はどれですか。",
+        "furigana": "[ちしき]や[ぎじゅつ]を[べんきょう]して[じぶん]のものにすることを[あらわ]す[かんようく]はどれですか。",
+        "sinhala": "දැනුම සහ කුසලතා පුරුදු වී තමන් සතු කරගැනීම (Acquire/Master skills) දක්වන යෙදුම කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "身につける (Mi ni tsukeru)"
+        },
+        {
+          "id": "B",
+          "text": "手に入れる (Te ni ireru - භාණ්ඩයක් අත්පත් කරගැනීම)"
+        },
+        {
+          "id": "C",
+          "text": "気になる (Ki ni naru - කුතුහලය ඇතිවීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "දක්ෂතාවක් හෝ භාෂාවක් ප්‍රගුණ කර තමන් සතු කරගැනීම '身につける' (මි නි ත්සුකෙරු) ලෙස හැඳින්වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l18_019",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 18,
+      "can_do_id": "cando_e2_51",
+      "can_do_title_sinhala": "ජපානයට පැමිණීම ගැන සතුට ප්‍රකාශ කිරීම අසා තේරුම් ගැනීම (～てよかった)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L18_01.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "カルロスさんは日本に来て一番良かったことは何だと言っていますか。",
+        "furigana": "カルロスさんは[にほん]に[き]て[いちばん]よかったことは[なん]だと[い]っていますか。",
+        "sinhala": "කාලෝස් මහතා ජපානයට පැමිණීමෙන් ලැබූ හොඳම අත්දැකීම ලෙස පවසන්නේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "親切な仲間や先輩に出会えて、新しい技術を学べたこと (කරුණාවන්ත සගයන් හමුවී, නව තාක්ෂණය ඉගෙන ගැනීමට හැකිවීම)"
+        },
+        {
+          "id": "B",
+          "text": "お金をたくさん貯金できたこと (මුදල් ඉතිරි කරගත හැකිවීම)"
+        },
+        {
+          "id": "C",
+          "text": "いろいろな観光地へ旅行できたこと (සංචාරය කිරීමට හැකිවීම)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "A: カルロスさん、日本での生活を振り返ってどうですか。\nB: 最初は言葉が通じなくて不安でしたが、親切な同僚や先輩方に支えていただきました。日本に来て、技術も学べて本当によかったと思っています。",
+        "sinhala": "A: කාලෝස් මහතා, ජපානයේ ජීවිතය දෙස ආපසු හැරී බැලීමේදී මොකද හිතෙන්නේ?\nB: මුලින් භාෂාව බැරිව බයෙන් හිටියත්, කරුණාවන්ත සගයන් සහ ජ්‍යෙෂ්ඨයින් මට ලොකු ශක්තියක් වුණා. ජපානයට ඇවිත් තාක්ෂණයත් ඉගෙන ගන්න ලැබුණු එක ඇත්තෙන්ම හොඳ දෙයක් කියලා හිතෙනවා (本当によかったと思っています)."
+      },
+      "explanation_sinhala": "කාලෝස් පවසන්නේ කරුණාවන්ත සගයන් හමුවී තාක්ෂණය ඉගෙන ගැනීමට ලැබීම ඇත්තෙන්ම භාග්‍යයක් වූ බවයි (A)."
+    },
+    {
+      "quiz_id": "qz_e2_l18_020",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 18,
+      "can_do_id": "cando_e2_51",
+      "can_do_title_sinhala": "සමුගැනීමේ සාදයකදී ස්තූතිය පළකිරීම (お世話になりました)",
+      "task_type": "listening",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": true,
+        "audio_track": "E2_L18_02.mp3",
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "送別会（そうべつかい）でのスピーチで、スミスさんは何と感謝を伝えましたか。",
+        "furigana": "[そうべつかい]でのスピーチで、スミスさんは[なん]と[かんしゃ]を[つた]えましたか。",
+        "sinhala": "සමුගැනීමේ සාදයේ කතාවේදී ස්මිත් මහතා ස්තූතිය පළකළේ කෙසේද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "「長い間、大変お世話になりました。皆様のおかげです」 (දිගු කලක් මට කළ සියලු උදව් උපකාරවලට ස්තුතියි, සියල්ල සිදුවූයේ ඔබ සැම නිසාය)"
+        },
+        {
+          "id": "B",
+          "text": "「明日からまたよろしくお願いします」"
+        },
+        {
+          "id": "C",
+          "text": "「ごちそうさまでした」"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": {
+        "japanese": "スミス: 皆様、3年間本当にありがとうございました。仕事でも生活でも、大変お世話になりました。皆様のサポートのおかげで、ここまで成長できました。心から感謝いたします。",
+        "sinhala": "ස්මිත්: ඔබ සැමටම, මේ අවුරුදු 3 තුළ ඇත්තෙන්ම බොහොම ස්තුතියි. රැකියාවේදී මෙන්ම ජීවිතයේදීත් මට බොහෝ සේ උදව් කළා (大変お世話になりました). ඔබ සැමගේ සහයෝගය නිසයි (おかげで) මට මෙතරම් දියුණු වීමට හැකි වුණේ. හදවතින්ම ස්තුතිවන්ත වෙනවා."
+      },
+      "explanation_sinhala": "ස්මිත් මහතා කෘතඥතාව පළකරමින් '大変お世話になりました。皆様のおかげです' යැයි පැවසූ බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l18_021",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 18,
+      "can_do_id": "cando_e2_51",
+      "can_do_title_sinhala": "සමරු සුබපැතුම් පුවරුවක් කියවීම (寄せ書き - Yosegaki)",
+      "task_type": "reading",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": true,
+        "image_file": "e2_l18_q21_yosegaki.png"
+      },
+      "question_text": {
+        "japanese": "色紙の寄せ書き（メッセージ）を読んでください。同僚たちはカルロスさんにどんな言葉を贈っていますか。",
+        "furigana": "[しきし]の[よ]せ[が]き（メッセージ）を[よ]んでください。[どうりょう]たちはカルロスさんにどんな[ことば]を[おく]っていますか。",
+        "sinhala": "සමරු පුවරුවේ (Yosegaki) සටහන් කියවන්න. සගයන් කාලෝස් මහතාට ප්‍රාර්ථනා කර ඇත්තේ කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "国へ帰っても元気で、夢に向かって頑張ってほしい (රට ගියත් නිරෝගීව ඉඳ, සිහිනය වෙනුවෙන් උනන්දු වන්නැයි ප්‍රාර්ථනා කරයි)"
+        },
+        {
+          "id": "B",
+          "text": "日本にずっと残ってほしい (ජපානයේම ඉන්නැයි ඉල්ලයි)"
+        },
+        {
+          "id": "C",
+          "text": "早く日本へ戻ってきてほしい (වහාම ජපානයට එන්නැයි කියයි)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "සමරු පුවරුවේ 'ブラジルへ帰っても夢のレストラン開店に向けて頑張ってね！ずっと応援しています' ලෙස ලියා ඇති බැවින් පිළිතුර A වේ."
+    },
+    {
+      "quiz_id": "qz_e2_l18_022",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 18,
+      "can_do_id": "cando_e2_51",
+      "can_do_title_sinhala": "යමක් කළ එක හොඳයි කියා සතුටු වීම (～てよかった)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "「日本で一生懸命勉強したことを満足・感謝している」正しい表現はどれですか。",
+        "furigana": "「[にほん]で[いっしょうけんめい][べんきょう]したことを[まんぞく]・[かんしゃ]している」[ただ]しい[ひょうげん]はどれですか。",
+        "sinhala": "'ජපානයේදී උපරිමයෙන් පාඩම් කළ එක හොඳ දෙයක් වුණා' කියා තෘප්තිය දැක්වෙන නිවැරදි වාක්‍යය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "日本で一生懸命勉強してよかったです (Benkyou shite yokatta desu)"
+        },
+        {
+          "id": "B",
+          "text": "日本で一生懸命勉強したほうがいいです"
+        },
+        {
+          "id": "C",
+          "text": "日本で一生懸命勉強するつもりです"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "තමන් කළ දෙයක් ගැන සතුට හෝ තෘප්තිය (I am glad that I did...) දැක්වීමට 'V-te + よかったです' යොදාගනී."
+    },
+    {
+      "quiz_id": "qz_e2_l18_023",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 18,
+      "can_do_id": "cando_e2_51",
+      "can_do_title_sinhala": "අනුන්ගේ උපකාරය නිසා යහපතක් සිදුවූ බව දැක්වීම (～のおかげで)",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "空欄に入る言葉を選んでください：「先生のご指導の（　）、試験に合格できました。」",
+        "furigana": "[くうらん]に[はい]る[ことば]を[えら]んでください：「[せんせい]のご[しどう]の（　）、[しけん]に[ごうかく]できました。」",
+        "sinhala": "'ගුරුතුමාගේ මඟපෙන්වීම නිසා (Thanks to your guidance), විභාගය සමත් විය හැකි විය' කීමට හිස්තැනට යෙදිය යුතු පදය කුමක්ද?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "おかげで (okage de)"
+        },
+        {
+          "id": "B",
+          "text": "せいで (sei de - අනුන්ගේ වරද නිසා නරකක් වීම)"
+        },
+        {
+          "id": "C",
+          "text": "ために (tame ni)"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුන්ගේ උදව්වක් හෝ යහපත් සාධකයක් නිසා සාර්ථක ප්‍රතිඵලයක් ලැබුණු විට කෘතඥතා පූර්වකව '～のおかげで' (Thanks to) යොදයි."
+    },
+    {
+      "quiz_id": "qz_e2_l18_024",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 18,
+      "can_do_id": "cando_e2_52",
+      "can_do_title_sinhala": "සමස්ත පාඨමාලාව අවසානයේ සමුගැනීමේ කතාවක නිවැරදි අනුපිළිවෙල",
+      "task_type": "grammar_vocab",
+      "question_type": "multiple_choice",
+      "media": {
+        "has_audio": false,
+        "audio_track": null,
+        "has_image": false,
+        "image_file": null
+      },
+      "question_text": {
+        "japanese": "自然な送別のスピーチに並べ替えてください：\n1: 日本でたくさんの素晴らしい経験ができて、本当によかったです\n2: これからも学んだことを生かして、夢に向かって頑張ります\n3: 皆様、今日まで大変お世話になりました\n4: 本当にありがとうございました！",
+        "furigana": "[しぜん]な[そうべつ]のスピーチに[なら]べ[か]えてください：\n1: [にほん]でたくさんのすばらしい[けいけん]ができて、[ほんとう]によかったです\n2: これからも[まな]んだことを[い]かして、[ゆめ]に[む]かって[がんば]ります\n3: [みなさま]、[きょう]までたいへんお[せわ]になりました\n4: [ほんとう]にありがとうございました！",
+        "sinhala": "අවසාන සමුගැනීමේ කතාවේ ස්වභාවික අනුපිළිවෙල තෝරන්න."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3 -> 1 -> 2 -> 4"
+        },
+        {
+          "id": "B",
+          "text": "1 -> 3 -> 2 -> 4"
+        },
+        {
+          "id": "C",
+          "text": "3 -> 2 -> 1 -> 4"
+        }
+      ],
+      "correct_answer": "A",
+      "audio_script": null,
+      "explanation_sinhala": "අනුපිළිවෙල: 3 (ඔබ සැමට අද දක්වා මට කළ සියලු උදව්වලට ස්තුතියි) -> 1 (ජපානයේදී විශිෂ්ට අත්දැකීම් රැසක් ලබන්න හැකිවීම ඇත්තෙන්ම භාග්‍යයක්) -> 2 (ඉදිරියටත් ඉගෙනගත් දේ ප්‍රයෝජනයට ගෙන සිහිනය වෙනුවෙන් උනන්දු වෙනවා) -> 4 (බොහොමත්ම ස්තුතියි!)."
+    }
+  ]
+}
