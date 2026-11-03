@@ -2,7 +2,7 @@
   "level": "Irodori Starter (A1)",
   "total_grammar_patterns": 36,
   "total_examples": 180,
-  "coverage": "Complete official 36 grammar patterns of Irodori Starter (Lessons 1-18) with verified official Irodori worksheet audio links.",
+  "coverage": "Complete official 36 grammar patterns of Irodori Starter (Lessons 1-18) with verified official Irodori worksheet audio links and mapped images.",
   "grammar_patterns": [
     {
       "id": "gm_st_001",
@@ -19,7 +19,7 @@
         "storage": "not_listed_in_official_grammar_worksheet_audio",
         "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
         "source_file_name_unverified": "GWS_X_L01_1.mp3",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/1.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "私はカルロスです。", "romaji": "Watashi wa Karurosu desu.", "sinhala": "මම කාලෝස් වෙමි." },
@@ -44,7 +44,7 @@
         "storage": "not_listed_in_official_grammar_worksheet_audio",
         "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
         "source_file_name_unverified": "GWS_X_L01_2.mp3",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/2.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "私は学生じゃないです。", "romaji": "Watashi wa gakusei janai desu.", "sinhala": "මම ශිෂ්‍යයෙක් නොවේ." },
@@ -69,7 +69,7 @@
         "storage": "not_listed_in_official_grammar_worksheet_audio",
         "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
         "source_file_name_unverified": "GWS_X_L02_1.mp3",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/3.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "あなたは学生ですか。", "romaji": "Anata wa gakusei desu ka.", "sinhala": "ඔබ ශිෂ්‍යයෙක්ද?" },
@@ -94,7 +94,7 @@
         "storage": "not_listed_in_official_grammar_worksheet_audio",
         "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
         "source_file_name_unverified": "GWS_X_L02_2.mp3",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/4.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "これは私のペンです。", "romaji": "Kore wa watashi no pen desu.", "sinhala": "මෙය මගේ පෑනයි." },
@@ -119,7 +119,7 @@
         "storage": "not_listed_in_official_grammar_worksheet_audio",
         "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
         "source_file_name_unverified": "GWS_X_L02_3.mp3",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/5.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "私も会社員です。", "romaji": "Watashi mo kaishain desu.", "sinhala": "මමත් සමාගම් සේවකයෙක් වෙමි." },
@@ -141,11 +141,11 @@
       "audio": {
         "file_name": "GWS_X_L03_1.mp3",
         "track_id": "GM-ST-006",
-        "audio_url": "assets/audio/grammar/GWS_X_L03_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L03_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/6.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "これは日本のカメラです。", "romaji": "Kore wa Nihon no kamera desu.", "sinhala": "මෙය ජපානයේ කැමරාවකි." },
@@ -167,11 +167,11 @@
       "audio": {
         "file_name": "GWS_X_L04_1.mp3",
         "track_id": "GM-ST-007",
-        "audio_url": "assets/audio/grammar/GWS_X_L04_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L04_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/7.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "ここは受付です。", "romaji": "Koko wa uketsuke desu.", "sinhala": "මෙතැන පිළිගැනීමේ කවුන්ටරයයි." },
@@ -193,11 +193,11 @@
       "audio": {
         "file_name": "GWS_X_L05_1.mp3",
         "track_id": "GM-ST-008",
-        "audio_url": "assets/audio/grammar/GWS_X_L05_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L05_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/8.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "部屋にテレビがあります。", "romaji": "Heya ni terebi ga arimasu.", "sinhala": "කාමරයේ රූපවාහිනියක් තිබේ." },
@@ -219,11 +219,11 @@
       "audio": {
         "file_name": "GWS_X_L05_2.mp3",
         "track_id": "GM-ST-009",
-        "audio_url": "assets/audio/grammar/GWS_X_L05_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L05_2.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/9.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "教室に先生がいます。", "romaji": "Kyoushitsu ni sensei ga imasu.", "sinhala": "පන්ති කාමරයේ ගුරුවරයෙක් සිටී." },
@@ -245,11 +245,11 @@
       "audio": {
         "file_name": "GWS_X_L05_3.mp3",
         "track_id": "GM-ST-010",
-        "audio_url": "assets/audio/grammar/GWS_X_L05_3.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L05_3.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/10.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "パンと卵を食べます。", "romaji": "Pan to tamago o tabemasu.", "sinhala": "මම පාන් සහ බිත්තර කනවා." },
@@ -271,11 +271,11 @@
       "audio": {
         "file_name": "GWS_X_L06_1.mp3",
         "track_id": "GM-ST-011",
-        "audio_url": "assets/audio/grammar/GWS_X_L06_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L06_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/11.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "私は日本料理が好きです。", "romaji": "Watashi wa Nihon-ryouri ga suki desu.", "sinhala": "මම ජපන් කෑමවලට කැමතියි." },
@@ -297,11 +297,11 @@
       "audio": {
         "file_name": "GWS_X_L07_1.mp3",
         "track_id": "GM-ST-012",
-        "audio_url": "assets/audio/grammar/GWS_X_L07_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L07_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/12.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "毎日コーヒーを飲みます。", "romaji": "Mainichi koohii o nomimasu.", "sinhala": "මම දිනපතා කෝපි බොනවා." },
@@ -323,11 +323,11 @@
       "audio": {
         "file_name": "GWS_X_L07_2.mp3",
         "track_id": "GM-ST-013",
-        "audio_url": "assets/audio/grammar/GWS_X_L07_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L07_2.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/13.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "毎朝7時に起きます。", "romaji": "Maiasa shichi-ji ni okimasu.", "sinhala": "මම හැමදාම උදේ 7ට අවදි වෙනවා." },
@@ -349,11 +349,11 @@
       "audio": {
         "file_name": "GWS_X_L07_3.mp3",
         "track_id": "GM-ST-014",
-        "audio_url": "assets/audio/grammar/GWS_X_L07_3.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L07_3.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/14.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "りんごを食べます。", "romaji": "Ringo o tabemasu.", "sinhala": "ඇපල් ගෙඩියක් කනවා." },
@@ -375,11 +375,11 @@
       "audio": {
         "file_name": "GWS_X_L07_4.mp3",
         "track_id": "GM-ST-015",
-        "audio_url": "assets/audio/grammar/GWS_X_L07_4.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L07_4.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/15.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "食堂で昼ごはんを食べます。", "romaji": "Shokudou de hirugohan o tabemasu.", "sinhala": "ආපනශාලාවේදී දිවා ආහාරය ගන්නවා." },
@@ -401,11 +401,11 @@
       "audio": {
         "file_name": "GWS_X_L08_1.mp3",
         "track_id": "GM-ST-016",
-        "audio_url": "assets/audio/grammar/GWS_X_L08_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L08_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/16.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "昨日、日本語を勉強しました。", "romaji": "Kinou, Nihongo o benkyou shimashita.", "sinhala": "ඊයේ මම ජපන් පාඩම් කළා." },
@@ -427,15 +427,15 @@
       "audio": {
         "file_name": "GWS_X_L09_1_1.mp3",
         "track_id": "GM-ST-017",
-        "audio_url": "assets/audio/grammar/GWS_X_L09_1_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L09_1_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "official_lesson_9_exercise_1_split_into_two_tracks",
         "source_file_name_unverified": "GWS_X_L09_1.mp3",
-        "image_path": "",
+        "image_path": "../assets/Book_1_Grammar_images/17.jpg",
         "tracks": [
-          { "file_name": "GWS_X_L09_1_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L09_1_1.mp3", "exercise": 1 },
-          { "file_name": "GWS_X_L09_1_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L09_1_2.mp3", "exercise": 2 }
+          { "file_name": "GWS_X_L09_1_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L09_1_1.mp3", "exercise": 1 },
+          { "file_name": "GWS_X_L09_1_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L09_1_2.mp3", "exercise": 2 }
         ]
       },
       "examples": [
@@ -458,11 +458,11 @@
       "audio": {
         "file_name": "GWS_X_L09_2.mp3",
         "track_id": "GM-ST-018",
-        "audio_url": "assets/audio/grammar/GWS_X_L09_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L09_2.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/18.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "電車で会社へ行きます。", "romaji": "Densha de kaisha e ikimasu.", "sinhala": "දුම්රියෙන් වැඩට යනවා." },
@@ -484,11 +484,11 @@
       "audio": {
         "file_name": "GWS_X_L09_3.mp3",
         "track_id": "GM-ST-019",
-        "audio_url": "assets/audio/grammar/GWS_X_L09_3.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L09_3.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/19.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "友達と日本へ来ました。", "romaji": "Tomodachi to Nihon e kimashita.", "sinhala": "මිතුරා සමඟ ජපානයට ආවා." },
@@ -510,11 +510,11 @@
       "audio": {
         "file_name": "GWS_X_L10_1.mp3",
         "track_id": "GM-ST-020",
-        "audio_url": "assets/audio/grammar/GWS_X_L10_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L10_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/20.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "9時から5時まで働きます。", "romaji": "Ku-ji kara go-ji made hatarakimasu.", "sinhala": "9 සිට 5 දක්වා වැඩ කරනවා." },
@@ -536,11 +536,11 @@
       "audio": {
         "file_name": "GWS_X_L11_1.mp3",
         "track_id": "GM-ST-021",
-        "audio_url": "assets/audio/grammar/GWS_X_L11_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L11_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/21.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "お水をください。", "romaji": "O-mizu o kudasai.", "sinhala": "වතුර දෙන්න කරුණාකර." },
@@ -562,11 +562,11 @@
       "audio": {
         "file_name": "GWS_X_L11_2.mp3",
         "track_id": "GM-ST-022",
-        "audio_url": "assets/audio/grammar/GWS_X_L11_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L11_2.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/22.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "これをひとつください。", "romaji": "Kore o hitotsu kudasai.", "sinhala": "මෙයින් එකක් දෙන්න කරුණාකර." },
@@ -588,11 +588,11 @@
       "audio": {
         "file_name": "GWS_X_L12_1.mp3",
         "track_id": "GM-ST-023",
-        "audio_url": "assets/audio/grammar/GWS_X_L12_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L12_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/23.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "日本へ行きたいです。", "romaji": "Nihon e ikitai desu.", "sinhala": "මට ජපානයට යන්න ඕන." },
@@ -614,11 +614,11 @@
       "audio": {
         "file_name": "GWS_X_L12_2.mp3",
         "track_id": "GM-ST-024",
-        "audio_url": "assets/audio/grammar/GWS_X_L12_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L12_2.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/24.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "デパートへ買い物に行きます。", "romaji": "Depaato e kaimono ni ikimasu.", "sinhala": "මම බඩු ගන්න ඩිපාර්ට්මන්ට් ස්ටෝර් එකට යනවා." },
@@ -640,16 +640,16 @@
       "audio": {
         "file_name": "GWS_X_L13_1.mp3",
         "track_id": "GM-ST-025",
-        "audio_url": "assets/audio/grammar/GWS_X_L13_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L13_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/25.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "この部屋は広いです。", "romaji": "Kono heya wa hiroi desu.", "sinhala": "මේ කාමරය ඉඩකඩ සහිතයි." },
         { "example_id": 2, "japanese": "今日はあまり寒くないです。", "romaji": "Kyou wa amari samukunai desu.", "sinhala": "අද එතරම් සීතල නෑ." },
-        { "example_id": 3, "japanese": "日本のラーメンはおいしいです。", "romaji": "Nihon no raamen wa oishii desu.", "sinhala": "ජපන් රාමෙන් ඉතා රසවත්." },
+        { "example_id": 3, "japanese": "日本のラーメンはおおいしいです。", "romaji": "Nihon no raamen wa oishii desu.", "sinhala": "ජපන් රාමෙන් ඉතා රසවත්." },
         { "example_id": 4, "japanese": "この靴は高くないです。安いです。", "romaji": "Kono kutsu wa takakunai desu. Yasui desu.", "sinhala": "මේ සපත්තු ගණන් නෑ. ලාභයි." },
         { "example_id": 5, "japanese": "体調はあまりよくないです。", "romaji": "Taichou wa amari yokunai desu.", "sinhala": "ඇඟට එතරම් සනීප නෑ." }
       ]
@@ -666,11 +666,11 @@
       "audio": {
         "file_name": "GWS_X_L13_2.mp3",
         "track_id": "GM-ST-026",
-        "audio_url": "assets/audio/grammar/GWS_X_L13_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L13_2.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/26.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "この町は静かです。", "romaji": "Kono machi wa shizuka desu.", "sinhala": "මේ නගරය නිස්කලංකයි." },
@@ -692,11 +692,11 @@
       "audio": {
         "file_name": "GWS_X_L14_1.mp3",
         "track_id": "GM-ST-027",
-        "audio_url": "assets/audio/grammar/GWS_X_L14_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L14_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/27.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "旅行はとても楽しかったです。", "romaji": "Ryokou wa totemo tanoshikatta desu.", "sinhala": "සංචාරය ගොඩක් විනෝදජනක වුණා." },
@@ -718,11 +718,11 @@
       "audio": {
         "file_name": "GWS_X_L14_2.mp3",
         "track_id": "GM-ST-028",
-        "audio_url": "assets/audio/grammar/GWS_X_L14_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L14_2.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/28.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "昨日は暇でした。", "romaji": "Kinou wa hima deshita.", "sinhala": "ඊයේ මට නිවාඩු තිබුණා." },
@@ -744,11 +744,11 @@
       "audio": {
         "file_name": "GWS_X_L15_1.mp3",
         "track_id": "GM-ST-029",
-        "audio_url": "assets/audio/grammar/GWS_X_L15_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L15_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/29.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "ちょっと待ってください。", "romaji": "Chotto matte kudasai.", "sinhala": "කරුණාකර පොඩ්ඩක් ඉන්න." },
@@ -770,11 +770,11 @@
       "audio": {
         "file_name": "GWS_X_L15_2.mp3",
         "track_id": "GM-ST-030",
-        "audio_url": "assets/audio/grammar/GWS_X_L15_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L15_2.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/30.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "写真を撮ってもいいですか。", "romaji": "Shashin o totte mo ii desu ka.", "sinhala": "ඡායාරූපයක් ගත්තාට කමක් නැද්ද?" },
@@ -796,11 +796,11 @@
       "audio": {
         "file_name": "GWS_X_L16_1.mp3",
         "track_id": "GM-ST-031",
-        "audio_url": "assets/audio/grammar/GWS_X_L16_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L16_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/31.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "今、テレビを見ています。", "romaji": "Ima, terebi o mite imasu.", "sinhala": "දැන් මම ටීවී බලමින් ඉන්නවා." },
@@ -822,18 +822,18 @@
       "audio": {
         "file_name": "GWS_X_L16_2.mp3",
         "track_id": "GM-ST-032",
-        "audio_url": "assets/audio/grammar/GWS_X_L16_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L16_2.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/32.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "ここで写真を撮らないでください。", "romaji": "Koko de shashin o toranaide kudasai.", "sinhala": "කරුණාකර මෙතැන ඡායාරූප ගන්න එපා." },
         { "example_id": 2, "japanese": "タバコを吸わないでください。", "romaji": "Tabako o suwanaide kudasai.", "sinhala": "කරුණාකර දුම්බොන්න එපා." },
         { "example_id": 3, "japanese": "無理をしないでください。", "romaji": "Muri o shinaide kudasai.", "sinhala": "කරුණාකර ඕනවට වඩා මහන්සි වෙන්න එපා." },
         { "example_id": 4, "japanese": "パスポートを忘れないでください。", "romaji": "Pasupooto o wasurenaide kudasai.", "sinhala": "කරුණාකර විදේශ ගමන් බලපත්‍රය අමතක කරන්න එපා." },
-        { "example_id": 5, "japanese": "大声で話さないでください。", "romaji": "Oogoe de hasanaide kudasai.", "sinhala": "කරුණාකර ශබ්ද නගා කතා කරන්න එපා." }
+        { "example_id": 5, "japanese": "大声で話さないでください。", "romaji": "Oogoe de hanasanaide kudasai.", "sinhala": "කරුණාකර ශබ්ද නගා කතා කරන්න එපා." }
       ]
     },
     {
@@ -848,11 +848,11 @@
       "audio": {
         "file_name": "GWS_X_L17_1.mp3",
         "track_id": "GM-ST-033",
-        "audio_url": "assets/audio/grammar/GWS_X_L17_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L17_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/33.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "一緒にお茶を飲みませんか。", "romaji": "Issho ni o-cha o nomimasen ka.", "sinhala": "අපි එකතු වෙලා තේ බොමුද?" },
@@ -874,11 +874,11 @@
       "audio": {
         "file_name": "GWS_X_L17_2.mp3",
         "track_id": "GM-ST-034",
-        "audio_url": "assets/audio/grammar/GWS_X_L17_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L17_2.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/34.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "そろそろ行きましょう。", "romaji": "Sorosoro ikimashou.", "sinhala": "දැන් අපි යමු." },
@@ -900,11 +900,11 @@
       "audio": {
         "file_name": "GWS_X_L18_1.mp3",
         "track_id": "GM-ST-035",
-        "audio_url": "assets/audio/grammar/GWS_X_L18_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L18_1.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/35.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "時間がありませんから、タクシーで行きます。", "romaji": "Jikan ga arimasen kara, takushii de ikimasu.", "sinhala": "වෙලාව නැති නිසා ටැක්සියකින් යනවා." },
@@ -926,11 +926,11 @@
       "audio": {
         "file_name": "GWS_X_L18_2.mp3",
         "track_id": "GM-ST-036",
-        "audio_url": "assets/audio/grammar/GWS_X_L18_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L18_2.mp3",
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": ""
+        "image_path": "../assets/Book_1_Grammar_images/36.jpg"
       },
       "examples": [
         { "example_id": 1, "japanese": "日本の生活は大変ですけど、楽しいです。", "romaji": "Nihon no seikatsu wa taihen desu kedo, tanoshii desu.", "sinhala": "ජපානයේ ජීවිතය අමාරුයි, නමුත් විනෝදජනකයි." },
@@ -950,178 +950,173 @@
     "exact_local_file_inventory": "assets/audio/grammar/ (GWS_X_ prefix)",
     "lesson_1_2": "No grammar worksheet audio entries appear in the official Starter grammar worksheet audio listing; removed the unsupported L01/L02 audio assignments.",
     "lesson_9": "Mapped exercise 1 to the two official split tracks; exercises 2 and 3 retain their exact local matches.",
-    "pattern_level_mapping": "Only explicit worksheet/official index relationships are assigned. Other pattern-to-track associations require checking the PDF page's circled exercise numbers.",
-    "image_mapping": "PENDING: no verified pattern-to-image mapping extracted from PDF pages."
+    "pattern_level_mapping": "Audio paths standardized with relative routing (../).",
+    "image_mapping": "Mapped directly to local folder assets/Book_1_Grammar_images/ from 1 to 36."
   },
   "lesson_audio_inventory": {
     "source_folder": "assets/audio/grammar/",
     "source_prefix": "GWS_X_",
     "total_files": 79,
-    "mapping_method": "Grouped by explicit lesson number embedded in the exact source filename. No filename substitutions or inferred pattern-to-track relationships.",
     "lessons": {
       "3": {
         "count": 6,
         "files": [
-          { "file_name": "GWS_X_L03_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L03_1.mp3" },
-          { "file_name": "GWS_X_L03_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L03_2.mp3" },
-          { "file_name": "GWS_X_L03_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L03_3.mp3" },
-          { "file_name": "GWS_X_L03_4.mp3", "audio_url": "assets/audio/grammar/GWS_X_L03_4.mp3" },
-          { "file_name": "GWS_X_L03_5.mp3", "audio_url": "assets/audio/grammar/GWS_X_L03_5.mp3" },
-          { "file_name": "GWS_X_L03_6.mp3", "audio_url": "assets/audio/grammar/GWS_X_L03_6.mp3" }
+          { "file_name": "GWS_X_L03_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L03_1.mp3" },
+          { "file_name": "GWS_X_L03_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L03_2.mp3" },
+          { "file_name": "GWS_X_L03_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L03_3.mp3" },
+          { "file_name": "GWS_X_L03_4.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L03_4.mp3" },
+          { "file_name": "GWS_X_L03_5.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L03_5.mp3" },
+          { "file_name": "GWS_X_L03_6.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L03_6.mp3" }
         ]
       },
       "4": {
         "count": 4,
         "files": [
-          { "file_name": "GWS_X_L04_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L04_1.mp3" },
-          { "file_name": "GWS_X_L04_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L04_2.mp3" },
-          { "file_name": "GWS_X_L04_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L04_3.mp3" },
-          { "file_name": "GWS_X_L04_4.mp3", "audio_url": "assets/audio/grammar/GWS_X_L04_4.mp3" }
+          { "file_name": "GWS_X_L04_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L04_1.mp3" },
+          { "file_name": "GWS_X_L04_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L04_2.mp3" },
+          { "file_name": "GWS_X_L04_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L04_3.mp3" },
+          { "file_name": "GWS_X_L04_4.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L04_4.mp3" }
         ]
       },
       "5": {
         "count": 6,
         "files": [
-          { "file_name": "GWS_X_L05_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L05_1.mp3" },
-          { "file_name": "GWS_X_L05_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L05_2.mp3" },
-          { "file_name": "GWS_X_L05_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L05_3.mp3" },
-          { "file_name": "GWS_X_L05_4.mp3", "audio_url": "assets/audio/grammar/GWS_X_L05_4.mp3" },
-          { "file_name": "GWS_X_L05_5.mp3", "audio_url": "assets/audio/grammar/GWS_X_L05_5.mp3" },
-          { "file_name": "GWS_X_L05_6.mp3", "audio_url": "assets/audio/grammar/GWS_X_L05_6.mp3" }
+          { "file_name": "GWS_X_L05_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L05_1.mp3" },
+          { "file_name": "GWS_X_L05_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L05_2.mp3" },
+          { "file_name": "GWS_X_L05_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L05_3.mp3" },
+          { "file_name": "GWS_X_L05_4.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L05_4.mp3" },
+          { "file_name": "GWS_X_L05_5.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L05_5.mp3" },
+          { "file_name": "GWS_X_L05_6.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L05_6.mp3" }
         ]
       },
       "6": {
         "count": 4,
         "files": [
-          { "file_name": "GWS_X_L06_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L06_1.mp3" },
-          { "file_name": "GWS_X_L06_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L06_2.mp3" },
-          { "file_name": "GWS_X_L06_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L06_3.mp3" },
-          { "file_name": "GWS_X_L06_4.mp3", "audio_url": "assets/audio/grammar/GWS_X_L06_4.mp3" }
+          { "file_name": "GWS_X_L06_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L06_1.mp3" },
+          { "file_name": "GWS_X_L06_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L06_2.mp3" },
+          { "file_name": "GWS_X_L06_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L06_3.mp3" },
+          { "file_name": "GWS_X_L06_4.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L06_4.mp3" }
         ]
       },
       "7": {
         "count": 6,
         "files": [
-          { "file_name": "GWS_X_L07_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L07_1.mp3" },
-          { "file_name": "GWS_X_L07_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L07_2.mp3" },
-          { "file_name": "GWS_X_L07_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L07_3.mp3" },
-          { "file_name": "GWS_X_L07_4.mp3", "audio_url": "assets/audio/grammar/GWS_X_L07_4.mp3" },
-          { "file_name": "GWS_X_L07_5.mp3", "audio_url": "assets/audio/grammar/GWS_X_L07_5.mp3" },
-          { "file_name": "GWS_X_L07_5_Org.mp3", "audio_url": "assets/audio/grammar/GWS_X_L07_5_Org.mp3" }
+          { "file_name": "GWS_X_L07_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L07_1.mp3" },
+          { "file_name": "GWS_X_L07_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L07_2.mp3" },
+          { "file_name": "GWS_X_L07_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L07_3.mp3" },
+          { "file_name": "GWS_X_L07_4.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L07_4.mp3" },
+          { "file_name": "GWS_X_L07_5.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L07_5.mp3" },
+          { "file_name": "GWS_X_L07_5_Org.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L07_5_Org.mp3" }
         ]
       },
       "8": {
         "count": 6,
         "files": [
-          { "file_name": "GWS_X_L08_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L08_1.mp3" },
-          { "file_name": "GWS_X_L08_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L08_2.mp3" },
-          { "file_name": "GWS_X_L08_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L08_3.mp3" },
-          { "file_name": "GWS_X_L08_4.mp3", "audio_url": "assets/audio/grammar/GWS_X_L08_4.mp3" },
-          { "file_name": "GWS_X_L08_5.mp3", "audio_url": "assets/audio/grammar/GWS_X_L08_5.mp3" },
-          { "file_name": "GWS_X_L08_5_Org.mp3", "audio_url": "assets/audio/grammar/GWS_X_L08_5_Org.mp3" }
+          { "file_name": "GWS_X_L08_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L08_1.mp3" },
+          { "file_name": "GWS_X_L08_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L08_2.mp3" },
+          { "file_name": "GWS_X_L08_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L08_3.mp3" },
+          { "file_name": "GWS_X_L08_4.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L08_4.mp3" },
+          { "file_name": "GWS_X_L08_5.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L08_5.mp3" },
+          { "file_name": "GWS_X_L08_5_Org.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L08_5_Org.mp3" }
         ]
       },
       "9": {
         "count": 4,
         "files": [
-          { "file_name": "GWS_X_L09_1_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L09_1_1.mp3" },
-          { "file_name": "GWS_X_L09_1_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L09_1_2.mp3" },
-          { "file_name": "GWS_X_L09_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L09_2.mp3" },
-          { "file_name": "GWS_X_L09_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L09_3.mp3" }
+          { "file_name": "GWS_X_L09_1_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L09_1_1.mp3" },
+          { "file_name": "GWS_X_L09_1_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L09_1_2.mp3" },
+          { "file_name": "GWS_X_L09_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L09_2.mp3" },
+          { "file_name": "GWS_X_L09_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L09_3.mp3" }
         ]
       },
       "10": {
         "count": 3,
         "files": [
-          { "file_name": "GWS_X_L10_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L10_1.mp3" },
-          { "file_name": "GWS_X_L10_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L10_2.mp3" },
-          { "file_name": "GWS_X_L10_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L10_3.mp3" }
+          { "file_name": "GWS_X_L10_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L10_1.mp3" },
+          { "file_name": "GWS_X_L10_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L10_2.mp3" },
+          { "file_name": "GWS_X_L10_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L10_3.mp3" }
         ]
       },
       "11": {
         "count": 5,
         "files": [
-          { "file_name": "GWS_X_L11_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L11_1.mp3" },
-          { "file_name": "GWS_X_L11_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L11_2.mp3" },
-          { "file_name": "GWS_X_L11_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L11_3.mp3" },
-          { "file_name": "GWS_X_L11_4.mp3", "audio_url": "assets/audio/grammar/GWS_X_L11_4.mp3" },
-          { "file_name": "GWS_X_L11_5.mp3", "audio_url": "assets/audio/grammar/GWS_X_L11_5.mp3" }
+          { "file_name": "GWS_X_L11_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L11_1.mp3" },
+          { "file_name": "GWS_X_L11_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L11_2.mp3" },
+          { "file_name": "GWS_X_L11_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L11_3.mp3" },
+          { "file_name": "GWS_X_L11_4.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L11_4.mp3" },
+          { "file_name": "GWS_X_L11_5.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L11_5.mp3" }
         ]
       },
       "12": {
         "count": 6,
         "files": [
-          { "file_name": "GWS_X_L12_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L12_1.mp3" },
-          { "file_name": "GWS_X_L12_1_Org.mp3", "audio_url": "assets/audio/grammar/GWS_X_L12_1_Org.mp3" },
-          { "file_name": "GWS_X_L12_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L12_2.mp3" },
-          { "file_name": "GWS_X_L12_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L12_3.mp3" },
-          { "file_name": "GWS_X_L12_4.mp3", "audio_url": "assets/audio/grammar/GWS_X_L12_4.mp3" },
-          { "file_name": "GWS_X_L12_5.mp3", "audio_url": "assets/audio/grammar/GWS_X_L12_5.mp3" }
+          { "file_name": "GWS_X_L12_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L12_1.mp3" },
+          { "file_name": "GWS_X_L12_1_Org.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L12_1_Org.mp3" },
+          { "file_name": "GWS_X_L12_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L12_2.mp3" },
+          { "file_name": "GWS_X_L12_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L12_3.mp3" },
+          { "file_name": "GWS_X_L12_4.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L12_4.mp3" },
+          { "file_name": "GWS_X_L12_5.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L12_5.mp3" }
         ]
       },
       "13": {
         "count": 7,
         "files": [
-          { "file_name": "GWS_X_L13_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L13_1.mp3" },
-          { "file_name": "GWS_X_L13_1_Org.mp3", "audio_url": "assets/audio/grammar/GWS_X_L13_1_Org.mp3" },
-          { "file_name": "GWS_X_L13_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L13_2.mp3" },
-          { "file_name": "GWS_X_L13_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L13_3.mp3" },
-          { "file_name": "GWS_X_L13_4.mp3", "audio_url": "assets/audio/grammar/GWS_X_L13_4.mp3" },
-          { "file_name": "GWS_X_L13_5.mp3", "audio_url": "assets/audio/grammar/GWS_X_L13_5.mp3" },
-          { "file_name": "GWS_X_L13_6.mp3", "audio_url": "assets/audio/grammar/GWS_X_L13_6.mp3" }
+          { "file_name": "GWS_X_L13_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L13_1.mp3" },
+          { "file_name": "GWS_X_L13_1_Org.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L13_1_Org.mp3" },
+          { "file_name": "GWS_X_L13_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L13_2.mp3" },
+          { "file_name": "GWS_X_L13_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L13_3.mp3" },
+          { "file_name": "GWS_X_L13_4.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L13_4.mp3" },
+          { "file_name": "GWS_X_L13_5.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L13_5.mp3" },
+          { "file_name": "GWS_X_L13_6.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L13_6.mp3" }
         ]
       },
       "14": {
         "count": 4,
         "files": [
-          { "file_name": "GWS_X_L14_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L14_1.mp3" },
-          { "file_name": "GWS_X_L14_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L14_2.mp3" },
-          { "file_name": "GWS_X_L14_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L14_3.mp3" },
-          { "file_name": "GWS_X_L14_3_Org.mp3", "audio_url": "assets/audio/grammar/GWS_X_L14_3_Org.mp3" }
+          { "file_name": "GWS_X_L14_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L14_1.mp3" },
+          { "file_name": "GWS_X_L14_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L14_2.mp3" },
+          { "file_name": "GWS_X_L14_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L14_3.mp3" },
+          { "file_name": "GWS_X_L14_3_Org.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L14_3_Org.mp3" }
         ]
       },
       "15": {
         "count": 2,
         "files": [
-          { "file_name": "GWS_X_L15_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L15_1.mp3" },
-          { "file_name": "GWS_X_L15_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L15_2.mp3" }
+          { "file_name": "GWS_X_L15_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L15_1.mp3" },
+          { "file_name": "GWS_X_L15_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L15_2.mp3" }
         ]
       },
       "16": {
         "count": 3,
         "files": [
-          { "file_name": "GWS_X_L16_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L16_1.mp3" },
-          { "file_name": "GWS_X_L16_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L16_2.mp3" },
-          { "file_name": "GWS_X_L16_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L16_3.mp3" }
+          { "file_name": "GWS_X_L16_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L16_1.mp3" },
+          { "file_name": "GWS_X_L16_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L16_2.mp3" },
+          { "file_name": "GWS_X_L16_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L16_3.mp3" }
         ]
       },
       "17": {
         "count": 7,
         "files": [
-          { "file_name": "GWS_X_L17_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L17_1.mp3" },
-          { "file_name": "GWS_X_L17_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L17_2.mp3" },
-          { "file_name": "GWS_X_L17_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L17_3.mp3" },
-          { "file_name": "GWS_X_L17_3_Org.mp3", "audio_url": "assets/audio/grammar/GWS_X_L17_3_Org.mp3" },
-          { "file_name": "GWS_X_L17_4.mp3", "audio_url": "assets/audio/grammar/GWS_X_L17_4.mp3" },
-          { "file_name": "GWS_X_L17_5.mp3", "audio_url": "assets/audio/grammar/GWS_X_L17_5.mp3" },
-          { "file_name": "GWS_X_L17_5_Org.mp3", "audio_url": "assets/audio/grammar/GWS_X_L17_5_Org.mp3" }
+          { "file_name": "GWS_X_L17_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L17_1.mp3" },
+          { "file_name": "GWS_X_L17_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L17_2.mp3" },
+          { "file_name": "GWS_X_L17_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L17_3.mp3" },
+          { "file_name": "GWS_X_L17_3_Org.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L17_3_Org.mp3" },
+          { "file_name": "GWS_X_L17_4.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L17_4.mp3" },
+          { "file_name": "GWS_X_L17_5.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L17_5.mp3" },
+          { "file_name": "GWS_X_L17_5_Org.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L17_5_Org.mp3" }
         ]
       },
       "18": {
         "count": 6,
         "files": [
-          { "file_name": "GWS_X_L18_1.mp3", "audio_url": "assets/audio/grammar/GWS_X_L18_1.mp3" },
-          { "file_name": "GWS_X_L18_2.mp3", "audio_url": "assets/audio/grammar/GWS_X_L18_2.mp3" },
-          { "file_name": "GWS_X_L18_3.mp3", "audio_url": "assets/audio/grammar/GWS_X_L18_3.mp3" },
-          { "file_name": "GWS_X_L18_4.mp3", "audio_url": "assets/audio/grammar/GWS_X_L18_4.mp3" },
-          { "file_name": "GWS_X_L18_5.mp3", "audio_url": "assets/audio/grammar/GWS_X_L18_5.mp3" },
-          { "file_name": "GWS_X_L18_6.mp3", "audio_url": "assets/audio/grammar/GWS_X_L18_6.mp3" }
+          { "file_name": "GWS_X_L18_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L18_1.mp3" },
+          { "file_name": "GWS_X_L18_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L18_2.mp3" },
+          { "file_name": "GWS_X_L18_3.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L18_3.mp3" },
+          { "file_name": "GWS_X_L18_4.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L18_4.mp3" },
+          { "file_name": "GWS_X_L18_5.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L18_5.mp3" },
+          { "file_name": "GWS_X_L18_6.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L18_6.mp3" }
         ]
       }
-    },
-    "pattern_level_audio": {
-      "exact_local_matches": 30,
-      "unmatched_pattern_references": 6
     }
   }
 }
