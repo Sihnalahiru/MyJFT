@@ -8,7 +8,16 @@
 @media(max-width:390px){.vocab-grid{grid-template-columns:1fr}.pill{padding:8px;font-size:12px}}
 
 .search{width:100%;padding:13px 15px;border:1px solid var(--line);border-radius:14px;margin:12px 0;background:var(--card,#fff);color:var(--ink);font:inherit}
-.stack{display:grid;gap:12px}.grammar-card{background:var(--card,#fff);border:1px solid var(--line);border-radius:18px;padding:17px}.grammar-card h3{margin:5px 0 8px;font-size:21px}.grammar-card .jp-pattern{font-size:25px;font-weight:900;color:var(--green2);margin:8px 0}.grammar-card .meta{font-size:12px;color:var(--muted);font-weight:700}.grammar-card details{border-top:1px solid var(--line);padding-top:10px;margin-top:10px}.grammar-example{padding:10px 0;border-bottom:1px dashed var(--line)}.grammar-example:last-child{border:0}.grammar-example .jp{font-size:19px;font-weight:800}.grammar-example p{margin:4px 0}.notice{padding:13px 15px;border-radius:14px;background:#fff8e7;color:#75551a;font-size:13px;line-height:1.5}.grammar-audio{display:block;max-width:100%;margin:8px 0}.grammar-audio-wrap{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:10px 0;border-top:1px solid var(--line);margin-top:12px}.grammar-rule,.grammar-explain{padding:9px 12px;margin:10px 0;border-radius:12px;background:#f7fafc}.grammar-rule p,.grammar-explain p{margin:5px 0 0;line-height:1.6}.grammar-examples{margin-top:14px}.grammar-examples summary{cursor:pointer;font-weight:900;color:var(--green2);padding:8px 0}.grammar-example{padding:13px 0;border-bottom:1px dashed var(--line)}.grammar-example .jp{font-size:21px;font-weight:850;line-height:1.6;margin:5px 0}.grammar-example p{line-height:1.55}.grammar-speak{margin-top:7px;padding:8px 12px;font-size:13px}
+.stack{display:grid;gap:12px}.grammar-card{background:var(--card,#fff);border:1px solid var(--line);border-radius:18px;padding:17px}.grammar-card h3{margin:5px 0 8px;font-size:21px}.grammar-card .jp-pattern{font-size:25px;font-weight:900;color:var(--green2);margin:8px 0}.grammar-card .meta{font-size:12px;color:var(--muted);font-weight:700}.grammar-card details{border-top:1px solid var(--line);padding-top:10px;margin-top:10px}.grammar-example{padding:10px 0;border-bottom:1px dashed var(--line)}.grammar-example:last-child{border:0}.grammar-example .jp{font-size:19px;font-weight:800}.grammar-example p{margin:4px 0}.notice{padding:13px 15px;border-radius:14px;background:#fff8e7;color:#75551a;font-size:13px;line-height:1.5}.grammar-audio{display:block;max-width:100%;margin:8px 0}.grammar-audio-wrap{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:10px 0;border-top:1px solid var(--line);margin-top:12px}
+/* Book 2 lesson audio is a full-width block inside the grammar card. */
+.grammar-audio-wrap.grammar-lesson-audio{display:block;width:100%;box-sizing:border-box;clear:both}
+.grammar-lesson-audio-head{display:block;width:100%;margin:0 0 10px;line-height:1.5}
+.grammar-lesson-audio-head .meta{display:block;margin-top:3px}
+.grammar-lesson-audio-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));gap:10px;width:100%}
+.grammar-lesson-audio-track{min-width:0;padding:10px 12px;border:1px solid var(--line);border-radius:12px;background:var(--card,#fff);box-sizing:border-box}
+.grammar-lesson-audio-track audio{display:block;width:100%;max-width:100%;margin:7px 0 0}
+@media(max-width:600px){.grammar-lesson-audio-list{grid-template-columns:1fr}}
+.grammar-rule,.grammar-explain{padding:9px 12px;margin:10px 0;border-radius:12px;background:#f7fafc}.grammar-rule p,.grammar-explain p{margin:5px 0 0;line-height:1.6}.grammar-examples{margin-top:14px}.grammar-examples summary{cursor:pointer;font-weight:900;color:var(--green2);padding:8px 0}.grammar-example{padding:13px 0;border-bottom:1px dashed var(--line)}.grammar-example .jp{font-size:21px;font-weight:850;line-height:1.6;margin:5px 0}.grammar-example p{line-height:1.55}.grammar-speak{margin-top:7px;padding:8px 12px;font-size:13px}
 .grammar-img-wrap{margin:12px 0;text-align:center;background:#fff;border:1px solid var(--line);border-radius:14px;padding:10px}
 .grammar-img{max-width:100%;height:auto;max-height:280px;object-fit:contain;border-radius:10px;display:block;margin:0 auto}
 </style></head>
@@ -171,7 +180,7 @@ function renderElementary1LessonAudio(lesson){
       const suffix=name.replace(prefix,'').replace('.mp3','');
       const note=suffix.includes('_Org')?' · Organize/review':(suffix.includes('_Pra_')?' · Practice':'');
       return '<div class="grammar-lesson-audio-track"><div class="meta">'+name.replace('.mp3','')+note+'</div>'+
-        '<audio controls preload="none" src="./assets/audio/grammar/'+encodeURIComponent(name)+'" aria-label="'+name+'"></audio></div>';
+        '<audio controls preload="metadata" src="./assets/audio/grammar/'+encodeURIComponent(name)+'" aria-label="'+name+'"></audio></div>';
     }).join('')+'</div></div>';
 }
 
