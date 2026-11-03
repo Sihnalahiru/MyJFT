@@ -14,12 +14,11 @@
       "formation_rule": "Noun1 + は + Noun2 + です",
       "explanation_sinhala": "වාක්‍යයේ ප්‍රධාන මාතෘකාව (N1) සහ එය කුමක්ද යන්න (N2) විනීතව පැවසීමට මෙය යොදාගනී.",
       "audio": {
-        "file_name": "GWS_X_L01_1.mp3",
         "track_id": "GM-ST-001",
-        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L01_1.mp3",
-        "has_audio": true,
-        "storage": "pending_local_asset",
-        "mapping_status": "no_exact_local_filename_match"
+        "has_audio": false,
+        "storage": "not_listed_in_official_grammar_worksheet_audio",
+        "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
+        "source_file_name_unverified": "GWS_X_L01_1.mp3"
       },
       "examples": [
         {
@@ -64,12 +63,11 @@
       "formation_rule": "Noun1 + は + Noun2 + じゃないです / ではありません",
       "explanation_sinhala": "නාමපදයක සෘණාත්මක ස්වරූපය ප්‍රකාශ කරයි.",
       "audio": {
-        "file_name": "GWS_X_L01_2.mp3",
         "track_id": "GM-ST-002",
-        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L01_2.mp3",
-        "has_audio": true,
-        "storage": "pending_local_asset",
-        "mapping_status": "no_exact_local_filename_match"
+        "has_audio": false,
+        "storage": "not_listed_in_official_grammar_worksheet_audio",
+        "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
+        "source_file_name_unverified": "GWS_X_L01_2.mp3"
       },
       "examples": [
         {
@@ -114,12 +112,11 @@
       "formation_rule": "Sentence + か",
       "explanation_sinhala": "වාක්‍යයක් අගට 'か' එකතු කිරීමෙන් ප්‍රශ්නාර්ථ වාක්‍යයක් සෑදේ.",
       "audio": {
-        "file_name": "GWS_X_L02_1.mp3",
         "track_id": "GM-ST-003",
-        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L02_1.mp3",
-        "has_audio": true,
-        "storage": "pending_local_asset",
-        "mapping_status": "no_exact_local_filename_match"
+        "has_audio": false,
+        "storage": "not_listed_in_official_grammar_worksheet_audio",
+        "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
+        "source_file_name_unverified": "GWS_X_L02_1.mp3"
       },
       "examples": [
         {
@@ -164,12 +161,11 @@
       "formation_rule": "Noun1 + の + Noun2",
       "explanation_sinhala": "නාමපද දෙකක් එකිනෙක සම්බන්ධ කිරීමට 'の' යෙදේ.",
       "audio": {
-        "file_name": "GWS_X_L02_2.mp3",
         "track_id": "GM-ST-004",
-        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L02_2.mp3",
-        "has_audio": true,
-        "storage": "pending_local_asset",
-        "mapping_status": "no_exact_local_filename_match"
+        "has_audio": false,
+        "storage": "not_listed_in_official_grammar_worksheet_audio",
+        "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
+        "source_file_name_unverified": "GWS_X_L02_2.mp3"
       },
       "examples": [
         {
@@ -214,12 +210,11 @@
       "formation_rule": "Noun + も",
       "explanation_sinhala": "කලින් සඳහන් කළ කරුණට සමාන තවත් කරුණක් දැක්වීමට 'は' වෙනුවට 'も' ආදේශ කරයි.",
       "audio": {
-        "file_name": "GWS_X_L02_3.mp3",
         "track_id": "GM-ST-005",
-        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L02_3.mp3",
-        "has_audio": true,
-        "storage": "pending_local_asset",
-        "mapping_status": "no_exact_local_filename_match"
+        "has_audio": false,
+        "storage": "not_listed_in_official_grammar_worksheet_audio",
+        "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
+        "source_file_name_unverified": "GWS_X_L02_3.mp3"
       },
       "examples": [
         {
@@ -814,12 +809,25 @@
       "formation_rule": "Place + へ / に + 行きます / 来ます / 帰ります",
       "explanation_sinhala": "ගමන් කරන දිශාව හෝ ගමනාන්තය දැක්වීම.",
       "audio": {
-        "file_name": "GWS_X_L09_1.mp3",
+        "file_name": "GWS_X_L09_1_1.mp3",
         "track_id": "GM-ST-017",
-        "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L09_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L09_1_1.mp3",
         "has_audio": true,
-        "storage": "pending_local_asset",
-        "mapping_status": "no_exact_local_filename_match"
+        "storage": "local",
+        "mapping_status": "official_lesson_9_exercise_1_split_into_two_tracks",
+        "source_file_name_unverified": "GWS_X_L09_1.mp3",
+        "tracks": [
+          {
+            "file_name": "GWS_X_L09_1_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L09_1_1.mp3",
+            "exercise": 1
+          },
+          {
+            "file_name": "GWS_X_L09_1_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L09_1_2.mp3",
+            "exercise": 2
+          }
+        ]
       },
       "examples": [
         {
@@ -1806,11 +1814,16 @@
     }
   ],
   "asset_mapping_audit": {
-    "audio_folder": "assets/audio/grammar/",
-    "book_1_starter_audio_verified": 79,
-    "pattern_audio_exact_matches": 30,
-    "pattern_audio_pending": 6,
-    "image_mapping": "PENDING: no verified grammar-pattern-to-image relationship in this JSON; do not infer from lesson number."
+    "source_pdf": "Grammar_Worksheets_X.pdf",
+    "official_audio_index": "https://www.irodori.jpf.go.jp/en/worksheet/audio/starter_01.html",
+    "official_audio_index_part_2": "https://www.irodori.jpf.go.jp/worksheet/audio/starter_02.html",
+    "verified_rule": "Official Irodori grammar worksheet audio listing begins at Lesson 3; Lesson 9 exercise 1 is split into GWS_X_L09_1_1.mp3 and GWS_X_L09_1_2.mp3.",
+    "local_starter_audio_files": 79,
+    "exact_local_file_inventory": "assets/audio/grammar/ (GWS_X_ prefix)",
+    "lesson_1_2": "No grammar worksheet audio entries appear in the official Starter grammar worksheet audio listing; removed the unsupported L01/L02 audio assignments.",
+    "lesson_9": "Mapped exercise 1 to the two official split tracks; exercises 2 and 3 retain their exact local matches.",
+    "pattern_level_mapping": "Only explicit worksheet/official index relationships are assigned. Other pattern-to-track associations require checking the PDF page's circled exercise numbers.",
+    "image_mapping": "PENDING: no verified pattern-to-image mapping extracted from PDF pages."
   },
   "lesson_audio_inventory": {
     "source_folder": "assets/audio/grammar/",
