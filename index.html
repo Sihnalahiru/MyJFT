@@ -64,6 +64,12 @@
  .vocab-grid#sourceVocabGrid{grid-template-columns:1fr}
  .vocab-word-card{padding:14px}
 }
+
+.vocab-lesson-images{margin:12px 0;padding:14px}
+.vocab-lesson-image-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,145px),1fr));gap:10px}
+.vocab-lesson-image-grid figure{margin:0;min-width:0;background:var(--soft,#f7f9fb);border:1px solid var(--line);border-radius:12px;padding:8px}
+.vocab-lesson-image-grid img{display:block;width:100%;height:115px;object-fit:contain}
+.vocab-lesson-image-grid figcaption{font-size:10px;color:var(--muted);overflow-wrap:anywhere;margin-top:6px}
 </style></head>
 <body><div class="app">
 <aside class="sidebar"><div class="brand"><span class="brand-mark">日</span> MyJFT</div><nav class="nav" id="sideNav"><button class="active" data-page="home"><span class="ico">🏠</span>Home</button><button data-page="learn"><span class="ico">🗺️</span>Learning Path</button><button data-page="alphabet"><span class="ico">あ</span>Alphabet</button><button data-page="vocabulary"><span class="ico">🧠</span>Vocabulary</button><button data-page="grammar"><span class="ico">文</span>Grammar</button><button data-page="practice"><span class="ico">🎯</span>Practice</button><button data-page="profile"><span class="ico">👤</span>Profile</button></nav><div class="side-bottom">🇯🇵 <b>JFT-Basic journey</b><br>Small steps every day. Keep your streak alive!</div></aside>
@@ -102,6 +108,7 @@
   </div>
   <div class="vocab-filter-actions"><span id="vocabResultCount">Loading vocabulary…</span><button class="btn ghost" type="button" onclick="resetVocabularyFilters()">Reset filters</button></div>
  </div>
+ <div id="vocabLessonImages" class="vocab-lesson-images card" hidden></div>
  <div id="vocabAudioPanel" class="vocab-audio-panel card" hidden></div>
  <div id="vocabSourceNotice" class="notice" hidden></div>
  <div class="vocab-grid" id="sourceVocabGrid"><div class="card">Loading official word records…</div></div>
@@ -363,6 +370,16 @@ function vocabAudioMarkup(record){
  if(record.audio?.audio_url)return '<audio class="vocab-audio" controls preload="none" src="'+vocabEscape(record.audio.audio_url)+'" aria-label="Official vocabulary audio"></audio>';
  return '<span class="vocab-media-pending">Lesson audio playlist · see lesson player</span>';
 }
+function renderVocabularyLessonImages(){
+ const panel=document.getElementById('vocabLessonImages');if(!panel)return;
+ const lesson=document.getElementById('vocabLessonFilter')?.value||'all';
+ if(vocabularyBook==='X'||lesson==='all'){panel.hidden=true;panel.innerHTML='';return;}
+ const prefix=vocabularyBook+'_'+String(lesson).padStart(2,'0')+'_';
+ const names=[...(vocabularyMedia?.image_root||[]),...(vocabularyMedia?.image_subfolder||[])].filter(n=>n.startsWith(prefix)).sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));
+ panel.hidden=false;
+ panel.innerHTML='<div class="vocab-audio-heading"><div><b>🖼️ Lesson '+String(lesson).padStart(2,'0')+' illustrations</b><small>Lesson-level official visuals · not assigned to individual words</small></div><span>'+names.length+' images</span></div>'+
+ (names.length?'<div class="vocab-lesson-image-grid">'+names.map(n=>'<figure><img loading="lazy" decoding="async" src="./assets/images/'+(vocabularyMedia.image_root.includes(n)?encodeURIComponent(n):'Images%202/'+encodeURIComponent(n))+'" alt="'+vocabEscape(n.replace(/\.(webp|png|jpg|jpeg)$/i,''))+'"><figcaption>'+vocabEscape(n.replace(/\.(webp|png|jpg|jpeg)$/i,''))+'</figcaption></figure>').join('')+'</div>':'<p>No lesson illustrations are indexed for this lesson.</p>');
+}
 function renderVocabularyLessonAudio(){
  const panel=document.getElementById('vocabAudioPanel');if(!panel)return;
  if(vocabularyBook==='X'){panel.hidden=true;panel.innerHTML='';return;}
@@ -399,6 +416,7 @@ function renderSourceVocabulary(){
  const notice=document.getElementById('vocabSourceNotice');
  if(missing.length){notice.hidden=false;notice.innerHTML='<b>Source data pending:</b> '+missing.map(vocabEscape).join(', ')+'. These IDs are reserved but the source JSON is incomplete; no replacement words have been invented.';}
  else{notice.hidden=true;notice.innerHTML='';}
+ renderVocabularyLessonImages();
  renderVocabularyLessonAudio();
  const grid=document.getElementById('sourceVocabGrid');
  grid.innerHTML=filtered.map(x=>{
