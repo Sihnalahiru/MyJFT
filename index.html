@@ -349,7 +349,7 @@ function vocabRecords(){return (vocabularyMaster?.records||[]).filter(x=>x.book=
 function vocabSetOptions(el,values,allLabel){
  if(!el)return;
  const prior=el.value;
- el.innerHTML='<option value="all">'+allLabel+'</option>'+values.map(v=>'<option value="'+vocabEscape(v)+'">'+vocabEscape(v)+'</option>').join('');
+ el.innerHTML='<option value="all">'+allLabel+'</option>'+values.map(v=>'<option value="'+vocabEscape(v)+'">'+(el.id==='vocabLessonFilter'?'Lesson ':'')+vocabEscape(v)+'</option>').join('');
  if(values.includes(prior))el.value=prior;
 }
 function vocabLocalImage(record){
