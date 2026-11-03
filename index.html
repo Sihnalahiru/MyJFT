@@ -154,22 +154,25 @@ function renderGrammarAudio(audio, isBook1){
 }
 
 function renderElementary1LessonAudio(lesson){
+  // Keep the legacy lesson-level slot hidden; Book 2 audio is rendered inside its grammar cards.
   const panel=document.getElementById('grammarLessonAudio');
-  if(!panel) return;
-  if(currentGrammarBook!=='elementary1'){panel.style.display='none';panel.innerHTML='';return;}
-  panel.style.display='block';
-  if(lesson==='all'){
-    panel.innerHTML='<b>🎧 Official Book 2 worksheet audio</b><p style="margin:6px 0 0">Choose a lesson to play its verified worksheet audio tracks. Tracks are grouped by lesson because the official source does not establish a one-to-one mapping to individual grammar cards.</p>';
-    return;
-  }
-  const prefix='GWS_Y_L'+String(lesson).padStart(2,'0')+'_';
-  const tracks=Array.from(elementary1WorksheetAudioFiles).filter(name=>name.startsWith(prefix)).sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));
-  if(!tracks.length){panel.innerHTML='<b>Lesson '+String(lesson).padStart(2,'0')+' audio</b><p>No verified repository audio files found for this lesson.</p>';return;}
-  panel.innerHTML='<b>🎧 Lesson '+String(lesson).padStart(2,'0')+' · Official worksheet audio ('+tracks.length+' tracks)</b><div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:10px;margin-top:10px">'+tracks.map(name=>{
-    const suffix=name.replace(prefix,'').replace('.mp3','');
-    const note=suffix.includes('_Org')?' · Organize/review':(suffix.includes('_Pra_')?' · Practice':'');
-    return '<div style="background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px"><div style="font-weight:700;font-size:13px;margin-bottom:6px">'+name.replace('.mp3','')+note+'</div><audio controls preload="none" style="width:100%" src="./assets/audio/grammar/'+encodeURIComponent(name)+'" preload="metadata" aria-label="'+name+'"></audio></div>';
-  }).join('')+'</div>';
+  if(panel){panel.style.display='none';panel.innerHTML='';}
+  if(currentGrammarBook!=='elementary1') return '';
+  const lessonNo=String(lesson).padStart(2,'0');
+  const prefix='GWS_Y_L'+lessonNo+'_';
+  const tracks=Array.from(elementary1WorksheetAudioFiles)
+    .filter(name=>name.startsWith(prefix))
+    .sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));
+  if(!tracks.length) return '<div class="grammar-audio-wrap"><b>🎧 Lesson '+lessonNo+' audio</b><span class="meta">No verified repository tracks found.</span></div>';
+  return '<div class="grammar-audio-wrap grammar-lesson-audio">'+
+    '<div class="grammar-lesson-audio-head"><b>🎧 Lesson '+lessonNo+' · Worksheet audio</b>'+
+    '<span class="meta">Shared lesson audio set · not individually mapped to a single grammar pattern</span></div>'+
+    '<div class="grammar-lesson-audio-list">'+tracks.map(name=>{
+      const suffix=name.replace(prefix,'').replace('.mp3','');
+      const note=suffix.includes('_Org')?' · Organize/review':(suffix.includes('_Pra_')?' · Practice':'');
+      return '<div class="grammar-lesson-audio-track"><div class="meta">'+name.replace('.mp3','')+note+'</div>'+
+        '<audio controls preload="none" src="./assets/audio/grammar/'+encodeURIComponent(name)+'" aria-label="'+name+'"></audio></div>';
+    }).join('')+'</div></div>';
 }
 
 const elementary1WorksheetAudioFiles = new Set(["GWS_Y_L01_1.mp3","GWS_Y_L01_1_Org.mp3","GWS_Y_L01_2.mp3","GWS_Y_L01_3.mp3","GWS_Y_L01_4.mp3","GWS_Y_L01_4_Org_1.mp3","GWS_Y_L01_4_Org_2.mp3","GWS_Y_L02_1.mp3","GWS_Y_L02_2.mp3","GWS_Y_L02_3.mp3","GWS_Y_L02_4.mp3","GWS_Y_L02_5.mp3","GWS_Y_L02_6.mp3","GWS_Y_L03_1.mp3","GWS_Y_L03_2.mp3","GWS_Y_L03_3.mp3","GWS_Y_L03_4.mp3","GWS_Y_L03_5.mp3","GWS_Y_L03_6.mp3","GWS_Y_L03_7.mp3","GWS_Y_L04_1.mp3","GWS_Y_L04_2.mp3","GWS_Y_L04_3.mp3","GWS_Y_L04_4.mp3","GWS_Y_L05_1.mp3","GWS_Y_L05_2.mp3","GWS_Y_L05_3.mp3","GWS_Y_L06_1.mp3","GWS_Y_L06_2.mp3","GWS_Y_L06_3.mp3","GWS_Y_L07_1.mp3","GWS_Y_L07_2.mp3","GWS_Y_L07_3.mp3","GWS_Y_L08_1.mp3","GWS_Y_L08_2.mp3","GWS_Y_L08_2_Org_1.mp3","GWS_Y_L08_2_Org_2.mp3","GWS_Y_L08_3.mp3","GWS_Y_L08_4.mp3","GWS_Y_L08_5.mp3","GWS_Y_L09_1.mp3","GWS_Y_L09_2.mp3","GWS_Y_L09_3.mp3","GWS_Y_L09_4.mp3","GWS_Y_L09_5.mp3","GWS_Y_L10_1.mp3","GWS_Y_L10_2.mp3","GWS_Y_L10_3.mp3","GWS_Y_L10_4.mp3","GWS_Y_L10_5.mp3","GWS_Y_L11_1.mp3","GWS_Y_L11_2.mp3","GWS_Y_L11_3.mp3","GWS_Y_L11_4.mp3","GWS_Y_L12_1.mp3","GWS_Y_L12_2.mp3","GWS_Y_L12_3.mp3","GWS_Y_L12_4.mp3","GWS_Y_L12_5.mp3","GWS_Y_L12_6.mp3","GWS_Y_L13_1.mp3","GWS_Y_L13_1_Org.mp3","GWS_Y_L13_2.mp3","GWS_Y_L13_3.mp3","GWS_Y_L13_4.mp3","GWS_Y_L13_5.mp3","GWS_Y_L14_1.mp3","GWS_Y_L14_2.mp3","GWS_Y_L14_3.mp3","GWS_Y_L14_4.mp3","GWS_Y_L14_5.mp3","GWS_Y_L14_6.mp3","GWS_Y_L15_1_Pra_1.mp3","GWS_Y_L15_1_Pra_2.mp3","GWS_Y_L15_2.mp3","GWS_Y_L15_3.mp3","GWS_Y_L15_4.mp3","GWS_Y_L15_5.mp3","GWS_Y_L16_1.mp3","GWS_Y_L16_2.mp3","GWS_Y_L16_3.mp3","GWS_Y_L16_4.mp3","GWS_Y_L17_1.mp3","GWS_Y_L17_2.mp3","GWS_Y_L17_3.mp3","GWS_Y_L18_1.mp3","GWS_Y_L18_2.mp3","GWS_Y_L18_3.mp3","GWS_Y_L18_4.mp3"]);
@@ -228,6 +231,8 @@ function renderGrammar(){
  const list = document.getElementById('grammarList');
  if(!list) return;
 
+ const book2AudioShown = new Set();
+
  list.innerHTML = rows.map((x) => {
   const pNum = parseInt(x.id.replace(idPrefix, ''), 10) || 1;
   const ext = extMap.has(pNum) ? 'png' : 'jpg';
@@ -241,6 +246,7 @@ function renderGrammar(){
    '<div class="grammar-rule"><b>Formation / වාක්‍ය රටාව</b><p>' + (x.formation_rule || '—') + '</p></div>' +
    '<div class="grammar-explain"><b>සිංහල පැහැදිලි කිරීම</b><p>' + (x.explanation_sinhala || '') + '</p></div>' +
    (isBook1 && x.audio ? renderGrammarAudio(x.audio, true) : '') +
+   (!isBook1 && !book2AudioShown.has(String(x.lesson)) ? (book2AudioShown.add(String(x.lesson)), renderElementary1LessonAudio(x.lesson)) : '') +
    '<details class="grammar-examples"><summary>Examples · උදාහරණ (' + (x.examples || []).length + ')</summary>' +
    ((x.examples || []).map((e, j) => '<div class="grammar-example"><div class="meta">EXAMPLE ' + (j + 1) + '</div><div class="jp">' + (e.japanese || '') + '</div>' + (e.furigana ? '<p><b>Furigana:</b> ' + e.furigana + '</p>' : '') + (e.romaji ? '<p><b>Romaji:</b> ' + e.romaji + '</p>' : '') + (e.english ? '<p><b>English:</b> ' + e.english + '</p>' : '') + (e.sinhala ? '<p><b>සිංහල:</b> ' + e.sinhala + '</p>' : '') + '<button class="btn ghost grammar-speak" type="button" onclick="speak(' + JSON.stringify(e.japanese || '') + ')">🔊 Listen</button></div>').join('')) +
    '</details></article>';
