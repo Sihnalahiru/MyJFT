@@ -1,0 +1,1584 @@
+{
+  "level": "Irodori Elementary 2 (A2.2)",
+  "batch": "Batch 3 (Patterns 41-65 - Final)",
+  "total_grammar_patterns": 25,
+  "total_examples": 125,
+  "coverage": "Final official patterns 41 to 65 of Irodori Elementary 2 covering Adverbial forms, Relative clauses, Compound verbs, Extensive Modals (kamoshiremai, deshou), Noun modifications, Keigo final reviews, and total curriculum conclusion.",
+  "grammar_patterns": [
+    {
+      "id": "gm_e2_041",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 1,
+      "category": "Adverbial State",
+      "pattern": "V-て / V-ないで + Main Verb",
+      "title_sinhala": "යම් තත්ත්වයකින් යුතුව / නොමැතිව ප්‍රධාන ක්‍රියාව කිරීම",
+      "formation_rule": "Verb [Te-form] / Verb [Nai-form] + で + Main Action",
+      "explanation_sinhala": "ප්‍රධාන ක්‍රියාව සිදුකරන ආකාරය, තත්ත්වය හෝ උපාංගය විස්තර කිරීමට යොදයි (උදා: කණ්ණාඩි දාගෙන පොත් කියවනවා / කුඩයක් නැතිව යනවා).",
+      "common_mistake_note": "'ないで' වෙනුවට 'なくて' යෙදීම වැරදියි. 'なくて' යෙදෙන්නේ හේතු දැක්වීමටය.",
+      "audio": {
+        "file_name": "gm_e2_041_adverbial_te_naide.mp3",
+        "track_id": "GM-E2-041",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "メガネをかけて、本を読みます。",
+          "furigana": "メガネをかけて、[ほん]を[よ]みます。",
+          "romaji": "Megane o kakete, hon o yomimasu.",
+          "english": "I read a book wearing glasses.",
+          "sinhala": "කණ්ණාඩි දමාගෙන, පොතක් කියවනවා.",
+          "audio_file": "exp_e2_041_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "傘を持たないで、出かけました。",
+          "furigana": "[かさ]を[も]たないで、[で]かけました。",
+          "romaji": "Kasa o motanaide, dekakemashita.",
+          "english": "I went out without taking an umbrella.",
+          "sinhala": "කුඩයක් ගන්නේ නැතිව, එළියට ගියා.",
+          "audio_file": "exp_e2_041_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "何も食べないで、学校へ行きました。",
+          "furigana": "[なに]も[た]べないで、[がっこう]へ[い]きました。",
+          "romaji": "Nani mo tabenaide, gakkou e ikimashita.",
+          "english": "I went to school without eating anything.",
+          "sinhala": "කිසිවක් කන්නේ නැතිව, පාසලට ගියා.",
+          "audio_file": "exp_e2_041_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "辞書を見ないで、手紙を書きました。",
+          "furigana": "[じしょ]を[み]ないで、[てがみ]を[か]きました。",
+          "romaji": "Jisho o minaide, tegami o kakimashita.",
+          "english": "I wrote the letter without looking at a dictionary.",
+          "sinhala": "ශබ්දකෝෂය නොබලාම, ලියුම ලිව්වා.",
+          "audio_file": "exp_e2_041_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "急いで、走って駅へ行きました。",
+          "furigana": "[いそ]いで、[はし]って[えき]へ[い]きました。",
+          "romaji": "Isoide, hashitte eki e ikimashita.",
+          "english": "In a hurry, I ran to the station.",
+          "sinhala": "හදිසියෙන්, දුවගෙන දුම්රියපළට ගියා.",
+          "audio_file": "exp_e2_041_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_042",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 2,
+      "category": "Advice",
+      "pattern": "V-た ほうがいいです (Nuance extension)",
+      "title_sinhala": "කිරීම වඩා හොඳයි (ප්‍රබල උපදෙස්)",
+      "formation_rule": "Verb [Ta-form] + ほうがいいです",
+      "explanation_sinhala": "යම් දෙයක් අනිවාර්යයෙන්ම කළ යුතු යැයි අනෙකාට තරයේ උපදෙස් දීමට (Strong recommendation) යොදාගනී.",
+      "common_mistake_note": "සිංහලයේ 'කරන්න ඕන' යන අර්ථයම ඇත. 'V-る ほうがいいです' වලට වඩා මෙය ප්‍රබලය.",
+      "audio": {
+        "file_name": "gm_e2_042_tahougaiidesu.mp3",
+        "track_id": "GM-E2-042",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "熱があるから、病院へ行ったほうがいいですよ。",
+          "furigana": "[ねつ]があるから、[びょういん]へ[い]ったほうがいいですよ。",
+          "romaji": "Netsu ga aru kara, byouin e itta hou ga ii desu yo.",
+          "english": "Since you have a fever, you'd better go to the hospital.",
+          "sinhala": "උණ තියෙන නිසා, රෝහලට යන එක වඩා හොඳයි.",
+          "audio_file": "exp_e2_042_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "危ないから、さわらないほうがいいです。",
+          "furigana": "[あぶ]ないから、さわらないほうがいいです。",
+          "romaji": "Abunai kara, sawaranai hou ga ii desu.",
+          "english": "Since it's dangerous, you'd better not touch it.",
+          "sinhala": "අනතුරුදායක නිසා, නොඅල්ලන එක හොඳයි.",
+          "audio_file": "exp_e2_042_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "タバコはやめたほうがいいですよ。",
+          "furigana": "タバコはやめたほうがいいですよ。",
+          "romaji": "Tabako wa yameta hou ga ii desu yo.",
+          "english": "You should really quit smoking.",
+          "sinhala": "දුම්බීම නතර කරන එක තමයි හොඳ.",
+          "audio_file": "exp_e2_042_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "もっと野菜を食べたほうがいいです。",
+          "furigana": "もっと[やさい]を[た]べたほうがいいです。",
+          "romaji": "Motto yasai o tabeta hou ga ii desu.",
+          "english": "You should eat more vegetables.",
+          "sinhala": "තව එළවළු කන එක හොඳයි.",
+          "audio_file": "exp_e2_042_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "すぐ謝ったほうがいいです。",
+          "furigana": "すぐ[あやま]ったほうがいいです。",
+          "romaji": "Sugu ayamatta hou ga ii desu.",
+          "english": "You'd better apologize immediately.",
+          "sinhala": "වහාම සමාව ගන්න එක හොඳයි.",
+          "audio_file": "exp_e2_042_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_043",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 3,
+      "category": "Noun Modification",
+      "pattern": "Clause [Plain form] + Noun",
+      "title_sinhala": "වාක්‍යයකින් නාමපදයක් විස්තර කිරීම (Relative Clauses)",
+      "formation_rule": "Clause ending in Plain Form + Noun",
+      "explanation_sinhala": "නාමපදයක් ගැන වැඩිදුර විස්තර ලබාදීමට සම්පූර්ණ වාක්‍යයක් (Clause) ඒ ඉදිරියෙන් යෙදීමයි.",
+      "common_mistake_note": "Clause එක ඇතුළත Subject එක 'が' මඟින් සලකුණු කරයි (私が作ったケーキ). 'は' නොයෙදේ.",
+      "audio": {
+        "file_name": "gm_e2_043_relative_clause.mp3",
+        "track_id": "GM-E2-043",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "私が生まれた町は京都です。",
+          "furigana": "[わたし]が[う]まれた[まち]は[きょうと]です。",
+          "romaji": "Watashi ga umareta machi wa Kyouto desu.",
+          "english": "The town where I was born is Kyoto.",
+          "sinhala": "මම ඉපදුණු නගරය කියෝතෝ වේ.",
+          "audio_file": "exp_e2_043_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "昨日見た映画は面白かったです。",
+          "furigana": "[きのう][み]た[えいが]は[おもしろ]かったです。",
+          "romaji": "Kinou mita eiga wa omoshirokatta desu.",
+          "english": "The movie I saw yesterday was interesting.",
+          "sinhala": "ඊයේ බලපු චිත්‍රපටය රසවත් වුණා.",
+          "audio_file": "exp_e2_043_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "彼女が住んでいる家は大きいです。",
+          "furigana": "[かのじょ]が[す]んでいる[いえ]は[おお]きいです。",
+          "romaji": "Kanojo ga sunde iru ie wa ookii desu.",
+          "english": "The house she lives in is big.",
+          "sinhala": "ඇය ජීවත් වෙන නිවස ලොකුයි.",
+          "audio_file": "exp_e2_043_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "メガネをかけている人は田中さんです。",
+          "furigana": "メガネをかけている[ひと]は[たなか]さんです。",
+          "romaji": "Megane o kakete iru hito wa Tanaka-san desu.",
+          "english": "The person wearing glasses is Mr. Tanaka.",
+          "sinhala": "කණ්ණාඩි දාගෙන ඉන්න කෙනා තනකා මහතායි.",
+          "audio_file": "exp_e2_043_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "よく行くレストランはここです。",
+          "furigana": "よく[い]くレストランはここです。",
+          "romaji": "Yoku iku resutoran wa koko desu.",
+          "english": "The restaurant I often go to is here.",
+          "sinhala": "මම නිතර යන රෙස්ටුරන්ට් එක මෙතැනයි.",
+          "audio_file": "exp_e2_043_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_044",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 4,
+      "category": "Purpose",
+      "pattern": "V-る のに + 使う/便利だ/必要だ",
+      "title_sinhala": "යමක් කිරීමට (භාවිතය/ප්‍රයෝජනය)",
+      "formation_rule": "Verb [Dictionary form] + のに + 使う / 便利だ / 時間がかかる etc.",
+      "explanation_sinhala": "යම් උපකරණයක් භාවිත කරන්නේ කුමක් සඳහාද යන්න හෝ යම් කාර්යයකට කොපමණ කාලයක්/මුදලක් ගතවේද යන්න ප්‍රකාශ කරයි.",
+      "common_mistake_note": "'のに' යනු 'වුවත් (although)' අර්ථයෙන්ද යෙදේ, නමුත් මෙහි අර්ථය 'purpose' (සඳහා) යන්නයි.",
+      "audio": {
+        "file_name": "gm_e2_044_noni_purpose.mp3",
+        "track_id": "GM-E2-044",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "このハサミは紙を切るのに使います。",
+          "furigana": "このハサミは[かみ]を[き]るのに[つか]います。",
+          "romaji": "Kono hasami wa kami o kiru no ni tsukaimasu.",
+          "english": "These scissors are used for cutting paper.",
+          "sinhala": "මේ කතුර කොළ කැපීමට භාවිත කරයි.",
+          "audio_file": "exp_e2_044_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "日本語を勉強するのに、このアプリは便利です。",
+          "furigana": "[にほんご]を[べんきょう]するのに、このアプリは[べんり]です。",
+          "romaji": "Nihongo o benkyou suru no ni, kono apuri wa benri desu.",
+          "english": "This app is useful for studying Japanese.",
+          "sinhala": "ජපන් භාෂාව ඉගෙන ගන්න මේ ඇප් එක පහසුයි.",
+          "audio_file": "exp_e2_044_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "会社へ行くのに、1時間かかります。",
+          "furigana": "[かいしゃ]へ[い]くのに、1[じかん]かかります。",
+          "romaji": "Kaisha e iku no ni, ichi-jikan kakarimasu.",
+          "english": "It takes one hour to go to the company.",
+          "sinhala": "වැඩට යන්න පැයක් ගතවෙනවා.",
+          "audio_file": "exp_e2_044_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "家を建てるのに、お金が必要です。",
+          "furigana": "[いえ]を[た]てるのに、お[かね]が[ひつよう]です。",
+          "romaji": "Ie o tateru no ni, okane ga hitsuyou desu.",
+          "english": "Money is necessary for building a house.",
+          "sinhala": "ගෙයක් හදන්න සල්ලි අවශ්‍යයි.",
+          "audio_file": "exp_e2_044_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "荷物を運ぶのに、車を使いました。",
+          "furigana": "[にもつ]を[はこ]ぶのに、[くるま]を[つか]いました。",
+          "romaji": "Nimotsu o hakobu no ni, kuruma o tsukaimashita.",
+          "english": "I used a car for transporting the luggage.",
+          "sinhala": "බඩු ප්‍රවාහනය කරන්න කාර් එකක් පාවිච්චි කළා.",
+          "audio_file": "exp_e2_044_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_045",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "category": "Embedded Questions",
+      "pattern": "Question word + [Plain] + か、～",
+      "title_sinhala": "කොහේද/කවදාද/කවුද කියා (ප්‍රශ්නයක් වාක්‍යයක් ඇතුළේ යෙදීම)",
+      "formation_rule": "Question word + Clause [Plain form] + か、Main Verb",
+      "explanation_sinhala": "ප්‍රශ්නවාචී පදයක් (කවුද, කුමක්ද, කොහේද) සහිත ප්‍රශ්නයක් තවත් වාක්‍යයක් ඇතුළත බහාලමින් 'දන්නවාද / අමතක වුණා' කීමට යොදාගනී.",
+      "common_mistake_note": "නාමපද සහ な-Adjectives සමඟ 'だ' යොදන්නේ නැත (どこか, いつか).",
+      "audio": {
+        "file_name": "gm_e2_045_qw_ka.mp3",
+        "track_id": "GM-E2-045",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "会議がどこであるか、知っていますか。",
+          "furigana": "[かいぎ]がどこであるか、[し]っていますか。",
+          "romaji": "Kaigi ga doko de aru ka, shitte imasu ka.",
+          "english": "Do you know where the meeting is?",
+          "sinhala": "රැස්වීම තියෙන්නේ කොහෙද කියලා දන්නවාද?",
+          "audio_file": "exp_e2_045_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "彼が誰か、わかりません。",
+          "furigana": "[かれ]が[だれ]か、わかりません。",
+          "romaji": "Kare ga dare ka, wakarimasen.",
+          "english": "I don't know who he is.",
+          "sinhala": "ඔහු කවුද කියලා මම දන්නේ නෑ.",
+          "audio_file": "exp_e2_045_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "いつ日本へ来たか、覚えていますか。",
+          "furigana": "いつ[にほん]へ[き]たか、[おぼ]えていますか。",
+          "romaji": "Itsu Nihon e kita ka, oboete imasu ka.",
+          "english": "Do you remember when you came to Japan?",
+          "sinhala": "කවදාද ජපානයට ආවේ කියලා මතකද?",
+          "audio_file": "exp_e2_045_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "この漢字をどう読むか、教えてください。",
+          "furigana": "この[かんじ]をどう[よ]むか、[おし]えてください。",
+          "romaji": "Kono kanji o dou yomu ka, oshiete kudasai.",
+          "english": "Please tell me how to read this kanji.",
+          "sinhala": "මේ කන්ජි අකුර කොහොමද කියවන්නේ කියලා කියා දෙන්න.",
+          "audio_file": "exp_e2_045_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "箱の中に何が入っているか、見てください。",
+          "furigana": "[はこ]の[なか]に[なに]が[はい]っているか、[み]てください。",
+          "romaji": "Hako no naka ni nani ga haitte iru ka, mite kudasai.",
+          "english": "Please look at what is inside the box.",
+          "sinhala": "පෙට්ටිය ඇතුළේ තියෙන්නේ මොනවාද කියලා බලන්න.",
+          "audio_file": "exp_e2_045_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_046",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 5,
+      "category": "Embedded Questions",
+      "pattern": "[Plain] か どうか、～",
+      "title_sinhala": "ද නැද්ද කියා / වේද නොවේද යන්න",
+      "formation_rule": "Clause [Plain form] + か どうか、Main Verb",
+      "explanation_sinhala": "ප්‍රශ්නවාචී පදයක් (Wh-word) නොමැති ප්‍රශ්නයක්, එනම් ඔව්/නැත (Yes/No) ප්‍රශ්නයක් තවත් වාක්‍යයක් ඇතුළත බහාලීමට යොදයි.",
+      "common_mistake_note": "නාමපද සහ な-Adjectives සමඟ 'だ' යොදන්නේ නැත (おいしいかどうか, 本当かどうか).",
+      "audio": {
+        "file_name": "gm_e2_046_kadouka.mp3",
+        "track_id": "GM-E2-046",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "明日雨が降るかどうか、わかりません。",
+          "furigana": "[あした][あめ]が[ふ]るかどうか、わかりません。",
+          "romaji": "Ashita ame ga furu ka dou ka, wakarimasen.",
+          "english": "I don't know whether it will rain tomorrow or not.",
+          "sinhala": "හෙට වහිනවාද නැද්ද කියලා මම දන්නේ නෑ.",
+          "audio_file": "exp_e2_046_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "彼がパーティーに来るかどうか、聞いてみます。",
+          "furigana": "[かれ]がパーティーに[く]るかどうか、[き]いてみます。",
+          "romaji": "Kare ga paatii ni kuru ka dou ka, kiite mimasu.",
+          "english": "I will ask whether he is coming to the party or not.",
+          "sinhala": "ඔහු පාටියට එනවාද නැද්ද කියලා අහලා බලන්නම්.",
+          "audio_file": "exp_e2_046_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "その話が本当かどうか、調べてください。",
+          "furigana": "その[はなし]が[ほんとう]かどうか、[しら]べてください。",
+          "romaji": "Sono hanashi ga hontou ka dou ka, shirabete kudasai.",
+          "english": "Please investigate whether that story is true or not.",
+          "sinhala": "ඒ කතාව ඇත්තද නැත්තද කියලා හොයලා බලන්න.",
+          "audio_file": "exp_e2_046_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "荷物が届いたかどうか、確認します。",
+          "furigana": "[にもつ]が[とど]いたかどうか、[かくにん]します。",
+          "romaji": "Nimotsu ga todoita ka dou ka, kakunin shimasu.",
+          "english": "I will confirm whether the parcel has arrived or not.",
+          "sinhala": "පාර්සලය ලැබුණාද නැද්ද කියලා තහවුරු කරගන්නවා.",
+          "audio_file": "exp_e2_046_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "サイズが合うかどうか、着てみてもいいですか。",
+          "furigana": "サイズが[あ]うかどうか、[き]てみてもいいですか。",
+          "romaji": "Saizu ga au ka dou ka, kite mite mo ii desu ka.",
+          "english": "May I try it on to see whether the size fits or not?",
+          "sinhala": "සයිස් එක හරිද නැද්ද කියලා ඇඳලා බැලුවාට කමක් නැද්ද?",
+          "audio_file": "exp_e2_046_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_047",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "category": "Purpose",
+      "pattern": "V-る ために / N の ために",
+      "title_sinhala": "වෙනුවෙන් / අරමුණක් සඳහා",
+      "formation_rule": "Verb [Dict form] + ために / Noun + の + ために",
+      "explanation_sinhala": "තමාට පාලනයක් ඇති, පැහැදිලි චේතනාවක් හෝ අරමුණක් (Goal/Purpose) වෙනුවෙන් යමක් කරන බව දක්වයි.",
+      "common_mistake_note": "'ために' යෙදෙන්නේ තමාගේ කැමැත්තෙන් (Volitional) කළ හැකි ක්‍රියා සඳහා පමණි (උදා: 買うために, 勉強するために).",
+      "audio": {
+        "file_name": "gm_e2_047_tameni.mp3",
+        "track_id": "GM-E2-047",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "家を買うために、貯金しています。",
+          "furigana": "[いえ]を[か]うために、[ちょきん]しています。",
+          "romaji": "Ie o kau tame ni, chokin shite imasu.",
+          "english": "I am saving money in order to buy a house.",
+          "sinhala": "ගෙයක් මිලදී ගැනීම වෙනුවෙන්, මුදල් ඉතිරි කරනවා.",
+          "audio_file": "exp_e2_047_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "健康のために、毎日走っています。",
+          "furigana": "[けんこう]のために、[まいにち][はし]っています。",
+          "romaji": "Kenkou no tame ni, mainichi hashitte imasu.",
+          "english": "I run every day for my health.",
+          "sinhala": "සෞඛ්‍යය වෙනුවෙන්, දිනපතා දුවනවා.",
+          "audio_file": "exp_e2_047_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "日本語を勉強するために、日本へ来ました。",
+          "furigana": "[にほんご]を[べんきょう]するために、[にほん]へ[き]ました。",
+          "romaji": "Nihongo o benkyou suru tame ni, Nihon e kimashita.",
+          "english": "I came to Japan in order to study Japanese.",
+          "sinhala": "ජපන් භාෂාව ඉගෙන ගැනීම වෙනුවෙන්, ජපානයට ආවා.",
+          "audio_file": "exp_e2_047_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "家族のために、一生懸命働きます。",
+          "furigana": "[かぞく]のために、[いっしょうけんめい][はたら]きます。",
+          "romaji": "Kazoku no tame ni, isshoukenmei hatarakimasu.",
+          "english": "I work hard for the sake of my family.",
+          "sinhala": "පවුලේ අය වෙනුවෙන්, මම උපරිමයෙන් මහන්සි වී වැඩ කරනවා.",
+          "audio_file": "exp_e2_047_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "何のためにアルバイトをしていますか。",
+          "furigana": "[なん]のためにアルバイトをしていますか。",
+          "romaji": "Nan no tame ni arubaito o shite imasu ka.",
+          "english": "For what purpose are you doing a part-time job?",
+          "sinhala": "කුමන අරමුණක් වෙනුවෙන්ද අර්ධකාලීන රැකියාව කරන්නේ?",
+          "audio_file": "exp_e2_047_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_048",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 6,
+      "category": "Purpose",
+      "pattern": "V-る / V-ない ように",
+      "title_sinhala": "තත්ත්වයක් ළඟා කරගැනීමට / වළක්වා ගැනීමට",
+      "formation_rule": "Verb [Dict form / Nai-form / Potential form] + ように",
+      "explanation_sinhala": "යම් තත්ත්වයක් අනාගතයේදී ඇති කරගැනීමට (So that) දැන් යමක් කරන බව ප්‍රකාශ කරයි.",
+      "common_mistake_note": "'ように' යෙදෙන්නේ තමාට 100% පාලනයක් නැති තත්ත්වයන් සහ Potential verbs (කරගත හැකි වීම) සඳහාය (話せるように).",
+      "audio": {
+        "file_name": "gm_e2_048_youni.mp3",
+        "track_id": "GM-E2-048",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "日本語が話せるように、毎日勉強しています。",
+          "furigana": "[にほんご]が[はな]せるように、[まいにち][べんきょう]しています。",
+          "romaji": "Nihongo ga hanaseru you ni, mainichi benkyou shite imasu.",
+          "english": "I study every day so that I can speak Japanese.",
+          "sinhala": "ජපන් භාෂාව කතා කරන්න පුළුවන් තත්ත්වයට එන්න, හැමදාම පාඩම් කරනවා.",
+          "audio_file": "exp_e2_048_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "風邪をひかないように、気をつけています。",
+          "furigana": "[かぜ]をひかないように、[き]をつけています。",
+          "romaji": "Kaze o hikanai you ni, ki o tsukete imasu.",
+          "english": "I am being careful so that I don't catch a cold.",
+          "sinhala": "සෙම්ප්‍රතිශ්‍යාව නොහැදෙන විදිහට, පරිස්සම් වෙනවා.",
+          "audio_file": "exp_e2_048_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "よく見えるように、前へ行きます。",
+          "furigana": "よく[み]えるように、[まえ]へ[い]きます。",
+          "romaji": "Yoku mieru you ni, mae e ikimasu.",
+          "english": "I will go to the front so that I can see well.",
+          "sinhala": "හොඳට පේන විදිහට, මම ඉස්සරහට යනවා.",
+          "audio_file": "exp_e2_048_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "忘れないように、メモを書きました。",
+          "furigana": "[わす]れないように、メモを[か]きました。",
+          "romaji": "Wasurenai you ni, memo o kakimashita.",
+          "english": "I wrote a memo so that I wouldn't forget.",
+          "sinhala": "අමතක නොවෙන්න, මම සටහනක් ලියාගත්තා.",
+          "audio_file": "exp_e2_048_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "間に合うように、早く出発しました。",
+          "furigana": "[ま]に[あ]うように、[はや]く[しゅっぱつ]しました。",
+          "romaji": "Maniau you ni, hayaku shuppatsu shimashita.",
+          "english": "I departed early so that I would be on time.",
+          "sinhala": "වේලාවට අල්ලගන්න පුළුවන් වෙන්න, මම වේලාසනින් පිටත් වුණා.",
+          "audio_file": "exp_e2_048_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_049",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "category": "Passive",
+      "pattern": "V-られます (General Passive / Object focused)",
+      "title_sinhala": "නිර්මාණය වුණා / සිදුවුණා (කර්මය මූලික කරගත් අක්‍රිය කාරකය)",
+      "formation_rule": "Object + が/は + Verb [Passive form]",
+      "explanation_sinhala": "යම් ගොඩනැගිල්ලක්, පොතක්, කෑමක් ආදිය කවුරුන් විසින් කළාද යන්නට වඩා, එය නිර්මාණය වූ බව (General facts) මූලිකව පෙන්වීමට යොදයි.",
+      "common_mistake_note": "සිදුවීම මුලින් පවසන නිසා Subject එකට 'は' හෝ 'が' යොදයි (この本は読まれている).",
+      "audio": {
+        "file_name": "gm_e2_049_general_passive.mp3",
+        "track_id": "GM-E2-049",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "このお寺は100年前に建てられました。",
+          "furigana": "このお[てら]は100[ねんまえ]に[た]てられました。",
+          "romaji": "Kono o-tera wa hyaku-nen mae ni tateraremashita.",
+          "english": "This temple was built 100 years ago.",
+          "sinhala": "මේ පන්සල අවුරුදු 100කට කලින් ඉදිකරන ලදී.",
+          "audio_file": "exp_e2_049_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "会議は明日開かれます。",
+          "furigana": "[かいぎ]は[あした][ひら]かれます。",
+          "romaji": "Kaigi wa ashita hirakaremasu.",
+          "english": "The meeting will be held tomorrow.",
+          "sinhala": "රැස්වීම හෙට පවත්වනු ලැබේ.",
+          "audio_file": "exp_e2_049_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "この本は世界中で読まれています。",
+          "furigana": "この[ほん]は[せかいじゅう]で[よ]まれています。",
+          "romaji": "Kono hon wa sekaijuu de yomarete imasu.",
+          "english": "This book is read all over the world.",
+          "sinhala": "මේ පොත මුළු ලෝකයේම කියවනු ලැබේ.",
+          "audio_file": "exp_e2_049_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "オリンピックは東京で行われました。",
+          "furigana": "オリンピックは[とうきょう]で[おこな]われました。",
+          "romaji": "Orinpikku wa Toukyou de okonawaremashita.",
+          "english": "The Olympics were held in Tokyo.",
+          "sinhala": "ඔලිම්පික් උළෙල ටෝකියෝවල පවත්වන ලදී.",
+          "audio_file": "exp_e2_049_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "日本の車は世界へ輸出されています。",
+          "furigana": "[にほん]の[くるま]は[せかい]へ[ゆしゅつ]されています。",
+          "romaji": "Nihon no kuruma wa sekai e yushutsu sarete imasu.",
+          "english": "Japanese cars are exported to the world.",
+          "sinhala": "ජපන් වාහන ලෝකයට අපනයනය කෙරේ.",
+          "audio_file": "exp_e2_049_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_050",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 7,
+      "category": "Passive",
+      "pattern": "N1 は N2 によって V-られます",
+      "title_sinhala": "N1 යනු N2 විසින් සිදුකරන ලදී",
+      "formation_rule": "Object + は + Creator/Inventor + によって + Verb [Passive form]",
+      "explanation_sinhala": "කලාකෘති, පොත්පත් හෝ නව නිපැයුම් කවුරුන් විසින් (By someone) නිර්මාණය කළේද යන්න විස්තර කිරීමට 'によって' යොදාගනී.",
+      "common_mistake_note": "'に' යෙදීම මෙහිදී ස්වාභාවික නොවේ, 'によって' යෙදිය යුතුය.",
+      "audio": {
+        "file_name": "gm_e2_050_niyotte.mp3",
+        "track_id": "GM-E2-050",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "電話はベルによって発明されました。",
+          "furigana": "[でんわ]はベルによって[はつめい]されました。",
+          "romaji": "Denwa wa Beru ni yotte hatsumei saremashita.",
+          "english": "The telephone was invented by Bell.",
+          "sinhala": "දුරකථනය බෙල් විසින් නිර්මාණය කරන ලදී.",
+          "audio_file": "exp_e2_050_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "この絵はピカソによって描かれました。",
+          "furigana": "この[え]はピカソによって[か]かれました。",
+          "romaji": "Kono e wa Pikaso ni yotte kakaremashita.",
+          "english": "This picture was painted by Picasso.",
+          "sinhala": "මේ චිත්‍රය පිකාසෝ විසින් අඳින ලදී.",
+          "audio_file": "exp_e2_050_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "その小説は夏目漱石によって書かれました。",
+          "furigana": "その[しょうせつ]は[なつめそうせき]によって[か]かれました。",
+          "romaji": "Sono shousetsu wa Natsume Souseki ni yotte kakaremashita.",
+          "english": "That novel was written by Natsume Soseki.",
+          "sinhala": "ඒ නවකතාව නට්සුමේ සෝසෙකි විසින් ලියන ලදී.",
+          "audio_file": "exp_e2_050_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "この曲はモーツァルトによって作られました。",
+          "furigana": "この[きょく]はモーツァルトによって[つく]られました。",
+          "romaji": "Kono kyoku wa Mootsaruto ni yotte tsukuraremashita.",
+          "english": "This song was composed by Mozart.",
+          "sinhala": "මේ ගීතය මෝසාර්ට් විසින් නිර්මාණය කරන ලදී.",
+          "audio_file": "exp_e2_050_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "飛行機はライト兄弟によって発明されました。",
+          "furigana": "[ひこうき]はライト[きょうだい]によって[はつめい]されました。",
+          "romaji": "Hikouki wa Raito kyoudai ni yotte hatsumei saremashita.",
+          "english": "The airplane was invented by the Wright brothers.",
+          "sinhala": "ගුවන් යානය රයිට් සහෝදරයින් විසින් නිපදවන ලදී.",
+          "audio_file": "exp_e2_050_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_051",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "category": "Time & Aspect",
+      "pattern": "V-た ばかりです",
+      "title_sinhala": "දැන් ටිකකට කලින් කළා විතරයි",
+      "formation_rule": "Verb [Ta-form] + ばかりです",
+      "explanation_sinhala": "යම් ක්‍රියාවක් මේ දැන්, හෝ මෑතකදී සිදුවී අවසන් වූවා පමණක් බව (have just done) කථකයාට දැනෙන ආකාරයට ප්‍රකාශ කරයි.",
+      "common_mistake_note": "සිදුවී කොපමණ කල් ගතවුණත්, කථකයාට එය 'මෑතකදී' වුණා යැයි හැඟේ නම් මෙය භාවිත කළ හැක.",
+      "audio": {
+        "file_name": "gm_e2_051_tabakari.mp3",
+        "track_id": "GM-E2-051",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "さっきご飯を食べたばかりです。",
+          "furigana": "さっきご[はん]を[た]べたばかりです。",
+          "romaji": "Sakki gohan o tabeta bakari desu.",
+          "english": "I just ate a meal a moment ago.",
+          "sinhala": "මම ටිකකට කලින් කෑම කෑවා විතරයි.",
+          "audio_file": "exp_e2_051_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "日本に来たばかりです。",
+          "furigana": "[にほん]に[き]たばかりです。",
+          "romaji": "Nihon ni kita bakari desu.",
+          "english": "I have just arrived in Japan.",
+          "sinhala": "මම ජපානයට ආවා විතරයි.",
+          "audio_file": "exp_e2_051_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "彼と結婚したばかりです。",
+          "furigana": "[かれ]と[けっこん]したばかりです。",
+          "romaji": "Kare to kekkon shita bakari desu.",
+          "english": "I just got married to him.",
+          "sinhala": "මම ඔහුත් එක්ක විවාහ වුණා විතරයි.",
+          "audio_file": "exp_e2_051_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "新しい靴を買ったばかりなのに、汚れました。",
+          "furigana": "[あたら]しい[くつ]を[か]ったばかりなのに、[よご]れました。",
+          "romaji": "Atarashii kutsu o katta bakari na noni, yogoremashita.",
+          "english": "Even though I just bought the new shoes, they got dirty.",
+          "sinhala": "අලුත් සපත්තු ගත්තා විතරයි, නමුත් කිළිටි වුණා.",
+          "audio_file": "exp_e2_051_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "起きたばかりで、まだ眠いです。",
+          "furigana": "[お]きたばかりで、まだ[ねむ]いです。",
+          "romaji": "Okita bakari de, mada nemui desu.",
+          "english": "I just woke up, so I am still sleepy.",
+          "sinhala": "නැගිට්ටා විතරයි, තවම නිදිමතයි.",
+          "audio_file": "exp_e2_051_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_052",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "category": "Time & Aspect",
+      "pattern": "V-る ところです",
+      "title_sinhala": "මේ දැන් කරන්නයි යන්නේ",
+      "formation_rule": "Verb [Dictionary form] + ところです",
+      "explanation_sinhala": "යම් ක්‍රියාවක් හරියටම මේ මොහොතේ ආරම්භ කිරීමට ආසන්නයේ සිටින බව (I am just about to do) ප්‍රකාශ කරයි.",
+      "common_mistake_note": "මෙය 'තවම කර නැත, නමුත් දැන්ම පටන් ගන්නවා' යන අදහස ලබා දෙයි (උදා: 今から食べるところです).",
+      "audio": {
+        "file_name": "gm_e2_052_tokorodesu.mp3",
+        "track_id": "GM-E2-052",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "今から出かけるところです。",
+          "furigana": "[いま]から[で]かけるところです。",
+          "romaji": "Ima kara dekakeru tokoro desu.",
+          "english": "I am just about to go out now.",
+          "sinhala": "දැන් එළියට යන්නයි හදන්නේ.",
+          "audio_file": "exp_e2_052_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "ちょうどご飯を食べるところです。",
+          "furigana": "ちょうどご[はん]を[た]べるところです。",
+          "romaji": "Choudo gohan o taberu tokoro desu.",
+          "english": "I am just about to eat my meal.",
+          "sinhala": "මේ දැන් කෑම කන්නයි හදන්නේ.",
+          "audio_file": "exp_e2_052_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "これから会議が始まるところです。",
+          "furigana": "これから[かいぎ]が[はじ]まるところです。",
+          "romaji": "Kore kara kaigi ga hajimaru tokoro desu.",
+          "english": "The meeting is about to start right now.",
+          "sinhala": "දැන් රැස්වීම පටන් ගන්නයි යන්නේ.",
+          "audio_file": "exp_e2_052_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "あ、今電話をかけるところでした。",
+          "furigana": "あ、[いま][でんわ]をかけるところでした。",
+          "romaji": "A, ima denwa o kakeru tokoro deshita.",
+          "english": "Ah, I was just about to call you.",
+          "sinhala": "ආ, මේ දැන් කෝල් එකක් ගන්නයි හැදුවේ.",
+          "audio_file": "exp_e2_052_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "資料を作るところです。",
+          "furigana": "[しりょう]を[つく]るところです。",
+          "romaji": "Shiryou o tsukuru tokoro desu.",
+          "english": "I am about to make the materials.",
+          "sinhala": "මේ ලියකියවිලි හදන්නයි යන්නේ.",
+          "audio_file": "exp_e2_052_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_053",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "category": "Time & Aspect",
+      "pattern": "V-て いる ところです",
+      "title_sinhala": "හරියටම මේ වෙලාවේ කරමින් ඉන්නේ",
+      "formation_rule": "Verb [Te-form] + いる ところです",
+      "explanation_sinhala": "හරියටම මේ මොහොතේ යම් ක්‍රියාවක නිරත වෙමින් (Right in the middle of doing) සිටින බව අවධාරණය කිරීමට යොදයි.",
+      "common_mistake_note": "'V-ています' ට වඩා මෙහිදී ක්‍රියාවේ 'දැනට සිදුවන බව' (Exact moment) වැඩිපුර අවධාරණය වේ.",
+      "audio": {
+        "file_name": "gm_e2_053_teirutokorodesu.mp3",
+        "track_id": "GM-E2-053",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "今、調べているところです。",
+          "furigana": "[いま]、[しら]べているところです。",
+          "romaji": "Ima, shirabete iru tokoro desu.",
+          "english": "I am in the middle of checking it right now.",
+          "sinhala": "මේ දැන් හොයලා බලමින් ඉන්නේ.",
+          "audio_file": "exp_e2_053_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "ちょうどご飯を食べているところです。",
+          "furigana": "ちょうどご[はん]を[た]べているところです。",
+          "romaji": "Choudo gohan o tabete iru tokoro desu.",
+          "english": "I am right in the middle of eating.",
+          "sinhala": "හරියටම මේ වෙලාවේ කෑම කමින් ඉන්නේ.",
+          "audio_file": "exp_e2_053_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "今、駅に向かっているところです。",
+          "furigana": "[いま]、[えき]に[む]かっているところです。",
+          "romaji": "Ima, eki ni mukatte iru tokoro desu.",
+          "english": "I am heading to the station right now.",
+          "sinhala": "මේ දැන් දුම්රියපළට යන ගමන් ඉන්නේ.",
+          "audio_file": "exp_e2_053_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "部屋を掃除しているところです。",
+          "furigana": "[へや]を[そうじ]しているところです。",
+          "romaji": "Heya o souji shite iru tokoro desu.",
+          "english": "I am currently cleaning the room.",
+          "sinhala": "කාමරය පිරිසිදු කරමින් තමයි ඉන්නේ.",
+          "audio_file": "exp_e2_053_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "コピーをしているところです。",
+          "furigana": "コピーをしているところです。",
+          "romaji": "Kopii o shite iru tokoro desu.",
+          "english": "I am in the middle of making copies.",
+          "sinhala": "මේ කොපි කරන ගමන් ඉන්නේ.",
+          "audio_file": "exp_e2_053_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_054",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 8,
+      "category": "Time & Aspect",
+      "pattern": "V-た ところです",
+      "title_sinhala": "හරියටම මේ දැන් ඉවර වුණා විතරයි",
+      "formation_rule": "Verb [Ta-form] + ところです",
+      "explanation_sinhala": "යම් ක්‍රියාවක් හරියටම මේ තත්පරයට පෙර අවසන් වූ බව (Have just completed right now) දැක්වීමට යොදයි.",
+      "common_mistake_note": "'たばかりです' මෙන් කාලයක් ගතවූ පසු මෙය යෙදිය නොහැක. මෙය හරියටම 'මේ දැන්' යන්නට පමණි.",
+      "audio": {
+        "file_name": "gm_e2_054_tatokorodesu.mp3",
+        "track_id": "GM-E2-054",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "たった今、バスが着いたところです。",
+          "furigana": "たった[いま]、バスが[つ]いたところです。",
+          "romaji": "Tatta ima, basu ga tsuita tokoro desu.",
+          "english": "The bus has just arrived this exact moment.",
+          "sinhala": "හරියටම මේ දැන් බස් එක ආවා විතරයි.",
+          "audio_file": "exp_e2_054_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "ちょうど仕事が終わったところです。",
+          "furigana": "ちょうど[しごと]が[お]わったところです。",
+          "romaji": "Choudo shigoto ga owatta tokoro desu.",
+          "english": "I have just exactly finished work.",
+          "sinhala": "හරියටම වැඩ ඉවර වුණා විතරයි.",
+          "audio_file": "exp_e2_054_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "今、家に着いたところです。",
+          "furigana": "[いま]、[いえ]に[つ]いたところです。",
+          "romaji": "Ima, ie ni tsuita tokoro desu.",
+          "english": "I have just arrived home right now.",
+          "sinhala": "දැන් ගෙදරට ආවා විතරයි.",
+          "audio_file": "exp_e2_054_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "会議が終わったところです。",
+          "furigana": "[かいぎ]が[お]わったところです。",
+          "romaji": "Kaigi ga owatta tokoro desu.",
+          "english": "The meeting just finished.",
+          "sinhala": "රැස්වීම මේ දැන් ඉවර වුණා විතරයි.",
+          "audio_file": "exp_e2_054_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "電話を切ったところです。",
+          "furigana": "[でんわ]を[き]ったところです。",
+          "romaji": "Denwa o kitta tokoro desu.",
+          "english": "I just hung up the phone.",
+          "sinhala": "මේ දැන් ෆෝන් එක තිබ්බා විතරයි.",
+          "audio_file": "exp_e2_054_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_055",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "category": "Conjunctions",
+      "pattern": "～し、～",
+      "title_sinhala": "ඒ වගේම / ඒක නිසා (හේතු කිහිපයක්)",
+      "formation_rule": "Clause [Plain form] + し、Clause 2",
+      "explanation_sinhala": "හේතු කීපයක් හෝ තත්ත්වයන් කීපයක් (And also / Not only... but also) එකින් එක ගොනු කර දැක්වීමට යොදයි.",
+      "common_mistake_note": "නාමපද සහ な-Adjectives සඳහා 'だ' අනිවාර්ය වේ (きれいだし).",
+      "audio": {
+        "file_name": "gm_e2_055_shi_reason.mp3",
+        "track_id": "GM-E2-055",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "この店は安いし、おいしいです。",
+          "furigana": "この[みせ]は[やす]いし、おいしいです。",
+          "romaji": "Kono mise wa yasui shi, oishii desu.",
+          "english": "This shop is cheap, and it's delicious.",
+          "sinhala": "මේ කඩේ ලාභයි, ඒ වගේම රසයි.",
+          "audio_file": "exp_e2_055_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "今日は雨だし、風も強いです。",
+          "furigana": "[きょう]は[あめ]だし、[かぜ]も[つよ]いです。",
+          "romaji": "Kyou wa ame da shi, kaze mo tsuyoi desu.",
+          "english": "Today it's raining, and the wind is strong too.",
+          "sinhala": "අද වහිනවා, ඒ වගේම හුළඟත් සැරයි.",
+          "audio_file": "exp_e2_055_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "彼は親切だし、頭もいいし、人気があります。",
+          "furigana": "[かれ]は[しんせつ]だし、[あたま]もいいし、[にんき]があります。",
+          "romaji": "Kare wa shinsetsu da shi, atama mo ii shi, ninki ga arimasu.",
+          "english": "He is kind, smart, and popular.",
+          "sinhala": "ඔහු කරුණාවන්තයි, බුද්ධිමත්, ඒ වගේම ජනප්‍රියයි.",
+          "audio_file": "exp_e2_055_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "お金もないし、時間もないです。",
+          "furigana": "お[かね]もないし、[じかん]もないです。",
+          "romaji": "Okane mo nai shi, jikan mo nai desu.",
+          "english": "I have no money, and I have no time.",
+          "sinhala": "සල්ලිත් නෑ, ඒ වගේම වෙලාවකුත් නෑ.",
+          "audio_file": "exp_e2_055_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "日本語も話せるし、英語もできます。",
+          "furigana": "[にほんご]も[はな]せるし、[えいご]もできます。",
+          "romaji": "Nihongo mo hanaseru shi, Eigo mo dekimasu.",
+          "english": "I can speak Japanese, and I can do English too.",
+          "sinhala": "ජපන් කතා කරන්නත් පුළුවන්, ඉංග්‍රීසිත් පුළුවන්.",
+          "audio_file": "exp_e2_055_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_056",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 9,
+      "category": "Decision",
+      "pattern": "N に します",
+      "title_sinhala": "මම N තෝරා ගන්නවා (තීරණය කිරීම)",
+      "formation_rule": "Noun + に + します",
+      "explanation_sinhala": "අවන්හලකදී ආහාර ඇනවුම් කිරීමට හෝ විකල්ප කිහිපයක් අතුරින් එකක් තෝරාගෙන 'මම මේක ගන්නවා' කීමට යොදාගනී.",
+      "common_mistake_note": "'を します' යනු යමක් කිරීමයි (スポーツをします). 'に します' යනු තෝරාගැනීමයි.",
+      "audio": {
+        "file_name": "gm_e2_056_nishimasu.mp3",
+        "track_id": "GM-E2-056",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "私はコーヒーにします。",
+          "furigana": "[わたし]はコーヒーにします。",
+          "romaji": "Watashi wa koohii ni shimasu.",
+          "english": "I will have a coffee.",
+          "sinhala": "මම කෝපි එකක් ගන්නවා (තෝරාගන්නවා).",
+          "audio_file": "exp_e2_056_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "カレーにします。",
+          "furigana": "カレーにします。",
+          "romaji": "Karee ni shimasu.",
+          "english": "I'll go with the curry.",
+          "sinhala": "මම කරි එකක් තෝරාගන්නවා.",
+          "audio_file": "exp_e2_056_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "明日の会議は3時にしましょう。",
+          "furigana": "[あした]の[かいぎ]は3[じ]にしましょう。",
+          "romaji": "Ashita no kaigi wa san-ji ni shimashou.",
+          "english": "Let's make tomorrow's meeting at 3 o'clock.",
+          "sinhala": "හෙට රැස්වීම 3ට යොදා ගමු.",
+          "audio_file": "exp_e2_056_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "旅行の日はいつにしますか。",
+          "furigana": "[りょこう]の[ひ]はいつにしますか。",
+          "romaji": "Ryokou no hi wa itsu ni shimasu ka.",
+          "english": "When will you decide the travel date to be?",
+          "sinhala": "සංචාරය කරන දවස කවදාටද තීරණය කරන්නේ?",
+          "audio_file": "exp_e2_056_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "プレゼントは時計にしました。",
+          "furigana": "プレゼントは[とけい]にしました。",
+          "romaji": "Purezento wa tokei ni shimashita.",
+          "english": "I decided on a watch for the present.",
+          "sinhala": "තෑග්ග විදිහට ඔරලෝසුවක් තෝරාගත්තා.",
+          "audio_file": "exp_e2_056_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_057",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 10,
+      "category": "Intentions",
+      "pattern": "[Volitional form] と 思います",
+      "title_sinhala": "කරන්න අදහස් කරගෙන ඉන්නවා (මෑතකදී ගත් තීරණය)",
+      "formation_rule": "Verb [Volitional form] + と 思います",
+      "explanation_sinhala": "මෑතකදී ගත් තීරණයක් හෝ ඉදිරියේදී යමක් කිරීමට ඇති අභිප්‍රාය (I think I will do) ප්‍රකාශ කරයි.",
+      "common_mistake_note": "කලක සිට හිතාගෙන ඉන්නා දේට '思っています' යොදයි. මේ දැන් ගත් තීරණයට '思います' යොදයි.",
+      "audio": {
+        "file_name": "gm_e2_057_youtoomoimasu.mp3",
+        "track_id": "GM-E2-057",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "今日は早く帰ろうと思います。",
+          "furigana": "[きょう]は[はや]く[かえ]ろうと[おも]います。",
+          "romaji": "Kyou wa hayaku kaerou to omoimasu.",
+          "english": "I think I'll go home early today.",
+          "sinhala": "අද වේලාසන ගෙදර යන්න හිතාගෙන ඉන්නවා.",
+          "audio_file": "exp_e2_057_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "明日、新しい靴を買おうと思います。",
+          "furigana": "[あした]、[あたら]しい[くつ]を[か]おうと[おも]います。",
+          "romaji": "Ashita, atarashii kutsu o kaou to omoimasu.",
+          "english": "I think I will buy new shoes tomorrow.",
+          "sinhala": "හෙට අලුත් සපත්තු ගන්න හිතාගෙන ඉන්නවා.",
+          "audio_file": "exp_e2_057_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "週末は家で休もうと思います。",
+          "furigana": "[しゅうまつ]は[いえ]で[やす]もうと[おも]います。",
+          "romaji": "Shuumatsu wa ie de yasumou to omoimasu.",
+          "english": "I think I'll rest at home this weekend.",
+          "sinhala": "සති අන්තයේ ගෙදරට වෙලා විවේක ගන්න හිතාගෙන ඉන්නවා.",
+          "audio_file": "exp_e2_057_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "彼に電話しようと思います。",
+          "furigana": "[かれ]に[でんわ]しようと[おも]います。",
+          "romaji": "Kare ni denwa shiyou to omoimasu.",
+          "english": "I think I will call him.",
+          "sinhala": "ඔහුට කෝල් එකක් ගන්න හිතාගෙන ඉන්නවා.",
+          "audio_file": "exp_e2_057_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "今夜はカレーを作ろうと思います。",
+          "furigana": "[こんや]はカレーを[つく]ろうと[おも]います。",
+          "romaji": "Kon'ya wa karee o tsukurou to omoimasu.",
+          "english": "I think I will make curry tonight.",
+          "sinhala": "අද රෑට කරි එකක් හදන්න හිතාගෙන ඉන්නවා.",
+          "audio_file": "exp_e2_057_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_058",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "category": "Prohibition",
+      "pattern": "V-る な",
+      "title_sinhala": "කරන්න එපා! (තද නියෝගය)",
+      "formation_rule": "Verb [Dictionary form] + な",
+      "explanation_sinhala": "ඉතා දැඩි ලෙස යමක් කිරීම තහනම් කිරීමට හෝ හදිසි අනතුරක් වළක්වා ගැනීමට කෑගසා පවසන නියෝගයකි (Prohibitive form).",
+      "common_mistake_note": "මෙය එදිනෙදා සංවාදයේදී භාවිත කිරීම ඉතා රළු වේ. අනතුරු ඇඟවීමේ පුවරුවල බහුලව දකිය හැක.",
+      "audio": {
+        "file_name": "gm_e2_058_runa.mp3",
+        "track_id": "GM-E2-058",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "ここに入るな！",
+          "furigana": "ここに[はい]るな！",
+          "romaji": "Koko ni hairu na!",
+          "english": "Don't enter here!",
+          "sinhala": "මෙතැනට ඇතුළු වෙන්න එපා!",
+          "audio_file": "exp_e2_058_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "触るな！危ない！",
+          "furigana": "[さわ]るな！[あぶ]ない！",
+          "romaji": "Sawaru na! Abunai!",
+          "english": "Don't touch! It's dangerous!",
+          "sinhala": "අල්ලන්න එපා! අනතුරුදායකයි!",
+          "audio_file": "exp_e2_058_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "機械を動かすな。",
+          "furigana": "[きかい]を[うご]かすな。",
+          "romaji": "Kikai o ugokasu na.",
+          "english": "Don't move the machine.",
+          "sinhala": "මැෂිම ක්‍රියාත්මක කරන්න එපා.",
+          "audio_file": "exp_e2_058_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "負けるな！頑張れ！",
+          "furigana": "[ま]けるな！[がんば]れ！",
+          "romaji": "Makeru na! Ganbare!",
+          "english": "Don't lose! Do your best!",
+          "sinhala": "පරදින්න එපා! උත්සාහ කරන්න!",
+          "audio_file": "exp_e2_058_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "逃げるな！",
+          "furigana": "[に]げるな！",
+          "romaji": "Nigeru na!",
+          "english": "Don't run away!",
+          "sinhala": "පැනලා යන්න එපා!",
+          "audio_file": "exp_e2_058_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_059",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 11,
+      "category": "Commands",
+      "pattern": "V-命令形 (Imperative Form)",
+      "title_sinhala": "කරපන් / කරන්න! (දැඩි අණ කිරීම)",
+      "formation_rule": "Group 1: u -> e (書け) / Group 2: drop る + ろ (見ろ) / Group 3: 来い, しろ",
+      "explanation_sinhala": "හදිසි අවස්ථාවකදී, ක්‍රීඩා තරඟයකදී හෝ දැඩි ලෙස යමක් කිරීමට අණ කිරීමට (Imperative) යොදාගනී.",
+      "common_mistake_note": "සාමාන්‍ය සංවාදයේදී භාවිතය ඉතා අශිෂ්ට විය හැක. පුවරු වල '止まれ' (නවතින්න) ලෙස බහුලව යෙදේ.",
+      "audio": {
+        "file_name": "gm_e2_059_meireikei.mp3",
+        "track_id": "GM-E2-059",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "危ないから、止まれ！",
+          "furigana": "[あぶ]ないから、[と]まれ！",
+          "romaji": "Abunai kara, tomare!",
+          "english": "It's dangerous, stop!",
+          "sinhala": "අනතුරුදායක නිසා, නවතින්න!",
+          "audio_file": "exp_e2_059_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "急げ！遅れるぞ。",
+          "furigana": "[いそ]げ！[おく]れるぞ。",
+          "romaji": "Isoge! Okureru zo.",
+          "english": "Hurry! We will be late.",
+          "sinhala": "ඉක්මන් කරන්න! පරක්කු වෙනවා.",
+          "audio_file": "exp_e2_059_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "早く逃げろ！",
+          "furigana": "[はや]く[に]げろ！",
+          "romaji": "Hayaku nigero!",
+          "english": "Hurry and run away!",
+          "sinhala": "ඉක්මනින් පැනලා යන්න!",
+          "audio_file": "exp_e2_059_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "頑張れ！",
+          "furigana": "[がんば]れ！",
+          "romaji": "Ganbare!",
+          "english": "Do your best! / Go for it!",
+          "sinhala": "උත්සාහ කරන්න! (තරඟවලදී කෑගැසීම)",
+          "audio_file": "exp_e2_059_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "こっちへ来い！",
+          "furigana": "こっちへ[こ]い！",
+          "romaji": "Kocchi e koi!",
+          "english": "Come here!",
+          "sinhala": "මෙහෙට එන්න!",
+          "audio_file": "exp_e2_059_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_060",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 12,
+      "category": "Conditionals",
+      "pattern": "N なら (Contextual)",
+      "title_sinhala": "ඒක එහෙම නම් (තත්ත්වය මත තීරණ ගැනීම)",
+      "formation_rule": "Noun / Na-adj + なら, Consequence",
+      "explanation_sinhala": "කෙනෙකු කී දෙයක් අසා 'එහෙම නම්, මේක හොඳයි' කියා තීරණයක් දීමට හෝ යෝජනා කිරීමට යොදයි.",
+      "common_mistake_note": "ක්‍රියාපද සමඟ යෙදෙන 'V-る なら' මෙන්ම, නාමපද සමඟ කෙළින්ම 'なら' එක් වේ (雨なら).",
+      "audio": {
+        "file_name": "gm_e2_060_nara_noun.mp3",
+        "track_id": "GM-E2-060",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "雨なら、行きません。",
+          "furigana": "[あめ]なら、[い]きません。",
+          "romaji": "Ame nara, ikimasen.",
+          "english": "If it is rain, I won't go.",
+          "sinhala": "වැස්ස නම්, යන්නේ නෑ.",
+          "audio_file": "exp_e2_060_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "嫌なら、しなくてもいいですよ。",
+          "furigana": "[いや]なら、しなくてもいいですよ。",
+          "romaji": "Iya nara, shinakute mo ii desu yo.",
+          "english": "If you dislike it, you don't have to do it.",
+          "sinhala": "අකමැති නම්, නොකළාට කමක් නෑ.",
+          "audio_file": "exp_e2_060_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "田中さんなら、もう帰りました。",
+          "furigana": "[たなか]さんなら、もう[かえ]りました。",
+          "romaji": "Tanaka-san nara, mou kaerimashita.",
+          "english": "If you are looking for Mr. Tanaka, he already went home.",
+          "sinhala": "තනකා මහතා ගැන නම්, ඔහු දැනටමත් ගෙදර ගියා.",
+          "audio_file": "exp_e2_060_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "パソコンなら、あの店が安いです。",
+          "furigana": "パソコンなら、あの[みせ]が[やす]いです。",
+          "romaji": "Pasokon nara, ano mise ga yasui desu.",
+          "english": "If it's a computer, that shop is cheap.",
+          "sinhala": "පරිගණක ගැන නම්, අර කඩේ ලාභයි.",
+          "audio_file": "exp_e2_060_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "明日なら大丈夫です。",
+          "furigana": "[あした]なら[だいじょうぶ]です。",
+          "romaji": "Ashita nara daijoubu desu.",
+          "english": "If it's tomorrow, it's fine.",
+          "sinhala": "හෙට නම් ගැටලුවක් නෑ.",
+          "audio_file": "exp_e2_060_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_061",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 13,
+      "category": "Quotations",
+      "pattern": "～と 言っていました (Review)",
+      "title_sinhala": "කිව්වා (වෙනත් අයෙකු පැවසූ දේ වාර්තා කිරීම)",
+      "formation_rule": "Sentence [Plain form] + と 言っていました",
+      "explanation_sinhala": "තෙවැනි පාර්ශ්වයක් තමාට පැවසූ අදහසක් හෝ පණිවිඩයක් තවත් කෙනෙකුට නිවැරදිව වාර්තා කිරීමට යොදාගනී.",
+      "common_mistake_note": "සිංහලයේ '...කියලා කිව්වා' යන්න මෙයින් අදහස් වේ.",
+      "audio": {
+        "file_name": "gm_e2_061_toitteimashita_rev.mp3",
+        "track_id": "GM-E2-061",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "社長は会議に出ると言っていました。",
+          "furigana": "[しゃちょう]は[かいぎ]に[で]ると[い]っていました。",
+          "romaji": "Shachou wa kaigi ni deru to itte imashita.",
+          "english": "The president said he would attend the meeting.",
+          "sinhala": "සභාපතිතුමා රැස්වීමට එනවා කියලා කිව්වා.",
+          "audio_file": "exp_e2_061_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "山田さんは少し遅れると言っていました。",
+          "furigana": "[やまだ]さんは[すこ]し[おく]れると[い]っていました。",
+          "romaji": "Yamada-san wa sukoshi okureru to itte imashita.",
+          "english": "Mr. Yamada said he would be a little late.",
+          "sinhala": "යමඩා මහතා ටිකක් පරක්කු වෙනවා කියලා කිව්වා.",
+          "audio_file": "exp_e2_061_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "医者は薬を飲むようにと言っていました。",
+          "furigana": "[いしゃ]は[くすり]を[の]むようにと[い]っていました。",
+          "romaji": "Isha wa kusuri o nomu you ni to itte imashita.",
+          "english": "The doctor said to make sure to take the medicine.",
+          "sinhala": "වෛද්‍යවරයා බෙහෙත් බොන්න කියලා කිව්වා.",
+          "audio_file": "exp_e2_061_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "彼は来週休むと言っていました。",
+          "furigana": "[かれ]は[らいしゅう][やす]むと[い]っていました。",
+          "romaji": "Kare wa raishuu yasumu to itte imashita.",
+          "english": "He said he would take a day off next week.",
+          "sinhala": "ඔහු ලබන සතියේ නිවාඩු ගන්නවා කියලා කිව්වා.",
+          "audio_file": "exp_e2_061_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "友達はパーティーが楽しいと言っていました。",
+          "furigana": "[ともだち]はパーティーが[たの]しいと[い]っていました。",
+          "romaji": "Tomodachi wa paatii ga tanoshii to itte imashita.",
+          "english": "My friend said the party was fun.",
+          "sinhala": "යාළුවා කිව්වා පාටිය විනෝදජනකයි කියලා.",
+          "audio_file": "exp_e2_061_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_062",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 14,
+      "category": "Causative",
+      "pattern": "V-させます (Permission)",
+      "title_sinhala": "කිරීමට ඉඩ දෙනවා / අවසර දෙනවා (ප්‍රේරක කාරක)",
+      "formation_rule": "Group 1: u -> a + せます / Group 2: させます",
+      "explanation_sinhala": "බලෙන් කරවනවා වෙනුවට, කෙනෙකුට යමක් කිරීමට ඇති කැමැත්තට ඉඩහැරීම (Let someone do) මින් අදහස් වේ.",
+      "common_mistake_note": "බලෙන් කරවීම හෝ ඉඩ දීම යන්න තීරණය වන්නේ සම්පූර්ණ වාක්‍යයේ අර්ථයෙනි.",
+      "audio": {
+        "file_name": "gm_e2_062_saseru_permission.mp3",
+        "track_id": "GM-E2-062",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "子供に好きなゲームをさせます。",
+          "furigana": "[こども]に[す]きなゲームをさせます。",
+          "romaji": "Kodomo ni suki na geemu o sasemasu.",
+          "english": "I let my child play their favorite game.",
+          "sinhala": "දරුවාට කැමති ගේම් එක ගහන්න ඉඩ දෙනවා.",
+          "audio_file": "exp_e2_062_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "休みの日は夫に寝させます。",
+          "furigana": "[やす]みの[ひ]は[おっと]に[ね]させます。",
+          "romaji": "Yasumi no hi wa otto ni nesasemasu.",
+          "english": "On days off, I let my husband sleep.",
+          "sinhala": "නිවාඩු දවස්වල මහත්තයාට නිදාගන්න ඉඩ දෙනවා.",
+          "audio_file": "exp_e2_062_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "学生に自由に意見を言わせます。",
+          "furigana": "[がくせい]に[じゆう]に[いけん]を[い]わせます。",
+          "romaji": "Gakusei ni jiyuu ni iken o iwasemasu.",
+          "english": "I let the students speak their opinions freely.",
+          "sinhala": "ශිෂ්‍යයන්ට නිදහසේ අදහස් දක්වන්න ඉඩ දෙනවා.",
+          "audio_file": "exp_e2_062_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "疲れている時は、少し休ませます。",
+          "furigana": "[つか]れている[とき]は、[すこ]し[やす]ませます。",
+          "romaji": "Tsukarete iru toki wa, sukoshi yasumasemasu.",
+          "english": "When they are tired, I let them rest a little.",
+          "sinhala": "මහන්සි වෙලාවට, ටිකක් විවේක ගන්න ඉඩ හරිනවා.",
+          "audio_file": "exp_e2_062_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "妹に車を運転させました。",
+          "furigana": "[いもうと]に[くるま]を[うんてん]させました。",
+          "romaji": "Imouto ni kuruma o unten sasemashita.",
+          "english": "I let my younger sister drive the car.",
+          "sinhala": "නංගීට කාර් එක පදවන්න ඉඩ දුන්නා.",
+          "audio_file": "exp_e2_062_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_063",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 15,
+      "category": "Ease & Difficulty",
+      "pattern": "V [Stem] + やすい / にくい (Review)",
+      "title_sinhala": "කිරීමට ලේසියි / අමාරුයි",
+      "formation_rule": "Verb [Stem] + やすい / にくい",
+      "explanation_sinhala": "යම් උපකරණයක් හෝ ද්‍රව්‍යයක් භාවිත කිරීමට ඇති පහසුව හෝ අපහසුව (User-friendly or not) විස්තර කරයි.",
+      "common_mistake_note": "මෙය හැසිරෙන්නේ ඉ-විශේෂණ (i-adjectives) ලෙසය (උදා: やすくない, にくかったです).",
+      "audio": {
+        "file_name": "gm_e2_063_yasui_nikui_rev.mp3",
+        "track_id": "GM-E2-063",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "この靴はとても歩きやすいです。",
+          "furigana": "この[くつ]はとても[ある]きやすいです。",
+          "romaji": "Kono kutsu wa totemo arukiyasui desu.",
+          "english": "These shoes are very easy to walk in.",
+          "sinhala": "මේ සපත්තු දාගෙන ඇවිදින්න හරිම ලේසියි.",
+          "audio_file": "exp_e2_063_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "このペンは書きにくいです。",
+          "furigana": "このペンは[か]きにくいです。",
+          "romaji": "Kono pen wa kakinikui desu.",
+          "english": "This pen is hard to write with.",
+          "sinhala": "මේ පෑනෙන් ලියන්න අමාරුයි.",
+          "audio_file": "exp_e2_063_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "日本の漢字は覚えにくいです。",
+          "furigana": "[にほん]の[かんじ]は[おぼ]えにくいです。",
+          "romaji": "Nihon no kanji wa oboenikui desu.",
+          "english": "Japanese kanji are hard to memorize.",
+          "sinhala": "ජපන් කන්ජි මතක තියාගන්න අමාරුයි.",
+          "audio_file": "exp_e2_063_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "このスマホは使いやすいです。",
+          "furigana": "このスマホは[つか]いやすいです。",
+          "romaji": "Kono sumaho wa tsukaiyasui desu.",
+          "english": "This smartphone is easy to use.",
+          "sinhala": "මේ ස්මාර්ට්ෆෝන් එක පාවිච්චි කරන්න ලේසියි.",
+          "audio_file": "exp_e2_063_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "雨の日は運転しにくいです。",
+          "furigana": "[あめ]の[ひ]は[うんてん]しにくいです。",
+          "romaji": "Ame no hi wa unten shinikui desu.",
+          "english": "It is hard to drive on rainy days.",
+          "sinhala": "වැසි දිනවල රිය පදවන්න අමාරුයි.",
+          "audio_file": "exp_e2_063_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_064",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 17,
+      "category": "Honorifics (Keigo)",
+      "pattern": "お V [Stem] に なります (Review)",
+      "title_sinhala": "කරනවා (ගෞරවාන්විතව අන් අයගේ ක්‍රියා)",
+      "formation_rule": "お + Verb [Stem] + に なります",
+      "explanation_sinhala": "සමාගමේ ඉහළ නිලධාරීන්, පාරිභෝගිකයින් වැනි අය කරන ක්‍රියාවන් අතිශය ගෞරවයෙන් ප්‍රකාශ කිරීම.",
+      "common_mistake_note": "තමන්ගේ හෝ තමන්ගේ පවුලේ අයගේ ක්‍රියාවලට මෙය කිසිවිටෙකත් නොයොදයි.",
+      "audio": {
+        "file_name": "gm_e2_064_oninari_rev.mp3",
+        "track_id": "GM-E2-064",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "社長がもうすぐお戻りになります。",
+          "furigana": "[しゃちょう]がもうすぐお[もど]りになります。",
+          "romaji": "Shachou ga mou sugu o-modori ni narimasu.",
+          "english": "The president will return soon.",
+          "sinhala": "සභාපතිතුමා තව ටිකකින් ආපසු පැමිණේවි.",
+          "audio_file": "exp_e2_064_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "お客様がこの本をお読みになりました。",
+          "furigana": "お[きゃく][さま]がこの[ほん]をお[よ]みになりました。",
+          "romaji": "O-kyaku-sama ga kono hon o o-yomi ni narimashita.",
+          "english": "The customer read this book.",
+          "sinhala": "පාරිභෝගිකයා මේ පොත කියෙව්වා.",
+          "audio_file": "exp_e2_064_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "部長はお酒をお飲みになりません。",
+          "furigana": "[ぶちょう]はお[さけ]をお[の]みになりません。",
+          "romaji": "Buchou wa o-sake o o-nomi ni narimasen.",
+          "english": "The department manager does not drink alcohol.",
+          "sinhala": "අංශ ප්‍රධානියා මත්පැන් බොන්නේ නැත.",
+          "audio_file": "exp_e2_064_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "何時にお出かけになりますか。",
+          "furigana": "[なんじ]にお[で]かけになりますか。",
+          "romaji": "Nan-ji ni o-dekake ni narimasu ka.",
+          "english": "What time will you go out?",
+          "sinhala": "ඔබ කීයට පමණ පිටව යනවාද?",
+          "audio_file": "exp_e2_064_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "先生が車をお使いになります。",
+          "furigana": "[せんせい]が[くるま]をお[つか]いになります。",
+          "romaji": "Sensei ga kuruma o o-tsukai ni narimasu.",
+          "english": "The teacher will use the car.",
+          "sinhala": "ගුරුතුමා කාර් එක පාවිච්චි කරාවි.",
+          "audio_file": "exp_e2_064_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gm_e2_065",
+      "book": "Irodori Elementary 2 (A2.2)",
+      "lesson": 18,
+      "category": "Honorifics (Keigo)",
+      "pattern": "お / ご V [Stem] します (Review)",
+      "title_sinhala": "කරන්නම් (තමාගේ ක්‍රියා නිහතමානීව)",
+      "formation_rule": "お + Verb [Stem] + します",
+      "explanation_sinhala": "තමා විසින් අනෙක් අයට කරන සේවයක් හෝ ක්‍රියාවක් ඉතා නිහතමානීව (Humble action) ප්‍රකාශ කිරීම.",
+      "common_mistake_note": "අන් අයගේ ක්‍රියාවලට මෙය නොයොදයි. තමන් කරන දේට පමණක් යෙදේ.",
+      "audio": {
+        "file_name": "gm_e2_065_oshimasu_rev.mp3",
+        "track_id": "GM-E2-065",
+        "has_audio": true
+      },
+      "examples": [
+        {
+          "example_id": 1,
+          "japanese": "私が荷物をお持ちします。",
+          "furigana": "[わたし]が[にもつ]をお[も]ちします。",
+          "romaji": "Watashi ga nimotsu o o-mochi shimasu.",
+          "english": "I will carry your luggage.",
+          "sinhala": "මම බඩු ටික උස්සන්නම්.",
+          "audio_file": "exp_e2_065_1.mp3"
+        },
+        {
+          "example_id": 2,
+          "japanese": "社長にスケジュールをご説明します。",
+          "furigana": "[しゃちょう]にスケジュールをご[せつめい]します。",
+          "romaji": "Shachou ni sukejuuru o go-setsumei shimasu.",
+          "english": "I will explain the schedule to the president.",
+          "sinhala": "මම සභාපතිතුමාට කාලසටහන පැහැදිලි කර දෙන්නම්.",
+          "audio_file": "exp_e2_065_2.mp3"
+        },
+        {
+          "example_id": 3,
+          "japanese": "後でメールをお送りします。",
+          "furigana": "[あと]でメールをお[おく]りします。",
+          "romaji": "Ato de meeru o o-okuri shimasu.",
+          "english": "I will send you an email later.",
+          "sinhala": "මම පසුව ඊමේල් එකක් යවන්නම්.",
+          "audio_file": "exp_e2_065_3.mp3"
+        },
+        {
+          "example_id": 4,
+          "japanese": "駅までお迎えします。",
+          "furigana": "[えき]までお[むか]えします。",
+          "romaji": "Eki made o-mukae shimasu.",
+          "english": "I will pick you up at the station.",
+          "sinhala": "මම දුම්රියපළට ඇවිත් ඔබව කැඳවාගෙන යන්නම්.",
+          "audio_file": "exp_e2_065_4.mp3"
+        },
+        {
+          "example_id": 5,
+          "japanese": "先生をお呼びしましょうか。",
+          "furigana": "[せんせい]をお[よ]びしましょうか。",
+          "romaji": "Sensei o o-yobi shimashou ka.",
+          "english": "Shall I call the teacher for you?",
+          "sinhala": "මම ගුරුතුමාට කතා කරන්නද?",
+          "audio_file": "exp_e2_065_5.mp3"
+        }
+      ]
+    }
+  ]
+}
