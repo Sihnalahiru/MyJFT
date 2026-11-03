@@ -364,7 +364,7 @@ function vocabLocalImage(record){
  return record.illustration?.illustration_url||'';
 }
 function vocabAudioMarkup(record){
- const file=record.audio?.file_name;if(!file)return '';
+ const file=record.audio?.file_name;if(!file){return record.book==='Y'||record.book==='Z'?'<span class="vocab-media-pending">Lesson-level word-list audio · use lesson player</span>':'<span class="vocab-media-pending">Audio mapping pending source verification</span>';}
  const available=vocabularyMedia?.audio_files||[];
  if(available.includes(file))return '<audio class="vocab-audio" controls preload="none" src="./assets/audio/vocabulary/'+encodeURIComponent(file)+'" aria-label="Vocabulary audio"></audio>';
  if(record.audio?.audio_url)return '<audio class="vocab-audio" controls preload="none" src="'+vocabEscape(record.audio.audio_url)+'" aria-label="Official vocabulary audio"></audio>';
@@ -395,6 +395,8 @@ function renderSourceVocabulary(){
  if(!vocabularyReady){const grid=document.getElementById('sourceVocabGrid');if(grid)grid.innerHTML='<div class="card">Loading vocabulary…</div>';return;}
  const rows=vocabRecords();
  const lessonEl=document.getElementById('vocabLessonFilter'),topicEl=document.getElementById('vocabTopicFilter'),subEl=document.getElementById('vocabSubtopicFilter');
+ const lessonLabel=lessonEl?.closest('label');if(lessonLabel)lessonLabel.hidden=vocabularyBook==='X';
+ if(vocabularyBook==='X'&&lessonEl)lessonEl.value='all';
  const lessons=[...new Set(rows.map(x=>x.lesson).filter(x=>x!==undefined&&x!==null))].sort((a,b)=>Number(a)-Number(b));
  vocabSetOptions(lessonEl,lessons.map(x=>String(x).padStart(2,'0')),'All lessons');
  const selectedLesson=lessonEl?.value||'all';
