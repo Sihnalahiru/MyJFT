@@ -20,6 +20,50 @@
 .grammar-rule,.grammar-explain{padding:9px 12px;margin:10px 0;border-radius:12px;background:#f7fafc}.grammar-rule p,.grammar-explain p{margin:5px 0 0;line-height:1.6}.grammar-examples{margin-top:14px}.grammar-examples summary{cursor:pointer;font-weight:900;color:var(--green2);padding:8px 0}.grammar-example{padding:13px 0;border-bottom:1px dashed var(--line)}.grammar-example .jp{font-size:21px;font-weight:850;line-height:1.6;margin:5px 0}.grammar-example p{line-height:1.55}.grammar-speak{margin-top:7px;padding:8px 12px;font-size:13px}
 .grammar-img-wrap{margin:12px 0;text-align:center;background:#fff;border:1px solid var(--line);border-radius:14px;padding:10px}
 .grammar-img{max-width:100%;height:auto;max-height:280px;object-fit:contain;border-radius:10px;display:block;margin:0 auto}
+
+/* Vocabulary learning library */
+.vocab-dashboard{padding:clamp(14px,2.5vw,24px)}
+.vocab-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-bottom:18px}
+.vocab-stat{background:var(--soft,#f5f8fb);border:1px solid var(--line);border-radius:13px;padding:12px;min-width:0}
+.vocab-stat b{display:block;font-size:clamp(18px,3vw,25px);line-height:1.2;color:var(--green,#238b32)}
+.vocab-stat span{display:block;font-size:10px;letter-spacing:.04em;color:var(--muted);margin-top:5px}
+.vocab-book-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0 0 14px}
+.vocab-book-tabs button{border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--text);padding:11px 8px;font-weight:750;cursor:pointer;min-width:0}
+.vocab-book-tabs button.active{background:#eaffdf;border-color:#b9f29b;color:#278a20}
+.vocab-filter-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:12px}
+.vocab-filter-grid label{display:block;font-size:12px;font-weight:700;color:var(--muted);min-width:0}
+.vocab-filter-grid select{display:block;width:100%;margin-top:6px;padding:10px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--text);min-width:0}
+.vocab-filter-actions{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:12px;font-size:12px;color:var(--muted)}
+.vocab-audio-panel{margin:12px 0;padding:16px}
+.vocab-audio-heading{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:12px}
+.vocab-audio-heading small{display:block;color:var(--muted);margin-top:4px}
+.vocab-audio-heading>span{font-size:12px;color:var(--muted)}
+.vocab-audio-track-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:10px}
+.vocab-audio-track{border:1px solid var(--line);border-radius:12px;padding:10px;min-width:0}
+.vocab-audio-track span{display:block;font-size:12px;font-weight:700;margin-bottom:6px}
+.vocab-audio-track audio,.vocab-audio{display:block;width:100%;max-width:100%}
+.vocab-grid#sourceVocabGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,285px),1fr));gap:14px;margin-top:14px}
+.vocab-word-card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:15px;min-width:0;box-shadow:0 3px 14px rgba(20,40,60,.04)}
+.vocab-word-meta{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;font-size:11px;color:var(--muted);margin-bottom:12px}
+.vocab-word-jp{font-size:26px;font-weight:800;line-height:1.35;word-break:break-word}
+.vocab-word-reading{font-size:13px;color:var(--muted);margin-top:4px}
+.vocab-word-romaji{font-size:13px;color:var(--green,#278a20);font-weight:700;margin:8px 0 12px}
+.vocab-word-meanings{border-top:1px solid var(--line);padding-top:8px}
+.vocab-word-meanings p{margin:7px 0;font-size:14px;line-height:1.5}
+.vocab-word-meanings b{display:block;font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:2px}
+.vocab-image{margin:10px 0;text-align:center;background:var(--soft,#f7f9fb);border-radius:12px;padding:8px}
+.vocab-image img{max-width:100%;max-height:180px;object-fit:contain}
+.vocab-word-actions{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:12px}
+.vocab-word-actions small{font-size:10px;color:var(--muted)}
+.vocab-media-pending,.vocab-pending-tag{display:inline-block;margin-top:9px;font-size:11px;color:var(--muted);background:var(--soft,#f7f9fb);padding:5px 8px;border-radius:8px}
+@media(max-width:650px){
+ .vocab-stats{gap:6px}.vocab-stat{padding:9px 7px}.vocab-stat span{font-size:9px}
+ .vocab-book-tabs{grid-template-columns:1fr;gap:6px}.vocab-book-tabs button{text-align:left;padding:11px 13px}
+ .vocab-filter-grid{grid-template-columns:1fr}
+ .vocab-filter-actions{align-items:flex-start;flex-direction:column}
+ .vocab-grid#sourceVocabGrid{grid-template-columns:1fr}
+ .vocab-word-card{padding:14px}
+}
 </style></head>
 <body><div class="app">
 <aside class="sidebar"><div class="brand"><span class="brand-mark">日</span> MyJFT</div><nav class="nav" id="sideNav"><button class="active" data-page="home"><span class="ico">🏠</span>Home</button><button data-page="learn"><span class="ico">🗺️</span>Learning Path</button><button data-page="alphabet"><span class="ico">あ</span>Alphabet</button><button data-page="vocabulary"><span class="ico">🧠</span>Vocabulary</button><button data-page="grammar"><span class="ico">文</span>Grammar</button><button data-page="practice"><span class="ico">🎯</span>Practice</button><button data-page="profile"><span class="ico">👤</span>Profile</button></nav><div class="side-bottom">🇯🇵 <b>JFT-Basic journey</b><br>Small steps every day. Keep your streak alive!</div></aside>
@@ -37,7 +81,31 @@
 <div class="tabs"><button class="tab active" data-cat="all">All 71</button><button class="tab" data-cat="seion">Seion · 46</button><button class="tab" data-cat="dakuon">Dakuon · 20</button><button class="tab" data-cat="handakuon">Handakuon · 5</button></div>
 <input id="alphabetSearch" type="search" placeholder="Search romaji or kana..." style="width:100%;padding:13px;border:2px solid var(--line);border-radius:13px;font:inherit;margin:5px 0 15px">
 <div id="alphabetGrid" class="vocab-grid"></div><p class="sub" id="alphabetCount" style="margin-top:14px"></p></div></section>
-<section class="page" id="page-vocabulary"><div class="welcome"><div><div class="eyebrow">WORD POWER</div><h1>Vocabulary 🧠</h1><div class="sub">Learn useful words for everyday situations.</div></div><div class="mascot">📚</div></div><div class="card"><div class="stats"><div class="stat"><b>10</b><span>RECORDS IN THIS UPLOAD</span></div><div class="stat"><b>200</b><span>DECLARED PART SIZE</span></div><div class="stat"><b>190</b><span>NOT YET PROVIDED</span></div></div><input id="sourceVocabSearch" class="search" placeholder="Search Japanese, romaji, English or Sinhala…" oninput="renderSourceVocabulary()"></div><div class="vocab-grid" id="sourceVocabGrid"></div><div class="notice">This upload declares 200 words, but contains only 10 vocabulary objects (IDs st_001–st_010). All 10 are included; the remaining 190 are pending the next source upload.</div><div class="vocab-grid" id="vocabGrid" style="display:none"></div></section>
+<section class="page" id="page-vocabulary">
+ <div class="welcome"><div><div class="eyebrow">IRODORI · OFFICIAL WORD LISTS</div><h1>Vocabulary ことば</h1><div class="sub">Browse by book, lesson, topic and sub-topic. Search Japanese, Romaji, English or Sinhala.</div></div><div class="mascot">📚</div></div>
+ <div class="card vocab-dashboard">
+  <div class="vocab-stats">
+   <div class="vocab-stat"><b id="vocabTotal">—</b><span>AVAILABLE WORD RECORDS</span></div>
+   <div class="vocab-stat"><b id="vocabBookCount">—</b><span>SELECTED BOOK</span></div>
+   <div class="vocab-stat"><b id="vocabMissingCount">—</b><span>SOURCE ITEMS PENDING</span></div>
+  </div>
+  <div class="vocab-book-tabs" id="vocabBookTabs">
+   <button class="active" type="button" data-vocab-book="X">Book 1 · Starter</button>
+   <button type="button" data-vocab-book="Y">Book 2 · Elementary 1</button>
+   <button type="button" data-vocab-book="Z">Book 3 · Elementary 2</button>
+  </div>
+  <input id="sourceVocabSearch" class="search" placeholder="Search Japanese, furigana, Romaji, English or Sinhala…" oninput="renderSourceVocabulary()">
+  <div class="vocab-filter-grid">
+   <label>Lesson<select id="vocabLessonFilter" onchange="renderSourceVocabulary()"><option value="all">All lessons</option></select></label>
+   <label>Topic<select id="vocabTopicFilter" onchange="renderSourceVocabulary()"><option value="all">All topics</option></select></label>
+   <label>Sub-topic<select id="vocabSubtopicFilter" onchange="renderSourceVocabulary()"><option value="all">All sub-topics</option></select></label>
+  </div>
+  <div class="vocab-filter-actions"><span id="vocabResultCount">Loading vocabulary…</span><button class="btn ghost" type="button" onclick="resetVocabularyFilters()">Reset filters</button></div>
+ </div>
+ <div id="vocabAudioPanel" class="vocab-audio-panel card" hidden></div>
+ <div id="vocabSourceNotice" class="notice" hidden></div>
+ <div class="vocab-grid" id="sourceVocabGrid"><div class="card">Loading official word records…</div></div>
+</section>
 <section class="page" id="page-grammar">
 <div class="welcome"><div><div class="eyebrow">IRODORI · OFFICIAL GRAMMAR LIBRARY</div><h1>Grammar 文</h1><div class="sub">Complete official grammar patterns · Sinhala explanations · Japanese examples · audio & visual worksheets.</div></div><div class="mascot">✍️</div></div>
 <div class="card">
@@ -262,11 +330,112 @@ function renderGrammar(){
  }).join('') || '<div class="card empty">No matching grammar patterns found.</div>';
 }
 
-function renderSourceVocabulary(){
- const q=(document.getElementById('sourceVocabSearch')?.value||'').trim().toLowerCase();
- const rows=sourceVocabularyPart1.vocabulary.filter(x=>[x.japanese,x.furigana,x.romaji,x.english,x.sinhala,x.main_topic,x.sub_topic].join(' ').toLowerCase().includes(q));
- document.getElementById('sourceVocabGrid').innerHTML=rows.map(x=>`<article class="grammar-card"><div class="meta">${x.main_topic||''} · ${x.sub_topic||''}</div><div class="jp-pattern">${x.japanese}</div><p><b>Furigana:</b> ${x.furigana||'—'}</p><p><b>Romaji:</b> ${x.romaji||'—'}</p><p><b>English:</b> ${x.english||'—'}</p><p><b>සිංහල:</b> ${x.sinhala||'—'}</p>${x.audio?.file_name?renderMediaAudio(x.audio.file_name,"vocabulary","Vocabulary audio "+x.audio.file_name):''}${x.illustration?.file_name?`<p><img loading="lazy" decoding="async" width="100%" style="max-width:220px;max-height:180px;object-fit:contain;border-radius:12px" src="${localMediaPath("images",x.illustration.file_name.replace(/\.png$/i,".webp"))}" alt="${x.japanese}"></p>`:''}<button onclick="speak(${JSON.stringify(x.japanese)})">🔊 Listen</button></article>`).join('')||'<div class="card">No matching vocabulary.</div>';
+let vocabularyMaster=null;
+let vocabularyMedia=null;
+let vocabularyBook='X';
+let vocabularyReady=false;
+const vocabBookNames={X:'Starter',Y:'Elementary 1',Z:'Elementary 2'};
+const vocabExpected={X:600,Y:1150,Z:1150};
+const vocabEscape=s=>String(s??'').replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+const vocabStem=s=>String(s||'').split('/').pop().replace(/\.(png|webp|jpg|jpeg)$/i,'').toLowerCase();
+function vocabRecords(){return (vocabularyMaster?.records||[]).filter(x=>x.book===vocabularyBook);}
+function vocabSetOptions(el,values,allLabel){
+ if(!el)return;
+ const prior=el.value;
+ el.innerHTML='<option value="all">'+allLabel+'</option>'+values.map(v=>'<option value="'+vocabEscape(v)+'">'+vocabEscape(v)+'</option>').join('');
+ if(values.includes(prior))el.value=prior;
 }
+function vocabLocalImage(record){
+ const name=record.illustration?.file_name;if(!name||!vocabularyMedia)return '';
+ const stem=vocabStem(name);
+ const root=vocabularyMedia.image_root||[];
+ const sub=vocabularyMedia.image_subfolder||[];
+ const found=root.find(n=>vocabStem(n)===stem);
+ if(found)return './assets/images/'+encodeURIComponent(found);
+ const foundSub=sub.find(n=>vocabStem(n)===stem);
+ if(foundSub)return './assets/images/Images%202/'+encodeURIComponent(foundSub);
+ return record.illustration?.illustration_url||'';
+}
+function vocabAudioMarkup(record){
+ const file=record.audio?.file_name;if(!file)return '';
+ const available=vocabularyMedia?.audio_files||[];
+ if(available.includes(file))return '<audio class="vocab-audio" controls preload="none" src="./assets/audio/vocabulary/'+encodeURIComponent(file)+'" aria-label="Vocabulary audio"></audio>';
+ if(record.audio?.audio_url)return '<audio class="vocab-audio" controls preload="none" src="'+vocabEscape(record.audio.audio_url)+'" aria-label="Official vocabulary audio"></audio>';
+ return '<span class="vocab-media-pending">Lesson audio playlist · see lesson player</span>';
+}
+function renderVocabularyLessonAudio(){
+ const panel=document.getElementById('vocabAudioPanel');if(!panel)return;
+ if(vocabularyBook==='X'){panel.hidden=true;panel.innerHTML='';return;}
+ const lesson=document.getElementById('vocabLessonFilter')?.value||'all';
+ if(lesson==='all'){panel.hidden=true;panel.innerHTML='';return;}
+ const prefix='wordlist_'+vocabularyBook+'_'+String(lesson).padStart(2,'0')+'-';
+ const tracks=(vocabularyMedia?.audio_files||[]).filter(n=>n.startsWith(prefix)).sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));
+ panel.hidden=false;
+ panel.innerHTML='<div class="vocab-audio-heading"><div><b>🎧 '+vocabEscape(vocabBookNames[vocabularyBook])+' · Lesson '+String(lesson).padStart(2,'0')+'</b><small>Official word-list audio · lesson tracks</small></div><span>'+tracks.length+' tracks</span></div>'+
+ (tracks.length?'<div class="vocab-audio-track-grid">'+tracks.map((n,i)=>'<div class="vocab-audio-track"><span>Track '+(i+1)+'</span><audio controls preload="none" src="./assets/audio/vocabulary/'+encodeURIComponent(n)+'" aria-label="'+vocabEscape(n)+'"></audio></div>').join('')+'</div>':'<p>No matching local audio tracks found for this lesson.</p>');
+}
+function renderSourceVocabulary(){
+ if(!vocabularyReady){const grid=document.getElementById('sourceVocabGrid');if(grid)grid.innerHTML='<div class="card">Loading vocabulary…</div>';return;}
+ const rows=vocabRecords();
+ const lessonEl=document.getElementById('vocabLessonFilter'),topicEl=document.getElementById('vocabTopicFilter'),subEl=document.getElementById('vocabSubtopicFilter');
+ const lessons=[...new Set(rows.map(x=>x.lesson).filter(x=>x!==undefined&&x!==null))].sort((a,b)=>Number(a)-Number(b));
+ vocabSetOptions(lessonEl,lessons.map(x=>String(x).padStart(2,'0')),'All lessons');
+ const selectedLesson=lessonEl?.value||'all';
+ const topicBase=rows.filter(x=>selectedLesson==='all'||String(x.lesson??'').padStart(2,'0')===selectedLesson);
+ const topics=[...new Set(topicBase.map(x=>x.main_topic).filter(Boolean))].sort((a,b)=>a.localeCompare(b));
+ vocabSetOptions(topicEl,topics,'All topics');
+ const selectedTopic=topicEl?.value||'all';
+ const subBase=topicBase.filter(x=>selectedTopic==='all'||x.main_topic===selectedTopic);
+ const subs=[...new Set(subBase.map(x=>x.sub_topic).filter(Boolean))].sort((a,b)=>a.localeCompare(b));
+ vocabSetOptions(subEl,subs,'All sub-topics');
+ const selectedSub=subEl?.value||'all';
+ const q=(document.getElementById('sourceVocabSearch')?.value||'').trim().toLowerCase();
+ const filtered=rows.filter(x=>(selectedLesson==='all'||String(x.lesson??'').padStart(2,'0')===selectedLesson)&&(selectedTopic==='all'||x.main_topic===selectedTopic)&&(selectedSub==='all'||x.sub_topic===selectedSub)&&(!q||[x.id,x.japanese,x.furigana,x.romaji,x.english,x.sinhala,x.main_topic,x.sub_topic].join(' ').toLowerCase().includes(q)));
+ document.getElementById('vocabTotal').textContent=rows.length.toLocaleString();
+ document.getElementById('vocabBookCount').textContent=vocabBookNames[vocabularyBook];
+ const missing=vocabularyMaster?.missing_ids?.[vocabularyBook]||[];
+ document.getElementById('vocabMissingCount').textContent=missing.length;
+ document.getElementById('vocabResultCount').textContent=filtered.length.toLocaleString()+' words shown';
+ const notice=document.getElementById('vocabSourceNotice');
+ if(missing.length){notice.hidden=false;notice.innerHTML='<b>Source data pending:</b> '+missing.map(vocabEscape).join(', ')+'. These IDs are reserved but the source JSON is incomplete; no replacement words have been invented.';}
+ else{notice.hidden=true;notice.innerHTML='';}
+ renderVocabularyLessonAudio();
+ const grid=document.getElementById('sourceVocabGrid');
+ grid.innerHTML=filtered.map(x=>{
+  const image=vocabLocalImage(x);
+  const img=image?'<div class="vocab-image"><img loading="lazy" decoding="async" src="'+vocabEscape(image)+'" alt="'+vocabEscape(x.japanese||'')+'" onerror="this.closest(\'.vocab-image\').remove()"></div>':'';
+  const status=x.source_status==='partial_record_recovered'?'<span class="vocab-pending-tag">Partial source record</span>':'';
+  return '<article class="vocab-word-card"><div class="vocab-word-meta"><span>'+vocabEscape(x.main_topic||'')+'</span><span>'+vocabEscape(x.sub_topic||'')+'</span></div>'+
+   '<div class="vocab-word-jp">'+vocabEscape(x.japanese||'—')+'</div><div class="vocab-word-reading">'+vocabEscape(x.furigana||'')+'</div>'+
+   '<div class="vocab-word-romaji">'+vocabEscape(x.romaji||'')+'</div><div class="vocab-word-meanings"><p><b>English</b>'+vocabEscape(x.english||'—')+'</p><p><b>සිංහල</b>'+vocabEscape(x.sinhala||'—')+'</p></div>'+
+   img+vocabAudioMarkup(x)+status+
+   '<div class="vocab-word-actions"><button type="button" class="btn ghost vocab-speak" data-japanese="'+vocabEscape(x.japanese||'')+'">🔊 Pronunciation</button><small>'+vocabEscape(x.id||'')+'</small></div></article>';
+ }).join('')||'<div class="card">No words match the selected filters.</div>';
+}
+function resetVocabularyFilters(){
+ ['sourceVocabSearch','vocabLessonFilter','vocabTopicFilter','vocabSubtopicFilter'].forEach(id=>{const el=document.getElementById(id);if(el)el.value=id==='sourceVocabSearch'?'':'all';});
+ renderSourceVocabulary();
+}
+async function loadVocabularyMaster(){
+ try{
+  const [m,media]=await Promise.all([fetch('./assets/data/Word/word_master.json').then(r=>{if(!r.ok)throw Error('Word master '+r.status);return r.json();}),fetch('./assets/data/Word/word_media_manifest.json').then(r=>{if(!r.ok)throw Error('Media manifest '+r.status);return r.json();})]);
+  vocabularyMaster=m;vocabularyMedia=media;vocabularyReady=true;
+  document.querySelectorAll('[data-vocab-book]').forEach(b=>b.classList.toggle('active',b.dataset.vocabBook===vocabularyBook));
+  renderSourceVocabulary();
+ }catch(err){
+  const grid=document.getElementById('sourceVocabGrid');
+  if(grid)grid.innerHTML='<div class="card">Vocabulary data could not be loaded. Please check your connection and refresh.</div>';
+  const count=document.getElementById('vocabResultCount');if(count)count.textContent='Load error';
+  console.error('Vocabulary load error',err);
+ }
+}
+document.addEventListener('click',e=>{
+ const book=e.target.closest('[data-vocab-book]');
+ if(book){vocabularyBook=book.dataset.vocabBook;document.querySelectorAll('[data-vocab-book]').forEach(b=>b.classList.toggle('active',b===book));document.getElementById('sourceVocabSearch').value='';renderSourceVocabulary();}
+ const speakBtn=e.target.closest('.vocab-speak');
+ if(speakBtn)speak(speakBtn.dataset.japanese||'');
+});
+
 
 document.addEventListener('click', e => {
  const b = e.target.closest('[data-gbook]');
@@ -310,5 +479,5 @@ function speak(t){if(!('speechSynthesis'in window)){toast('Audio is not supporte
 function markWord(w){if(!state.learned.includes(w)){state.learned.push(w);state.words=state.learned.length;save()}}
 function toast(t){let el=document.getElementById('toast');el.textContent=t;el.classList.remove('hidden');setTimeout(()=>el.classList.add('hidden'),2400)}
 function resetProgress(){if(confirm('Reset all MyJFT learning progress on this device?')){state={xp:0,lessons:0,words:0,streak:0,completed:[],lastDay:'',learned:[]};save();renderLessons();toast('Progress reset.')}}
-renderStats();renderLessons();renderWords();renderAlphabet();renderGrammar();renderSourceVocabulary();if('serviceWorker' in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));document.getElementById('romajiToggle').addEventListener('change',e=>document.getElementById('qReading').style.display=e.target.checked?'':'none');
+renderStats();renderLessons();renderWords();renderAlphabet();renderGrammar();loadVocabularyMaster();if('serviceWorker' in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));document.getElementById('romajiToggle').addEventListener('change',e=>document.getElementById('qReading').style.display=e.target.checked?'':'none');
 </script></body></html>
