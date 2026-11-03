@@ -168,7 +168,7 @@ function renderElementary1LessonAudio(lesson){
   panel.innerHTML='<b>🎧 Lesson '+String(lesson).padStart(2,'0')+' · Official worksheet audio ('+tracks.length+' tracks)</b><div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:10px;margin-top:10px">'+tracks.map(name=>{
     const suffix=name.replace(prefix,'').replace('.mp3','');
     const note=suffix.includes('_Org')?' · Organize/review':(suffix.includes('_Pra_')?' · Practice':'');
-    return '<div style="background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px"><div style="font-weight:700;font-size:13px;margin-bottom:6px">'+name.replace('.mp3','')+note+'</div><audio controls preload="none" style="width:100%" src="./assets/audio/grammar/'+encodeURIComponent(name)+'" aria-label="'+name+'"></audio></div>';
+    return '<div style="background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px"><div style="font-weight:700;font-size:13px;margin-bottom:6px">'+name.replace('.mp3','')+note+'</div><audio controls preload="none" style="width:100%" src="./assets/audio/grammar/'+encodeURIComponent(name)+'" preload="metadata" aria-label="'+name+'"></audio></div>';
   }).join('')+'</div>';
 }
 
