@@ -8,7 +8,7 @@
 @media(max-width:390px){.vocab-grid{grid-template-columns:1fr}.pill{padding:8px;font-size:12px}}
  
 .search{width:100%;padding:13px 15px;border:1px solid var(--line);border-radius:14px;margin:12px 0;background:var(--card,#fff);color:var(--ink);font:inherit}
-.stack{display:grid;gap:12px}.grammar-card{background:var(--card,#fff);border:1px solid var(--line);border-radius:18px;padding:17px}.grammar-card h3{margin:5px 0 8px;font-size:21px}.grammar-card .jp-pattern{font-size:25px;font-weight:900;color:var(--green2);margin:8px 0}.grammar-card .meta{font-size:12px;color:var(--muted);font-weight:700}.grammar-card details{border-top:1px solid var(--line);padding-top:10px;margin-top:10px}.grammar-example{padding:10px 0;border-bottom:1px dashed var(--line)}.grammar-example:last-child{border:0}.grammar-example .jp{font-size:19px;font-weight:800}.grammar-example p{margin:4px 0}.notice{padding:13px 15px;border-radius:14px;background:#fff8e7;color:#75551a;font-size:13px;line-height:1.5}.grammar-audio{display:inline-block;margin:6px 8px 0 0;font-size:12px}
+.stack{display:grid;gap:12px}.grammar-card{background:var(--card,#fff);border:1px solid var(--line);border-radius:18px;padding:17px}.grammar-card h3{margin:5px 0 8px;font-size:21px}.grammar-card .jp-pattern{font-size:25px;font-weight:900;color:var(--green2);margin:8px 0}.grammar-card .meta{font-size:12px;color:var(--muted);font-weight:700}.grammar-card details{border-top:1px solid var(--line);padding-top:10px;margin-top:10px}.grammar-example{padding:10px 0;border-bottom:1px dashed var(--line)}.grammar-example:last-child{border:0}.grammar-example .jp{font-size:19px;font-weight:800}.grammar-example p{margin:4px 0}.notice{padding:13px 15px;border-radius:14px;background:#fff8e7;color:#75551a;font-size:13px;line-height:1.5}.grammar-audio{display:block;max-width:100%;margin:8px 0}.grammar-audio-wrap{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:10px 0;border-top:1px solid var(--line);margin-top:12px}.grammar-rule,.grammar-explain{padding:9px 12px;margin:10px 0;border-radius:12px;background:#f7fafc}.grammar-rule p,.grammar-explain p{margin:5px 0 0;line-height:1.6}.grammar-examples{margin-top:14px}.grammar-examples summary{cursor:pointer;font-weight:900;color:var(--green2);padding:8px 0}.grammar-example{padding:13px 0;border-bottom:1px dashed var(--line)}.grammar-example .jp{font-size:21px;font-weight:850;line-height:1.6;margin:5px 0}.grammar-example p{line-height:1.55}.grammar-speak{margin-top:7px;padding:8px 12px;font-size:13px}
 </style></head>
 <body><div class="app">
 <aside class="sidebar"><div class="brand"><span class="brand-mark">日</span> MyJFT</div><nav class="nav" id="sideNav"><button class="active" data-page="home"><span class="ico">🏠</span>Home</button><button data-page="learn"><span class="ico">🗺️</span>Learning Path</button><button data-page="alphabet"><span class="ico">あ</span>Alphabet</button><button data-page="vocabulary"><span class="ico">🧠</span>Vocabulary</button><button data-page="grammar"><span class="ico">文</span>Grammar</button><button data-page="practice"><span class="ico">🎯</span>Practice</button><button data-page="profile"><span class="ico">👤</span>Profile</button></nav><div class="side-bottom">🇯🇵 <b>JFT-Basic journey</b><br>Small steps every day. Keep your streak alive!</div></aside>
@@ -28,14 +28,16 @@
 <div id="alphabetGrid" class="vocab-grid"></div><p class="sub" id="alphabetCount" style="margin-top:14px"></p></div></section>
 <section class="page" id="page-vocabulary"><div class="welcome"><div><div class="eyebrow">WORD POWER</div><h1>Vocabulary 🧠</h1><div class="sub">Learn useful words for everyday situations.</div></div><div class="mascot">📚</div></div><div class="card"><div class="stats"><div class="stat"><b>10</b><span>RECORDS IN THIS UPLOAD</span></div><div class="stat"><b>200</b><span>DECLARED PART SIZE</span></div><div class="stat"><b>190</b><span>NOT YET PROVIDED</span></div></div><input id="sourceVocabSearch" class="search" placeholder="Search Japanese, romaji, English or Sinhala…" oninput="renderSourceVocabulary()"></div><div class="vocab-grid" id="sourceVocabGrid"></div><div class="notice">This upload declares 200 words, but contains only 10 vocabulary objects (IDs st_001–st_010). All 10 are included; the remaining 190 are pending the next source upload.</div><div class="vocab-grid" id="vocabGrid" style="display:none"></div></section>
 <section class="page" id="page-grammar">
-<div class="welcome"><div><div class="eyebrow">IRODORI GRAMMAR LIBRARY</div><h1>Grammar patterns 文</h1><div class="sub">Study the pattern, formation, Sinhala explanation and original examples.</div></div><div class="mascot">✍️</div></div>
-<div class="card"><div class="stats"><div class="stat"><b>36</b><span>STARTER PATTERNS</span></div><div class="stat"><b>54</b><span>ELEMENTARY 1</span></div><div class="stat"><b>90</b><span>AVAILABLE RECORDS</span></div></div>
-<div class="tabs" id="grammarBookTabs"><button class="tab active" data-gbook="all">All available</button><button class="tab" data-gbook="starter">Starter A1</button><button class="tab" data-gbook="e1">Elementary 1 A2.1</button></div>
-<input id="grammarSearch" class="search" placeholder="Search pattern, lesson or category…" oninput="renderGrammar()">
-<div class="tabs" id="grammarLessonTabs"><button class="tab active" data-glesson="all">All lessons</button></div></div>
-<div class="section-head"><h2 id="grammarCount">90 patterns</h2><span class="sub">Source records retained</span></div>
+<div class="welcome"><div><div class="eyebrow">IRODORI · BOOK 1 · STARTER A1</div><h1>Starter Grammar 文</h1><div class="sub">Book 1 complete grammar library · Sinhala explanations · Japanese examples · lesson audio.</div></div><div class="mascot">✍️</div></div>
+<div class="card">
+ <div class="stats"><div class="stat"><b>36</b><span>GRAMMAR PATTERNS</span></div><div class="stat"><b>180</b><span>EXAMPLES</span></div><div class="stat"><b>18</b><span>LESSONS</span></div></div>
+ <div class="notice">Irodori Starter A1 only. Original source patterns, Sinhala explanations, formation rules and examples are retained. Worksheet audio is linked only when its exact filename is verified in this repository; otherwise the official source audio link is used.</div>
+ <input id="grammarSearch" class="search" placeholder="Search Japanese pattern, Sinhala meaning, example or lesson…" oninput="renderGrammar()">
+ <div class="section-head" style="margin-top:12px"><h3 style="margin:0">Choose a lesson</h3><span class="sub">L01–L18</span></div>
+ <div class="tabs" id="grammarLessonTabs"><button class="tab active" data-glesson="all">All lessons</button></div>
+</div>
+<div class="section-head"><h2 id="grammarCount">36 patterns</h2><span class="sub">Starter A1 · Source data</span></div>
 <div id="grammarList" class="stack"></div>
-
 </section>
 <section class="page" id="page-practice"><div class="welcome"><div><div class="eyebrow">TRAIN YOUR SKILLS</div><h1>Practice zone 🎯</h1><div class="sub">Choose a quick activity and keep improving.</div></div><div class="mascot">🏆</div></div><div class="path"><button class="lesson" onclick="startLesson()"><span class="bubble">📝</span><span><b>Quick quiz</b><small>Multiple-choice questions</small></span></button><button class="lesson" onclick="showPage('vocabulary')"><span class="bubble">🧠</span><span><b>Word practice</b><small>Review useful vocabulary</small></span></button><button class="lesson" onclick="speak('こんにちは。元気ですか。')"><span class="bubble">🎧</span><span><b>Listening practice</b><small>Hear a Japanese phrase</small></span></button><button class="lesson" onclick="toast('Speaking practice is being prepared for the next build.')"><span class="bubble">🎙️</span><span><b>Speaking practice</b><small>Pronunciation practice</small></span></button><button class="lesson" onclick="toast('Flashcard review is being prepared for the next build.')"><span class="bubble">🃏</span><span><b>Flashcards</b><small>Spaced review sessions</small></span></button><button class="lesson" onclick="toast('Mock exam bank will be connected after source verification.')"><span class="bubble">🏁</span><span><b>JFT mock exam</b><small>Exam-style practice</small></span></button></div></section>
 <section class="page" id="page-profile"><div class="welcome"><div><div class="eyebrow">YOUR PROFILE</div><h1>My learning profile 👤</h1><div class="sub">Your progress, preferences and settings.</div></div><div class="mascot">🦊</div></div><div class="card"><div style="display:flex;align-items:center;gap:16px"><div class="avatar" style="width:64px;height:64px;font-size:34px">🦊</div><div><h2 style="margin:0">Japanese learner</h2><div class="sub">JFT-Basic study journey</div></div></div><div class="stats"><div class="stat"><b id="profileXp">0</b><span>TOTAL XP</span></div><div class="stat"><b id="profileLessons">0</b><span>LESSONS</span></div><div class="stat"><b id="profileStreak">0</b><span>STREAK</span></div></div><h3>Learning preferences</h3><div class="settings-row"><span>Show Romaji in learning mode</span><input type="checkbox" id="romajiToggle" checked></div><div class="settings-row"><span>Show Sinhala meanings</span><input type="checkbox" id="sinhalaToggle" checked></div><div class="settings-row"><span>Daily goal</span><b>15 minutes</b></div><button class="btn ghost" style="margin-top:18px" onclick="resetProgress()">Reset learning progress</button></div></section>
@@ -69,15 +71,35 @@ function renderMediaAudio(fileName, group='grammar', label='Play audio') {
   const src = localMediaPath('audio', fileName, group);
   return '<audio class="grammar-audio" controls preload="none" src="' + src + '" aria-label="' + label + '"></audio>';
 }
-let grammarBookFilter='all', grammarLessonFilter='all';
+let grammarLessonFilter='all';
+const starterWorksheetAudioFiles=new Set([]);
+function renderStarterGrammarAudio(audio){
+ if(!audio?.file_name) return '<span class="grammar-audio">No audio reference in source record.</span>';
+ const name=String(audio.file_name).split('/').pop();
+ const src=starterWorksheetAudioFiles.has(name)?'./assets/audio/grammar/'+name:(audio.audio_url||'');
+ if(!src) return '<span class="grammar-audio">Audio source unavailable.</span>';
+ const local=starterWorksheetAudioFiles.has(name);
+ return '<div class="grammar-audio-wrap"><audio class="grammar-audio" controls preload="none" src="'+src+'" aria-label="Grammar worksheet audio"></audio><span class="meta">'+(local?'Repository audio':'Official Irodori audio · online')+'</span></div>';
+}
 function renderGrammar(){
+ const source=sourceGrammarStarterX?.grammar_patterns||[];
  const q=(document.getElementById('grammarSearch')?.value||'').trim().toLowerCase();
- let rows=[];
- if(grammarBookFilter==='all'||grammarBookFilter==='starter') rows=rows.concat(sourceGrammarStarterX.grammar_patterns.map(x=>({...x,_book:'Starter A1',_source:'Starter X audio'})));
- if(grammarBookFilter==='all'||grammarBookFilter==='e1') rows=rows.concat(sourceGrammarElementary1.grammar_patterns.map(x=>({...x,_book:'Elementary 1 A2.1',_source:'Elementary 1 upload'})));
- rows=rows.filter(x=>(grammarLessonFilter==='all'||String(x.lesson)===grammarLessonFilter)&&(!q||[x.pattern,x.title_sinhala,x.category,x.explanation_sinhala,x.formation_rule,String(x.lesson)].join(' ').toLowerCase().includes(q)));
- document.getElementById('grammarCount').textContent=rows.length+' patterns';
- document.getElementById('grammarList').innerHTML=rows.map((x,i)=>`<article class="grammar-card"><div class="meta">${x._book} · LESSON ${x.lesson} · ${x.category||'Grammar'}</div><h3>${x.title_sinhala||x.pattern}</h3><div class="jp-pattern">${x.pattern}</div><p><b>Formation:</b> ${x.formation_rule||'—'}</p><p>${x.explanation_sinhala||''}</p>${x.common_mistake_note?`<p><b>Common mistake:</b> ${x.common_mistake_note}</p>`:''}${x.audio?.file_name?renderMediaAudio(x.audio.file_name,"grammar","Worksheet audio "+x.audio.file_name):'<span class="grammar-audio">Audio unavailable in this repository</span>'}<details><summary>Examples (${(x.examples||[]).length})</summary>${(x.examples||[]).map(e=>`<div class="grammar-example"><div class="jp">${e.japanese||''}</div>${e.furigana?`<p><b>Furigana:</b> ${e.furigana}</p>`:''}${e.romaji?`<p><b>Romaji:</b> ${e.romaji}</p>`:''}${e.english?`<p><b>English:</b> ${e.english}</p>`:''}${e.sinhala?`<p><b>සිංහල:</b> ${e.sinhala}</p>`:''}${e.audio_file?renderMediaAudio(e.audio_file,"grammar","Example audio "+e.audio_file):''}<button onclick="speak(${JSON.stringify(e.japanese||'')})">🔊 Listen</button></div>`).join('')}</details></article>`).join('')||'<div class="card">No matching grammar patterns.</div>';
+ const lessons=document.getElementById('grammarLessonTabs');
+ if(lessons && !lessons.dataset.ready){
+  lessons.innerHTML='<button class="tab '+(grammarLessonFilter==='all'?'active':'')+'" data-glesson="all">All lessons</button>'+Array.from({length:18},(_,i)=>'<button class="tab '+(grammarLessonFilter===String(i+1)?'active':'')+'" data-glesson="'+(i+1)+'">L'+String(i+1).padStart(2,'0')+'</button>').join('');
+  lessons.dataset.ready='1';
+ }
+ const rows=source.filter(x=>{
+  const lessonMatch=grammarLessonFilter==='all'||String(x.lesson)===grammarLessonFilter;
+  const exampleText=(x.examples||[]).map(e=>[e.japanese,e.romaji,e.english,e.sinhala,e.furigana].join(' ')).join(' ');
+  const hay=[x.id,x.pattern,x.title_sinhala,x.category,x.explanation_sinhala,x.formation_rule,String(x.lesson),exampleText].join(' ').toLowerCase();
+  return lessonMatch&&(!q||hay.includes(q));
+ });
+ const count=document.getElementById('grammarCount');
+ if(count) count.textContent=rows.length+' / 36 patterns';
+ const list=document.getElementById('grammarList');
+ if(!list) return;
+ list.innerHTML=rows.map((x,i)=>'<article class="grammar-card"><div class="meta">STARTER A1 · LESSON '+String(x.lesson).padStart(2,'0')+' · '+(x.category||'Grammar')+' · '+x.id+'</div><h3>'+(x.title_sinhala||x.pattern)+'</h3><div class="jp-pattern">'+x.pattern+'</div><div class="grammar-rule"><b>Formation / වාක්‍ය රටාව</b><p>'+(x.formation_rule||'—')+'</p></div><div class="grammar-explain"><b>සිංහල පැහැදිලි කිරීම</b><p>'+(x.explanation_sinhala||'')+'</p></div>'+(x.audio?renderStarterGrammarAudio(x.audio):'')+'<details class="grammar-examples"><summary>Examples · උදාහරණ ('+(x.examples||[]).length+')</summary>'+((x.examples||[]).map((e,j)=>'<div class="grammar-example"><div class="meta">EXAMPLE '+(j+1)+'</div><div class="jp">'+(e.japanese||'')+'</div>'+(e.furigana?'<p><b>Furigana:</b> '+e.furigana+'</p>':'')+(e.romaji?'<p><b>Romaji:</b> '+e.romaji+'</p>':'')+(e.english?'<p><b>English:</b> '+e.english+'</p>':'')+(e.sinhala?'<p><b>සිංහල:</b> '+e.sinhala+'</p>':'')+'<button class="btn ghost grammar-speak" type="button" onclick="speak('+JSON.stringify(e.japanese||'')+')">🔊 Listen</button></div>').join(''))+'</details></article>').join('')||'<div class="card empty">No matching Starter A1 grammar patterns. Try another search or lesson.</div>';
 }
 function renderSourceVocabulary(){
  const q=(document.getElementById('sourceVocabSearch')?.value||'').trim().toLowerCase();
