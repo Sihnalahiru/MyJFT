@@ -2,7 +2,7 @@
  * App shell + JSON data are cached on install.
  * Media is cached only when requested, so first load stays lightweight.
  */
-const CACHE_VERSION = 'myjft-v6';
+const CACHE_VERSION = 'myjft-v7';
 const SHELL_CACHE = CACHE_VERSION + '-shell';
 const DATA_CACHE = CACHE_VERSION + '-data';
 const MEDIA_CACHE = CACHE_VERSION + '-media';
