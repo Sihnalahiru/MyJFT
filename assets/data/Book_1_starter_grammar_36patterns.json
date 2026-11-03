@@ -13,6 +13,7 @@
       "title_sinhala": "N1 යනු N2 වේ (හැඳින්වීම)",
       "formation_rule": "Noun1 + は + Noun2 + です",
       "explanation_sinhala": "වාක්‍යයේ ප්‍රධාන මාතෘකාව (N1) සහ එය කුමක්ද යන්න (N2) විනීතව පැවසීමට මෙය යොදාගනී.",
+      "image_path": "../assets/Book_1_Grammar_images/1.jpg",
       "audio": {
         "track_id": "GM-ST-001",
         "has_audio": false,
@@ -38,13 +39,14 @@
       "title_sinhala": "N1 යනු N2 නොවේ (ප්‍රතික්ෂේප කිරීම)",
       "formation_rule": "Noun1 + は + Noun2 + じゃないです / ではありません",
       "explanation_sinhala": "නාමපදයක සෘණාත්මක ස්වරූපය ප්‍රකාශ කරයි.",
+      "image_path": "../assets/Book_1_Grammar_images/2.png",
       "audio": {
         "track_id": "GM-ST-002",
         "has_audio": false,
         "storage": "not_listed_in_official_grammar_worksheet_audio",
         "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
         "source_file_name_unverified": "GWS_X_L01_2.mp3",
-        "image_path": "../assets/Book_1_Grammar_images/2.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/2.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "私は学生じゃないです。", "romaji": "Watashi wa gakusei janai desu.", "sinhala": "මම ශිෂ්‍යයෙක් නොවේ." },
@@ -63,6 +65,7 @@
       "title_sinhala": "N1 යනු N2 ද? (ප්‍රශ්න ඇසීම)",
       "formation_rule": "Sentence + か",
       "explanation_sinhala": "වාක්‍යයක් අගට 'か' එකතු කිරීමෙන් ප්‍රශ්නාර්ථ වාක්‍යයක් සෑදේ.",
+      "image_path": "../assets/Book_1_Grammar_images/3.jpg",
       "audio": {
         "track_id": "GM-ST-003",
         "has_audio": false,
@@ -88,6 +91,7 @@
       "title_sinhala": "N1 ගේ / හි N2 (අයිතිය/සම්බන්ධය)",
       "formation_rule": "Noun1 + の + Noun2",
       "explanation_sinhala": "නාමපද දෙකක් එකිනෙක සම්බන්ධ කිරීමට 'の' යෙදේ.",
+      "image_path": "../assets/Book_1_Grammar_images/4.jpg",
       "audio": {
         "track_id": "GM-ST-004",
         "has_audio": false,
@@ -113,13 +117,14 @@
       "title_sinhala": "N ද / N ත් (සමානත්වය)",
       "formation_rule": "Noun + も",
       "explanation_sinhala": "කලින් සඳහන් කළ කරුණට සමාන තවත් කරුණක් දැක්වීමට 'は' වෙනුවට 'も' ආදේශ කරයි.",
+      "image_path": "../assets/Book_1_Grammar_images/5.png",
       "audio": {
         "track_id": "GM-ST-005",
         "has_audio": false,
         "storage": "not_listed_in_official_grammar_worksheet_audio",
         "mapping_status": "official_starter_grammar_audio_listing_begins_at_lesson_3",
         "source_file_name_unverified": "GWS_X_L02_3.mp3",
-        "image_path": "../assets/Book_1_Grammar_images/5.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/5.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "私も会社員です。", "romaji": "Watashi mo kaishain desu.", "sinhala": "මමත් සමාගම් සේවකයෙක් වෙමි." },
@@ -138,6 +143,7 @@
       "title_sinhala": "මේක / ඕක / අරක N වේ",
       "formation_rule": "これ / それ / あれ + は + Noun + です",
       "explanation_sinhala": "ස්ථානීය දර්ශක පෙන්වීමට යොදාගනී.",
+      "image_path": "../assets/Book_1_Grammar_images/6.png",
       "audio": {
         "file_name": "GWS_X_L03_1.mp3",
         "track_id": "GM-ST-006",
@@ -145,7 +151,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/6.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/6.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "これは日本のカメラです。", "romaji": "Kore wa Nihon no kamera desu.", "sinhala": "මෙය ජපානයේ කැමරාවකි." },
@@ -164,6 +170,7 @@
       "title_sinhala": "මෙතැන / ඔතැන / අතැන N වේ (ස්ථාන)",
       "formation_rule": "ここ / そこ / あそこ / どこ + は + Place/Noun + です",
       "explanation_sinhala": "ස්ථානයක් පෙන්වීමට යොදාගනී.",
+      "image_path": "../assets/Book_1_Grammar_images/7.png",
       "audio": {
         "file_name": "GWS_X_L04_1.mp3",
         "track_id": "GM-ST-007",
@@ -171,7 +178,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/7.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/7.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "ここは受付です。", "romaji": "Koko wa uketsuke desu.", "sinhala": "මෙතැන පිළිගැනීමේ කවුන්ටරයයි." },
@@ -190,6 +197,7 @@
       "title_sinhala": "ස්ථානයක අජීවී දෙයක් තිබෙනවා",
       "formation_rule": "Place + に + Inanimate Noun + が + あります",
       "explanation_sinhala": "පණ නැති ද්‍රව්‍ය යම් ස්ථානයක තිබෙන බව දැක්වීමට 'あります' යෙදේ.",
+      "image_path": "../assets/Book_1_Grammar_images/8.png",
       "audio": {
         "file_name": "GWS_X_L05_1.mp3",
         "track_id": "GM-ST-008",
@@ -197,7 +205,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/8.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/8.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "部屋にテレビがあります。", "romaji": "Heya ni terebi ga arimasu.", "sinhala": "කාමරයේ රූපවාහිනියක් තිබේ." },
@@ -216,6 +224,7 @@
       "title_sinhala": "ස්ථානයක පුද්ගලයෙක්/සතෙක් සිටිනවා",
       "formation_rule": "Place + に + Animate Noun + が + います",
       "explanation_sinhala": "පණ ඇති ජීවීන් සිටින බව දැක්වීමට 'います' යෙදේ.",
+      "image_path": "../assets/Book_1_Grammar_images/9.jpg",
       "audio": {
         "file_name": "GWS_X_L05_2.mp3",
         "track_id": "GM-ST-009",
@@ -242,6 +251,7 @@
       "title_sinhala": "N1 සහ N2 (ලැයිස්තුගත කිරීම)",
       "formation_rule": "Noun1 + と + Noun2",
       "explanation_sinhala": "නාමපද ලැයිස්තුගත කිරීමට 'と' භාවිත කරයි.",
+      "image_path": "../assets/Book_1_Grammar_images/10.png",
       "audio": {
         "file_name": "GWS_X_L05_3.mp3",
         "track_id": "GM-ST-010",
@@ -268,6 +278,7 @@
       "title_sinhala": "N ට කැමතියි / අකමැතියි",
       "formation_rule": "Noun + が + 好きです / 好きじゃないです",
       "explanation_sinhala": "කැමැත්ත හෝ අකමැත්ත දැක්වීම.",
+      "image_path": "../assets/Book_1_Grammar_images/11.jpg",
       "audio": {
         "file_name": "GWS_X_L06_1.mp3",
         "track_id": "GM-ST-011",
@@ -294,6 +305,7 @@
       "title_sinhala": "කරනවා / කරන්නේ නෑ (වර්තමාන/අනාගත ක්‍රියා)",
       "formation_rule": "Verb Stem + ます / ません",
       "explanation_sinhala": "දෛනික පුරුදු ප්‍රකාශ කිරීම.",
+      "image_path": "../assets/Book_1_Grammar_images/12.jpg",
       "audio": {
         "file_name": "GWS_X_L07_1.mp3",
         "track_id": "GM-ST-012",
@@ -320,6 +332,7 @@
       "title_sinhala": "වේලාවට ක්‍රියාවක් කිරීම",
       "formation_rule": "Specific Time + に + Verb",
       "explanation_sinhala": "නිශ්චිත වේලාවක් දැක්වීමට 'に' යොදයි.",
+      "image_path": "../assets/Book_1_Grammar_images/13.jpg",
       "audio": {
         "file_name": "GWS_X_L07_2.mp3",
         "track_id": "GM-ST-013",
@@ -346,6 +359,7 @@
       "title_sinhala": "කර්මය හඳුනාගැනීම",
       "formation_rule": "Noun (Object) + を + Transitive Verb",
       "explanation_sinhala": "ක්‍රියාවට ලක්වන ප්‍රධාන වස්තුව සලකුණු කිරීමට 'を' භාවිත කරයි.",
+      "image_path": "../assets/Book_1_Grammar_images/14.jpg",
       "audio": {
         "file_name": "GWS_X_L07_3.mp3",
         "track_id": "GM-ST-014",
@@ -372,6 +386,7 @@
       "title_sinhala": "ස්ථානයකදී ක්‍රියාවක් කිරීම",
       "formation_rule": "Place + で + Action Verb",
       "explanation_sinhala": "ක්‍රියාකාරකමක් සිදුවන ස්ථානය දැක්වීමට 'で' යොදයි.",
+      "image_path": "../assets/Book_1_Grammar_images/15.png",
       "audio": {
         "file_name": "GWS_X_L07_4.mp3",
         "track_id": "GM-ST-015",
@@ -379,7 +394,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/15.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/15.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "食堂で昼ごはんを食べます。", "romaji": "Shokudou de hirugohan o tabemasu.", "sinhala": "ආපනශාලාවේදී දිවා ආහාරය ගන්නවා." },
@@ -398,6 +413,7 @@
       "title_sinhala": "කළා / කළේ නෑ (අතීත ක්‍රියා)",
       "formation_rule": "Verb Stem + ました / ませんでした",
       "explanation_sinhala": "ක්‍රියාපදයක අතීත කාලය ප්‍රකාශ කරයි.",
+      "image_path": "../assets/Book_1_Grammar_images/16.png",
       "audio": {
         "file_name": "GWS_X_L08_1.mp3",
         "track_id": "GM-ST-016",
@@ -405,7 +421,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/16.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/16.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "昨日、日本語を勉強しました。", "romaji": "Kinou, Nihongo o benkyou shimashita.", "sinhala": "ඊයේ මම ජපන් පාඩම් කළා." },
@@ -424,6 +440,7 @@
       "title_sinhala": "ස්ථානයකට යනවා / එනවා / ආපසු යනවා",
       "formation_rule": "Place + へ / に + 行きます / 来ます / 帰ります",
       "explanation_sinhala": "ගමන් කරන දිශාව හෝ ගමනාන්තය දැක්වීම.",
+      "image_path": "../assets/Book_1_Grammar_images/17.png",
       "audio": {
         "file_name": "GWS_X_L09_1_1.mp3",
         "track_id": "GM-ST-017",
@@ -432,7 +449,7 @@
         "storage": "local",
         "mapping_status": "official_lesson_9_exercise_1_split_into_two_tracks",
         "source_file_name_unverified": "GWS_X_L09_1.mp3",
-        "image_path": "../assets/Book_1_Grammar_images/17.jpg",
+        "image_path": "../assets/Book_1_Grammar_images/17.png",
         "tracks": [
           { "file_name": "GWS_X_L09_1_1.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L09_1_1.mp3", "exercise": 1 },
           { "file_name": "GWS_X_L09_1_2.mp3", "audio_url": "../assets/audio/grammar/GWS_X_L09_1_2.mp3", "exercise": 2 }
@@ -455,6 +472,7 @@
       "title_sinhala": "ප්‍රවාහන මාධ්‍යයකින් ගමන් කිරීම",
       "formation_rule": "Vehicle / Transport + で + 行きます",
       "explanation_sinhala": "වාහනයක් භාවිත කිරීම.",
+      "image_path": "../assets/Book_1_Grammar_images/18.png",
       "audio": {
         "file_name": "GWS_X_L09_2.mp3",
         "track_id": "GM-ST-018",
@@ -462,7 +480,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/18.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/18.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "電車で会社へ行きます。", "romaji": "Densha de kaisha e ikimasu.", "sinhala": "දුම්රියෙන් වැඩට යනවා." },
@@ -481,6 +499,7 @@
       "title_sinhala": "කෙනෙකු සමඟ යමක් කිරීම / යාම",
       "formation_rule": "Person + と + Verb",
       "explanation_sinhala": "කා සමඟද යන්න දැක්වීම.",
+      "image_path": "../assets/Book_1_Grammar_images/19.png",
       "audio": {
         "file_name": "GWS_X_L09_3.mp3",
         "track_id": "GM-ST-019",
@@ -488,7 +507,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/19.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/19.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "友達と日本へ来ました。", "romaji": "Tomodachi to Nihon e kimashita.", "sinhala": "මිතුරා සමඟ ජපානයට ආවා." },
@@ -507,6 +526,7 @@
       "title_sinhala": "සිට ... දක්වා",
       "formation_rule": "Start Point + から + End Point + まで",
       "explanation_sinhala": "ආරම්භක සහ අවසාන ලක්ෂ්‍යය දැක්වීම.",
+      "image_path": "../assets/Book_1_Grammar_images/20.png",
       "audio": {
         "file_name": "GWS_X_L10_1.mp3",
         "track_id": "GM-ST-020",
@@ -514,7 +534,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/20.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/20.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "9時から5時まで働きます。", "romaji": "Ku-ji kara go-ji made hatarakimasu.", "sinhala": "9 සිට 5 දක්වා වැඩ කරනවා." },
@@ -533,6 +553,7 @@
       "title_sinhala": "N දෙන්න කරුණාකර",
       "formation_rule": "Noun + を + ください",
       "explanation_sinhala": "යමක් ඉල්ලා සිටීමට යොදාගනී.",
+      "image_path": "../assets/Book_1_Grammar_images/21.png",
       "audio": {
         "file_name": "GWS_X_L11_1.mp3",
         "track_id": "GM-ST-021",
@@ -540,7 +561,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/21.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/21.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "お水をください。", "romaji": "O-mizu o kudasai.", "sinhala": "වතුර දෙන්න කරුණාකර." },
@@ -559,6 +580,7 @@
       "title_sinhala": "ප්‍රමාණයක් සඳහන් කර ඉල්ලීම",
       "formation_rule": "Noun + Number/Counter + ください",
       "explanation_sinhala": "භාණ්ඩ ගණන සඳහන් කර ඇනවුම් කිරීම.",
+      "image_path": "../assets/Book_1_Grammar_images/22.png",
       "audio": {
         "file_name": "GWS_X_L11_2.mp3",
         "track_id": "GM-ST-022",
@@ -566,7 +588,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/22.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/22.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "これをひとつください。", "romaji": "Kore o hitotsu kudasai.", "sinhala": "මෙයින් එකක් දෙන්න කරුණාකර." },
@@ -585,6 +607,7 @@
       "title_sinhala": "යමක් කිරීමට ආසයි / අකමැතියි",
       "formation_rule": "Verb [Stem] + たいです",
       "explanation_sinhala": "තමාගේ පෞද්ගලික ආශාවන් ප්‍රකාශ කිරීම.",
+      "image_path": "../assets/Book_1_Grammar_images/23.png",
       "audio": {
         "file_name": "GWS_X_L12_1.mp3",
         "track_id": "GM-ST-023",
@@ -592,7 +615,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/23.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/23.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "日本へ行きたいです。", "romaji": "Nihon e ikitai desu.", "sinhala": "මට ජපානයට යන්න ඕන." },
@@ -611,6 +634,7 @@
       "title_sinhala": "ස්ථානයකට යම් අරමුණක් සඳහා යාම",
       "formation_rule": "Place + へ/に + Verb Stem + に + 行きます",
       "explanation_sinhala": "යම් අරමුණක් සඳහා යාම.",
+      "image_path": "../assets/Book_1_Grammar_images/24.png",
       "audio": {
         "file_name": "GWS_X_L12_2.mp3",
         "track_id": "GM-ST-024",
@@ -618,7 +642,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/24.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/24.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "デパートへ買い物に行きます。", "romaji": "Depaato e kaimono ni ikimasu.", "sinhala": "මම බඩු ගන්න ඩිපාර්ට්මන්ට් ස්ටෝර් එකට යනවා." },
@@ -637,6 +661,7 @@
       "title_sinhala": "ඉ-නාමවිශේෂණ (වර්තමාන කාලය)",
       "formation_rule": "Adj + いです / くないです",
       "explanation_sinhala": "ඉ-නාමවිශේෂණවල වර්තමාන කාලය.",
+      "image_path": "../assets/Book_1_Grammar_images/25.png",
       "audio": {
         "file_name": "GWS_X_L13_1.mp3",
         "track_id": "GM-ST-025",
@@ -644,7 +669,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/25.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/25.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "この部屋は広いです。", "romaji": "Kono heya wa hiroi desu.", "sinhala": "මේ කාමරය ඉඩකඩ සහිතයි." },
@@ -663,6 +688,7 @@
       "title_sinhala": "න-නාමවිශේෂණ (වර්තමාන කාලය)",
       "formation_rule": "Adj + です / じゃないです",
       "explanation_sinhala": "න-නාමවිශේෂණවල වර්තමාන කාලය.",
+      "image_path": "../assets/Book_1_Grammar_images/26.png",
       "audio": {
         "file_name": "GWS_X_L13_2.mp3",
         "track_id": "GM-ST-026",
@@ -670,7 +696,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/26.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/26.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "この町は静かです。", "romaji": "Kono machi wa shizuka desu.", "sinhala": "මේ නගරය නිස්කලංකයි." },
@@ -689,6 +715,7 @@
       "title_sinhala": "ඉ-නාමවිශේෂණ (අතීත කාලය)",
       "formation_rule": "Adj + かったです / くなかったです",
       "explanation_sinhala": "ඉ-නාමවිශේෂණවල අතීත කාලය.",
+      "image_path": "../assets/Book_1_Grammar_images/27.png",
       "audio": {
         "file_name": "GWS_X_L14_1.mp3",
         "track_id": "GM-ST-027",
@@ -696,7 +723,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/27.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/27.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "旅行はとても楽しかったです。", "romaji": "Ryokou wa totemo tanoshikatta desu.", "sinhala": "සංචාරය ගොඩක් විනෝදජනක වුණා." },
@@ -715,6 +742,7 @@
       "title_sinhala": "න-නාමවිශේෂණ (අතීත කාලය)",
       "formation_rule": "Adj + でした / じゃなかったです",
       "explanation_sinhala": "න-නාමවිශේෂණවල අතීත කාලය.",
+      "image_path": "../assets/Book_1_Grammar_images/28.jpg",
       "audio": {
         "file_name": "GWS_X_L14_2.mp3",
         "track_id": "GM-ST-028",
@@ -741,6 +769,7 @@
       "title_sinhala": "කරුණාකර යමක් කරන්න",
       "formation_rule": "Verb [Te-form] + ください",
       "explanation_sinhala": "කාරුණික ඉල්ලීම් කිරීමට යොදාගනී.",
+      "image_path": "../assets/Book_1_Grammar_images/29.jpg",
       "audio": {
         "file_name": "GWS_X_L15_1.mp3",
         "track_id": "GM-ST-029",
@@ -767,6 +796,7 @@
       "title_sinhala": "කළාට කමක් නැද්ද?",
       "formation_rule": "Verb [Te-form] + もいいですか",
       "explanation_sinhala": "අවසර ඉල්ලීම සඳහා යොදාගනී.",
+      "image_path": "../assets/Book_1_Grammar_images/30.jpg",
       "audio": {
         "file_name": "GWS_X_L15_2.mp3",
         "track_id": "GM-ST-030",
@@ -793,6 +823,7 @@
       "title_sinhala": "කරමින් සිටිනවා",
       "formation_rule": "Verb [Te-form] + います",
       "explanation_sinhala": "වර්තමාන සිදුවෙමින් පවතින ක්‍රියා දැක්වීම.",
+      "image_path": "../assets/Book_1_Grammar_images/31.jpg",
       "audio": {
         "file_name": "GWS_X_L16_1.mp3",
         "track_id": "GM-ST-031",
@@ -819,6 +850,7 @@
       "title_sinhala": "කරන්න එපා",
       "formation_rule": "Verb [Nai-form] + で ください",
       "explanation_sinhala": "යම් ක්‍රියාවක් නොකරන ලෙස ඉල්ලා සිටීම.",
+      "image_path": "../assets/Book_1_Grammar_images/32.png",
       "audio": {
         "file_name": "GWS_X_L16_2.mp3",
         "track_id": "GM-ST-032",
@@ -826,7 +858,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/32.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/32.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "ここで写真を撮らないでください。", "romaji": "Koko de shashin o toranaide kudasai.", "sinhala": "කරුණාකර මෙතැන ඡායාරූප ගන්න එපා." },
@@ -845,6 +877,7 @@
       "title_sinhala": "කරමුද? (ආරාධනා කිරීම)",
       "formation_rule": "Verb [Stem] + ませんか",
       "explanation_sinhala": "ආරාධනා කිරීමට යොදාගනී.",
+      "image_path": "../assets/Book_1_Grammar_images/33.png",
       "audio": {
         "file_name": "GWS_X_L17_1.mp3",
         "track_id": "GM-ST-033",
@@ -852,7 +885,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/33.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/33.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "一緒にお茶を飲みませんか。", "romaji": "Issho ni o-cha o nomimasen ka.", "sinhala": "අපි එකතු වෙලා තේ බොමුද?" },
@@ -871,6 +904,7 @@
       "title_sinhala": "අපි කරමු! (යෝජනා කිරීම)",
       "formation_rule": "Verb [Stem] + ましょう",
       "explanation_sinhala": "යෝජනා කිරීම සඳහා යොදාගනී.",
+      "image_path": "../assets/Book_1_Grammar_images/34.png",
       "audio": {
         "file_name": "GWS_X_L17_2.mp3",
         "track_id": "GM-ST-034",
@@ -878,7 +912,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/34.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/34.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "そろそろ行きましょう。", "romaji": "Sorosoro ikimashou.", "sinhala": "දැන් අපි යමු." },
@@ -897,6 +931,7 @@
       "title_sinhala": "නිසා (හේතු දැක්වීම)",
       "formation_rule": "Reason Sentence + から, Main Result",
       "explanation_sinhala": "හේතුව දැක්වීමට 'から' යොදයි.",
+      "image_path": "../assets/Book_1_Grammar_images/35.png",
       "audio": {
         "file_name": "GWS_X_L18_1.mp3",
         "track_id": "GM-ST-035",
@@ -904,7 +939,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/35.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/35.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "時間がありませんから、タクシーで行きます。", "romaji": "Jikan ga arimasen kara, takushii de ikimasu.", "sinhala": "වෙලාව නැති නිසා ටැක්සියකින් යනවා." },
@@ -923,6 +958,7 @@
       "title_sinhala": "නමුත් / එහෙත් (ප්‍රතිවිරුද්ධ අදහස්)",
       "formation_rule": "Sentence1 + けど, Sentence2",
       "explanation_sinhala": "පරස්පර අදහස් සම්බන්ධ කිරීමට 'けど' හෝ 'でも' යොදයි.",
+      "image_path": "../assets/Book_1_Grammar_images/36.png",
       "audio": {
         "file_name": "GWS_X_L18_2.mp3",
         "track_id": "GM-ST-036",
@@ -930,7 +966,7 @@
         "has_audio": true,
         "storage": "local",
         "mapping_status": "exact_filename_verified",
-        "image_path": "../assets/Book_1_Grammar_images/36.jpg"
+        "image_path": "../assets/Book_1_Grammar_images/36.png"
       },
       "examples": [
         { "example_id": 1, "japanese": "日本の生活は大変ですけど、楽しいです。", "romaji": "Nihon no seikatsu wa taihen desu kedo, tanoshii desu.", "sinhala": "ජපානයේ ජීවිතය අමාරුයි, නමුත් විනෝදජනකයි." },
@@ -951,7 +987,7 @@
     "lesson_1_2": "No grammar worksheet audio entries appear in the official Starter grammar worksheet audio listing; removed the unsupported L01/L02 audio assignments.",
     "lesson_9": "Mapped exercise 1 to the two official split tracks; exercises 2 and 3 retain their exact local matches.",
     "pattern_level_mapping": "Audio paths standardized with relative routing (../).",
-    "image_mapping": "Mapped directly to local folder assets/Book_1_Grammar_images/ from 1 to 36."
+    "image_mapping": "Mapped directly to local folder assets/Book_1_Grammar_images/ matching exact file extensions (.jpg / .png)."
   },
   "lesson_audio_inventory": {
     "source_folder": "assets/audio/grammar/",
