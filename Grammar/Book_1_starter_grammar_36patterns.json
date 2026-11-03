@@ -18,7 +18,8 @@
         "track_id": "GM-ST-001",
         "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L01_1.mp3",
         "has_audio": true,
-        "storage": "official_fallback"
+        "storage": "pending_local_asset",
+        "mapping_status": "no_exact_local_filename_match"
       },
       "examples": [
         {
@@ -67,7 +68,8 @@
         "track_id": "GM-ST-002",
         "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L01_2.mp3",
         "has_audio": true,
-        "storage": "official_fallback"
+        "storage": "pending_local_asset",
+        "mapping_status": "no_exact_local_filename_match"
       },
       "examples": [
         {
@@ -116,7 +118,8 @@
         "track_id": "GM-ST-003",
         "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L02_1.mp3",
         "has_audio": true,
-        "storage": "official_fallback"
+        "storage": "pending_local_asset",
+        "mapping_status": "no_exact_local_filename_match"
       },
       "examples": [
         {
@@ -165,7 +168,8 @@
         "track_id": "GM-ST-004",
         "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L02_2.mp3",
         "has_audio": true,
-        "storage": "official_fallback"
+        "storage": "pending_local_asset",
+        "mapping_status": "no_exact_local_filename_match"
       },
       "examples": [
         {
@@ -214,7 +218,8 @@
         "track_id": "GM-ST-005",
         "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L02_3.mp3",
         "has_audio": true,
-        "storage": "official_fallback"
+        "storage": "pending_local_asset",
+        "mapping_status": "no_exact_local_filename_match"
       },
       "examples": [
         {
@@ -261,9 +266,10 @@
       "audio": {
         "file_name": "GWS_X_L03_1.mp3",
         "track_id": "GM-ST-006",
-        "audio_url": "assets/audio/grammar/GWS_X_L03_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L03_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -310,9 +316,10 @@
       "audio": {
         "file_name": "GWS_X_L04_1.mp3",
         "track_id": "GM-ST-007",
-        "audio_url": "assets/audio/grammar/GWS_X_L04_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L04_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -359,9 +366,10 @@
       "audio": {
         "file_name": "GWS_X_L05_1.mp3",
         "track_id": "GM-ST-008",
-        "audio_url": "assets/audio/grammar/GWS_X_L05_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L05_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -408,9 +416,10 @@
       "audio": {
         "file_name": "GWS_X_L05_2.mp3",
         "track_id": "GM-ST-009",
-        "audio_url": "assets/audio/grammar/GWS_X_L05_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L05_2.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -457,9 +466,10 @@
       "audio": {
         "file_name": "GWS_X_L05_3.mp3",
         "track_id": "GM-ST-010",
-        "audio_url": "assets/audio/grammar/GWS_X_L05_3.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L05_3.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -506,9 +516,10 @@
       "audio": {
         "file_name": "GWS_X_L06_1.mp3",
         "track_id": "GM-ST-011",
-        "audio_url": "assets/audio/grammar/GWS_X_L06_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L06_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -555,9 +566,10 @@
       "audio": {
         "file_name": "GWS_X_L07_1.mp3",
         "track_id": "GM-ST-012",
-        "audio_url": "assets/audio/grammar/GWS_X_L07_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L07_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -604,9 +616,10 @@
       "audio": {
         "file_name": "GWS_X_L07_2.mp3",
         "track_id": "GM-ST-013",
-        "audio_url": "assets/audio/grammar/GWS_X_L07_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L07_2.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -653,9 +666,10 @@
       "audio": {
         "file_name": "GWS_X_L07_3.mp3",
         "track_id": "GM-ST-014",
-        "audio_url": "assets/audio/grammar/GWS_X_L07_3.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L07_3.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -702,9 +716,10 @@
       "audio": {
         "file_name": "GWS_X_L07_4.mp3",
         "track_id": "GM-ST-015",
-        "audio_url": "assets/audio/grammar/GWS_X_L07_4.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L07_4.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -751,9 +766,10 @@
       "audio": {
         "file_name": "GWS_X_L08_1.mp3",
         "track_id": "GM-ST-016",
-        "audio_url": "assets/audio/grammar/GWS_X_L08_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L08_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -802,7 +818,8 @@
         "track_id": "GM-ST-017",
         "audio_url": "https://www.irodori.jpf.go.jp/assets/data/worksheet/audio/worksheet_X/GWS_X_L09_1.mp3",
         "has_audio": true,
-        "storage": "official_fallback"
+        "storage": "pending_local_asset",
+        "mapping_status": "no_exact_local_filename_match"
       },
       "examples": [
         {
@@ -849,9 +866,10 @@
       "audio": {
         "file_name": "GWS_X_L09_2.mp3",
         "track_id": "GM-ST-018",
-        "audio_url": "assets/audio/grammar/GWS_X_L09_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L09_2.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -898,9 +916,10 @@
       "audio": {
         "file_name": "GWS_X_L09_3.mp3",
         "track_id": "GM-ST-019",
-        "audio_url": "assets/audio/grammar/GWS_X_L09_3.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L09_3.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -947,9 +966,10 @@
       "audio": {
         "file_name": "GWS_X_L10_1.mp3",
         "track_id": "GM-ST-020",
-        "audio_url": "assets/audio/grammar/GWS_X_L10_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L10_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -996,9 +1016,10 @@
       "audio": {
         "file_name": "GWS_X_L11_1.mp3",
         "track_id": "GM-ST-021",
-        "audio_url": "assets/audio/grammar/GWS_X_L11_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L11_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1045,9 +1066,10 @@
       "audio": {
         "file_name": "GWS_X_L11_2.mp3",
         "track_id": "GM-ST-022",
-        "audio_url": "assets/audio/grammar/GWS_X_L11_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L11_2.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1094,9 +1116,10 @@
       "audio": {
         "file_name": "GWS_X_L12_1.mp3",
         "track_id": "GM-ST-023",
-        "audio_url": "assets/audio/grammar/GWS_X_L12_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L12_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1143,9 +1166,10 @@
       "audio": {
         "file_name": "GWS_X_L12_2.mp3",
         "track_id": "GM-ST-024",
-        "audio_url": "assets/audio/grammar/GWS_X_L12_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L12_2.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1192,9 +1216,10 @@
       "audio": {
         "file_name": "GWS_X_L13_1.mp3",
         "track_id": "GM-ST-025",
-        "audio_url": "assets/audio/grammar/GWS_X_L13_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L13_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1241,9 +1266,10 @@
       "audio": {
         "file_name": "GWS_X_L13_2.mp3",
         "track_id": "GM-ST-026",
-        "audio_url": "assets/audio/grammar/GWS_X_L13_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L13_2.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1290,9 +1316,10 @@
       "audio": {
         "file_name": "GWS_X_L14_1.mp3",
         "track_id": "GM-ST-027",
-        "audio_url": "assets/audio/grammar/GWS_X_L14_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L14_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1339,9 +1366,10 @@
       "audio": {
         "file_name": "GWS_X_L14_2.mp3",
         "track_id": "GM-ST-028",
-        "audio_url": "assets/audio/grammar/GWS_X_L14_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L14_2.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1388,9 +1416,10 @@
       "audio": {
         "file_name": "GWS_X_L15_1.mp3",
         "track_id": "GM-ST-029",
-        "audio_url": "assets/audio/grammar/GWS_X_L15_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L15_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1437,9 +1466,10 @@
       "audio": {
         "file_name": "GWS_X_L15_2.mp3",
         "track_id": "GM-ST-030",
-        "audio_url": "assets/audio/grammar/GWS_X_L15_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L15_2.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1486,9 +1516,10 @@
       "audio": {
         "file_name": "GWS_X_L16_1.mp3",
         "track_id": "GM-ST-031",
-        "audio_url": "assets/audio/grammar/GWS_X_L16_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L16_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1535,9 +1566,10 @@
       "audio": {
         "file_name": "GWS_X_L16_2.mp3",
         "track_id": "GM-ST-032",
-        "audio_url": "assets/audio/grammar/GWS_X_L16_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L16_2.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1584,9 +1616,10 @@
       "audio": {
         "file_name": "GWS_X_L17_1.mp3",
         "track_id": "GM-ST-033",
-        "audio_url": "assets/audio/grammar/GWS_X_L17_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L17_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1633,9 +1666,10 @@
       "audio": {
         "file_name": "GWS_X_L17_2.mp3",
         "track_id": "GM-ST-034",
-        "audio_url": "assets/audio/grammar/GWS_X_L17_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L17_2.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1682,9 +1716,10 @@
       "audio": {
         "file_name": "GWS_X_L18_1.mp3",
         "track_id": "GM-ST-035",
-        "audio_url": "assets/audio/grammar/GWS_X_L18_1.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L18_1.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1731,9 +1766,10 @@
       "audio": {
         "file_name": "GWS_X_L18_2.mp3",
         "track_id": "GM-ST-036",
-        "audio_url": "assets/audio/grammar/GWS_X_L18_2.mp3",
+        "audio_url": "../assets/audio/grammar/GWS_X_L18_2.mp3",
         "has_audio": true,
-        "storage": "local"
+        "storage": "local",
+        "mapping_status": "exact_filename_verified"
       },
       "examples": [
         {
@@ -1771,35 +1807,417 @@
   ],
   "asset_mapping_audit": {
     "audio_folder": "assets/audio/grammar/",
-    "mapping_rule": "Exact filename match only; no inferred substitutions.",
-    "local_audio_mapped": 30,
-    "official_fallback_pending": 6,
-    "pending_audio": [
-      {
-        "lesson": 1,
-        "file": "GWS_X_L01_1.mp3"
+    "book_1_starter_audio_verified": 79,
+    "pattern_audio_exact_matches": 30,
+    "pattern_audio_pending": 6,
+    "image_mapping": "PENDING: no verified grammar-pattern-to-image relationship in this JSON; do not infer from lesson number."
+  },
+  "lesson_audio_inventory": {
+    "source_folder": "assets/audio/grammar/",
+    "source_prefix": "GWS_X_",
+    "total_files": 79,
+    "mapping_method": "Grouped by explicit lesson number embedded in the exact source filename. No filename substitutions or inferred pattern-to-track relationships.",
+    "lessons": {
+      "3": {
+        "count": 6,
+        "files": [
+          {
+            "file_name": "GWS_X_L03_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L03_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L03_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L03_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L03_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L03_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L03_4.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L03_4.mp3"
+          },
+          {
+            "file_name": "GWS_X_L03_5.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L03_5.mp3"
+          },
+          {
+            "file_name": "GWS_X_L03_6.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L03_6.mp3"
+          }
+        ]
       },
-      {
-        "lesson": 1,
-        "file": "GWS_X_L01_2.mp3"
+      "4": {
+        "count": 4,
+        "files": [
+          {
+            "file_name": "GWS_X_L04_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L04_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L04_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L04_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L04_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L04_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L04_4.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L04_4.mp3"
+          }
+        ]
       },
-      {
-        "lesson": 2,
-        "file": "GWS_X_L02_1.mp3"
+      "5": {
+        "count": 6,
+        "files": [
+          {
+            "file_name": "GWS_X_L05_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L05_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L05_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L05_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L05_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L05_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L05_4.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L05_4.mp3"
+          },
+          {
+            "file_name": "GWS_X_L05_5.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L05_5.mp3"
+          },
+          {
+            "file_name": "GWS_X_L05_6.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L05_6.mp3"
+          }
+        ]
       },
-      {
-        "lesson": 2,
-        "file": "GWS_X_L02_2.mp3"
+      "6": {
+        "count": 4,
+        "files": [
+          {
+            "file_name": "GWS_X_L06_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L06_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L06_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L06_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L06_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L06_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L06_4.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L06_4.mp3"
+          }
+        ]
       },
-      {
-        "lesson": 2,
-        "file": "GWS_X_L02_3.mp3"
+      "7": {
+        "count": 6,
+        "files": [
+          {
+            "file_name": "GWS_X_L07_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L07_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L07_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L07_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L07_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L07_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L07_4.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L07_4.mp3"
+          },
+          {
+            "file_name": "GWS_X_L07_5.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L07_5.mp3"
+          },
+          {
+            "file_name": "GWS_X_L07_5_Org.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L07_5_Org.mp3"
+          }
+        ]
       },
-      {
-        "lesson": 9,
-        "file": "GWS_X_L09_1.mp3"
+      "8": {
+        "count": 6,
+        "files": [
+          {
+            "file_name": "GWS_X_L08_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L08_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L08_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L08_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L08_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L08_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L08_4.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L08_4.mp3"
+          },
+          {
+            "file_name": "GWS_X_L08_5.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L08_5.mp3"
+          },
+          {
+            "file_name": "GWS_X_L08_5_Org.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L08_5_Org.mp3"
+          }
+        ]
+      },
+      "9": {
+        "count": 4,
+        "files": [
+          {
+            "file_name": "GWS_X_L09_1_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L09_1_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L09_1_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L09_1_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L09_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L09_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L09_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L09_3.mp3"
+          }
+        ]
+      },
+      "10": {
+        "count": 3,
+        "files": [
+          {
+            "file_name": "GWS_X_L10_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L10_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L10_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L10_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L10_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L10_3.mp3"
+          }
+        ]
+      },
+      "11": {
+        "count": 5,
+        "files": [
+          {
+            "file_name": "GWS_X_L11_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L11_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L11_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L11_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L11_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L11_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L11_4.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L11_4.mp3"
+          },
+          {
+            "file_name": "GWS_X_L11_5.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L11_5.mp3"
+          }
+        ]
+      },
+      "12": {
+        "count": 6,
+        "files": [
+          {
+            "file_name": "GWS_X_L12_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L12_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L12_1_Org.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L12_1_Org.mp3"
+          },
+          {
+            "file_name": "GWS_X_L12_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L12_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L12_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L12_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L12_4.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L12_4.mp3"
+          },
+          {
+            "file_name": "GWS_X_L12_5.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L12_5.mp3"
+          }
+        ]
+      },
+      "13": {
+        "count": 7,
+        "files": [
+          {
+            "file_name": "GWS_X_L13_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L13_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L13_1_Org.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L13_1_Org.mp3"
+          },
+          {
+            "file_name": "GWS_X_L13_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L13_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L13_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L13_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L13_4.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L13_4.mp3"
+          },
+          {
+            "file_name": "GWS_X_L13_5.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L13_5.mp3"
+          },
+          {
+            "file_name": "GWS_X_L13_6.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L13_6.mp3"
+          }
+        ]
+      },
+      "14": {
+        "count": 4,
+        "files": [
+          {
+            "file_name": "GWS_X_L14_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L14_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L14_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L14_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L14_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L14_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L14_3_Org.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L14_3_Org.mp3"
+          }
+        ]
+      },
+      "15": {
+        "count": 2,
+        "files": [
+          {
+            "file_name": "GWS_X_L15_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L15_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L15_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L15_2.mp3"
+          }
+        ]
+      },
+      "16": {
+        "count": 3,
+        "files": [
+          {
+            "file_name": "GWS_X_L16_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L16_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L16_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L16_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L16_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L16_3.mp3"
+          }
+        ]
+      },
+      "17": {
+        "count": 7,
+        "files": [
+          {
+            "file_name": "GWS_X_L17_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L17_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L17_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L17_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L17_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L17_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L17_3_Org.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L17_3_Org.mp3"
+          },
+          {
+            "file_name": "GWS_X_L17_4.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L17_4.mp3"
+          },
+          {
+            "file_name": "GWS_X_L17_5.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L17_5.mp3"
+          },
+          {
+            "file_name": "GWS_X_L17_5_Org.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L17_5_Org.mp3"
+          }
+        ]
+      },
+      "18": {
+        "count": 6,
+        "files": [
+          {
+            "file_name": "GWS_X_L18_1.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L18_1.mp3"
+          },
+          {
+            "file_name": "GWS_X_L18_2.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L18_2.mp3"
+          },
+          {
+            "file_name": "GWS_X_L18_3.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L18_3.mp3"
+          },
+          {
+            "file_name": "GWS_X_L18_4.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L18_4.mp3"
+          },
+          {
+            "file_name": "GWS_X_L18_5.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L18_5.mp3"
+          },
+          {
+            "file_name": "GWS_X_L18_6.mp3",
+            "audio_url": "../assets/audio/grammar/GWS_X_L18_6.mp3"
+          }
+        ]
       }
-    ],
-    "image_mapping": "PENDING: this grammar JSON has no image field and no verified grammar-pattern-to-image relationship. Lesson images were not assigned by assumption."
+    },
+    "pattern_level_audio": {
+      "exact_local_matches": 30,
+      "unmatched_pattern_references": 6
+    }
   }
 }
