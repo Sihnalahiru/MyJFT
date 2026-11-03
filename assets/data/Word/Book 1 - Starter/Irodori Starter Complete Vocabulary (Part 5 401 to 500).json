@@ -1,7 +1,13 @@
 {
   "title": "Irodori Starter Complete Vocabulary (Part 5: 401 to 500)",
-  "total_words": 100,
-  "coverage": "Part 5 of verified Irodori Starter vocabulary (Words 401-500) with official audio and illustration mapping.",
+  "total_words": 97,
+  "expected_words": 100,
+  "coverage": "Recovered from the consolidated Starter source records. The original source file was truncated during st_497; st_498 to st_500 remain pending official source verification.",
+  "missing_ids": [
+    "st_498",
+    "st_499",
+    "st_500"
+  ],
   "vocabulary": [
     {
       "id": "st_401",
@@ -2126,5 +2132,10 @@
       "sinhala": "ඇත්තෙන්ම",
       "audio": {
         "file_name": "wordlist_X_50-8.mp3",
-        "track_id": "L59-V97",
-        "audio_url": "https
+        "track_id": "L59-V97"
+      },
+      "illustration": null,
+      "source_status": "partial_record_recovered"
+    }
+  ]
+}
