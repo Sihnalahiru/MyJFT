@@ -70,7 +70,7 @@
 .vocab-lesson-image-grid figure{margin:0;min-width:0;background:var(--soft,#f7f9fb);border:1px solid var(--line);border-radius:12px;padding:8px}
 .vocab-lesson-image-grid img{display:block;width:100%;height:115px;object-fit:contain}
 .vocab-lesson-image-grid figcaption{font-size:10px;color:var(--muted);overflow-wrap:anywhere;margin-top:6px}
-</style></head>
+</style><link rel="stylesheet" href="./css/irodori-master.css"></head>
 <body><div class="app">
 <aside class="sidebar"><div class="brand"><span class="brand-mark">日</span> MyJFT</div><nav class="nav" id="sideNav"><button class="active" data-page="home"><span class="ico">🏠</span>Home</button><button data-page="learn"><span class="ico">🗺️</span>Learning Path</button><button data-page="alphabet"><span class="ico">あ</span>Alphabet</button><button data-page="vocabulary"><span class="ico">🧠</span>Vocabulary</button><button data-page="grammar"><span class="ico">文</span>Grammar</button><button data-page="practice"><span class="ico">🎯</span>Practice</button><button data-page="profile"><span class="ico">👤</span>Profile</button></nav><div class="side-bottom">🇯🇵 <b>JFT-Basic journey</b><br>Small steps every day. Keep your streak alive!</div></aside>
 <main class="main"><header class="topbar"><div class="pill">🔥 <span id="streakTop">0</span> day streak</div><div class="pill">⚡ <span id="xpTop">0</span> XP</div><div class="avatar">🦊</div></header>
@@ -500,4 +500,4 @@ function markWord(w){if(!state.learned.includes(w)){state.learned.push(w);state.
 function toast(t){let el=document.getElementById('toast');el.textContent=t;el.classList.remove('hidden');setTimeout(()=>el.classList.add('hidden'),2400)}
 function resetProgress(){if(confirm('Reset all MyJFT learning progress on this device?')){state={xp:0,lessons:0,words:0,streak:0,completed:[],lastDay:'',learned:[]};save();renderLessons();toast('Progress reset.')}}
 renderStats();renderLessons();renderWords();renderAlphabet();renderGrammar();loadVocabularyMaster();if('serviceWorker' in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));document.getElementById('romajiToggle').addEventListener('change',e=>document.getElementById('qReading').style.display=e.target.checked?'':'none');
-</script></body></html>
+</script><script src="./js/irodori-master.js"></script></body></html>
