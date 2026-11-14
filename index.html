@@ -401,8 +401,8 @@ function renderSourceVocabulary(){
   const lessonImages=document.getElementById('vocabLessonImages'),audioPanel=document.getElementById('vocabAudioPanel');
   if(lessonImages){lessonImages.hidden=true;lessonImages.innerHTML='';}
   if(audioPanel){audioPanel.hidden=true;audioPanel.innerHTML='';}
-  const notice=document.getElementById('vocabSourceNotice');
-  if(notice){notice.hidden=false;notice.innerHTML='<b>Official source found · structured import pending.</b> The Japan Foundation Pre-Intermediate Word List is available as a 123-page PDF. Vocabulary records, verified Furigana and Sinhala meanings are not yet imported into this repository, so no estimated word count is shown.';}
+  const preIntermediateNotice=document.getElementById('vocabSourceNotice');
+  if(preIntermediateNotice){preIntermediateNotice.hidden=false;preIntermediateNotice.innerHTML='<b>Official source found · structured import pending.</b> The Japan Foundation Pre-Intermediate Word List is available as a 123-page PDF. Vocabulary records, verified Furigana and Sinhala meanings are not yet imported into this repository, so no estimated word count is shown.';}
   document.getElementById('vocabTotal').textContent='Pending';
   document.getElementById('vocabBookCount').textContent='Pre-Intermediate';
   document.getElementById('vocabMissingCount').textContent='Import pending';
@@ -416,7 +416,7 @@ function renderSourceVocabulary(){
  }
  const search=document.getElementById('sourceVocabSearch'),filters=document.querySelector('.vocab-filter-grid');
  if(search)search.hidden=false;if(filters)filters.hidden=false;
- const notice=document.getElementById('vocabSourceNotice');if(notice)notice.hidden=true;
+ const standardNotice=document.getElementById('vocabSourceNotice');if(standardNotice)standardNotice.hidden=true;
  const lessonEl=document.getElementById('vocabLessonFilter'),topicEl=document.getElementById('vocabTopicFilter'),subEl=document.getElementById('vocabSubtopicFilter');
  const lessonLabel=lessonEl?.closest('label');if(lessonLabel)lessonLabel.hidden=vocabularyBook==='X';
  if(vocabularyBook==='X'&&lessonEl)lessonEl.value='all';

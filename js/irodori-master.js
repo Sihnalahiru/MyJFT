@@ -54,6 +54,12 @@ function buildMenu(){
 const YOON=[['kya','きゃ','キャ'],['kyu','きゅ','キュ'],['kyo','きょ','キョ'],['sha','しゃ','シャ'],['shu','しゅ','シュ'],['sho','しょ','ショ'],['cha','ちゃ','チャ'],['chu','ちゅ','チュ'],['cho','ちょ','チョ'],['nya','にゃ','ニャ'],['nyu','にゅ','ニュ'],['nyo','にょ','ニョ'],['hya','ひゃ','ヒャ'],['hyu','ひゅ','ヒュ'],['hyo','ひょ','ヒョ'],['mya','みゃ','ミャ'],['myu','みゅ','ミュ'],['myo','みょ','ミョ'],['rya','りゃ','リャ'],['ryu','りゅ','リュ'],['ryo','りょ','リョ'],['gya','ぎゃ','ギャ'],['gyu','ぎゅ','ギュ'],['gyo','ぎょ','ギョ'],['ja','じゃ','ジャ'],['ju','じゅ','ジュ'],['jo','じょ','ジョ'],['bya','びゃ','ビャ'],['byu','びゅ','ビュ'],['byo','びょ','ビョ'],['pya','ぴゃ','ピャ'],['pyu','ぴゅ','ピュ'],['pyo','ぴょ','ピョ']];
 const SMALL_KANA=[['ぁ','ァ','small a'],['ぃ','ィ','small i'],['ぅ','ゥ','small u'],['ぇ','ェ','small e'],['ぉ','ォ','small o'],['ゃ','ャ','small ya'],['ゅ','ュ','small yu'],['ょ','ョ','small yo'],['っ','ッ','small tsu'],['ゎ','ヮ','small wa']];
 function openBookLesson(book,lesson){
+ if(book==='X'||book==='Y'){
+  currentGrammarBook=book;
+  page('grammar');
+  renderGrammar();
+  return;
+ }
  if(book==='P'){
   page('vocabulary');
   if(typeof vocabularyBook!=='undefined')vocabularyBook='P';
@@ -67,14 +73,9 @@ function openBookLesson(book,lesson){
  if(typeof vocabularyBook!=='undefined')vocabularyBook=book;
  $$('[data-vocab-book]').forEach(tab=>tab.classList.toggle('active',tab.dataset.vocabBook===book));
  if(typeof renderSourceVocabulary==='function')renderSourceVocabulary();
- if(book!=='X'){
-  const lessonFilter=$('#vocabLessonFilter');
-  if(lessonFilter){lessonFilter.value=String(lesson).padStart(2,'0');if(typeof renderSourceVocabulary==='function')renderSourceVocabulary();}
- }else{
-  notify('Starter words are shown by verified source topics. Exact lesson-to-word mapping remains under audit.');
- }
-}
-function renderBooks(){
+ const lessonFilter=$('#vocabLessonFilter');
+ if(lessonFilter){lessonFilter.value=String(lesson).padStart(2,'0');if(typeof renderSourceVocabulary==='function')renderSourceVocabulary();}
+}function renderBooks(){
  const host=$('#imBooksGrid'),lessons=$('#imLessonsGrid');if(!host||!lessons)return;
  const rows=records();
  host.innerHTML=BOOKS.map(book=>{
@@ -86,7 +87,7 @@ function renderBooks(){
  lessons.innerHTML=BOOKS.map(book=>Array.from({length:18},(_,i)=>{
   const lesson=i+1;
   const count=rows.filter(x=>x.book===book.id&&Number(x.lesson)===lesson).length;
-  const description=book.id==='P'?'Official lesson audio player · vocabulary import pending':book.id==='X'?'Topic-based vocabulary · lesson mapping pending':count.toLocaleString()+' linked vocabulary records';
+  const description=book.id==='P'?'Official lesson audio player · vocabulary import pending':book.id==='X'?'Grammar lesson; Starter vocabulary is grouped by verified source topics':book.id==='Y'?count.toLocaleString()+' vocabulary records · grammar lesson available':count.toLocaleString()+' linked vocabulary records';
   const status=book.id==='P'?'Official audio':book.id==='X'?'Topic-based':count?'Open vocabulary':'Source mapping pending';
   return '<button class="im-tile" data-lesson-book="'+book.id+'" data-lesson-no="'+lesson+'" style="text-align:left;color:inherit"><div class="im-row"><b>'+esc(book.name)+' · Lesson '+String(lesson).padStart(2,'0')+'</b><span class="im-status '+(book.id==='P'?'pending':'')+'">'+esc(status)+'</span></div><p>'+esc(description)+'</p></button>';
  }).join('')).join('');
@@ -161,11 +162,6 @@ function renderAudio(){
  if(prev)prev.disabled=audioPageIndex===0;
  if(next)next.disabled=audioPageIndex>=pageCount-1;
  host.innerHTML=visible.length?visible.map(file=>'<div class="im-audio-row"><div><b>'+esc(file.name)+'</b><div class="im-muted">'+esc(file.group||'Audio')+(file.book_code?' · '+esc(file.book_code):'')+(file.lesson_number?' · Lesson '+String(file.lesson_number).padStart(2,'0'):'')+'</div></div><span class="im-status">LOCAL FILE</span><audio controls playsinline preload="none" src="'+esc(file.src)+'" aria-label="'+esc(file.name)+'"></audio></div>').join(''):'<p class="im-muted">No audio files match this search. Try another word or choose All audio.</p>';
-}function renderAudio(){
- const host=$('#imAudioList');if(!host)return;const files=allAudioFiles();
- $('#imAudioCount').textContent=files.length.toLocaleString()+' verified manifest entries';
- if(!files.length){host.innerHTML='<p class="im-muted">No local audio filenames are currently exposed by the loaded manifest. Official remote lesson audio remains available only where its source mapping is verified.</p>';return}
- host.innerHTML=files.slice(0,120).map(f=>'<div class="im-audio-row"><div><b>'+esc(f.name)+'</b><div class="im-muted">'+f.group+'</div></div><span class="im-status">SOURCE MANIFEST</span><audio controls playsinline preload="none" src="'+esc(f.src)+'" aria-label="'+esc(f.name)+'"></audio></div>').join('')+(files.length>120?'<p class="im-muted">Showing first 120 of '+files.length+' tracks. Search/filter expansion will use the full manifest.</p>':'');
 }
 function renderOverview(){
  const done=master.completedLessons.length,words=records(),learned=master.learnedWords.length;
