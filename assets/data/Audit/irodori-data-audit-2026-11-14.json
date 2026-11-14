@@ -56,11 +56,17 @@
     "yoon_and_small_kana": "Separate completeness audit required."
   },
   "kanji": {
-    "available_records": 400,
-    "file_total": 400,
+    "available_source_records": 400,
+    "unique_characters": 389,
+    "duplicate_source_rows": 11,
     "official_target": 644,
-    "remaining_to_audit": 244,
-    "source_coverage": "Complete merged collection of all 400 kanji from Irodori curriculum (Bulk 1 to 5) without missing any data."
+    "remaining_unique_characters": 255,
+    "remaining_record_slots": 244,
+    "records_without_kunyomi_field": 38,
+    "romaji_fields_containing_kana": 80,
+    "local_kanji_audio_files": 0,
+    "local_kanji_illustration_or_stroke_order_assets": 0,
+    "note": "Preserve all source rows for lesson mapping. Count mastery by unique Kanji character. Display kana readings and do not rely on inconsistent romaji fields until separately audited."
   },
   "audio": {
     "local_files": 480,
@@ -84,6 +90,8 @@
     "all_existing_source_records_preserved": true,
     "duplicate_records_deleted": false,
     "original_audio_filenames_preserved": true,
-    "generated_word_data_added": false
+    "generated_word_data_added": false,
+    "kanji_duplicates_deleted": false,
+    "kanji_progress_counts_unique_characters": true
   }
 }

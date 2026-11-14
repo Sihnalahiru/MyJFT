@@ -16,8 +16,17 @@ let audioCatalog = null;
 let audioPageIndex = 0;
 const AUDIO_PAGE_SIZE = 30;
 const OFFICIAL_AUDIO_BASES = {X:'https://www.irodori.jpf.go.jp/en/starter/audio/lesson',Y:'https://www.irodori.jpf.go.jp/en/elementary01/audio/lesson',Z:'https://www.irodori.jpf.go.jp/en/elementary02/audio/lesson',P:'https://www.irodori.jpf.go.jp/en/pre-intermediate/audio/lesson'};
-function readProgress(){try{return JSON.parse(localStorage.getItem(KEY))||{completedLessons:[],learnedWords:[],knownKana:[],reviewQueue:[],daily:{}}}catch{return {completedLessons:[],learnedWords:[],knownKana:[],reviewQueue:[],daily:{}}}}
-function saveProgress(){localStorage.setItem(KEY,JSON.stringify(master));renderOverview()}
+let kanjiData = null;
+let kanjiPageIndex = 0;
+const KANJI_PAGE_SIZE = 24;
+let kanjiPracticeItem = null;
+let kanjiPracticeScore = 0;
+let kanjiPracticeAttempts = 0;
+function readProgress(){
+ const empty={completedLessons:[],learnedWords:[],knownKana:[],learnedKanji:[],reviewQueue:[],daily:{}};
+ try{const saved=JSON.parse(localStorage.getItem(KEY));if(!saved)return empty;if(!Array.isArray(saved.learnedKanji))saved.learnedKanji=[];return {...empty,...saved}}
+ catch{return empty}
+}function saveProgress(){localStorage.setItem(KEY,JSON.stringify(master));renderOverview()}
 function records(){try{return Array.isArray(vocabularyMaster?.records)?vocabularyMaster.records:[]}catch{return []}}
 function currentKana(){try{return alphabetData?.characters||[]}catch{return []}}
 function page(id){if(typeof showPage==='function'){showPage(id);return}$$('.page').forEach(x=>x.classList.toggle('active',x.id==='page-'+id))}
@@ -38,9 +47,9 @@ function pageShell(id,title,subtitle,icon,body){
 function addPages(){
  pageShell('books','Books & Lessons','Four official IRODORI books · 72 lesson slots · source-linked availability only','📚','<div class="im-grid" id="imBooksGrid"></div><div class="im-section-title"><h2>All 72 lessons</h2><span class="im-muted">18 per book</span></div><div id="imLessonsGrid" class="im-grid"></div><div class="notice" style="margin-top:14px">Lesson slots are shown for navigation completeness. A lesson becomes available only when its official source content and mappings are verified.</div>');
  pageShell('audio','Audio Studio','Official recordings first · Native Japanese voice fallback · iOS Safari ready','🎧','<div class="card"><div class="im-row"><div><h2>Native Japanese pronunciation</h2><p class="im-muted">Tap to play. iPhone Safari requires a direct user gesture for speech playback.</p></div><span class="im-chip" id="imVoiceStatus">Checking Japanese voice…</span></div><input class="im-field" id="imSpeakText" lang="ja" value="こんにちは。日本語を勉強しましょう。" aria-label="Japanese text to pronounce"><div class="im-row" style="margin-top:12px"><button class="btn" id="imSpeakButton">🔊 Speak Japanese</button><button class="btn ghost" id="imStopSpeech">Stop</button><label class="im-muted">Speed <select id="imSpeechRate" class="im-field" style="width:auto;display:inline-block"><option value=".75">Slow</option><option value=".9" selected>Normal</option><option value="1">Natural</option></select></label></div></div><div class="im-section-title"><h2>Local official audio files</h2><span class="im-muted" id="imAudioCount">Loading complete audio inventory…</span></div><div class="im-row" style="margin-bottom:10px;flex-wrap:wrap"><input class="im-field" id="imAudioSearch" placeholder="Search filename, book or lesson…" aria-label="Search audio files" style="flex:1;min-width:180px"><select class="im-field" id="imAudioGroup" aria-label="Filter audio family" style="width:auto"><option value="all">All audio families</option><option value="WORD_LIST">Word-list Audio</option><option value="GRAMMAR_WORKSHEET">Grammar Worksheet Audio</option></select></div><div class="card" id="imAudioList"><p class="im-muted">Audio inventory is being checked from the complete repository catalogue.</p></div><div class="im-row" style="justify-content:flex-end;margin-top:10px"><button class="btn ghost" id="imAudioPrev" disabled>← Previous</button><span class="im-muted" id="imAudioPage">Page 1 / 1</span><button class="btn ghost" id="imAudioNext" disabled>Next →</button></div><div class="im-section-title"><h2>Official lesson audio · all 72 lessons</h2><span class="im-muted">Japan Foundation players</span></div><div class="card" id="imOfficialLessonAudio"><p class="im-muted">Loading official lesson audio links…</p></div><div class="card" style="margin-top:14px"><h3>iOS playback checks</h3><ul><li>Audio starts only after a tap; no autoplay dependency.</li><li>Recorded MP3 files use native HTML audio controls with playsinline.</li><li>Japanese TTS uses an installed Japanese voice; an English voice is never substituted.</li><li>Official lesson audio opens the Japan Foundation MP3 player, which supports iPhone/iPad playback.</li></ul></div>');
- pageShell('kanji','Kanji Master','Official syllabus target: 644 Kanji · Only verified source records count as available','漢','<div class="im-kpi-grid"><div class="im-kpi"><b>644</b><span>OFFICIAL TARGET</span></div><div class="im-kpi"><b id="imKanjiAvailable">—</b><span>VERIFIED RECORDS</span></div><div class="im-kpi"><b>0</b><span>MASTERED</span></div><div class="im-kpi"><b id="imKanjiPending">644</b><span>REMAINING / UNVERIFIED</span></div></div><div class="card"><h2>Kanji inventory</h2><p class="im-muted">Kanji are not generated from guesses. Each record must include the source character, readings, meaning, lesson/source mapping and verification state before it becomes practice-ready.</p><span class="im-status pending">SOURCE INVENTORY AUDIT REQUIRED</span></div>');
+ pageShell('kanji','Kanji Master','644 official target · verified source records · unique-character progress','漢','<div class="im-kpi-grid"><div class="im-kpi"><b>644</b><span>OFFICIAL TARGET</span></div><div class="im-kpi"><b id="imKanjiAvailable">—</b><span>UNIQUE VERIFIED</span></div><div class="im-kpi"><b id="imKanjiMastered">0</b><span>MASTERED</span></div><div class="im-kpi"><b id="imKanjiPending">644</b><span>UNIQUE REMAINING</span></div></div><div class="card"><div class="im-section-title" style="margin-top:0"><h2>Unlimited Kanji Practice</h2><span class="im-chip">Random MCQ</span></div><p class="im-muted">Practice only uses verified Kanji records. Repeated source rows are preserved, but a character counts once toward mastery.</p><button type="button" class="btn" id="imStartKanjiPractice">Start Kanji Practice</button><div id="imKanjiPracticeCard" style="margin-top:14px"><p class="im-muted">Start a random Kanji meaning quiz.</p></div></div><div class="im-section-title"><h2>Verified Kanji inventory</h2><span class="im-muted" id="imKanjiCount">Loading source records…</span></div><div class="im-row" style="margin-bottom:12px;flex-wrap:wrap"><input class="im-field" id="imKanjiSearch" placeholder="Search Kanji, reading, English or Sinhala…" style="flex:1;min-width:190px" aria-label="Search Kanji"><select class="im-field" id="imKanjiLevel" style="width:auto" aria-label="Filter Kanji by level"><option value="all">All levels</option></select></div><div id="imKanjiList" class="im-grid"><p class="im-muted">Loading verified Kanji records…</p></div><div class="im-row" style="justify-content:flex-end;margin-top:10px"><button type="button" class="btn ghost" id="imKanjiPrev" disabled>← Previous</button><span class="im-muted" id="imKanjiPage">Page 1 / 1</span><button type="button" class="btn ghost" id="imKanjiNext" disabled>Next →</button></div><div class="card" style="margin-top:14px"><h3>Official source references</h3><p class="im-muted">The current repository contains 400 source entries, 389 unique characters. The remaining official target is not fabricated. Kanji audio and stroke-order image files are not present locally; Japanese reading playback uses the native Japanese voice installed on the device.</p><div class="im-row" style="flex-wrap:wrap"><a class="btn ghost" href="https://www.irodori.jpf.go.jp/assets/data/kanji_list.xlsx" target="_blank" rel="noopener noreferrer">Official 644 Kanji List (Excel) ↗</a><a class="btn ghost" href="https://www.irodori.jpf.go.jp/assets/data/Kanji_all.pdf" target="_blank" rel="noopener noreferrer">Official Kanji Words PDF ↗</a></div></div>');
  pageShell('review','Flashcards & SRS','Review due words from the verified IRODORI vocabulary inventory','🃏','<div class="card" id="imReviewCard"><div class="im-row"><span class="im-chip">Spaced repetition</span><span class="im-muted" id="imReviewCount">0 review cards</span></div><div class="question-card"><div class="q-type">JAPANESE WORD</div><div class="jp" id="imReviewJapanese">No verified vocabulary loaded</div><div class="reading" id="imReviewReading"></div><div id="imReviewMeaning" class="translation im-hidden"></div><button class="btn" id="imReveal">Reveal meaning</button></div><div class="im-row"><button class="btn ghost" data-review="again">Again</button><button class="btn secondary" data-review="hard">Hard</button><button class="btn" data-review="known">Know it</button></div><p class="im-muted" id="imReviewNote">Cards are created only from the source vocabulary file.</p></div>');
- pageShell('analytics','Learning Analytics','Live totals from your saved learning activity and verified source inventory','📊','<div class="im-kpi-grid"><div class="im-kpi"><b id="imLessonsDone">0</b><span>LESSONS COMPLETED</span></div><div class="im-kpi"><b id="imLessonsLeft">72</b><span>LESSONS REMAINING</span></div><div class="im-kpi"><b id="imWordsTotal">—</b><span>VERIFIED WORD RECORDS</span></div><div class="im-kpi"><b id="imWordsLearned">0</b><span>WORDS LEARNED</span></div></div><div class="card"><h2>Lesson completion</h2><div class="im-progress-line"><i id="imLessonBar" style="width:0%"></i></div><p class="im-muted" id="imLessonPercent">0% of 72 lessons completed in this app</p><div class="im-section-title"><h2>Book progress</h2></div><div id="imBookProgress" class="stack"></div></div><div class="card" style="margin-top:14px"><h2>Data integrity</h2><div id="imDataAudit"></div></div>');
+ pageShell('analytics','Learning Analytics','Live totals from your saved learning activity and verified source inventory','📊','<div class="im-kpi-grid"><div class="im-kpi"><b id="imLessonsDone">0</b><span>LESSONS COMPLETED</span></div><div class="im-kpi"><b id="imLessonsLeft">72</b><span>LESSONS REMAINING</span></div><div class="im-kpi"><b id="imWordsTotal">—</b><span>VERIFIED WORD RECORDS</span></div><div class="im-kpi"><b id="imWordsLearned">0</b><span>WORDS LEARNED</span></div><div class="im-kpi"><b id="imWordsRemaining">—</b><span>WORDS REMAINING</span></div></div><div class="card"><h2>Lesson completion</h2><div class="im-progress-line"><i id="imLessonBar" style="width:0%"></i></div><p class="im-muted" id="imLessonPercent">0% of 72 lessons completed in this app</p><div class="im-section-title"><h2>Book progress</h2></div><div id="imBookProgress" class="stack"></div></div><div class="card" style="margin-top:14px"><h2>Data integrity</h2><div id="imDataAudit"></div></div>');
  pageShell('settings','Settings','iPhone-friendly display, voice and progress preferences','⚙️','<div class="card"><h2>Appearance</h2><div class="settings-row"><span>Glass theme</span><b class="im-chip">Enabled</b></div><div class="settings-row"><span>Reduce motion</span><label><input id="imReduceMotion" type="checkbox"> On</label></div><h2 style="margin-top:22px">Audio</h2><div class="settings-row"><span>Japanese speech voice</span><b id="imSettingsVoice">Checking…</b></div><div class="settings-row"><span>Default speech speed</span><b>0.9×</b></div><h2 style="margin-top:22px">Learning data</h2><p class="im-muted">Progress is stored on this device. Resetting progress does not delete source vocabulary, audio or official lesson data.</p><button class="btn ghost" id="imResetProgress">Reset learning progress</button></div>');
  pageShell('menu','All sections','Open any learning area from one place','☰','<div class="im-grid" id="imMenuGrid"></div>');
  const practicePage=$('#page-practice');
@@ -92,7 +101,88 @@ function openBookLesson(book,lesson){
   return '<button class="im-tile" data-lesson-book="'+book.id+'" data-lesson-no="'+lesson+'" style="text-align:left;color:inherit"><div class="im-row"><b>'+esc(book.name)+' · Lesson '+String(lesson).padStart(2,'0')+'</b><span class="im-status '+(book.id==='P'?'pending':'')+'">'+esc(status)+'</span></div><p>'+esc(description)+'</p></button>';
  }).join('')).join('');
  lessons.querySelectorAll('[data-lesson-book]').forEach(button=>button.addEventListener('click',()=>openBookLesson(button.dataset.lessonBook,Number(button.dataset.lessonNo))));
-}function renderKanaExtras(){
+}async function loadKanjiData(){
+ try{
+  const response=await fetch('./Kanji/irodori_kanji_all_400.json',{cache:'no-cache'});
+  if(!response.ok)throw new Error('Kanji source request failed: '+response.status);
+  kanjiData=await response.json();
+  if(!Array.isArray(kanjiData.kanji_list))throw new Error('Kanji source schema is invalid');
+  master.learnedKanji=Array.isArray(master.learnedKanji)?master.learnedKanji:[];
+  renderKanji();renderOverview();
+ }catch(error){
+  kanjiData=null;renderOverview();
+  const count=$('#imKanjiCount');if(count)count.textContent='Verified Kanji source could not be loaded.';
+  console.warn('IRODORI Kanji data could not be loaded.',error);
+ }
+}
+function uniqueKanjiRecords(){
+ const map=new Map();
+ (kanjiData?.kanji_list||[]).forEach(item=>{if(item.kanji&&!map.has(item.kanji))map.set(item.kanji,item)});
+ return [...map.values()];
+}
+function renderKanji(){
+ const host=$('#imKanjiList');if(!host)return;
+ const rows=kanjiData?.kanji_list||[];
+ if(!kanjiData){host.innerHTML='<p class="im-muted">Loading verified Kanji source records…</p>';return}
+ master.learnedKanji=Array.isArray(master.learnedKanji)?master.learnedKanji:[];
+ const uniqueCount=new Set(rows.map(x=>x.kanji).filter(Boolean)).size;
+ const learnedCount=master.learnedKanji.filter(ch=>rows.some(x=>x.kanji===ch)).length;
+ const set=(id,value)=>{const el=$('#'+id);if(el)el.textContent=String(value)};
+ set('imKanjiAvailable',uniqueCount);set('imKanjiMastered',learnedCount);set('imKanjiPending',Math.max(0,644-uniqueCount));
+ const count=$('#imKanjiCount');if(count)count.textContent=rows.length+' source entries · '+uniqueCount+' unique characters · '+(rows.length-uniqueCount)+' repeated source rows preserved';
+ const levelSelect=$('#imKanjiLevel');
+ if(levelSelect&&levelSelect.dataset.ready!=='1'){
+  const levels=[...new Set(rows.map(x=>x.grade_level).filter(Boolean))].sort();
+  levelSelect.innerHTML='<option value="all">All levels</option>'+levels.map(level=>'<option value="'+esc(level)+'">'+esc(level)+'</option>').join('');
+  levelSelect.dataset.ready='1';
+ }
+ const query=($('#imKanjiSearch')?.value||'').trim().toLowerCase();
+ const level=levelSelect?.value||'all';
+ const filtered=rows.filter(item=>(level==='all'||item.grade_level===level)&&(!query||[item.kanji,item.grade_level,item.radical,item.meanings?.english,item.meanings?.sinhala,item.readings?.onyomi?.kana,item.readings?.kunyomi?.kana,item.id].join(' ').toLowerCase().includes(query)));
+ const pages=Math.max(1,Math.ceil(filtered.length/KANJI_PAGE_SIZE));
+ kanjiPageIndex=Math.max(0,Math.min(kanjiPageIndex,pages-1));
+ const visible=filtered.slice(kanjiPageIndex*KANJI_PAGE_SIZE,(kanjiPageIndex+1)*KANJI_PAGE_SIZE);
+ set('imKanjiPage','Page '+(kanjiPageIndex+1)+' / '+pages);
+ const prev=$('#imKanjiPrev'),next=$('#imKanjiNext');if(prev)prev.disabled=kanjiPageIndex===0;if(next)next.disabled=kanjiPageIndex>=pages-1;
+ const frequencies=new Map();rows.forEach(item=>frequencies.set(item.kanji,(frequencies.get(item.kanji)||0)+1));
+ host.innerHTML=visible.length?visible.map(item=>{
+  const on=item.readings?.onyomi?.kana||'—',kun=item.readings?.kunyomi?.kana||'—';
+  const onSpeech=on==='—'?'':on.split(/[、,，]/).map(x=>x.trim().replace(/^-/, '')).filter(Boolean).join('、');
+  const kunSpeech=kun==='—'?'':kun.split(/[、,，]/).map(x=>x.trim().replace(/^-/, '')).filter(Boolean).join('、');
+  const learned=master.learnedKanji.includes(item.kanji);
+  const duplicateCount=frequencies.get(item.kanji)||1;
+  return '<article class="im-tile im-kanji-card"><div class="im-row"><span class="im-chip">'+esc(item.grade_level||'IRODORI')+'</span><span class="im-muted">'+esc(item.id||'')+'</span></div><div class="im-kanji-character">'+esc(item.kanji)+'</div><h3>'+esc(item.meanings?.english||'Meaning pending')+'</h3><p class="im-kanji-sinhala">'+esc(item.meanings?.sinhala||'සිංහල අර්ථය pending')+'</p><div class="im-kanji-meta">Lesson '+esc(item.lesson??'—')+' · '+esc(item.stroke_count??'—')+' strokes · Radical '+esc(item.radical||'—')+(duplicateCount>1?' · '+duplicateCount+' source entries':'')+'</div><div class="im-kanji-reading"><div><b>On reading</b><span>'+esc(on)+'</span>'+(onSpeech?'<button type="button" class="btn ghost" data-kanji-speak="'+esc(onSpeech)+'">🔊 Listen</button>':'')+'</div><div><b>Kun reading</b><span>'+esc(kun)+'</span>'+(kunSpeech?'<button type="button" class="btn ghost" data-kanji-speak="'+esc(kunSpeech)+'">🔊 Listen</button>':'')+'</div></div>'+(item.mnemonic_story_sinhala?'<details><summary>සිංහල මතක සටහන</summary><p>'+esc(item.mnemonic_story_sinhala)+'</p></details>':'')+'<button type="button" class="btn '+(learned?'secondary':'ghost')+'" data-kanji-learned="'+esc(item.kanji)+'">'+(learned?'✓ Learned':'Mark learned')+'</button></article>';
+ }).join(''):'<p class="im-muted">No Kanji records match this search.</p>';
+}
+function toggleKanjiLearned(character){
+ if(!character)return;
+ master.learnedKanji=Array.isArray(master.learnedKanji)?master.learnedKanji:[];
+ master.learnedKanji=master.learnedKanji.includes(character)?master.learnedKanji.filter(x=>x!==character):[...master.learnedKanji,character];
+ saveProgress();renderKanji();
+}
+function startKanjiPractice(){kanjiPracticeScore=0;kanjiPracticeAttempts=0;nextKanjiPractice()}
+function nextKanjiPractice(){
+ const host=$('#imKanjiPracticeCard'),pool=uniqueKanjiRecords();
+ if(!host)return;
+ if(pool.length<4){host.innerHTML='<p class="im-muted">At least four verified Kanji records are required.</p>';return}
+ const item=pool[Math.floor(Math.random()*pool.length)];
+ const correct=String(item.meanings?.english||'').split(/[;,]/)[0].trim();
+ const alternatives=[...new Set(pool.filter(x=>x.kanji!==item.kanji).map(x=>String(x.meanings?.english||'').split(/[;,]/)[0].trim()).filter(x=>x&&x!==correct))].sort(()=>Math.random()-.5).slice(0,3);
+ const options=[correct,...alternatives].sort(()=>Math.random()-.5);
+ kanjiPracticeItem={item,options,correctIndex:options.indexOf(correct)};
+ host.innerHTML='<div class="im-kanji-practice-question"><div class="im-kanji-character">'+esc(item.kanji)+'</div><p>Choose the correct English meaning</p><div class="answers">'+options.map((option,index)=>'<button type="button" class="im-choice" data-kanji-choice="'+index+'">'+esc(option)+'</button>').join('')+'</div><div id="imKanjiPracticeFeedback" class="im-muted">Select an answer.</div><div class="im-row"><span id="imKanjiPracticeScore">Score '+kanjiPracticeScore+' / '+kanjiPracticeAttempts+'</span><button type="button" class="btn" id="imNextKanjiPractice" disabled>Next Kanji →</button></div><p class="im-muted">'+esc(item.readings?.onyomi?.kana||'')+' · '+esc(item.readings?.kunyomi?.kana||'')+'</p></div>';
+}
+function checkKanjiPractice(index){
+ if(!kanjiPracticeItem)return;
+ const correct=index===kanjiPracticeItem.correctIndex;
+ kanjiPracticeAttempts++;if(correct)kanjiPracticeScore++;
+ const feedback=$('#imKanjiPracticeFeedback');
+ if(feedback)feedback.textContent=correct?'Correct! '+kanjiPracticeItem.item.meanings.english:'Not quite. Correct meaning: '+kanjiPracticeItem.item.meanings.english;
+ $$('[data-kanji-choice]').forEach(button=>{button.disabled=true;button.classList.toggle('correct',Number(button.dataset.kanjiChoice)===kanjiPracticeItem.correctIndex)});
+ const score=$('#imKanjiPracticeScore');if(score)score.textContent='Score '+kanjiPracticeScore+' / '+kanjiPracticeAttempts;
+ const next=$('#imNextKanjiPractice');if(next)next.disabled=false;
+}
+function renderKanaExtras(){
  const alphabet=$('#page-alphabet');if(!alphabet||$('#imKanaExtras'))return;
  const panel=document.createElement('div');panel.id='imKanaExtras';panel.className='card';panel.style.marginTop='16px';
  panel.innerHTML='<div class="im-section-title" style="margin-top:0"><h2>Yōon · Combined Kana</h2><span class="im-chip">33 combinations</span></div><p class="im-muted">Small ゃ・ゅ・ょ combine with the i-row kana. Tap any pair to hear its Japanese sound.</p><div class="im-grid">'+YOON.map(x=>'<button class="im-tile" data-kana-speak="'+x[1]+' '+x[2]+'"><b style="font-size:25px">'+x[1]+'　'+x[2]+'</b><p>'+x[0]+'</p></button>').join('')+'</div><div class="im-section-title"><h2>Small Kana</h2><span class="im-chip">10 forms</span></div><div class="im-grid">'+SMALL_KANA.map(x=>'<button class="im-tile" data-kana-speak="'+x[0]+' '+x[1]+'"><b style="font-size:25px">'+x[0]+'　'+x[1]+'</b><p>'+x[2]+'</p></button>').join('')+'</div>';
@@ -178,14 +268,24 @@ async function saveAudioOffline(src){
 function renderOverview(){
  const done=master.completedLessons.length,words=records(),learned=master.learnedWords.length;
  const set=(id,v)=>{const el=$('#'+id);if(el)el.textContent=String(v)};
- set('imLessonsDone',done);set('imLessonsLeft',Math.max(0,72-done));set('imWordsTotal',words.length?words.length:'Not loaded');set('imWordsLearned',learned);
+ const kanjiRows=kanjiData?.kanji_list||[];
+ const uniqueKanji=new Set(kanjiRows.map(x=>x.kanji).filter(Boolean)).size;
+ const kanjiLearned=Array.isArray(master.learnedKanji)?master.learnedKanji.length:0;
+ const basicKana=currentKana().length*2;
+ const yoonForms=typeof YOON!=='undefined'?YOON.length*2:0;
+ const smallForms=typeof SMALL_KANA!=='undefined'?SMALL_KANA.length*2:0;
+ set('imLessonsDone',done);set('imLessonsLeft',Math.max(0,72-done));
+ set('imWordsTotal',words.length?words.length:'Not loaded');set('imWordsLearned',learned);
+ set('imWordsRemaining',Math.max(0,words.length-learned));
+ set('imKanjiAvailable',kanjiData?uniqueKanji:'Loading…');
+ set('imKanjiMastered',kanjiLearned);
+ set('imKanjiPending',kanjiData?Math.max(0,644-uniqueKanji):644);
  const bar=$('#imLessonBar');if(bar)bar.style.width=Math.min(100,done/72*100)+'%';
  set('imLessonPercent',Math.round(done/72*100)+'% of 72 lessons completed in this app');
- set('imKanjiAvailable','Not loaded');set('imKanjiPending','644');
  const bookHost=$('#imBookProgress');if(bookHost)bookHost.innerHTML=BOOKS.map(b=>{const n=master.completedLessons.filter(x=>String(x).startsWith(b.id+'-')).length;return '<div><div class="im-row"><b>'+b.name+'</b><span class="im-muted">'+n+' / 18</span></div><div class="im-progress-line"><i style="width:'+(n/18*100)+'%"></i></div></div>'}).join('');
- const audit=$('#imDataAudit');if(audit)audit.innerHTML='<div class="settings-row"><span>Books / lessons</span><b>4 / 72 target</b></div><div class="settings-row"><span>Vocabulary master</span><b class="'+(words.length?'':'im-status pending')+'">'+(words.length?words.length+' records loaded':'Not loaded / verify source file')+'</b></div><div class="settings-row"><span>Alphabet source pairs</span><b>'+currentKana().length+' / 71 baseline</b></div><div class="settings-row"><span>Kanji master</span><b class="im-status pending">644 target · inventory pending</b></div><div class="settings-row"><span>Official audio manifest</span><b>'+allAudioFiles().length+' local tracks listed</b></div>';
-}
-function selectReview(){
+ const auditHost=$('#imDataAudit');
+ if(auditHost)auditHost.innerHTML='<div class="settings-row"><span>Books / lessons</span><b>4 / 72 target</b></div><div class="settings-row"><span>Vocabulary master</span><b class="'+(words.length?'':'im-status pending')+'">'+(words.length?words.length.toLocaleString()+' source records · Pre-Intermediate import pending':'Not loaded / verify source file')+'</b></div><div class="settings-row"><span>Kana inventory</span><b>'+basicKana+' basic forms · '+yoonForms+' yōon combinations · '+smallForms+' small forms</b></div><div class="settings-row"><span>Kanji master</span><b class="im-status pending">'+(kanjiData?kanjiRows.length+' source entries · '+uniqueKanji+' unique / 644 · '+Math.max(0,644-uniqueKanji)+' pending':'Loading verified Kanji source…')+'</b></div><div class="settings-row"><span>Kanji progress</span><b>'+kanjiLearned+' mastered unique characters</b></div><div class="settings-row"><span>Local / official lesson audio</span><b>'+allAudioFiles().length+' local files · 72 official lesson players</b></div>';
+}function selectReview(){
  const words=records().filter(x=>x.japanese&&x.furigana&&(x.english||x.sinhala));
  const count=$('#imReviewCount');if(count)count.textContent=words.length+' source cards';
  if(!words.length){$('#imReviewJapanese').textContent='Vocabulary source not loaded';$('#imReviewNote').textContent='The source master must be restored/verified before flashcards can be populated.';return}
@@ -232,22 +332,27 @@ function bind(){
  $('#imAudioGroup')?.addEventListener('change',()=>{audioPageIndex=0;renderAudio()});
  $('#imAudioPrev')?.addEventListener('click',()=>{audioPageIndex=Math.max(0,audioPageIndex-1);renderAudio()});
  $('#imAudioNext')?.addEventListener('click',()=>{audioPageIndex++;renderAudio()});
- document.addEventListener('click',e=>{const button=e.target.closest('[data-audio-offline]');if(button){button.disabled=true;saveAudioOffline(button.dataset.audioOffline).finally(()=>{button.disabled=false})}});
+ $('#imKanjiSearch')?.addEventListener('input',()=>{kanjiPageIndex=0;renderKanji()});
+ $('#imKanjiLevel')?.addEventListener('change',()=>{kanjiPageIndex=0;renderKanji()});
+ $('#imKanjiPrev')?.addEventListener('click',()=>{kanjiPageIndex=Math.max(0,kanjiPageIndex-1);renderKanji()});
+ $('#imKanjiNext')?.addEventListener('click',()=>{kanjiPageIndex++;renderKanji()});
+ $('#imStartKanjiPractice')?.addEventListener('click',startKanjiPractice);
+ document.addEventListener('click',e=>{
+  const audioButton=e.target.closest('[data-audio-offline]');
+  if(audioButton){audioButton.disabled=true;saveAudioOffline(audioButton.dataset.audioOffline).finally(()=>{audioButton.disabled=false})}
+  const kanjiSpeak=e.target.closest('[data-kanji-speak]');if(kanjiSpeak)speakJapanese(kanjiSpeak.dataset.kanjiSpeak);
+  const kanjiLearned=e.target.closest('[data-kanji-learned]');if(kanjiLearned)toggleKanjiLearned(kanjiLearned.dataset.kanjiLearned);
+  const kanjiChoice=e.target.closest('[data-kanji-choice]');if(kanjiChoice)checkKanjiPractice(Number(kanjiChoice.dataset.kanjiChoice));
+  if(e.target.closest('#imNextKanjiPractice'))nextKanjiPractice();
+ });
  $('#imStartPractice')?.addEventListener('click',startPractice);$('#imNextPractice')?.addEventListener('click',nextPractice);
  $('#imReveal')?.addEventListener('click',()=>$('#imReviewMeaning')?.classList.remove('im-hidden'));
  $$('[data-review]').forEach(b=>b.addEventListener('click',()=>{const item=practice.reviewItem;if(item?.id){master.reviewQueue=master.reviewQueue.filter(x=>x!==item.id);if(b.dataset.review!=='known')master.reviewQueue.push(item.id);saveProgress()}selectReview()}));
  $('#imReduceMotion')?.addEventListener('change',e=>document.documentElement.style.setProperty('scroll-behavior',e.target.checked?'auto':'smooth'));
- $('#imResetProgress')?.addEventListener('click',()=>{if(confirm('Reset IRODORI Master learning progress on this device? Source data and audio files will not be deleted.')){master={completedLessons:[],learnedWords:[],knownKana:[],reviewQueue:[],daily:{}};saveProgress();selectReview();notify('Learning progress reset. Source data was not changed.')}});
+ $('#imResetProgress')?.addEventListener('click',()=>{if(confirm('Reset IRODORI Master learning progress on this device? Source data and audio files will not be deleted.')){master={completedLessons:[],learnedWords:[],knownKana:[],learnedKanji:[],reviewQueue:[],daily:{}};saveProgress();selectReview();renderKanji();notify('Learning progress reset. Source data was not changed.')}});
  $$('[data-open-page]').forEach(b=>b.addEventListener('click',()=>page(b.dataset.openPage)));
-}function installAudioSafety(){
- const patchAudio=root=>{(root||document).querySelectorAll?.('audio').forEach(a=>{a.setAttribute('playsinline','');if(!a.hasAttribute('preload'))a.setAttribute('preload','none')})};
- patchAudio(document);if('MutationObserver'in window){const observer=new MutationObserver(m=>m.forEach(x=>x.addedNodes.forEach(n=>{if(n.nodeType===1){if(n.matches?.('audio')){n.setAttribute('playsinline','');if(!n.hasAttribute('preload'))n.setAttribute('preload','none')}patchAudio(n)}})));observer.observe(document.body,{childList:true,subtree:true})}
- document.addEventListener('error',e=>{const el=e.target;if(el instanceof HTMLAudioElement){el.dataset.playbackError='true';const wrap=el.closest('.im-audio-row,.vocab-word-card,.grammar-card');if(wrap){let msg=$('.im-audio-error',wrap);if(!msg){msg=document.createElement('small');msg.className='im-audio-error im-status pending';msg.textContent='Audio could not load. Check connection or verify the source file.';wrap.append(msg)}}}},true);
- document.addEventListener('play',e=>{const el=e.target;if(el instanceof HTMLAudioElement){$$('audio').forEach(other=>{if(other!==el&&!other.paused)other.pause()})}},true);
- if('speechSynthesis'in window){speechSynthesis.onvoiceschanged=voiceStatus}
-}
-function init(){
- addNav();addPages();buildMenu();bind();installAudioSafety();voiceStatus();renderAudio();renderOfficialLessonAudio();loadAudioCatalog();renderOverview();selectReview();renderBooks();renderKanaExtras();
+}function init(){
+ addNav();addPages();buildMenu();bind();installAudioSafety();voiceStatus();renderAudio();renderOfficialLessonAudio();loadAudioCatalog();loadKanjiData();renderOverview();selectReview();renderBooks();renderKanaExtras();renderKanji();
  const vocabCount=$('#vocabTotal');if(vocabCount&&'MutationObserver'in window){new MutationObserver(()=>{renderOverview();renderAudio();selectReview();renderBooks()}).observe(vocabCount,{childList:true,subtree:true,characterData:true})}
  const oldBrand=$('.brand');if(oldBrand)oldBrand.innerHTML='<span class="brand-mark">日</span> IRODORI';
  const mobile=$('#mobileNav');if(mobile)mobile.setAttribute('aria-label','Main navigation');
