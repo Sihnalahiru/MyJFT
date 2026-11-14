@@ -108,12 +108,14 @@ function voiceStatus(){
 function speakJapanese(text){
  const value=String(text||'').trim();if(!value)return;
  if(!('speechSynthesis'in window)||!('SpeechSynthesisUtterance'in window)){notify('Speech synthesis is not available in this Safari version.');return}
- const voices=getVoices();const u=new SpeechSynthesisUtterance(value);u.lang='ja-JP';u.rate=Number($('#imSpeechRate')?.value||.9);
- const ja=voices.find(v=>/^ja-JP$/i.test(v.lang))||voices[0];if(ja)u.voice=ja;
+ const voices=getVoices();
+ const ja=voices.find(v=>/^ja-JP$/i.test(v.lang))||voices.find(v=>/^ja([-_]|$)/i.test(v.lang));
+ if(voices.length&&!ja){notify('No Japanese system voice is available. Install a Japanese voice in iPhone Settings or use the recorded audio.');return}
+ const u=new SpeechSynthesisUtterance(value);u.lang=ja?.lang||'ja-JP';u.rate=Number($('#imSpeechRate')?.value||.9);
+ if(ja)u.voice=ja;
  u.onerror=()=>notify('Japanese speech playback failed. Try a recorded lesson audio track.');
- try{speechSynthesis.cancel();speechSynthesis.speak(u)}catch(e){notify('Could not start speech playback: '+e.message)}
-}
-function notify(msg){if(typeof toast==='function')toast(msg);else alert(msg)}
+ try{speechSynthesis.cancel();speechSynthesis.resume();speechSynthesis.speak(u)}catch(e){notify('Could not start speech playback: '+e.message)}
+}function notify(msg){if(typeof toast==='function')toast(msg);else alert(msg)}
 function allAudioFiles(){
  if(Array.isArray(audioCatalog?.local_files)&&audioCatalog.local_files.length){
   return audioCatalog.local_files.map(x=>({name:x.file_name,group:x.group,family:x.family,book_code:x.book_code,lesson_number:x.lesson_number,src:x.src}));
@@ -161,7 +163,17 @@ function renderAudio(){
  const prev=$('#imAudioPrev'),next=$('#imAudioNext');
  if(prev)prev.disabled=audioPageIndex===0;
  if(next)next.disabled=audioPageIndex>=pageCount-1;
- host.innerHTML=visible.length?visible.map(file=>'<div class="im-audio-row"><div><b>'+esc(file.name)+'</b><div class="im-muted">'+esc(file.group||'Audio')+(file.book_code?' · '+esc(file.book_code):'')+(file.lesson_number?' · Lesson '+String(file.lesson_number).padStart(2,'0'):'')+'</div></div><span class="im-status">LOCAL FILE</span><audio controls playsinline preload="none" src="'+esc(file.src)+'" aria-label="'+esc(file.name)+'"></audio></div>').join(''):'<p class="im-muted">No audio files match this search. Try another word or choose All audio.</p>';
+ host.innerHTML=visible.length?visible.map(file=>'<div class="im-audio-row"><div><b>'+esc(file.name)+'</b><div class="im-muted">'+esc(file.group||'Audio')+(file.book_code?' · '+esc(file.book_code):'')+(file.lesson_number?' · Lesson '+String(file.lesson_number).padStart(2,'0'):'')+'</div></div><span class="im-status">LOCAL FILE</span><audio controls playsinline preload="none" src="'+esc(file.src)+'" aria-label="'+esc(file.name)+'"></audio><button type="button" class="btn ghost" data-audio-offline="'+esc(file.src)+'">Save offline</button></div>').join(''):'<p class="im-muted">No audio files match this search. Try another word or choose All audio.</p>';
+}
+async function saveAudioOffline(src){
+ try{
+  if(!('caches'in window))throw new Error('Offline storage is unavailable in this browser.');
+  const response=await fetch(src,{cache:'reload'});
+  if(!response.ok||response.status!==200)throw new Error('The full audio file could not be downloaded.');
+  const cache=await caches.open('irodori-master-v3-media');
+  await cache.put(new Request(new URL(src,document.baseURI).href),response.clone());
+  notify('Audio saved for offline playback.');
+ }catch(error){notify('Offline save failed: '+error.message)}
 }
 function renderOverview(){
  const done=master.completedLessons.length,words=records(),learned=master.learnedWords.length;
@@ -220,6 +232,7 @@ function bind(){
  $('#imAudioGroup')?.addEventListener('change',()=>{audioPageIndex=0;renderAudio()});
  $('#imAudioPrev')?.addEventListener('click',()=>{audioPageIndex=Math.max(0,audioPageIndex-1);renderAudio()});
  $('#imAudioNext')?.addEventListener('click',()=>{audioPageIndex++;renderAudio()});
+ document.addEventListener('click',e=>{const button=e.target.closest('[data-audio-offline]');if(button){button.disabled=true;saveAudioOffline(button.dataset.audioOffline).finally(()=>{button.disabled=false})}});
  $('#imStartPractice')?.addEventListener('click',startPractice);$('#imNextPractice')?.addEventListener('click',nextPractice);
  $('#imReveal')?.addEventListener('click',()=>$('#imReviewMeaning')?.classList.remove('im-hidden'));
  $$('[data-review]').forEach(b=>b.addEventListener('click',()=>{const item=practice.reviewItem;if(item?.id){master.reviewQueue=master.reviewQueue.filter(x=>x!==item.id);if(b.dataset.review!=='known')master.reviewQueue.push(item.id);saveProgress()}selectReview()}));
