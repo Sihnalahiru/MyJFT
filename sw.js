@@ -11,10 +11,11 @@ self.addEventListener('install',event=>event.waitUntil((async()=>{const c=await 
 self.addEventListener('activate',event=>event.waitUntil((async()=>{const keep=new Set([SHELL_CACHE,DATA_CACHE,MEDIA_CACHE]);const keys=await caches.keys();await Promise.all(keys.filter(k=>/^(myjft-|irodori-master-)/.test(k)&&!keep.has(k)).map(k=>caches.delete(k)));await self.clients.claim()})()));
 async function cacheFirst(request,name){const c=await caches.open(name);const hit=await c.match(request);if(hit)return hit;const response=await fetch(request);if(response.ok&&response.status===200&&response.type!=='opaque')await c.put(request,response.clone());return response}
 async function rangeFromCached(response,rangeHeader){
- const match=/^bytes=(\\d*)-(\\d*)$/.exec(rangeHeader||'');if(!match)return response;
+ const match=/^bytes=(\d*)-(\d*)$/.exec(rangeHeader||'');if(!match)return response;
  const buffer=await response.arrayBuffer(),total=buffer.byteLength;
- let start=match[1]?Number(match[1]):Math.max(0,total-Number(match[2]||0));
- let end=match[2]?Number(match[2]):total-1;
+ let start,end;
+ if(match[1]===''){const suffix=Number(match[2]||0);start=Math.max(0,total-suffix);end=total-1;}
+ else{start=Number(match[1]);end=match[2]?Number(match[2]):total-1;}
  if(start>=total||end<start)return new Response(null,{status:416,headers:{'Content-Range':'bytes */'+total}});
  end=Math.min(end,total-1);
  const headers=new Headers(response.headers);headers.set('Accept-Ranges','bytes');headers.set('Content-Range','bytes '+start+'-'+end+'/'+total);headers.set('Content-Length',String(end-start+1));
