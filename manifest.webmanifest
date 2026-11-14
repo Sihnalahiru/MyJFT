@@ -1,1 +1,15 @@
-{"name":"MyJFT — Japanese Learning","short_name":"MyJFT","description":"Your Japanese learning journey for JFT-Basic","start_url":"./","scope":"./","display":"standalone","background_color":"#f7f9fb","theme_color":"#58cc02","orientation":"portrait-primary","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "IRODORI Japanese Master",
+  "short_name": "IRODORI",
+  "description": "Complete Japanese learning platform with IRODORI lessons, vocabulary, kana, audio and practice.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#6c5ce7",
+  "orientation": "portrait-primary",
+  "categories": ["education", "language"],
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
