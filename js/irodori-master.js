@@ -185,7 +185,7 @@ function checkKanjiPractice(index){
 function renderKanaExtras(){
  const alphabet=$('#page-alphabet');if(!alphabet||$('#imKanaExtras'))return;
  const panel=document.createElement('div');panel.id='imKanaExtras';panel.className='card';panel.style.marginTop='16px';
- panel.innerHTML='<div class="im-section-title" style="margin-top:0"><h2>Yōon · Combined Kana</h2><span class="im-chip">33 combinations</span></div><p class="im-muted">Small ゃ・ゅ・ょ combine with the i-row kana. Tap any pair to hear its Japanese sound.</p><div class="im-grid">'+YOON.map(x=>'<button class="im-tile" data-kana-speak="'+x[1]+' '+x[2]+'"><b style="font-size:25px">'+x[1]+'　'+x[2]+'</b><p>'+x[0]+'</p></button>').join('')+'</div><div class="im-section-title"><h2>Small Kana</h2><span class="im-chip">10 forms</span></div><div class="im-grid">'+SMALL_KANA.map(x=>'<button class="im-tile" data-kana-speak="'+x[0]+' '+x[1]+'"><b style="font-size:25px">'+x[0]+'　'+x[1]+'</b><p>'+x[2]+'</p></button>').join('')+'</div>';
+ panel.innerHTML='<div class="im-section-title" style="margin-top:0"><h2>Yōon · Combined Kana</h2><span class="im-chip">33 pairs · 66 combinations</span></div><p class="im-muted">Small ゃ・ゅ・ょ combine with the i-row kana. Tap any pair to hear its Japanese sound.</p><div class="im-grid">'+YOON.map(x=>'<button class="im-tile" data-kana-speak="'+x[1]+' '+x[2]+'"><b style="font-size:25px">'+x[1]+'　'+x[2]+'</b><p>'+x[0]+'</p></button>').join('')+'</div><div class="im-section-title"><h2>Small Kana</h2><span class="im-chip">10 pairs · 20 forms</span></div><div class="im-grid">'+SMALL_KANA.map(x=>'<button class="im-tile" data-kana-speak="'+x[0]+' '+x[1]+'"><b style="font-size:25px">'+x[0]+'　'+x[1]+'</b><p>'+x[2]+'</p></button>').join('')+'</div>';
  alphabet.append(panel);panel.querySelectorAll('[data-kana-speak]').forEach(b=>b.addEventListener('click',()=>speakJapanese(b.dataset.kanaSpeak)));
 }
 function getVoices(){return 'speechSynthesis'in window?speechSynthesis.getVoices().filter(v=>/^ja([-_]|$)/i.test(v.lang)):[]}
@@ -224,7 +224,7 @@ async function loadAudioCatalog(){
   const response=await fetch('./assets/data/Audio/audio_catalog.json',{cache:'no-cache'});
   if(!response.ok)throw new Error('Audio catalogue request failed: '+response.status);
   audioCatalog=await response.json();
-  renderAudio();renderOfficialLessonAudio();
+  renderAudio();renderOfficialLessonAudio();renderOverview();
  }catch(error){
   audioCatalog=null;renderAudio();renderOfficialLessonAudio();
   console.warn('IRODORI audio catalogue could not be loaded; legacy manifest fallback is active.',error);
@@ -271,29 +271,21 @@ function renderOverview(){
  const kanjiRows=kanjiData?.kanji_list||[];
  const uniqueKanji=new Set(kanjiRows.map(x=>x.kanji).filter(Boolean)).size;
  const kanjiLearned=Array.isArray(master.learnedKanji)?master.learnedKanji.length:0;
+ const uniqueWords=new Set(words.map(x=>String(x.japanese||'').normalize('NFKC').trim()).filter(Boolean)).size;
  const basicKana=currentKana().length*2;
  const yoonForms=typeof YOON!=='undefined'?YOON.length*2:0;
  const smallForms=typeof SMALL_KANA!=='undefined'?SMALL_KANA.length*2:0;
  set('imLessonsDone',done);set('imLessonsLeft',Math.max(0,72-done));
- set('imWordsTotal',words.length?words.length:'Not loaded');set('imWordsLearned',learned);
- set('imWordsRemaining',Math.max(0,words.length-learned));
- set('imKanjiAvailable',kanjiData?uniqueKanji:'Loading…');
- set('imKanjiMastered',kanjiLearned);
+ set('imWordsTotal',words.length?words.length:'Not loaded');set('imWordsUnique',uniqueWords);
+ set('imWordsLearned',learned);set('imWordsRemaining',Math.max(0,words.length-learned));
+ set('imKanjiAvailable',kanjiData?uniqueKanji:'Loading…');set('imKanjiMastered',kanjiLearned);
  set('imKanjiPending',kanjiData?Math.max(0,644-uniqueKanji):644);
  const bar=$('#imLessonBar');if(bar)bar.style.width=Math.min(100,done/72*100)+'%';
  set('imLessonPercent',Math.round(done/72*100)+'% of 72 lessons completed in this app');
  const bookHost=$('#imBookProgress');if(bookHost)bookHost.innerHTML=BOOKS.map(b=>{const n=master.completedLessons.filter(x=>String(x).startsWith(b.id+'-')).length;return '<div><div class="im-row"><b>'+b.name+'</b><span class="im-muted">'+n+' / 18</span></div><div class="im-progress-line"><i style="width:'+(n/18*100)+'%"></i></div></div>'}).join('');
  const auditHost=$('#imDataAudit');
- if(auditHost)auditHost.innerHTML='<div class="settings-row"><span>Books / lessons</span><b>4 / 72 target</b></div><div class="settings-row"><span>Vocabulary master</span><b class="'+(words.length?'':'im-status pending')+'">'+(words.length?words.length.toLocaleString()+' source records · Pre-Intermediate import pending':'Not loaded / verify source file')+'</b></div><div class="settings-row"><span>Kana inventory</span><b>'+basicKana+' basic forms · '+yoonForms+' yōon combinations · '+smallForms+' small forms</b></div><div class="settings-row"><span>Kanji master</span><b class="im-status pending">'+(kanjiData?kanjiRows.length+' source entries · '+uniqueKanji+' unique / 644 · '+Math.max(0,644-uniqueKanji)+' pending':'Loading verified Kanji source…')+'</b></div><div class="settings-row"><span>Kanji progress</span><b>'+kanjiLearned+' mastered unique characters</b></div><div class="settings-row"><span>Local / official lesson audio</span><b>'+allAudioFiles().length+' local files · 72 official lesson players</b></div>';
-}function selectReview(){
- const words=records().filter(x=>x.japanese&&x.furigana&&(x.english||x.sinhala));
- const count=$('#imReviewCount');if(count)count.textContent=words.length+' source cards';
- if(!words.length){$('#imReviewJapanese').textContent='Vocabulary source not loaded';$('#imReviewNote').textContent='The source master must be restored/verified before flashcards can be populated.';return}
- const due=words.filter(x=>master.reviewQueue.includes(x.id));const pool=due.length?due:words;const item=pool[Math.floor(Math.random()*pool.length)];practice.reviewItem=item;
- $('#imReviewJapanese').textContent=item.japanese;$('#imReviewReading').textContent=item.furigana;
- $('#imReviewMeaning').textContent=[item.english,item.sinhala].filter(Boolean).join(' · ');$('#imReviewMeaning').classList.add('im-hidden');$('#imReviewNote').textContent='Lesson '+(item.lesson??'—')+' · '+(item.id||'source record');
-}
-function buildQuestion(mode){
+ if(auditHost)auditHost.innerHTML='<div class="settings-row"><span>Books / lessons</span><b>4 / 72 target</b></div><div class="settings-row"><span>Vocabulary master</span><b class="'+(words.length?'':'im-status pending')+'">'+(words.length?words.length.toLocaleString()+' source records · '+uniqueWords.toLocaleString()+' unique spellings · Pre-Intermediate import pending':'Not loaded / verify source file')+'</b></div><div class="settings-row"><span>Kana inventory</span><b>'+basicKana+' basic forms · '+yoonForms+' yōon combinations · '+smallForms+' small forms</b></div><div class="settings-row"><span>Kanji master</span><b class="im-status pending">'+(kanjiData?kanjiRows.length+' source entries · '+uniqueKanji+' unique / 644 · '+Math.max(0,644-uniqueKanji)+' pending':'Loading verified Kanji source…')+'</b></div><div class="settings-row"><span>Kanji progress</span><b>'+kanjiLearned+' mastered unique characters</b></div><div class="settings-row"><span>Local / official lesson audio</span><b>'+allAudioFiles().length+' local files · 72 official lesson players</b></div>';
+}function buildQuestion(mode){
  if(mode==='kana'){
   const list=currentKana();if(!list.length)return null;const item=list[Math.floor(Math.random()*list.length)];
   const correct=item.romaji;const opts=[correct,...list.filter(x=>x.romaji!==correct).sort(()=>Math.random()-.5).slice(0,3).map(x=>x.romaji)].sort(()=>Math.random()-.5);
