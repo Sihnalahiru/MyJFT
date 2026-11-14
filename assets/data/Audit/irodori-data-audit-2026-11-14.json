@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "audit_date": "2026-11-14",
+  "repository": "Sihnalahiru/MyJFT",
+  "source_branch": "feature/irodori-master-pwa",
+  "vocabulary": {
+    "expected_by_book": {
+      "X": 600,
+      "Y": 1150,
+      "Z": 1150
+    },
+    "actual_by_book": {
+      "X": 597,
+      "Y": 1150,
+      "Z": 1150
+    },
+    "total_actual": 2897,
+    "missing_ids": {
+      "X": [
+        "st_498",
+        "st_499",
+        "st_500"
+      ],
+      "Y": [],
+      "Z": []
+    },
+    "unique_japanese_spellings": 2297,
+    "duplicate_japanese_spelling_groups": 460,
+    "missing_fields": {
+      "japanese": 0,
+      "furigana": 0,
+      "english": 0,
+      "sinhala": 0,
+      "audio_mapping": 2300
+    },
+    "audio_file_name_mapped_records": 597,
+    "official_audio_url_mapped_records": 596,
+    "policy": "Preserve every source record and its book/topic mapping. Do not delete duplicates or invent lesson mappings."
+  },
+  "lesson_mapping": {
+    "X": "Topic/sub-topic records exist; exact 18-lesson word mapping requires source verification.",
+    "Y": "18 lesson values present in source records.",
+    "Z": "18 lesson values present in source records.",
+    "P": "Official source located; structured records not yet imported."
+  },
+  "alphabet": {
+    "source_records": 71,
+    "hiragana_forms": 71,
+    "katakana_forms": 71,
+    "total_script_forms": 142,
+    "categories": {
+      "seion_basic": 46,
+      "dakuon_voiced": 20,
+      "handakuon_semi_voiced": 5
+    },
+    "yoon_and_small_kana": "Separate completeness audit required."
+  },
+  "kanji": {
+    "available_records": 400,
+    "file_total": 400,
+    "official_target": 644,
+    "remaining_to_audit": 244,
+    "source_coverage": "Complete merged collection of all 400 kanji from Irodori curriculum (Bulk 1 to 5) without missing any data."
+  },
+  "audio": {
+    "local_files": 480,
+    "local_word_list_audio": 223,
+    "local_grammar_worksheet_audio": 257,
+    "previous_app_indexed_audio": 391,
+    "previously_unindexed_local_grammar_files": 89,
+    "official_main_lesson_player_pages": 72,
+    "vocabulary_records_with_audio_file_name": 597,
+    "vocabulary_records_with_audio_url": 596,
+    "vocabulary_records_without_official_audio_mapping": 2300,
+    "note": "Native Japanese speech synthesis is the fallback for vocabulary records without a recorded word-audio mapping."
+  },
+  "pre_intermediate": {
+    "official_word_list_pdf": "https://www.irodori.jpf.go.jp/assets/data/wordlist_ZZ.pdf",
+    "official_audio_player_lessons": 18,
+    "structured_word_records_in_current_repository": 0,
+    "status": "Official source found; structured import and Sinhala translation pending."
+  },
+  "verification": {
+    "all_existing_source_records_preserved": true,
+    "duplicate_records_deleted": false,
+    "original_audio_filenames_preserved": true,
+    "generated_word_data_added": false
+  }
+}

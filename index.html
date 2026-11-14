@@ -99,6 +99,7 @@
    <button class="active" type="button" data-vocab-book="X">Book 1 · Starter</button>
    <button type="button" data-vocab-book="Y">Book 2 · Elementary 1</button>
    <button type="button" data-vocab-book="Z">Book 3 · Elementary 2</button>
+   <button type="button" data-vocab-book="P">Book 4 · Pre-Intermediate</button>
   </div>
   <input id="sourceVocabSearch" class="search" placeholder="Search Japanese, furigana, Romaji, English or Sinhala…" oninput="renderSourceVocabulary()">
   <div class="vocab-filter-grid">
@@ -341,8 +342,8 @@ let vocabularyMaster=null;
 let vocabularyMedia=null;
 let vocabularyBook='X';
 let vocabularyReady=false;
-const vocabBookNames={X:'Starter',Y:'Elementary 1',Z:'Elementary 2'};
-const vocabExpected={X:600,Y:1150,Z:1150};
+const vocabBookNames={X:'Starter',Y:'Elementary 1',Z:'Elementary 2',P:'Pre-Intermediate'};
+const vocabExpected={X:600,Y:1150,Z:1150,P:0};
 const vocabEscape=s=>String(s??'').replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
 const vocabStem=s=>String(s||'').split('/').pop().replace(/\.(png|webp|jpg|jpeg)$/i,'').toLowerCase();
 function vocabRecords(){return (vocabularyMaster?.records||[]).filter(x=>x.book===vocabularyBook);}
@@ -394,6 +395,28 @@ function renderVocabularyLessonAudio(){
 function renderSourceVocabulary(){
  if(!vocabularyReady){const grid=document.getElementById('sourceVocabGrid');if(grid)grid.innerHTML='<div class="card">Loading vocabulary…</div>';return;}
  const rows=vocabRecords();
+ if(vocabularyBook==='P'){
+  const search=document.getElementById('sourceVocabSearch'),filters=document.querySelector('.vocab-filter-grid');
+  if(search)search.hidden=true;if(filters)filters.hidden=true;
+  const lessonImages=document.getElementById('vocabLessonImages'),audioPanel=document.getElementById('vocabAudioPanel');
+  if(lessonImages){lessonImages.hidden=true;lessonImages.innerHTML='';}
+  if(audioPanel){audioPanel.hidden=true;audioPanel.innerHTML='';}
+  const notice=document.getElementById('vocabSourceNotice');
+  if(notice){notice.hidden=false;notice.innerHTML='<b>Official source found · structured import pending.</b> The Japan Foundation Pre-Intermediate Word List is available as a 123-page PDF. Vocabulary records, verified Furigana and Sinhala meanings are not yet imported into this repository, so no estimated word count is shown.';}
+  document.getElementById('vocabTotal').textContent='Pending';
+  document.getElementById('vocabBookCount').textContent='Pre-Intermediate';
+  document.getElementById('vocabMissingCount').textContent='Import pending';
+  document.getElementById('vocabResultCount').textContent='Official source available · structured import pending';
+  const grid=document.getElementById('sourceVocabGrid');
+  if(grid){
+   const audioLinks=Array.from({length:18},(_,i)=>'<a class="vocab-audio-track" href="https://www.irodori.jpf.go.jp/en/pre-intermediate/audio/lesson'+String(i+1).padStart(2,'0')+'.html" target="_blank" rel="noopener noreferrer">Lesson '+String(i+1).padStart(2,'0')+' · Official audio ↗</a>').join('');
+   grid.innerHTML='<article class="card"><span class="im-status pending">STRUCTURED IMPORT PENDING</span><h3>Pre-Intermediate · A2/B1</h3><p>Official Japan Foundation Word List. Source text and English meanings are available in the original PDF. Japanese readings, verified lesson mapping and accurate Sinhala meanings must be imported and audited before this book is marked complete.</p><p><a class="btn" href="https://www.irodori.jpf.go.jp/assets/data/wordlist_ZZ.pdf" target="_blank" rel="noopener noreferrer">Open official Word List PDF ↗</a></p></article><article class="card"><h3>Official lesson audio · 18 lessons</h3><p class="im-muted">Opens the Japan Foundation MP3 player in Safari. Tap the native player controls to start audio.</p><div class="vocab-audio-track-grid">'+audioLinks+'</div></article>';
+  }
+  return;
+ }
+ const search=document.getElementById('sourceVocabSearch'),filters=document.querySelector('.vocab-filter-grid');
+ if(search)search.hidden=false;if(filters)filters.hidden=false;
+ const notice=document.getElementById('vocabSourceNotice');if(notice)notice.hidden=true;
  const lessonEl=document.getElementById('vocabLessonFilter'),topicEl=document.getElementById('vocabTopicFilter'),subEl=document.getElementById('vocabSubtopicFilter');
  const lessonLabel=lessonEl?.closest('label');if(lessonLabel)lessonLabel.hidden=vocabularyBook==='X';
  if(vocabularyBook==='X'&&lessonEl)lessonEl.value='all';

@@ -1,5 +1,5 @@
 /* IRODORI PWA service worker — shell, data and same-origin media caches. */
-const CACHE_VERSION='irodori-master-v1';
+const CACHE_VERSION='irodori-master-v2';
 const SHELL_CACHE=CACHE_VERSION+'-shell';
 const DATA_CACHE=CACHE_VERSION+'-data';
 const MEDIA_CACHE=CACHE_VERSION+'-media';
